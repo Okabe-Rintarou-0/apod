@@ -31,7 +31,8 @@ if __name__ == '__main__':
                 original = details[0].findAll('td')[1]
                 summary = details[0].find('summary').text.strip()
                 if summary is not today_time:
-                    new_original = BeautifulSoup(f'<td>Original url: <a>{yesterday_url}</a></td>', features="lxml").find(
+                    new_original = BeautifulSoup(f'<td>Original url: <a>{yesterday_url}</a></td>',
+                                                 features="lxml").find(
                         'td')
                     original.replace_with(new_original)
 
@@ -65,4 +66,3 @@ if __name__ == '__main__':
         os.remove('./tmp.html')
     except Exception as e:
         print(e)
-        exit(-1)
