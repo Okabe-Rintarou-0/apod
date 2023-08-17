@@ -1,7 +1,11 @@
-
 name: Apod
 
-on: [push]
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -9,30 +13,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout actions
-      uses: actions/checkout@v3
+      - name: Checkout actions
+        uses: actions/checkout@v3
 
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.8
-        cache: 'pip'
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+          cache: 'pip'
 
-    - name: Download requirements
-      run: pip install -r requirements.txt
+      - name: Download requirements
+        run: pip install -r requirements.txt
 
-    - name: Craw apod
-      run: |
-        python main.py
+      - name: Craw apod
+        run: |
+          python main.py
 
-    - name: commit
-      run: |
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git config --global user.name "GitHub Actions"
-        git add .
-        git commit -m "Update README.md"
+      - name: commit
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add .
+          git commit -m "Update README.md"
 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

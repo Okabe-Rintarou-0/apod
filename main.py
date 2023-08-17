@@ -43,7 +43,7 @@ if __name__ == '__main__':
                              f'<td><img src="{img_ref}" alt=""/></td>\n' \
                              f'</tr>\n' \
                              f'<tr>\n' \
-                             f'<td>Original url: <a>{url}</a></td>\n' \
+                             f'<td>Original url: <a href="{url}">{url}</a></td>\n' \
                              f'</tr>\n' \
                              f'<tr>\n' \
                              f'<td>\n' \
