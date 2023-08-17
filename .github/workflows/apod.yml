@@ -27,8 +27,8 @@ jobs:
 
     - name: commit
       run: |
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git config --global user.name "GitHub Actions"
+        git config --global user.email "923048992@qq.com"
+        git config --global user.name "okabe"
         git add .
         git commit -m "Update README.md"
         git push origin main
