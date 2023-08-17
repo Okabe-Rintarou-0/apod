@@ -12,7 +12,8 @@ if __name__ == '__main__':
         r = requests.get(url)
         doc = BeautifulSoup(r.content, parser='html.parser', features="lxml")
         img_ele = doc.find('img')
-        img_ref = f"https://apod.nasa.gov/apod/{img_ele.parent.get('href')}"
+        org_img_src = f"https://apod.nasa.gov/apod/{img_ele.parent.get('href')}"
+        overview_img_src = f"https://apod.nasa.gov/apod/{img_ele.get('src')}"
         explanation_fst_ele = doc.find('b', text=regex.compile('.*Explanation.*'))
         explanation_para_ele = explanation_fst_ele.parent
         explanation = str(explanation_para_ele).replace('\n', ' ')
@@ -41,7 +42,7 @@ if __name__ == '__main__':
                              f'<summary>{today_time}</summary>\n' \
                              f'<table>\n' \
                              f'<tr>\n' \
-                             f'<td><img src="{img_ref}" alt=""/></td>\n' \
+                             f'<td><a href="{org_img_src}"><img src="{overview_img_src}" alt=""/></a></td>\n' \
                              f'</tr>\n' \
                              f'<tr>\n' \
                              f'<td>Original url: <a href="{url}">{url}</a></td>\n' \
