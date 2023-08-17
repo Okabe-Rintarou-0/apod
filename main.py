@@ -15,7 +15,7 @@ if __name__ == '__main__':
         img_ref = f"https://apod.nasa.gov/apod/{img_ele.parent.get('href')}"
         explanation_fst_ele = doc.find('b', text=regex.compile('.*Explanation.*'))
         explanation_para_ele = explanation_fst_ele.parent
-        explanation = str(explanation_para_ele).replace('\n', '')
+        explanation = str(explanation_para_ele).replace('\n', ' ')
 
         markdownFromFile(input='./README.md', output='./tmp.html', output_format='html')
         today_time = datetime.datetime.now().strftime('%Y/%m/%d')
