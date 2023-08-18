@@ -32,7 +32,7 @@ if __name__ == '__main__':
                 original = details[0].findAll('td')[1]
                 summary = details[0].find('summary').text.strip()
                 if summary is not today_time:
-                    new_original = BeautifulSoup(f'<td>Original url: <a>{yesterday_url}</a></td>',
+                    new_original = BeautifulSoup(f'<td>Original url: <a href="{yesterday_url}">{yesterday_url}</a></td>',
                                                  features="lxml").find(
                         'td')
                     original.replace_with(new_original)
