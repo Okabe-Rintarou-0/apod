@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/08/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2308/rollcloud_hanrahan_3072.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2308/rollcloud_hanrahan_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What kind of cloud is this?    A type of
+      <a href="https://en.wikipedia.org/wiki/Arcus_cloud">
+       arcus cloud
+      </a>
+      called a
+      <a href="https://epod.usra.edu/blog/2011/11/roll-cloud-shelf-cloud.html">
+       roll cloud
+      </a>
+      .    These rare long clouds may form near advancing cold fronts.      In particular, a downdraft from an advancing storm front can cause moist warm air to
+      <a href="http://neveryetmelted.com/wp-content/uploads/2013/09/LaundryCat.gif">
+       rise
+      </a>
+      , cool below its
+      <a href="https://en.wikipedia.org/wiki/Dew_point">
+       dew point
+      </a>
+      , and so form
+      <a href="https://www.youtube.com/watch?v=hKI2Atj08Xk">
+       a cloud
+      </a>
+      .    When this happens uniformly along an extended front, a
+      <a href="http://en.wikipedia.org/wiki/Roll_cloud">
+       roll cloud
+      </a>
+      may form.
+      <a href="ap090824.html">
+       Roll clouds
+      </a>
+      may actually have air circulating along the
+      <a href="ap060117.html">
+       long horizontal axis
+      </a>
+      of the cloud.    A
+      <a href="http://www.weatherscapes.com/album.php?cat=clouds&amp;subcat=roll_cloud">
+       roll cloud
+      </a>
+      is not thought to be able to morph into a
+      <a href="ap050613.html">
+       tornado
+      </a>
+      .    Unlike a similar
+      <a href="ap080122.html">
+       shelf cloud
+      </a>
+      , a roll cloud is completely detached from their parent
+      <a href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/cld/cldtyp/vrt/cb.rxml">
+       cumulonimbus
+      </a>
+      cloud.
+      <a href="http://commons.wikimedia.org/wiki/File:Roll-Cloud-Racine.jpg">
+       Pictured here
+      </a>
+      , a
+      <a href="https://epod.usra.edu/blog/2006/04/lovelock-roll-cloud.html">
+       roll cloud
+      </a>
+      extends far into the distance as a storm approaches in 2007 in
+      <a href="https://youtu.be/b2ezPLnsRxk">
+       Racine
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Wisconsin">
+       Wisconsin
+      </a>
+      , USA.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/08/19
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap230819.html">
+      https://apod.nasa.gov/apod/ap230819.html
      </a>
     </td>
    </tr>
