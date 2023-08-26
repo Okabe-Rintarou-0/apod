@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/08/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2308/fasidivenere.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2308/fasidivenere.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://en.wikipedia.org/wiki/Galileo_Galilei#Phases_of_Venus">
+       Just as the Moon goes
+      </a>
+      through phases, Venus' visible sunlit hemisphere
+      <a href="https://solarsystem.nasa.gov/resources/482/galileos-phases-of-venus-and-other-planets/">
+       waxes and wanes
+      </a>
+      .  This sequence of
+      <a href="https://www.flickr.com/photos/194524290@N05/53120589281/">
+       telescopic images
+      </a>
+      illustrates the steady changes for Venus during its recent 2023 apparition as our evening star.  Gliding along its interior orbit between Earth and Sun, Venus grows larger during that period because it is approaching planet Earth.  Its crescent narrows though, as the inner planet swings closer to our line-of-sight to the Sun.  Closest to the Earth-Sun line but passing about 8 degrees south of the Sun, on August 13 Venus reached its (non-judgmental)
+      <a href="https://earthsky.org/astronomy-essentials/inferior-conjunction-venus-between-sun-and-earth/">
+       inferior conjunction
+      </a>
+      .  And now Venus shines above the eastern horizon in predawn skies, completing its transition to planet Earth's
+      <a href="https://history.nasa.gov/SP-424/ch1.htm">
+       morning star
+      </a>
+      .  On August 21, NASA's Parker Solar Probe completed its sixth gravity assist flyby of Venus, using the encounter to maneuver the probe toward its
+      <a href="https://blogs.nasa.gov/parkersolarprobe/2023/08/23/venus-flyby-sends-parker-solar-probe-toward-record-setting-flights-around-the-sun/">
+       closest approach yet to the Sun
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/08/25
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap230825.html">
+      https://apod.nasa.gov/apod/ap230825.html
      </a>
     </td>
    </tr>
