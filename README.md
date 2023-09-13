@@ -5,6 +5,85 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/09/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2309/PolarRing_Askap_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2309/PolarRing_Askap_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Galaxy NGC 4632 hides a secret from optical telescopes.   It is surrounded by a ring of cool
+      <a href="https://periodic.lanl.gov/1.shtml">
+       hydrogen
+      </a>
+      gas orbiting at 90 degrees to its spiral disk.   Such
+      <a href="ap990510.html">
+       polar ring galaxies
+      </a>
+      have previously been discovered using starlight.   However, NGC 4632 is among the first in which a
+      <a href="https://science.nasa.gov/ems/05_radiowaves">
+       radio
+      </a>
+      <a href="https://public.nrao.edu/telescopes/radio-telescopes/">
+       telescope
+      </a>
+      survey revealed a polar ring.   The
+      <a href="https://youtu.be/dkMr-D2719w">
+       featured composite image
+      </a>
+      combines this gas ring, observed with the highly sensitive
+      <a href="https://www.csiro.au/en/about/facilities-collections/atnf/askap-radio-telescope">
+       ASKAP telescope
+      </a>
+      , with optical data from the
+      <a href="https://subarutelescope.org/">
+       Subaru telescope
+      </a>
+      .   Using
+      <a href="https://images.nasa.gov/details/ARC-1992-AC89-0437-6">
+       virtual reality
+      </a>
+      , astronomers separated out the  gas in the main disk of the galaxy from the ring,  and the subtle color gradient traces its orbital motion.   Why do
+      <a href="https://en.wikipedia.org/wiki/Polar-ring_galaxy">
+       polar rings
+      </a>
+      exist?   They could be material
+      <a href="https://www.rover.com/blog/wp-content/uploads/dog-playing-tug.jpg">
+       pulled
+      </a>
+      from one galaxy as it
+      <a href="ap190811.html">
+       gravitationally interacts
+      </a>
+      with a companion.   Or hydrogen gas flows along the
+      <a href="https://www.youtube.com/watch?v=c-H3WzaewdY">
+       filaments of the cosmic web
+      </a>
+      and accretes into a ring around a galaxy,  some of which gravitationally contracts into stars.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/09/12
   </summary>
   <table>
@@ -18,8 +97,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap230912.html">
+      https://apod.nasa.gov/apod/ap230912.html
      </a>
     </td>
    </tr>
