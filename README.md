@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/09/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2309/BeadMountains_Letian_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2309/BeadMountains_Letian_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What are those dark streaks in this composite image of a solar eclipse?  They are reversed shadows of mountains at the edge of the Moon.   The center image, captured from
+      <a href="https://www.youtube.com/watch?v=ke5nVmMxIwY">
+       Xiamen
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/China">
+       China
+      </a>
+      ,  has the Moon's center directly in front of the Sun's center.
+      <a href="https://moon.nasa.gov/">
+       The Moon
+      </a>
+      , though, was
+      <a href="https://eclipse.aas.org/sites/eclipse.aas.org/files/Total-Annular-TQ.jpg">
+       too far
+      </a>
+      from
+      <a href="https://solarsystem.nasa.gov/planets/earth/overview/">
+       the Earth
+      </a>
+      to completely block the entire Sun.   Light that streamed around the edges of the Moon is called a
+      <a href="ap200615.html">
+       ring of fire
+      </a>
+      .  Images at each end of the sequence show
+      <a href="ap170301.html">
+       sunlight that streamed
+      </a>
+      through lunar valleys.   As the Moon moved further in front of the Sun, left to right,  only the higher peaks on the Moon's perimeter could block sunlight.   Therefore, the dark streaks are projected,
+      <a href="https://i.pinimg.com/236x/69/ff/c4/69ffc42ba1c739e25ed76fcaa6555a0e.jpg">
+       distorted
+      </a>
+      , reversed, and magnified
+      <a href="ap180507.html">
+       shadows of mountains
+      </a>
+      at the Moon's edge.   Bright areas are called
+      <a href="https://en.wikipedia.org/wiki/Baily%27s_beads">
+       Baily's Beads
+      </a>
+      .  Only people in a narrow swath across Earth's
+      <a href="https://en.wikipedia.org/wiki/Eastern_Hemisphere">
+       Eastern Hemisphere
+      </a>
+      were able to view this full annular solar eclipse in 2020.  Next month, though, a narrow swath crossing
+      <a href="https://en.wikipedia.org/wiki/Americas">
+       both North and South America
+      </a>
+      will be exposed to the
+      <a href="https://www.timeanddate.com/eclipse/list.html">
+       next
+      </a>
+      annular solar eclipse.  And next April, a
+      <a href="ap170912.html">
+       total solar eclipse
+      </a>
+      will be visible across  North America.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/09/16
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap230916.html">
+      https://apod.nasa.gov/apod/ap230916.html
      </a>
     </td>
    </tr>
