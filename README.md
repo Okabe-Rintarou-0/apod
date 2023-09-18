@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/09/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2309/SpriteTree_Villaeys_1333.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2309/SpriteTree_Villaeys_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The sprite and tree could hardly be more different.  To start, the red
+      <a href="https://en.wikipedia.org/wiki/Sprite_(lightning)">
+       sprite
+      </a>
+      is an unusual form of lightning, while the tree is a
+      <a href="https://www.poetryfoundation.org/poetrymagazine/poems/12744/trees">
+       common plant
+      </a>
+      .  The sprite is
+      <a href="https://diaryofdennis.files.wordpress.com/2019/08/shy-cat-wants-me-to-keep-distance.jpg">
+       far away
+      </a>
+      -- high in
+      <a href="https://www.nasa.gov/image-feature/upper-atmosphere-phenomena-caused-by-thunderstorms/">
+       Earth's atmosphere
+      </a>
+      , while the tree is
+      <a href="https://www.petmoo.com/wp-content/uploads/toptengamaimages/how-to-select-the-right-pet-camera/latest-pet-camera-features.jpg">
+       nearby
+      </a>
+      -- only about a football field away.   The
+      <a href="ap210104.html">
+       sprite is fast
+      </a>
+      --
+      <a href="https://www.aps.org/publications/apsnews/200010/history.cfm">
+       electrons
+      </a>
+      streaming up and down at near
+      <a href="https://en.wikipedia.org/wiki/Speed_of_light">
+       light's speed
+      </a>
+      ,  while the tree is slow -- wood anchored to the ground.  The
+      <a href="ap210330.html">
+       sprite
+      </a>
+      is bright -- lighting up the sky,  while the tree is dim -- shining mostly by reflected light.  The
+      <a href="https://svs.gsfc.nasa.gov/11059">
+       sprite
+      </a>
+      was fleeting --  lasting only a small fraction of a second,  while the
+      <a href="https://onetreeplanted.org/blogs/stories/oldest-tallest-biggest-trees">
+       tree is durable
+      </a>
+      -- living now for many years.   Both however, when captured together, appear oddly similar in this
+      <a href="https://www.instagram.com/p/CwzJQ8ANidq/">
+       featured composite image
+      </a>
+      captured early this month in France as a thunderstorm passed over mountains of the
+      <a href="">
+       Atlantic Pyrenees
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/09/17
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap230917.html">
+      https://apod.nasa.gov/apod/ap230917.html
      </a>
     </td>
    </tr>
