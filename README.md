@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/09/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2309/HH211_webb_3846.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2309/HH211_webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Do
+      <a href="https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve">
+       stars
+      </a>
+      always create jets as they form?  No one is sure.  As a gas cloud
+      <a href="https://en.wikipedia.org/wiki/Star_formation#Cloud_collapse">
+       gravitationally contracts
+      </a>
+      ,  it forms a
+      <a href="ap991219.html">
+       disk
+      </a>
+      that can spin too fast to continue contracting into a
+      <a href="https://en.wikipedia.org/wiki/Protostar">
+       protostar
+      </a>
+      .   Theorists
+      <a href="https://ui.adsabs.harvard.edu/abs/2016ApJ...816...32J/abstract">
+       hypothesize
+      </a>
+      that this spin can be reduced by expelling jets.  This speculation coincides with known
+      <a href="https://en.wikipedia.org/wiki/Herbig%E2%80%93Haro_object">
+       Herbig-Haro (HH) objects
+      </a>
+      , young stellar objects seen to emit jets --  sometimes in
+      <a href="ap180311.html">
+       spectacular fashion
+      </a>
+      .
+      <a href="https://webbtelescope.org/contents/media/images/2023/141/01H9NWH9JEBFPKVD3M1RRTGGQJ">
+       Pictured
+      </a>
+      is Herbig-Haro 211, a young star in formation
+      <a href="https://webbtelescope.org/contents/news-releases/2023/news-2023-141">
+       recently imaged
+      </a>
+      by the
+      <a href="https://webbtelescope.org/">
+       Webb Space Telescope
+      </a>
+      (JWST) in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared light
+      </a>
+      and in
+      <a href="https://i0.hippopx.com/photos/807/839/788/cat-pet-cat-cat-maine-coon-cat-preview.jpg">
+       great detail
+      </a>
+      .   Along with the
+      <a href="ap200525.html">
+       two narrow beams of particles
+      </a>
+      , red
+      <a href="ap200202.html">
+       shock waves
+      </a>
+      can be seen as the outflows impact
+      <a href="ap100829.html">
+       existing interstellar gas
+      </a>
+      .  The jets of
+      <a href="https://iaaa.org/herbig-haro-hh-211/">
+       HH 221
+      </a>
+      will  likely change shape as they brighten and fade  over the next 100,000 years, as research into the details of
+      <a href="https://hubblesite.org/science/stars-and-nebulas">
+       star formation
+      </a>
+      continues.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/09/18
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap230918.html">
+      https://apod.nasa.gov/apod/ap230918.html
      </a>
     </td>
    </tr>
