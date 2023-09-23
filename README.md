@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/09/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2309/4pm-analemma-nz.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2309/4pm-analemma-nz_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://en.wikipedia.org/wiki/Analemma#As_seen_from_Earth">
+       An analemma is that figure-8 curve
+      </a>
+      you get when you mark the position of the Sun at the same time each day for one year.  To make this one, a 4x5
+      <a href="ap220702.html">
+       pinhole
+      </a>
+      camera was set up looking north in
+      <a href="ap221021.html">
+       southern New Zealand
+      </a>
+      skies.  The shutter was briefly opened each clear day in the afternoon at 4pm local time exposing the same
+      <a href="ap210102.html">
+       photosensitized
+      </a>
+      glass plate for the year spanning September 23, 2022 to September 19, 2023.  On two days, the winter and summer solstices, the shutter was opened again 15 minutes after the main exposure and remained open until sunset to create the sun trails at the bottom and top of the curve.  The equinox dates correspond to positions in the middle of the curve, not the crossover point.
+      <a href="https://en.wikipedia.org/wiki/Analemma#Seen_from_other_planets">
+       Of course
+      </a>
+      , the curve itself is inverted compared to an analemma traced from the northern hemisphere.
+      <a href="https://solarsystem.nasa.gov/resources/749/seeing-equinoxes-and-solstices-from-space/">
+       And while fall begins today
+      </a>
+      at the Autumnal Equinox for the northern hemisphere, it's the Spring Equinox in the south.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/09/22
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap230922.html">
+      https://apod.nasa.gov/apod/ap230922.html
      </a>
     </td>
    </tr>
