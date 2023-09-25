@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/09/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2309/Arp142_HubbleChakrabarti_2627.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2309/Arp142_HubbleChakrabarti_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening to this spiral galaxy?  Just a few hundred million years ago,  NGC 2936, the upper of the two large
+      <a href="https://www.instagram.com/p/CxHlYCyJKDR/">
+       galaxies shown
+      </a>
+      at the bottom, was likely a
+      <a href="ap130416.html">
+       normal spiral galaxy
+      </a>
+      --  spinning, creating stars -- and minding its own business.  But then it got too close to the
+      <a href="ap120914.html">
+       massive elliptical galaxy
+      </a>
+      NGC 2937, just below, and took a turn.  Sometimes dubbed the
+      <a href="https://en.wikipedia.org/wiki/Hummingbird#/media/File:Ruby-Throated_Hummingbird.png">
+       Hummingbird
+      </a>
+      Galaxy for its iconic shape,  NGC 2936 is not only being deflected but also being distorted by the
+      <a href="ap211004.html">
+       close gravitational interaction
+      </a>
+      .  Behind filaments of dark
+      <a href="https://astronomy.swin.edu.au/cosmos/d/Dust+Grain">
+       interstellar dust
+      </a>
+      , bright blue stars form the  nose of the hummingbird, while the center of the spiral appears as an eye.   Alternatively, the galaxy pair, together known as
+      <a href="https://esahubble.org/videos/heic1311a/">
+       Arp 142
+      </a>
+      ,  look to some like
+      <a href="https://en.wikipedia.org/wiki/Porpoise">
+       Porpoise
+      </a>
+      or a
+      <a href="https://commons.wikimedia.org/wiki/File:African_Penguin_with_egg_%2843841665775%29.jpg">
+       penguin
+      </a>
+      protecting an egg.  The
+      <a href="https://www.instagram.com/p/CxHlYCyJKDR/">
+       featured re-processed image
+      </a>
+      showing
+      <a href="https://ui.adsabs.harvard.edu/abs/2016AAS...22713511R/abstract">
+       Arp 142
+      </a>
+      in great detail was taken recently by the
+      <a href="https://www.nasa.gov/mission_pages/hubble/about">
+       Hubble Space Telescope
+      </a>
+      .  Arp 142 lies about 300 million
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light years
+      </a>
+      away toward the constellation of the Water Snake  (
+      <a href="https://en.wikipedia.org/wiki/Hydra_(constellation)">
+       Hydra
+      </a>
+      ).  In a billion years or so the
+      <a href="ap120604.html">
+       two galaxies will likely merge
+      </a>
+      into one larger galaxy.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/09/23
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap230924.html">
+      https://apod.nasa.gov/apod/ap230924.html
      </a>
     </td>
    </tr>
