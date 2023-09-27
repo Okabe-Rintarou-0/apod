@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/09/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2309/SteveMw_Clarke_4177.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2309/SteveMw_Clarke_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Not every road ends in a STEVE.  A week ago, a sky enthusiast's journey began with a goal:  to photograph an
+      <a href="https://spaceplace.nasa.gov/aurora/">
+       aurora
+      </a>
+      over
+      <a href="https://youtu.be/iM73QjPiiwU">
+       Lake Huron
+      </a>
+      .  Driving through rural
+      <a href="https://en.wikipedia.org/wiki/Ontario">
+       Ontario
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Canada">
+       Canada
+      </a>
+      ,  the forecasted sky show started
+      <a href="https://spaceweather.com/archive.php?view=1&amp;day=18&amp;month=09&amp;year=2023">
+       unexpectedly early
+      </a>
+      ,  causing the photographer to stop before arriving at the scenic
+      <a href="https://en.wikipedia.org/wiki/Great_Lakes">
+       Great Lake
+      </a>
+      .  Aurora images were taken toward the north -- but over land, not sea.  While waiting for a second round of auroras, a
+      <a href="ap210505.html">
+       peculiar band
+      </a>
+      of light was noticed to the west.   Slowly, the photographer and friends realized  that this western band was likely an unusual type of aurora: a
+      <a href="https://en.wikipedia.org/wiki/STEVE">
+       Strong Thermal Emission Velocity Enhancement
+      </a>
+      (STEVE).  Moreover, this
+      <a href="ap201117.html">
+       STEVE
+      </a>
+      was putting on quite a show:  appearing intertwined with the central band of our
+      <a href="https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      while intersecting the horizon just  near the end of the country road.  After capturing
+      <a href="https://www.instagram.com/p/CxZdU7rsPiW/">
+       this cosmic X
+      </a>
+      on camera, the photographer paused to appreciate the
+      <a href="https://medicaregranny.com/wp-content/uploads/2019/11/5cfa3122210000690de6bfca.jpeg">
+       unexpected awesomeness
+      </a>
+      of finding  extraordinary beauty in an ordinary setting.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/09/26
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap230926.html">
+      https://apod.nasa.gov/apod/ap230926.html
      </a>
     </td>
    </tr>
