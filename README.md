@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/DesertEclipse_Daviron_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/DesertEclipse_Daviron_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A good place to see a ring-of-fire eclipse, it seemed, would be from a desert.  In a desert, there should be relatively few obscuring clouds and trees.   Therefore late December of 2019, a group of photographers traveled to the
+      <a href="https://en.wikipedia.org/wiki/United_Arab_Emirates">
+       United Arab Emirates
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Rub%27_al_Khali">
+       Rub al-Khali
+      </a>
+      ,  the largest continuous sand desert in world,  to capture clear images of an
+      <a href="ap191228.html">
+       unusual eclipse
+      </a>
+      that would be passing over.   A
+      <a href="ap170301.html">
+       ring-of-fire eclipse
+      </a>
+      is an  annular eclipse that occurs when
+      <a href="https://solarsystem.nasa.gov/moons/earths-moon/overview/">
+       the Moon
+      </a>
+      is far enough away on its elliptical orbit around
+      <a href="https://solarsystem.nasa.gov/planets/earth/overview/">
+       the Earth
+      </a>
+      so that it appears too small, angularly, to cover
+      <a href="https://solarsystem.nasa.gov/solar-system/sun/overview/">
+       the entire Sun
+      </a>
+      .  At the maximum of an
+      <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question6.html">
+       annular eclipse
+      </a>
+      , the edges of the Sun can be seen all around the edges of the Moon, so that the Moon appears to be a dark spot that covers most -- but not all -- of the Sun.
+      <a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_December_26,_2019">
+       This particular eclipse
+      </a>
+      , they knew, would peak
+      <a href="ap191227.html">
+       soon after sunrise
+      </a>
+      .   After
+      <a href="https://www.facebook.com/media/set/?set=a.2313450158759190&amp;type=3">
+       seeking out
+      </a>
+      such a dry and barren place, it turned out that some of the most
+      <a href="https://www.facebook.com/pg/APOD.Sky/photos/?tab=album&amp;album_id=2313450158759190">
+       interesting eclipse images
+      </a>
+      actually included
+      <a href="ap181230.html">
+       a tree in the foreground
+      </a>
+      , because, in addition to the
+      <a href="ap160119.html">
+       sand dune
+      </a>
+      s,  the tree gave the surreal background a contrasting sense of normalcy, scale, and
+      <a href="ap170611.html">
+       texture
+      </a>
+      .   On Saturday, October 14, a new
+      <a href="ap030605.html">
+       ring of fire
+      </a>
+      will be visible  through clear skies from a thin swath crossing both
+      <a href="https://en.wikipedia.org/wiki/Americas#/media/File:Americas_(orthographic_projection).svg">
+       North and South America
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/09/30
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap230930.html">
+      https://apod.nasa.gov/apod/ap230930.html
      </a>
     </td>
    </tr>
