@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/HiResSprites_Escurat_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/HiResSprites_Escurat_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Sometimes lightning occurs out near space.   One such
+      <a href="https://scijinks.gov/lightning/">
+       lightning
+      </a>
+      type is
+      <a href="https://en.wikipedia.org/wiki/Sprite_(lightning)">
+       red sprite lightning
+      </a>
+      ,  which has only been photographed and studied on
+      <a href="https://spaceplace.nasa.gov/all-about-earth/">
+       Earth
+      </a>
+      over the past 25 years.   The origins of all types of
+      <a href="https://www.nssl.noaa.gov/education/svrwx101/lightning/">
+       lightning
+      </a>
+      remain topics for research,  and scientists are still trying to figure out why
+      <a href="ap230918.html">
+       red sprite lightning
+      </a>
+      occurs at all.   Research
+      <a href="https://earthweb.ess.washington.edu/space/AtmosElec/spriteinfo.html">
+       has shown
+      </a>
+      that following a powerful positive
+      <a href="ap120723.html">
+       cloud-to-ground lightning
+      </a>
+      strike,
+      <a href="https://earthsky.org/earth/definition-what-are-lightning-sprites/">
+       red sprites
+      </a>
+      may start as 100-meter balls of
+      <a href="https://en.wikipedia.org/wiki/Ionized-air_glow">
+       ionized air
+      </a>
+      that shoot down from about 80-km high at 10 percent the
+      <a href="https://www.nasa.gov/feature/goddard/2019/three-ways-to-travel-at-nearly-the-speed-of-light">
+       speed of light
+      </a>
+      .  They are
+      <a href="ap210104.html">
+       quickly followed
+      </a>
+      by a group of upward streaking
+      <a href="https://en.wikipedia.org/wiki/Ionization">
+       ionized
+      </a>
+      balls.
+      <a href="https://www.facebook.com/groups/376355972487572/permalink/6327770937346016/">
+       Featured here
+      </a>
+      is an
+      <a href="https://i.pinimg.com/originals/96/d5/19/96d5193fa5f6968243838aef44d4b4b7.jpg">
+       extraordinarily high-resolution
+      </a>
+      image of a
+      <a href="ap170615.html">
+       group of red sprites
+      </a>
+      .  This image is a single frame lasting only 1/25th of a second from a video taken above
+      <a href="https://youtu.be/2lUm6m4T8Ds?t=17">
+       Castelnaud Castle
+      </a>
+      in
+      <a href="https://youtu.be/l5Ybmr-M4JQ">
+       Dordogne
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/France">
+       France
+      </a>
+      , about three weeks ago.  The sprites quickly vanished -- no sprites were visible even on the very next video frame.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/01
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231001.html">
+      https://apod.nasa.gov/apod/ap231001.html
      </a>
     </td>
    </tr>
