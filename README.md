@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/Hourglass_HubblePathak_1080.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/Hourglass_HubblePathak_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Do you see the hourglass shape -- or does it see you?   If you can picture it, the rings of
+      <a href="https://en.wikipedia.org/wiki/Engraved_Hourglass_Nebula">
+       MyCn 18
+      </a>
+      trace the outline of an hourglass -- although one with an unusual eye in its center.   Either way, the sands of time are running out for the central star of this hourglass-shaped
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      .  With its
+      <a href="https://www.nasa.gov/directorates/spacetech/game_changing_development/Nuclear_Thermal_Propulsion_Deep_Space_Exploration">
+       nuclear fuel
+      </a>
+      exhausted, this brief, spectacular, closing phase of a
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      -like
+      <a href="http://apod.pl/htmltest/gifcity/msblues.html">
+       star's life
+      </a>
+      occurs as its outer layers are ejected - its core becoming a cooling, fading
+      <a href="ap000910.html">
+       white dwarf
+      </a>
+      .  In 1995, astronomers used the
+      <a href="ap010806.html">
+       Hubble Space Telescope
+      </a>
+      (HST) to make a series of images of
+      <a href="https://esahubble.org/wordbank/planetary-nebula/">
+       planetary nebulae
+      </a>
+      , including the one featured here.    Pictured, delicate rings of colorful glowing gas (
+      <a href="https://periodic.lanl.gov/7.shtml">
+       nitrogen
+      </a>
+      -red,
+      <a href="http://www.youtube.com/watch?v=lFptgQ8GA_U">
+       hydrogen
+      </a>
+      -green, and
+      <a href="http://education.jlab.org/itselemental/ele008.html">
+       oxygen
+      </a>
+      -blue) outline the tenuous walls of the
+      <a href="https://en.wikipedia.org/wiki/Hourglass">
+       hourglass
+      </a>
+      .  The unprecedented sharpness of the Hubble images has revealed
+      <a href="https://ui.adsabs.harvard.edu/abs/2018PASA...35...27M/abstract">
+       surprising details
+      </a>
+      of the
+      <a href="ap200630.html">
+       nebula ejection process
+      </a>
+      that are helping to resolve the outstanding mysteries of the
+      <a href="http://faculty.washington.edu/balick/pPNe/">
+       complex shapes and symmetries of planetary nebulas
+      </a>
+      like MyCn 18.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/02
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231002.html">
+      https://apod.nasa.gov/apod/ap231002.html
      </a>
     </td>
    </tr>
