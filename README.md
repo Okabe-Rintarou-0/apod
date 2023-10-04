@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/WitchHead_Alharbi_3051.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/WitchHead_Alharbi_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Does this nebula look like the head of a witch?  The nebula is
+      <a href="https://earthsky.org/todays-image/witch-head-nebula-orion/">
+       known popularly
+      </a>
+      as the Witch Head Nebula because, it is said,  the nebula's shape resembles a
+      <a href="https://en.wikipedia.org/wiki/Halloween#/media/File:Halloween_Witch_2011.JPG">
+       Halloween-style caricature
+      </a>
+      of a witch's head.  Exactly how, though, can be a topic of imaginative speculation.   What is clear is that
+      <a href="https://en.wikipedia.org/wiki/IC_2118">
+       IC 2118
+      </a>
+      is about 50
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-years
+      </a>
+      across and made of gas and dust that points to --  because it has been partly eroded by -- the nearby star
+      <a href="https://en.wikipedia.org/wiki/Rigel">
+       Rigel
+      </a>
+      .  One of the brighter stars in the constellation Orion,
+      <a href="ap230407.html">
+       Rigel
+      </a>
+      lies below the bottom of the
+      <a href="https://www.instagram.com/p/CqdsZ47M7xc/">
+       featured image
+      </a>
+      .  The blue color of the Witch Head Nebula and is caused not only by
+      <a href="ap220124.html">
+       Rigel's intense blue starlight
+      </a>
+      but because the
+      <a href="https://curator.jsc.nasa.gov/dust/">
+       dust grains
+      </a>
+      scatter blue light more efficiently than red.   The same
+      <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/atmos/blusky.html">
+       physical process
+      </a>
+      causes Earth's daytime
+      <a href="https://spaceplace.nasa.gov/blue-sky/en/">
+       sky to appear blue
+      </a>
+      ,  although the scatterers in planet
+      <a href="https://www.nasa.gov/image-article/earths-atmospheric-layers-3/">
+       Earth's atmosphere
+      </a>
+      are molecules of
+      <a href="https://www.nasa.gov/solar-system/nasas-curiosity-rover-finds-biologically-useful-nitrogen-on-mars/">
+       nitrogen
+      </a>
+      and
+      <a href="https://astrobiology.nasa.gov/news/lightning-oxygen-and-life-detection/">
+       oxygen
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/03
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231003.html">
+      https://apod.nasa.gov/apod/ap231003.html
      </a>
     </td>
    </tr>
