@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/MoValleyEclipse.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/MoValleyEclipse1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/sun/annular-solar-eclipse-october-14-2023/">
+       Tracking along
+      </a>
+      a narrow path, the shadow of a
+      <a href="https://science.nasa.gov/moon/">
+       new moon
+      </a>
+      will race across North, Central, and South America, on October 14.  When viewed from the shadow path the apparent size of the lunar disk will not quite completely cover the Sun though.  Instead, the moon in silhouette will appear during the minutes of totality surrounded by a fiery ring, an annular solar eclipse more dramatically known as a
+      <a href="ap090125.html">
+       ring of fire eclipse
+      </a>
+      .  This striking time lapse sequence from May of 2012 illustrates the stages of a ring of fire eclipse.  From before eclipse start until sunset, they are seen over the iconic buttes of planet Earth's
+      <a href="ap221225.html">
+       Monument Valley
+      </a>
+      .  Remarkably, the October 14 ring of fire eclipse will also be visible over Monument Valley, beginning after
+      <a href="https://www.timeanddate.com/eclipse/in/@5543404?iso=20231014">
+       sunrise in the eastern sky
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/04
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231004.html">
+      https://apod.nasa.gov/apod/ap231004.html
      </a>
     </td>
    </tr>
