@@ -5,6 +5,93 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_2880.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How big is our universe?  This question,
+      <a href="http://adsbit.harvard.edu/cgi-bin/nph-iarticle_query?1995PASP%2E%2E107%2E1133T">
+       among others
+      </a>
+      ,  was debated by two leading astronomers in 1920 in what has since become known as
+      <a href="https://apod.nasa.gov/debate/debate100th.html">
+       astronomy's Great Debate
+      </a>
+      .   Many astronomers then believed that our
+      <a href="https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      was the entire universe.   Many others, though, believed that our galaxy was just
+      <a href="ap020901.html">
+       one of many
+      </a>
+      .   In the
+      <a href="https://en.wikipedia.org/wiki/Great_Debate_(astronomy)">
+       Great Debate
+      </a>
+      ,  each argument was detailed, but no consensus was reached.   The answer came over three years later with the detected variation  of single spot in the
+      <a href="ap170303.html">
+       Andromeda Nebula
+      </a>
+      , as shown on the
+      <a href="https://obs.carnegiescience.edu/PAST/m31var">
+       original glass discovery plate digitally reproduced here
+      </a>
+      .  When
+      <a href="https://en.wikipedia.org/wiki/Edwin_Hubble">
+       Edwin Hubble
+      </a>
+      compared images, he noticed that this
+      <a href="ap960406.html">
+       spot varied
+      </a>
+      , and on October 6, 1923 wrote "VAR!" on the plate.   The best explanation, Hubble knew, was that this spot was the
+      <a href="https://hubblesite.org/contents/media/images/2011/15/2851-Image.html">
+       image of a variable star
+      </a>
+      that was very far away.  So M31 was really the
+      <a href="ap190909.html">
+       Andromeda
+       <i>
+        Galaxy
+       </i>
+      </a>
+      --  a galaxy possibly similar to our own.   Annotated 100 years ago, the
+      <a href="https://obs.carnegiescience.edu/PAST/m31var">
+       featured image
+      </a>
+      may not be pretty, but the variable spot on it opened a window through which humanity gazed knowingly, for the first time, into a
+      <a href="ap200405.html">
+       surprisingly vast cosmos
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/05
   </summary>
   <table>
@@ -18,8 +105,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231005.html">
+      https://apod.nasa.gov/apod/ap231005.html
      </a>
     </td>
    </tr>
