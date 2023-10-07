@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/M31_HubbleSpitzerGendler_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/M31_HubbleSpitzerGendler_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This picture of Andromeda shows not only where stars are now,  but where stars will be.  The big, beautiful
+      <a href="https://en.wikipedia.org/wiki/Andromeda_Galaxy">
+       Andromeda Galaxy
+      </a>
+      , M31, is a
+      <a href="https://en.wikipedia.org/wiki/Spiral_galaxy">
+       spiral galaxy
+      </a>
+      a mere 2.5 million
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light-years
+      </a>
+      away.   Image data from space-based and ground-based observatories have been  combined here to produce
+      <a href="http://www.robgendlerastropics.com/M31-Spitzer-New-Mouseover-M.html">
+       this intriguing composite
+      </a>
+      view of Andromeda at wavelengths both inside and outside normally visible light.  The
+      <a href="https://science.nasa.gov/ems/09_visiblelight">
+       visible light
+      </a>
+      shows where M31's stars are now, highlighted in white and blue hues and imaged by the
+      <a href="https://www.nasa.gov/mission_pages/hubble/about">
+       Hubble
+      </a>
+      ,
+      <a href="https://subarutelescope.org/en/about/">
+       Subaru
+      </a>
+      , and
+      <a href="https://en.wikipedia.org/wiki/Nicholas_U._Mayall_Telescope">
+       Mayall
+      </a>
+      telescopes.   The
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared light
+      </a>
+      shows where M31's future stars will soon form, highlighted in orange hues and imaged by NASA's
+      <a href="https://www.spitzer.caltech.edu/mission/mission-overview">
+       Spitzer Space Telescope
+      </a>
+      .    The infrared light tracks enormous
+      <a href="ap211117.html">
+       lanes of dust
+      </a>
+      ,  warmed by stars, sweeping along Andromeda's spiral arms.   This
+      <a href="ap030706.html">
+       dust
+      </a>
+      is a tracer of the galaxy's vast interstellar gas, raw material for future
+      <a href="https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve">
+       star formation
+      </a>
+      .   Of course, the new stars will likely form over the next hundred million years or so.  That's well before Andromeda
+      <a href="ap120604.html">
+       merges
+      </a>
+      with our
+      <a href="https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      in about 5 billion years.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/06
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231006.html">
+      https://apod.nasa.gov/apod/ap231006.html
      </a>
     </td>
    </tr>
