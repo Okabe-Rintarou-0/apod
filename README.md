@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/DistortedSunrise_Chasiotis_2442.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/DistortedSunrise_Chasiotis_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Yes, but have you ever seen a sunrise like this?   Here, after initial cloudiness,
+      <a href="https://science.nasa.gov/sun/">
+       the Sun
+      </a>
+      appeared to rise in two pieces and during a partial eclipse in 2019,  causing the photographer to describe it as the most stunning sunrise of his life.   The dark circle near the top of the
+      <a href="https://gml.noaa.gov/grad/about/redsky/">
+       atmospherically-reddened Sun
+      </a>
+      is
+      <a href="https://science.nasa.gov/moon/">
+       the Moon
+      </a>
+      --  but so is the dark peak just below it.   This is because along the way, the
+      <a href="https://climate.nasa.gov/news/2919/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      had a  layer of unusually warm air over the sea which acted like a
+      <a href="ap211228.html">
+       gigantic lens
+      </a>
+      and created a
+      <a href="https://cdn.shopify.com/s/files/1/0344/6469/files/twincats.png">
+       second image
+      </a>
+      .   For a normal sunrise or sunset, this rare phenomenon of
+      <a href="https://www.atoptics.co.uk/">
+       atmospheric optics
+      </a>
+      is known as the
+      <a href="ap090223.html">
+       Etruscan vase effect
+      </a>
+      .  The
+      <a href="https://www.instagram.com/p/B68KArFlUnr/">
+       featured picture
+      </a>
+      was
+      <a href="https://www.boredpanda.com/sunrise-red-horns-solar-eclipse-elias-chasiotis/">
+       captured
+      </a>
+      in December 2019 from
+      <a href="https://en.wikipedia.org/wiki/Al_Wakrah">
+       Al Wakrah
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Qatar">
+       Qatar
+      </a>
+      .   Some observers in a narrow band of
+      <a href="https://science.nasa.gov/earth/facts">
+       Earth
+      </a>
+      to the east were able to see a
+      <a href="ap120519.html">
+       full annular solar eclipse
+      </a>
+      --  where the Moon appears completely surrounded by the background Sun in a
+      <a href="ap230910.html">
+       ring of fire
+      </a>
+      .   The next solar eclipse, also an annular eclipse for well-placed observers,  will
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/where-when/">
+       occur this coming Saturday
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/08
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231008.html">
+      https://apod.nasa.gov/apod/ap231008.html
      </a>
     </td>
    </tr>
