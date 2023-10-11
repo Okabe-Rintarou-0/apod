@@ -5,6 +5,116 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/Ngc1097wSn_Miller_1008.gif">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/Ngc1097wSn_Miller_1008.gif"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening in the lower arm of this spiral galaxy?  A
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/supernovae1.html">
+       supernova
+      </a>
+      .  Last month, supernova
+      <a href="https://en.wikipedia.org/wiki/SN_2023rve">
+       SN 2023rve
+      </a>
+      was discovered with
+      <a href="https://en.wikipedia.org/wiki/United_Arab_Emirates">
+       UAE
+      </a>
+      's Al-Khatim Observatory and later
+      <a href="https://www.astronomycenter.net/articles/2023/09/10/sn2023rve?l=en">
+       found
+      </a>
+      to be consistent with the death explosion of a massive star,  possibly leaving behind a
+      <a href="https://science.nasa.gov/astrophysics/focus-areas/black-holes/">
+       black hole
+      </a>
+      .  Spiral galaxy
+      <a href="https://en.wikipedia.org/wiki/NGC_1097">
+       NGC 1097
+      </a>
+      is a relatively close 45 million
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light year
+      </a>
+      s away and visible with a small telescope toward the southern constellation of the Furnace  (
+      <a href="https://chandra.harvard.edu/photo/constellations/fornax.html">
+       Fornax
+      </a>
+      ).   The galaxy is notable not only for its
+      <a href="ap230508.html">
+       picturesque spiral arms
+      </a>
+      ,  but also for
+      <a href="ap221116.html">
+       faint jets
+      </a>
+      consistent with ancient
+      <a href="ap191116.html">
+       star streams
+      </a>
+      left over from a
+      <a href="https://youtu.be/lXy3B2K47Qg">
+       galactic collision
+      </a>
+      --  possibly with the small galaxy seen between its arms on the lower left.  The
+      <a href="https://azstarman.net/CDK/NGC1097_TL_SN.htm">
+       featured image
+      </a>
+      highlights the new supernova by
+      <a href="https://www.livescience.com/why-do-we-blink.html">
+       blinking
+      </a>
+      between two exposures taken several months apart.
+      <a href="https://i.pinimg.com/1200x/f7/a4/09/f7a40951e62342cf0671e34dcb8dbec2.jpg">
+       Finding supernovas
+      </a>
+      in nearby galaxies can be  important in determining the
+      <a href="https://apod.nasa.gov/diamond_jubilee/debate20.html">
+       scale
+      </a>
+      and expansion rate of our
+      <a href="ap231006.html">
+       entire universe
+      </a>
+      --  a topic currently of
+      <a href="https://blogs.nasa.gov/webb/2023/09/12/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble-deepens-mystery-of-hubble-constant-tension/">
+       unexpected tension
+      </a>
+      and
+      <a href="https://apod.nasa.gov/debate/debate.html">
+       much debate
+      </a>
+      <a>
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/10
   </summary>
   <table>
@@ -18,8 +128,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231010.html">
+      https://apod.nasa.gov/apod/ap231010.html
      </a>
     </td>
    </tr>
