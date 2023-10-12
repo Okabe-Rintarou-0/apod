@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/MuCephei_apod.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/MuCephei_apod1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://en.wikipedia.org/wiki/Mu_Cephei">
+       Mu Cephei
+      </a>
+      is a very large star.  An M-class supergiant some 1500 times the size of the Sun, it is one of the largest stars visible to the unaided eye, and even one of the largest in the entire Galaxy.  If it replaced the Sun in
+      <a href="https://science.nasa.gov/solar-system/">
+       our fair Solar System
+      </a>
+      , Mu Cephei would easily engulf Mars and Jupiter.  Historically known as
+      <a href="http://stars.astro.illinois.edu/sow/garnet.html">
+       Herschel's Garnet Star
+      </a>
+      , Mu Cephei is extremely red.  Approximately 2800 light-years distant, the supergiant is seen near the edge of reddish emission nebula
+      <a href="ap120805.html">
+       IC 1396
+      </a>
+      toward the royal northern constellation Cepheus in
+      <a href="https://www.instagram.com/p/CyN-h9SoIeO/">
+       this telescopic view
+      </a>
+      .  Much cooler and hence redder than the Sun, this supergiant's light is further reddened by absorption and scattering due to intervening dust within the Milky Way.
+      <a href="https://www.aavso.org/vsots_mucep">
+       A well-studied variable star
+      </a>
+      understood to be in a late phase of stellar evolution, Mu Cephei is a massive star too,
+      <a href="https://arxiv.org/abs/1410.8721">
+       destined
+      </a>
+      to ultimately explode as a core-collapse
+      <a href="ap231011.html">
+       supernova
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/11
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231011.html">
+      https://apod.nasa.gov/apod/ap231011.html
      </a>
     </td>
    </tr>
