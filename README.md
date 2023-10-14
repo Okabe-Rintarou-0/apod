@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/Vincenzo_Mirabella_20210529_134459.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/Vincenzo_Mirabella_20210529_134459_1024px.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Want to see a ring around the Sun?
+      <a href="http://www.atoptics.co.uk/halo/checkl.htm">
+       It's easy to do
+      </a>
+      in daytime skies around the world.  Created by randomly oriented ice crystals in thin high cirrus clouds, circular 22 degree halos are visible much more often than rainbows.  This one was captured by smart phone
+      <a href="http://www.atoptics.co.uk/halo/photo.htm">
+       photography
+      </a>
+      on May 29, 2021 near Rome, Italy.  Carefully
+      <a href="http://www.atoptics.co.uk/halo/circular.htm">
+       blocking the Sun
+      </a>
+      , for example with a finger tip, is usually all that it takes to reveal the common bright halo ring.  The halo's characteristic angular radius is about equal to the span of your hand, thumb to little finger, at the end of your outstretched arm.   Want to see a
+      <a href="ap231005.html">
+       ring of fire eclipse
+      </a>
+      ?  That's harder.  The spectacular annular phase of
+      <a href="https://earthsky.org/sun/annular-solar-eclipse-october-14-2023/">
+       today's (October 14) solar eclipse
+      </a>
+      , known as a
+      <a href="ap090125.html">
+       ring of fire
+      </a>
+      , is briefly visible only when standing along the Moon's narrow shadow track that passes over limited parts of North, Central, and South America.  The solar eclipse is partial though, when seen
+      <a href="https://blogs.nasa.gov/Watch_the_Skies/2023/09/14/coming-soon-a-ring-of-fire-in-the-sky/">
+       from broader regions
+      </a>
+      throughout the Americas.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/13
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231013.html">
+      https://apod.nasa.gov/apod/ap231013.html
      </a>
     </td>
    </tr>
