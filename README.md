@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/EclipseTree_Wyre_3024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/EclipseTree_Wyre_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Yes, but can your tree do this?   If you look closely at the ground in the featured image,  you will see many images of
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/where-when">
+       yesterday's solar eclipse
+      </a>
+      -- created by a tree.  Gaps between tree leaves act like
+      <a href="https://www.jpl.nasa.gov/edu/learn/project/how-to-make-a-pinhole-camera/">
+       pinhole
+      </a>
+      lenses and each create a
+      <a href="ap001225.html">
+       small image
+      </a>
+      of the partially
+      <a href="https://spaceplace.nasa.gov/eclipse-snap/en/">
+       eclipsed Sun
+      </a>
+      visible in the other direction.   The image was taken in
+      <a href="https://youtu.be/Gb6C87BeEaE">
+       Burleson
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Texas">
+       Texas
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      .  Yesterday, people across the
+      <a href="https://en.wikipedia.org/wiki/Americas">
+       Americas
+      </a>
+      were
+      <a href="https://hiawasseevet.com/wp-content/uploads/2021/08/smiling-cat-for-web.jpg">
+       treated
+      </a>
+      to a
+      <a href="ap191227.html">
+       partial eclipse
+      </a>
+      of the Sun,  when the Moon moves in front of part of the Sun.  People in a
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/where-when">
+       narrow band
+      </a>
+      of Earth were treated to an
+      <a href="ap100122.html">
+       annular eclipse
+      </a>
+      ,  also called a
+      <a href="ap200615.html">
+       ring-of-fire eclipse
+      </a>
+      ,  when the Moon becomes completely
+      <a href="ap230910.html">
+       engulfed by the Sun
+      </a>
+      and sunlight streams around all of the
+      <a href="ap230917.html">
+       Moon's edges
+      </a>
+      .  In answer to the
+      <a href="https://www.thoughtco.com/how-to-write-a-great-lede-2074346">
+       lede
+      </a>
+      question, your tree not only can
+      <a href="ap170320.html">
+       do this
+      </a>
+      ,  but
+      <i>
+       will
+      </i>
+      do it every time that a  visible solar eclipse passes overhead.   Next April 8, a deeper,
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/">
+       total solar eclipse
+      </a>
+      will move across
+      <a href="https://en.wikipedia.org/wiki/North_America">
+       North America
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/14
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231014.html">
+      https://apod.nasa.gov/apod/ap231014.html
      </a>
     </td>
    </tr>
