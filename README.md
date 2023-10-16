@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/AnnularProposal_Zhang_3500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/AnnularProposal_Zhang_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      She knew everything but the question.  She was well aware that there would be a complete
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/where-when/">
+       annular eclipse
+      </a>
+      of the
+      <a href="https://spaceplace.nasa.gov/menu/sun/">
+       Sun
+      </a>
+      visible from their driving destination:
+      <a href="https://youtu.be/4gBGuH60JGI">
+       Lake Abert
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Oregon">
+       Oregon
+      </a>
+      .   She knew that the next
+      <a href="ap231001.html">
+       ring-of-fire eclipse
+      </a>
+      would occur in the
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      only in
+      <a href="https://www.timeanddate.com/eclipse/solar/2039-june-21">
+       16 more years
+      </a>
+      , making this a rare photographic opportunity.   She was comfortable with the plan:  that she and her boyfriend would appear in front of the eclipse
+      <a href="ap220107.html">
+       in silhouette
+      </a>
+      ,  sometimes alone, and sometimes together.   She knew that the
+      <a href="ap230924.html">
+       annular phase
+      </a>
+      of this  eclipse would last only a few minutes and  she helped in the many
+      <a href="https://doggymomblog.files.wordpress.com/2014/08/map-reading-dog.jpg">
+       hours of planning
+      </a>
+      .   She could see their friend who set up the
+      <a href="https://www.jpl.nasa.gov/edu/learn/project/how-to-make-a-pinhole-camera/">
+       camera
+      </a>
+      about 400 meters away at the bottom of a ridge.   What she didn't know was the question she would be asked.  But she did know the answer: "yes".
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/15
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231015.html">
+      https://apod.nasa.gov/apod/ap231015.html
      </a>
     </td>
    </tr>
