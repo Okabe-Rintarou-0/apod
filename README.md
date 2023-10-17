@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/PDS70_ALMA_1237.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/PDS70_ALMA_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It's not the big ring that's attracting the most attention.  Although the big planet-forming ring around the star
+      <a href="https://youtu.be/Cslrr2koNvU">
+       PDS 70
+      </a>
+      is clearly imaged and itself quite interesting.  It's also not the planet on the right, just inside the
+      <a href="ap041019.html">
+       big disk
+      </a>
+      , that’s being talked about the most.   Although the planet
+      <a href="https://en.wikipedia.org/wiki/PDS_70">
+       PDS 70
+      </a>
+      c  is a newly formed and, interestingly, similar in size and mass to
+      <a href="ap190908.html">
+       Jupiter
+      </a>
+      .  It's the fuzzy patch around the
+      <a href="https://exoplanets.nasa.gov/exoplanet-catalog/7414/pds-70-c/">
+       planet PDS 70c
+      </a>
+      that's
+      <a href="https://static.boredpanda.com/blog/wp-content/uploads/2014/09/animals-looking-through-the-window-201.jpg">
+       causing the commotion
+      </a>
+      .  That fuzzy patch is thought to be a
+      <a href="https://www.eso.org/public/news/eso2111/">
+       dusty disk
+      </a>
+      that is now forming into moons --  and that had never been seen before.  The
+      <a href="https://www.eso.org/public/images/eso2111b/">
+       featured image
+      </a>
+      was taken in 2021 by the
+      <a href="https://en.wikipedia.org/wiki/Atacama_Large_Millimeter_Array">
+       Atacama Large Millimeter Array
+      </a>
+      (ALMA) of 66
+      <a href="ap140526.html">
+       radio telescopes
+      </a>
+      in the high
+      <a href="https://youtu.be/o5JfmFSBDgE">
+       Atacama Desert
+      </a>
+      of northern
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .   Based on ALMA data,
+      <a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...916L...2B/abstract">
+       astronomers infer
+      </a>
+      that the moon-forming  exoplanetary disk has a radius similar to our Earth's orbit,  and may one day form three or so
+      <a href="https://en.wiktionary.org/wiki/Luna#Proper_noun">
+       Luna
+      </a>
+      -sized moons --  not very different from our
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      's
+      <a href="https://www.jpl.nasa.gov/images/the-galilean-satellites">
+       four
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/16
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231016.html">
+      https://apod.nasa.gov/apod/ap231016.html
      </a>
     </td>
    </tr>
