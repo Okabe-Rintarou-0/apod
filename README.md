@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/WesternVeil_Wu_2974.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/WesternVeil_Wu_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It's so big it is easy to miss.  The
+      <a href="ap191031.html">
+       entire Veil Nebula
+      </a>
+      spans six times the diameter of the
+      <a href="https://svs.gsfc.nasa.gov/5048">
+       full moon
+      </a>
+      ,  but is so dim you need
+      <a href="https://en.wikipedia.org/wiki/Binoculars#/media/File:Binocularp.svg">
+       binoculars
+      </a>
+      to see it.  The nebula was created about
+      <a href="https://en.wikipedia.org/wiki/Timeline_of_prehistory">
+       15,000 years ago
+      </a>
+      when a star in the
+      <a href="https://www.iau.org/public/themes/constellations/">
+       constellation
+      </a>
+      of the Swan  (
+      <a href="https://chandra.harvard.edu/photo/constellations/cygnus.html">
+       Cygnus
+      </a>
+      ) exploded.  The
+      <a href="https://youtu.be/7zCPgdcdB5Q">
+       spectacular explosion
+      </a>
+      would have
+      <a href="ap211114.html">
+       appeared brighter
+      </a>
+      than even
+      <a href="ap230915.html">
+       Venus
+      </a>
+      for a week - but there is
+      <a href="https://i.pinimg.com/originals/d1/1a/62/d11a627b5fe41146b7afa313548c2119.jpg">
+       no known record
+      </a>
+      of it.   Pictured is the western edge of the still-expanding gas cloud.  Notable gas filaments include the
+      <a href="ap180408.html">
+       Witch's Broom Nebula
+      </a>
+      on the upper left near the bright foreground star
+      <a href="http://stars.astro.illinois.edu/sow/52cyg.html">
+       52 Cygni
+      </a>
+      ,  and
+      <a href="ap210727.html">
+       Fleming's Triangular Wisp
+      </a>
+      (formerly known as
+      <a href="https://www.davidcortner.com/slowblog/20161113.php">
+       Pickering's Triangle
+      </a>
+      ) running diagonally up the image middle.   What is rarely imaged -- but seen in the featured long exposure across many color bands -- is the reflecting brown
+      <a href="https://herscheltelescope.org.uk/science/infrared/dust/">
+       dust
+      </a>
+      that runs vertically up the image left,  dust likely created in the cool atmospheres of massive
+      <a href="https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve/">
+       stars
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/17
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231017.html">
+      https://apod.nasa.gov/apod/ap231017.html
      </a>
     </td>
    </tr>
