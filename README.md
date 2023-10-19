@@ -5,6 +5,50 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/AnnularMontagev2.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/AnnularMontagev21024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This timelapse series captured on October 14 is set against the sunrise view from Sunset Point,
+      <a href="https://www.nps.gov/brca/planyourvisit/2023-annular-eclipse.htm">
+       Bryce Canyon, planet Earth
+      </a>
+      .  Of course on that date the New Moon caught up with the Sun in the canyon's morning skies.  Local temperatures fell as the Moon's
+      <a href="https://www.nasa.gov/image-article/the-moons-shadow-darkens-a-portion-of-the-earths-surface/">
+       shadow swept
+      </a>
+      across the high altitude scene and the brilliant morning sunlight became a more subdued yellow hue cast over the reddish rocky landscape.  In the timelapse series, images were taken at 2 minute intervals.  The camera and solar filter were fixed to a tripod to follow the phases of the
+      <a href="https://blogs.nasa.gov/Watch_the_Skies/tag/eclipse/">
+       annular solar eclipse
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/18
   </summary>
   <table>
@@ -18,8 +62,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231018.html">
+      https://apod.nasa.gov/apod/ap231018.html
      </a>
     </td>
    </tr>
