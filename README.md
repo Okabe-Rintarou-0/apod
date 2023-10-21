@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/quartermoon2022date.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/quartermoon2022date.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Half way between New Moon and Full Moon is
+      <a href="https://science.nasa.gov/moon/lunar-phases-and-eclipses/">
+       the Moon's first quarter phase
+      </a>
+      .  That's a quarter of the way around its
+      <a href="ap200926.html">
+       moonthly
+      </a>
+      orbit.  At the first quarter phase, half
+      <a href="https://moon.nasa.gov/inside-and-out/composition/overview/">
+       the Moon's visible side
+      </a>
+      is illuminated by sunlight.  For the Moon's third quarter phase, half way between Full Moon and New Moon, sunlight illuminates the other half of the visible lunar disk.  At both first and third quarter phases, the terminator, or shadow line separating the lunar night and day, runs down the middle.  Near the
+      <a href="ap180301.html">
+       terminator
+      </a>
+      , long shadows bring lunar craters and mountains in to sharp relief, making the quarter phases a good time to observe the Moon.  But in case you missed some,
+      <a href="https://greenflash.photo/portfolio/all-quarter-moons-of-2022/">
+       all the quarter phases of the Moon
+      </a>
+      and their calendar dates during 2022 can be found in this well-planned array of telephoto images.
+      <a href="https://moon.nasa.gov/moon-observation/daily-moon-guide/">
+       Of course, you can observe
+      </a>
+      a first quarter Moon tonight.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/20
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231020.html">
+      https://apod.nasa.gov/apod/ap231020.html
      </a>
     </td>
    </tr>
