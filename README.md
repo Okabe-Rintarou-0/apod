@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/AuroraGhost_Takasaka_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/AuroraGhost_Takasaka_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What does this aurora look like to you?  While braving the cold to watch the skies above northern
+      <a href="https://en.wikipedia.org/wiki/Canada">
+       Canada
+      </a>
+      early one morning in 2013, a most unusual aurora appeared.   The
+      <a href="https://spaceplace.nasa.gov/aurora/en/">
+       aurora
+      </a>
+      definitely appeared to be
+      <a href="ap161023.html">
+       shaped
+      </a>
+      like
+      <i>
+       something
+      </i>
+      , but what?  Two ghostly
+      <a href="http://blue-moon.ca/2013feb.html">
+       possibilities recorded
+      </a>
+      by the astrophotographer were "witch" and "goddess of dawn",  but please
+      <a href="https://asterisk.apod.com/discuss_apod.php?date=231022">
+       feel free to suggest
+      </a>
+      your own
+      <a href="https://s-media-cache-ak0.pinimg.com/originals/b4/aa/bc/b4aabcab1b37ac44839687b434e1d938.jpg">
+       Halloween-enhanced
+      </a>
+      impressions.  Regardless of fantastical
+      <a href="https://en.wikipedia.org/wiki/Pareidolia">
+       pareidolic
+      </a>
+      interpretations,  the pictured aurora had a
+      <a href="http://www.webexhibits.org/causesofcolor/4D.html">
+       typical green
+      </a>
+      color and was surely caused by the scientifically commonplace action of  high-energy particles from space interacting with
+      <a href="http://periodic.lanl.gov/8.shtml">
+       oxygen
+      </a>
+      in
+      <a href="https://www.nasa.gov/image-article/earths-upper-atmosphere/">
+       Earth's upper atmosphere
+      </a>
+      .   In the image foreground, at the bottom, is a frozen
+      <a href="https://www.youtube.com/watch?v=DioO92W6iaQ">
+       Alexandra Falls
+      </a>
+      , while
+      <a href="https://en.wikipedia.org/wiki/Evergreen">
+       evergreen trees
+      </a>
+      cross the middle.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/21
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231021.html">
+      https://apod.nasa.gov/apod/ap231021.html
      </a>
     </td>
    </tr>
