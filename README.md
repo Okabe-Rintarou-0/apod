@@ -5,6 +5,96 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/IoFlyby_Juno_2047.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/IoFlyby_Juno_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      There goes another one!   Volcanoes on
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      's moon
+      <a href="https://en.wikipedia.org/wiki/Io_(moon)">
+       Io
+      </a>
+      keep erupting.  To investigate,
+      <a href="https://www.nasa.gov/about/">
+       NASA
+      </a>
+      's robotic
+      <a href="https://www.jpl.nasa.gov/missions/juno">
+       Juno
+      </a>
+      <a>
+      </a>
+      spacecraft has begun a series of visits to this
+      <a href="https://www.intermountainpet.com/hubfs/Blog_Images/Dogs-tilting-their-heads.jpg">
+       very strange
+      </a>
+      moon.
+      <a href="https://planetary.s3.amazonaws.com/web/assets/pictures/20130619_solar-system-major-moons-by-location-withtext.jpg">
+       Io is about the size of Earth's moon
+      </a>
+      , but because of
+      <a href="https://en.wikipedia.org/wiki/Volcanism_on_Io#Heat_source">
+       gravitational flexing
+      </a>
+      by Jupiter and other moons,  Io's interior gets heated and its surface has become
+      <a href="ap110522.html">
+       covered with volcanoes
+      </a>
+      .   The featured image is from
+      <a href="https://youtu.be/yJUJmI8YI_E">
+       last week's flyby
+      </a>
+      ,  passing within 12,000 kilometers above the dangerously active world.  The
+      <a href="ap221211.html">
+       surface of Io
+      </a>
+      is covered with sulfur and frozen sulfur dioxide,  making it appear yellow, orange and brown.  As hoped,
+      <a href="https://science.nasa.gov/mission/juno/">
+       Juno
+      </a>
+      flew by
+      <a href="https://www.universetoday.com/163766/juno-completes-its-closest-flyby-of-io-yet/">
+       just as
+      </a>
+      a volcano was erupting --  with its faint plume visible near the top of the featured image.   Studying Io's volcanoes and plumes helps humanity better understand how
+      <a href="ap220830.html">
+       Jupiter's complex system
+      </a>
+      of moons, rings, and auroras interact.
+      <a href="https://en.wikipedia.org/wiki/Exploration_of_Io#Juno_spacecraft">
+       Juno is scheduled
+      </a>
+      to make two flybys of Io during the coming months that are almost 10 times closer: one in December and another in February 2024.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/22
   </summary>
   <table>
@@ -18,8 +108,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231022.html">
+      https://apod.nasa.gov/apod/ap231022.html
      </a>
     </td>
    </tr>
