@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/Arp87_HubblePathak_2512.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/Arp87_HubblePathak_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This dance is to the death.   As these two large galaxies duel, a
+      <a href="ap140715.html">
+       cosmic bridge
+      </a>
+      of stars, gas, and dust currently stretches over 75,000
+      <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question19.html">
+       light-years
+      </a>
+      and joins them.   The bridge itself is strong evidence that these two immense star systems have
+      <a href="ap130514.html">
+       passed close
+      </a>
+      to each other and experienced
+      <a href="https://www.youtube.com/watch?v=QcDtJ_-jdMw">
+       violent tides
+      </a>
+      induced by mutual gravity.  As further evidence, the face-on spiral galaxy on the right, also known as NGC 3808A, exhibits many young blue star clusters produced in a burst of star formation.  The twisted edge-on spiral on the left (NGC 3808B) seems to be wrapped in the material
+      <a href="ap061111.html">
+       bridging the galaxies
+      </a>
+      and surrounded by a curious
+      <a href="ap141108.html">
+       polar ring
+      </a>
+      .  Together, the system is known as
+      <a href="https://en.wikipedia.org/wiki/Arp_87">
+       Arp 87
+      </a>
+      .  While such interactions are drawn out over billions of years, repeated
+      <a href="ap120717.html">
+       close passages
+      </a>
+      will ultimately create one merged galaxy.  Although
+      <a href="https://ui.adsabs.harvard.edu/abs/1972ApJ...178..623T/abstract">
+       this scenario
+      </a>
+      does look unusual, galactic mergers are thought to be common, with Arp 87 representing a stage in
+      <a href="http://www.cv.nrao.edu/~jhibbard/MergeSeq/mergeseq.html">
+       this inevitable process
+      </a>
+      .  The
+      <a href="https://hubblesite.org/contents/news-releases/2007/news-2007-36.html">
+       Arp 87 dancing pair
+      </a>
+      are about 300 million
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-years
+      </a>
+      distant toward the constellation of the Lion  (
+      <a href="https://en.wikipedia.org/wiki/Leo_(constellation)">
+       Leo
+      </a>
+      ).  The
+      <a href="ap190329.html">
+       prominent edge-on spiral
+      </a>
+      galaxy at the far left appears to be a more distant background galaxy and not involved in the on-going merger.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/23
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231023.html">
+      https://apod.nasa.gov/apod/ap231023.html
      </a>
     </td>
    </tr>
