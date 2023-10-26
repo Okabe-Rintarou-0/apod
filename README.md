@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/20231023_orionids_in_taurus_1440b.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/20231023_orionids_in_taurus_1024c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      History's first known periodic comet,
+      <a href="https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/1p-halley/in-depth/">
+       Comet Halley (1P/Halley)
+      </a>
+      , returns to the inner Solar System every 76 years or so.  The famous comet made its last appearance to the naked-eye in 1986.  But dusty debris from Comet Halley can be seen raining through planet Earth's skies twice a year during two annual meteor showers, the
+      <a href="https://solarsystem.nasa.gov/asteroids-comets-and-meteors/meteors-and-meteorites/eta-aquarids/in-depth/">
+       Eta Aquarids in May
+      </a>
+      and the
+      <a href="https://solarsystem.nasa.gov/asteroids-comets-and-meteors/meteors-and-meteorites/orionids/in-depth/">
+       Orionids in October
+      </a>
+      .  In fact,
+      <a href="http://www.davidcortner.com/slowblog/20231023.php">
+       an unhurried series
+      </a>
+      of exposures captured these two bright meteors, vaporizing bits of Halley dust, during the early morning hours of October 23 against a starry background along the Taurus molecular cloud.  Impacting the atmosphere at about 66 kilometers per
+      <i>
+       second
+      </i>
+      their
+      <a href="https://www.popastro.com/main_spa1/meteor/meteor-spectra-overview/">
+       greenish
+      </a>
+      streaks point back to the
+      <a href="ap221028.html">
+       shower's radiant
+      </a>
+      just north of Orion's bright star Betelgeuse off the lower left side of the frame.
+      <a href="ap230105.html">
+       The familiar Pleiades
+      </a>
+      star cluster anchors the dusty celestial scene at the right.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/24
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231025.html">
+      https://apod.nasa.gov/apod/ap231025.html
      </a>
     </td>
    </tr>
