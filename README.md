@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/2P_Encke_2023_08_24JuneLake_California_USA_DEBartlett.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/2P_Encke_2023_08_24JuneLake_California_USA_DEBartlett1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      History's second known periodic comet is
+      <a href="https://en.wikipedia.org/wiki/Comet_Encke">
+       Comet Encke (2P/Encke)
+      </a>
+      .  As it swings through the inner
+      <a href="https://science.nasa.gov/solar-system/comets/2p-encke/">
+       Solar System, Encke's
+      </a>
+      orbit takes it from an aphelion, its greatest distance from the Sun, inside the orbit of Jupiter to a perihelion just inside the orbit of Mercury.  Returning to its perihelion every 3.3 years, Encke has the shortest
+      <a href="https://en.wikipedia.org/wiki/List_of_numbered_comets">
+       period of the Solar System's major comets
+      </a>
+      .  Comet Encke is also associated with (
+      <a href="https://ui.adsabs.harvard.edu/abs/2017A%26A...605A..68S/abstract">
+       at least
+      </a>
+      ) two annual meteor showers on planet Earth, the
+      <a href="https://earthsky.org/astronomy-essentials/taurid-meteors-all-you-need-to-know/">
+       North and South Taurids
+      </a>
+      .  Both showers are active in late October and early November.  Their two separate radiants lie near bright star Aldebaran in the head-strong constellation Taurus.  A faint comet, Encke was captured in
+      <a href="https://www.astrobin.com/jurom7/C/">
+       this telescopic field of view
+      </a>
+      imaged on the morning of August 24.  Then, Encke's pretty greenish coma was close on the sky to  the young, embedded star cluster and light-years long,
+      <a href="ap200618.html">
+       tadpole-shaped
+      </a>
+      star-forming clouds in emission nebula IC 410.
+      <a href="https://theskylive.com/encke-info">
+       Now near bright star Spica
+      </a>
+      in Virgo Comet Encke passed its 2023 perihelion only five days ago, on October 22.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/26
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231026.html">
+      https://apod.nasa.gov/apod/ap231026.html
      </a>
     </td>
    </tr>
