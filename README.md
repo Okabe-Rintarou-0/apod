@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/IC63_GruntzBax.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/IC63_GruntzBax1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.aavso.org/vsots_gammacas">
+       Gamma Cassiopeiae
+      </a>
+      shines high in northern autumn evening skies.  It's the brightest spiky star in this telescopic field of view toward the constellation Cassiopeia.
+      <a href="https://www.astrobin.com/k5f7nk/0/">
+       Gamma Cas shares the ethereal-looking scene
+      </a>
+      with ghostly interstellar clouds of gas and dust, IC 59 (top left) and IC 63.    About 600 light-years distant,
+      <a href="https://hubblesite.org/contents/news-releases/2018/news-2018-42.html">
+       the clouds
+      </a>
+      aren't actually ghosts.  They are slowly disappearing though, eroding under the influence of
+      <a href="https://arxiv.org/abs/1809.01419">
+       energetic radiation
+      </a>
+      from hot and luminous gamma Cas.
+      <a href="https://en.wikipedia.org/wiki/Gamma_Cassiopeiae">
+       Gamma Cas
+      </a>
+      is physically located only 3 to 4 light-years from the nebulae.  Slightly closer to gamma Cas, IC 63 is dominated by
+      <a href="ap111013.html">
+       red H-alpha light emitted
+      </a>
+      as hydrogen atoms ionized by the star's ultraviolet radiation recombine with electrons.  Farther from the star, IC 59 shows proportionally less H-alpha emission but more of the characteristic blue tint of dust
+      <a href="ap091126.html">
+       reflected star light
+      </a>
+      .  The cosmic stage spans over 1 degree or 10 light-years at the estimated distance of
+      <a href="https://arxiv.org/abs/1705.04313">
+       gamma Cas and friends
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/27
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231027.html">
+      https://apod.nasa.gov/apod/ap231027.html
      </a>
     </td>
    </tr>
