@@ -5,6 +5,108 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/10/31
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2310/WizardCenter_McInnis_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2310/WizardCenter_McInnis_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.history.com/topics/halloween/history-of-halloween">
+       Halloween's origin
+      </a>
+      is ancient and astronomical.    Since the fifth century BC,
+      <a href="https://en.wikipedia.org/wiki/Halloween">
+       Halloween
+      </a>
+      has been celebrated as a
+      <a href="https://earthsky.org/astronomy-essentials/halloween-derived-from-ancient-celtic-cross-quarter-day/">
+       cross-quarter day
+      </a>
+      , a day halfway between an
+      <a href="https://www.timeanddate.com/calendar/september-equinox.html">
+       equinox
+      </a>
+      (equal day / equal night) and a
+      <a href="ap220321.html">
+       solstice
+      </a>
+      (minimum day / maximum night in the northern hemisphere).    With a
+      <a href="https://webexhibits.org/calendars/year-countries.html">
+       modern calendar
+      </a>
+      however, even though Halloween occurs today, the real  cross-
+      <a href="https://en.wikipedia.org/wiki/Quarter_days">
+       quarter day
+      </a>
+      will occur
+      <a href="https://sonrisaeast.com/quarter-sun-cross-quarter-calendar/">
+       next week
+      </a>
+      .    Another cross-quarter day is
+      <a href="https://en.wikipedia.org/wiki/Groundhog_Day">
+       Groundhog Day
+      </a>
+      <a href="http://www.youtube.com/watch?v=eZbtAFq7dP8">
+       .
+      </a>
+      Halloween's modern celebration retains
+      <a href="https://www.neopagan.net/Halloween-Origins.html">
+       historic roots
+      </a>
+      in
+      <a href="https://www.boredpanda.com/blog/wp-content/uploads/2016/10/halloween-cat-costumes-19-57f75fe01d15b__605.jpg">
+       dressing to scare
+      </a>
+      away the spirits of the dead.    Perhaps a fitting tribute to this ancient holiday is
+      <a href="https://www.astrobin.com/kt2rv5/">
+       this closeup view
+      </a>
+      of the
+      <a href="https://en.wikipedia.org/wiki/NGC_7380">
+       Wizard Nebula
+      </a>
+      (NGC 7380).   Visually, the interplay of stars, gas, and dust has created a shape that appears to some like a
+      <a href="https://en.wikipedia.org/wiki/Magician_(fantasy)#/media/File:Arthur-Pyle_The_Enchanter_Merlin.JPG">
+       fictional ancient sorcerer
+      </a>
+      .  Although the nebula may last only a few million years, some of the
+      <a href="https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve/">
+       stars being conjured
+      </a>
+      from the gas by the
+      <a href="https://en.wikipedia.org/wiki/Gravitational_collapse">
+       great gravitational powers
+      </a>
+      may
+      <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/startime.html">
+       outlive
+      </a>
+      our Sun.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/30
   </summary>
   <table>
@@ -18,8 +120,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231030.html">
+      https://apod.nasa.gov/apod/ap231030.html
      </a>
     </td>
    </tr>
