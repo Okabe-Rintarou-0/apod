@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/UtahEclipse_Kiczenski_1480.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/UtahEclipse_Kiczenski_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Part of the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      disappeared earlier this month, but few people were worried.  The missing part, which included the center from some locations,  just went behind the
+      <a href="https://science.nasa.gov/moon/">
+       Moon
+      </a>
+      in what is known as an
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/where-when">
+       annular solar eclipse
+      </a>
+      .   Featured here is an
+      <a href="ap190122.html">
+       eclipse sequence
+      </a>
+      taken as the  Moon was overtaking the rising Sun in the sky.  The foreground hill is
+      <a href="https://youtu.be/D0GxV5zpagQ">
+       Factory Butte
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Utah">
+       Utah
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      .  The rays flaring out from the Sun are not real --  they result from camera
+      <a href="ap010415.html">
+       aperture diffraction
+      </a>
+      and are known as
+      <a href="https://www.blueskytraveler.com/how-to-create-sunstars-in-your-photos/">
+       sunstar
+      </a>
+      .  The Moon is
+      <a href="https://i.pinimg.com/originals/3d/3d/bc/3d3dbcf8a4f9dbee8fc608c8d62dbb8c.jpg">
+       real
+      </a>
+      , but it is artificially brightened to enhance its outline -- which helps the viewer better visualize the Moon's changing position during this
+      <a href="ap230924.html">
+       ring-of-fire eclipse
+      </a>
+      .  As stunning as this
+      <a href="ap231005.html">
+       eclipse sequence
+      </a>
+      is,  it was considered just practice by the astrophotographer.   The reason? She hopes to use this experience to better photograph the
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/">
+       total solar eclipse
+      </a>
+      that will occur over
+      <a href="https://en.wikipedia.org/wiki/North_America">
+       North America
+      </a>
+      on April 8, 2024.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/10/31
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231031.html">
+      https://apod.nasa.gov/apod/ap231031.html
      </a>
     </td>
    </tr>
