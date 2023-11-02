@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/ClusterFornax.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/ClusterFornax1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Named for the southern
+      <a href="https://earthsky.org/constellations/fornax-the-furnace-galaxy-hubble-ultra-deep-field/">
+       constellation
+      </a>
+      toward which most of its galaxies can be found, the
+      <a href="http://en.wikipedia.org/wiki/Fornax_cluster">
+       Fornax Cluster
+      </a>
+      is one of the closest clusters of galaxies.  About 62 million light-years away, it's over 20 times more distant than our neighboring
+      <a href="ap130927.html">
+       Andromeda Galaxy
+      </a>
+      , but only about 10 percent farther along than the better known and more populated
+      <a href="ap110422.html">
+       Virgo Galaxy Cluster
+      </a>
+      .  Seen across
+      <a href="https://www.astrobin.com/z2lojf/">
+       this three degree wide
+      </a>
+      field-of-view, almost every yellowish splotch on the image is an elliptical galaxy in the  Fornax cluster.  Elliptical galaxies
+      <a href="https://noirlab.edu/public/news/noirlab2126/">
+       NGC 1399 and NGC 1404
+      </a>
+      are the dominant, bright cluster members toward the bottom center.  A standout, large barred spiral galaxy,
+      <a href="https://webbtelescope.org/contents/media/images/2023/104/01GS812G7AGRG6D1WCXPS3EYZ5">
+       NGC 1365
+      </a>
+      ,  is visible on the upper right as a prominent Fornax cluster member.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/01
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231101.html">
+      https://apod.nasa.gov/apod/ap231101.html
      </a>
     </td>
    </tr>
