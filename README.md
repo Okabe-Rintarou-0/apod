@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/dinkinesh-firstlook-llorri.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/dinkinesh-firstlook-llorri.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Last Wednesday the
+      <a href="https://science.nasa.gov/mission/lucy/">
+       voyaging Lucy
+      </a>
+      spacecraft
+      <a href="https://lucy.swri.edu/DinkineshEncounter.html">
+       encountered
+      </a>
+      its first asteroid,
+      <a href="https://www.minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&amp;object_id=dinkinesh">
+       152830
+      </a>
+      Dinkinesh, and discovered the inner-main belt asteroid has a moon.  From a distance of just over 400 kilometers, Lucy's Long-Range Reconnaissance Imager
+      <a href="https://www.nasa.gov/image-article/nasas-lucy-spacecraft-discovers-2nd-asteroid-during-dinkinesh-flyby/">
+       captured this close-up
+      </a>
+      of the binary system during a flyby at 4.5 kilometer per second or around 10,000 miles per hour.
+      <a href="https://www.nasa.gov/solar-system/nasas-lucy-asteroid-target-gets-a-name/">
+       A marvelous world, Dinkinesh
+      </a>
+      itself is small, less than 800 meters (about 0.5 miles) across at its widest.  Its satellite is seen from the spacecraft's perspective to emerge from behind the primary asteroid.  The asteroid moon is estimated to be only about 220 meters wide.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/03
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231103.html">
+      https://apod.nasa.gov/apod/ap231103.html
      </a>
     </td>
    </tr>
