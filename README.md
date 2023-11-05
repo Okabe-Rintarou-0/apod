@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/CreatureAurora_Salomonsen_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/CreatureAurora_Salomonsen_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It was Halloween and the sky looked like a creature.  Exactly which creature, the
+      <a href="http://asterisk.apod.com/viewtopic.php?f=29&amp;t=32252&amp;start=225#p212559">
+       astrophotographer was unsure
+      </a>
+      (but
+      <a href="https://asterisk.apod.com/discuss_apod.php?date=231105">
+       possibly you can suggest one
+      </a>
+      ).  Exactly what caused this
+      <a href="ap221030.html">
+       eerie apparition
+      </a>
+      in 2013 was sure:  one of the best
+      <a href="ap130609.html">
+       auroral displays
+      </a>
+      that year.  This
+      <a href="https://spaceweathergallery.com/index.php?title=aurora">
+       spectacular aurora
+      </a>
+      had an unusually high degree of
+      <a href="ap020115.html">
+       detail
+      </a>
+      .  Pictured
+      <a href="http://arcticlightphoto.photoshelter.com/gallery-image/News/G0000ABqHEeXXLF8/I0000s_hNlyttARI">
+       here
+      </a>
+      , the vivid green and purple
+      <a href="https://annex.exploratorium.edu/learning_studio/auroras/difcolors.html">
+       auroral colors
+      </a>
+      are caused by high atmospheric
+      <a href="https://periodic.lanl.gov/8.shtml">
+       oxygen
+      </a>
+      and
+      <a href="https://periodic.lanl.gov/7.shtml">
+       nitrogen
+      </a>
+      reacting to a burst of incoming
+      <a href="https://www.aps.org/publications/apsnews/200010/history.cfm">
+       electrons
+      </a>
+      .    Birch
+      <a href="https://en.wikipedia.org/wiki/Birch">
+       trees
+      </a>
+      in
+      <a href="https://youtu.be/kSMgRWt9NHg">
+       Tromsø
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Norway">
+       Norway
+      </a>
+      formed an also
+      <a href="https://i.pinimg.com/736x/c4/da/bf/c4dabff6de32983eb430ff204334fb5b.jpg">
+       eerie foreground
+      </a>
+      .  Frequently, new
+      <a href="http://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=aurora">
+       photogenic auroras
+      </a>
+      accompany new
+      <a href="https://svs.gsfc.nasa.gov/31248/">
+       geomagnetic storms
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/04
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231104.html">
+      https://apod.nasa.gov/apod/ap231104.html
      </a>
     </td>
    </tr>
