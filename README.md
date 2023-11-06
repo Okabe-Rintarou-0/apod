@@ -5,6 +5,101 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/RedAuroraItaly_Hofer_1200.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/RedAuroraItaly_Hofer_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What was that red glow on the horizon last night?  Aurora.  Our
+      <a href="ap230222.html">
+       unusually active
+      </a>
+      <a href="https://science.nasa.gov/sun/facts/">
+       Sun
+      </a>
+      produced a
+      <a href="ap180902.html">
+       surface explosion
+      </a>
+      a few days ago that sent out a burst of electrons, protons, and more massive charged nuclei.  This
+      <a href="https://www.nasa.gov/image-article/what-coronal-mass-ejection-or-cme/">
+       coronal mass ejection
+      </a>
+      (CME) triggered
+      <a href="https://spaceweathergallery2.com/index.php?title=aurora">
+       auroras
+      </a>
+      here on Earth that are being reported
+      <a href="https://cdn.petcarerx.com/blog/wp-content-uploads-2015-07-surprise-dog.jpg">
+       unusually far south
+      </a>
+      in Earth's
+      <a href="https://en.wikipedia.org/wiki/Northern_Hemisphere">
+       northern hemisphere
+      </a>
+      .   For example, this was the first time that
+      <a href="https://www.giorgiahoferphotography.com/about-me">
+       the astrophotographer
+      </a>
+      captured aurora from her home country of
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italy
+      </a>
+      .  Additionally, many images from these auroras appear quite
+      <a href="https://www.theaurorazone.com/about-the-aurora/the-science-of-the-northern-lights/the-northern-lights-colours">
+       red in color
+      </a>
+      .   In the
+      <a href="https://www.instagram.com/p/CzR9tpTOS7k/">
+       featured image
+      </a>
+      , the town of
+      <a href="https://youtu.be/6-feWbfrYio">
+       Comelico Superiore
+      </a>
+      in the Italian Alps is visible in the foreground, with the
+      <a href="ap220301.html">
+       central band
+      </a>
+      of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way galaxy
+      </a>
+      seen rising from the lower left.  What draws the eye the most, though, is the bright red
+      <a href="https://spaceplace.nasa.gov/aurora/">
+       aurora
+      </a>
+      on the far right.  The
+      <a href="https://www.instagram.com/p/CzR9tpTOS7k/">
+       featured image
+      </a>
+      is a composite with the foreground and  background images taken consecutively with the same camera and from the same location.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/05
   </summary>
   <table>
@@ -18,8 +113,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231105.html">
+      https://apod.nasa.gov/apod/ap231105.html
      </a>
     </td>
    </tr>
