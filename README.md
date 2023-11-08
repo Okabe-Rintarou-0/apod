@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_4400.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      There's a new space telescope in the sky:
+      <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">
+       Euclid
+      </a>
+      .  Equipped with two large panoramic cameras,
+      <a href="https://en.wikipedia.org/wiki/Euclid_(spacecraft)">
+       Euclid captures
+      </a>
+      light from the
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible
+      </a>
+      to the near-
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      .   It took five hours of observing for
+      <a href="https://sci.esa.int/web/euclid/-/57042-euclid-primary-mirror">
+       Euclid's 1.2-meter diameter primary mirror
+      </a>
+      to capture, through its
+      <a href="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/cat-looking-surprised-peering-over-the-edge-of-the-picture-john-daniels.jpg">
+       sharp optics
+      </a>
+      ,  the 1000+ galaxies in the
+      <a href="ap110712.html">
+       Perseus cluster
+      </a>
+      , which lies 250 million
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      away.    More than 100,000 galaxies are visible in the background,  some as
+      <a href="ap220316.html">
+       far away
+      </a>
+      as 10 billion light years.  The revolutionary nature of
+      <a href="https://www.euclid-ec.org/public/science/">
+       Euclid
+      </a>
+      lies in the combination of its wide field of view (twice the area of the full moon),  its high angular resolution (thanks to its
+      <a href="https://irfu.cea.fr/dap/en/Phocea/Vie_des_labos/Ast/ast.php?t=fait_marquant&amp;id_ast=4736">
+       620 Megapixel camera
+      </a>
+      ), and its infrared vision,  which captures both images and
+      <a href="https://astronomy.swin.edu.au/cosmos/s/Spectroscopy">
+       spectra
+      </a>
+      .
+      <a href="https://www.euclid-ec.org/public/data/surveys/">
+       Euclid's initial surveys
+      </a>
+      , covering a third of the sky and recording over  2 billion galaxies, will enable a
+      <a href="https://youtu.be/-rHGTVJfcWI">
+       study
+      </a>
+      of how
+      <a href="https://en.wikipedia.org/wiki/Dark_matter">
+       dark matter
+      </a>
+      and
+      <a href="https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy/">
+       dark energy
+      </a>
+      have shaped
+      <a href="https://ui.adsabs.harvard.edu/abs/2008AmJPh..76..265N/abstract">
+       our universe
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/06
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231107.html">
+      https://apod.nasa.gov/apod/ap231107.html
      </a>
     </td>
    </tr>
