@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/SARarcLooten.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/SARarcLooten1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This broad,
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098511">
+       luminous red arc
+      </a>
+      was a surprising visitor to partly cloudy evening skies over northern France.  Captured extending toward the zenith in a
+      <a href="https://www.flickr.com/photos/julienlooten/53311294522/">
+       west-to-east mosaic
+      </a>
+      of images from November 5, the faint atmospheric ribbon of light is an example of a Stable Auroral Red (SAR) arc.  The rare
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101205">
+       night sky phenomenon
+      </a>
+      was also spotted at unusually low latitudes around world, along with more dynamic auroral displays during an
+      <a href="https://spaceweather.com/archive.php?view=1&amp;day=07&amp;month=11&amp;year=2023">
+       intense geomagnetic storm
+      </a>
+      .  SAR arcs and their relation to auroral emission have been
+      <a href="https://eos.org/research-spotlights/from-sar-arc-to-steve-an-atmospheric-evolution">
+       explored by citizen science
+      </a>
+      and
+      <a href="https://earth.esa.int/eogateway/missions/swarm">
+       satellite
+      </a>
+      investigations.  From altitudes substantially above the normal auroral glow, the deep red SAR emission is thought to be caused by strong heating due to currents flowing in planet Earth's inner
+      <a href="https://science.nasa.gov/science-research/planetary-science/earths-magnetosphere/">
+       magnetosphere
+      </a>
+      .  Beyond this SAR, the Milky Way arcs above the cloud banks
+      <a href="ap230927.html">
+       along the horizon
+      </a>
+      , a regular visitor to night skies over northern France.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/10
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231110.html">
+      https://apod.nasa.gov/apod/ap231110.html
      </a>
     </td>
    </tr>
