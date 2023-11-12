@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/GibbousMoon_Strand_1500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/GibbousMoon_Strand_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This is a gibbous Moon.  More
+      <a href="ap080421.html">
+       Earthlings
+      </a>
+      are familiar with a full moon, when the entire face of
+      <a href="https://en.wikipedia.org/wiki/Luna_(goddess)">
+       Luna
+      </a>
+      is lit by the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      ,  and a
+      <a href="ap230527.html">
+       crescent moon
+      </a>
+      ,  when only a sliver of the
+      <a href="ap220612.html">
+       Moon's face
+      </a>
+      is lit.   When more than half of the Moon is illuminated, though,  but still short of full illumination, the
+      <a href="https://spaceplace.nasa.gov/moon-phases/">
+       phase
+      </a>
+      is called
+      <a href="https://www.universetoday.com/20324/gibbous-moon/">
+       gibbous
+      </a>
+      .   Rarely seen in television and movies,
+      <a href="https://svs.gsfc.nasa.gov/5048">
+       gibbous moon
+      </a>
+      s  are quite common in the actual night sky.  The
+      <a href="https://www.facebook.com/fotografgoranstrand/photos/a.10150527145460560/10156547207320560/?type=3&amp;theater">
+       featured image
+      </a>
+      was taken in
+      <a href="https://youtu.be/cu8UVfRtnuw">
+       Jämtland
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Sweden">
+       Sweden
+      </a>
+      near the end of 2018 October.  That
+      <a href="http://astronomy.swin.edu.au/cosmos/G/Gibbous+Moon">
+       gibbous moon
+      </a>
+      turned, in a few days, into a crescent moon, and then a
+      <a href="https://en.wikipedia.org/wiki/New_moon">
+       new moon
+      </a>
+      ,  then back to a crescent, and a few days past that, back to gibbous.   Setting up to capture a picturesque gibbous moonscape, the photographer was
+      <a href="https://i-h2.pinimg.com/564x/6f/6a/21/6f6a214624e5499b1cacfdaa88f28592.jpg">
+       quite surprised
+      </a>
+      to find an airplane,
+      <a href="ap140113.html">
+       surely
+      </a>
+      well in the foreground,  appearing to fly past it.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/11
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231111.html">
+      https://apod.nasa.gov/apod/ap231111.html
      </a>
     </td>
    </tr>
