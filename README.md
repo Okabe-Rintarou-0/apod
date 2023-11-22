@@ -5,6 +5,81 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/ic342asi294large.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/ic342asi294large_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap101209.html">
+       Similar
+      </a>
+      in size to large, bright spiral galaxies in our neighborhood,
+      <a href="http://spider.seds.org/spider/LG/i0342.html">
+       IC 342
+      </a>
+      is a mere 10 million light-years
+      <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?2002AJ....124..839S">
+       distant
+      </a>
+      in the long-necked, northern constellation
+      <a href="http://www.hawastsoc.org/deepsky/cam/index.html">
+       Camelopardalis
+      </a>
+      .  A sprawling
+      <a href="ap051222.html">
+       island universe
+      </a>
+      , IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own
+      <a href="ap110520.html">
+       Milky Way galaxy
+      </a>
+      .  Even though IC 342's light is dimmed and reddened by intervening
+      <a href="http://www-ssg.sr.unh.edu/ism/what1.html">
+       cosmic clouds
+      </a>
+      , this
+      <a href="http://www.starrywonders.com/ic342asi294small.html">
+       sharp telescopic image
+      </a>
+      traces the galaxy's own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from
+      <a href="http://spacetelescope.org/images/potw1727a/">
+       the galaxy's core
+      </a>
+      .  IC 342 has undergone a recent burst of
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA14402">
+       star formation
+      </a>
+      activity and is close enough to have gravitationally influenced the evolution of the
+      <a href="http://messier.seds.org/xtra/ngc/maffei1g.html">
+       local group
+      </a>
+      of galaxies and the Milky Way.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/21
   </summary>
   <table>
@@ -18,8 +93,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231121.html">
+      https://apod.nasa.gov/apod/ap231121.html
      </a>
     </td>
    </tr>
