@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Immersed in an eerie greenish light, this rugged
+      <a href="ap210305.html">
+       little planet
+      </a>
+      appears to be home to stunning water falls and an impossibly tall mountain.
+      <a href="https://gis.earthdata.nasa.gov/portal/apps/sites/#/earth-information-center">
+       It's planet Earth
+      </a>
+      of course.  On the night of November 9 the nadir-centered 360 degree mosaic was
+      <a href="https://www.instagram.com/p/Cz3ne8SL6tA/">
+       captured by digital camera
+      </a>
+      from the
+      <a href="https://www.google.com/maps/@64.9406563,-23.2972301,13z?entry=ttu">
+       Kirkjufell mountain area
+      </a>
+      of western Iceland.  Curtains of
+      <a href="ap231117.html">
+       shimmering Aurora Borealis
+      </a>
+      or Northern Lights provide the pale greenish illumination.  The intense auroral display was caused by solar activity that rocked
+      <a href="https://science.nasa.gov/science-research/planetary-science/earths-magnetosphere/">
+       Earth's magnetosphere
+      </a>
+      in early November and produced strong geomagnetic storms.  Kirkjufell mountain itself stands at the top of the
+      <a href="https://en.wikipedia.org/wiki/Stereographic_projection">
+       stereographic
+      </a>
+      projection's circular horizon.  Northern hemisphere skygazers will recognize the familiar stars of the Big Dipper just above  Kirkjufell's peak.  At lower right the compact Pleiades star cluster and truly giant
+      <a href="ap231124.html">
+       planet Jupiter
+      </a>
+      also shine in this little planet's night sky.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/24
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231124.html">
+      https://apod.nasa.gov/apod/ap231124.html
      </a>
     </td>
    </tr>
