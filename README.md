@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Where do comet tails come from?   There are no obvious places on the
+      <a href="http://www.planetary.org/multimedia/space-images/small-bodies/comets-visited-by-spacecraft-2014.html">
+       nuclei of comets
+      </a>
+      from which the
+      <a href="ap150203.html">
+       jets
+      </a>
+      that create
+      <a href="ap000413.html">
+       comet tails
+      </a>
+      emanate.   In 2016, though, ESA's
+      <a href="http://www.esa.int/Our_Activities/Space_Science/Rosetta/Europe_s_comet_chaser">
+       Rosetta spacecraft
+      </a>
+      not only imaged a
+      <a href="ap151118.html">
+       jet emerging
+      </a>
+      from
+      <a href="https://en.wikipedia.org/wiki/67P/Churyumov%E2%80%93Gerasimenko">
+       Comet 67P/Churyumov-Gerasimenko
+      </a>
+      , but flew right through it.   Featured is
+      <a href="https://www.esa.int/Our_Activities/Space_Science/Rosetta/Rosetta_finds_comet_plume_powered_from_below">
+       a telling picture
+      </a>
+      showing a
+      <a href="https://www.syfy.com/syfywire/a-plume-erupts-from-a-comet-pressured-from-below">
+       bright plume
+      </a>
+      emerging from a small circular dip bounded on one side by a 10-meter high wall.   Analyses of
+      <a href="https://www.youtube.com/watch?v=nQ9ivd7wv30">
+       Rosetta data
+      </a>
+      show that the jet was composed of both dust and water-ice.  The rugged but otherwise
+      <a href="http://www.esa.int/spaceinimages/Images/2017/10/Comet_plume_in_context">
+       unremarkable terrain
+      </a>
+      indicates that
+      <a href="https://pbs.twimg.com/media/ETbE6XDU4AIvE1d.jpg">
+       something likely happened
+      </a>
+      far under the porous surface to create the plume.
+      <a href="https://www.mps.mpg.de/Rosetta-reveals-dust-jet">
+       This image
+      </a>
+      was taken about two months before
+      <a href="ap161001.html">
+       Rosetta's mission ended
+      </a>
+      with a controlled impact onto Comet 67P's surface.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/25
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231125.html">
+      https://apod.nasa.gov/apod/ap231125.html
      </a>
     </td>
    </tr>
