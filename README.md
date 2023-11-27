@@ -5,6 +5,116 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/EagleRay_Chander_3277.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/EagleRay_Chander_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This
+      <a href="https://en.wikipedia.org/wiki/Eagle_ray">
+       eagle ray
+      </a>
+      <a href="https://youtu.be/sHgPqrBF8bA">
+       glides
+      </a>
+      across a cosmic sea.   Officially cataloged as
+      <a href="https://www.astrobin.com/qa64zs/">
+       SH2-63 and LBN 86
+      </a>
+      ,  the dark nebula is composed of gas and dust that  just happens to appear shaped like a
+      <a href="https://www.georgiaaquarium.org/animal/spotted-eagle-ray/">
+       common ocean fish
+      </a>
+      .   The
+      <a href="ap990509.html">
+       interstellar dust
+      </a>
+      nebula appears light brown as it
+      <a href="ap230129.html">
+       blocks
+      </a>
+      and
+      <a href="http://burro.astr.cwru.edu/Academics/Astr221/StarProp/dust.html">
+       reddens
+      </a>
+      visible light emitted behind it.  Dark nebulas glow primarily in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared light
+      </a>
+      , but also reflect
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      from surrounding stars.  The dust in dark nebulas is usually sub-millimeter chunks of
+      <a href="ap230108.html">
+       carbon, silicon, and oxygen
+      </a>
+      ,  frequently coated with frozen
+      <a href="https://earthobservatory.nasa.gov/global-maps/MOP_CO_M">
+       carbon monoxide
+      </a>
+      and
+      <a href="https://youtu.be/qVKod6Rv6dE">
+       nitrogen
+      </a>
+      .   Dark nebulas are also known as
+      <a href="ap231123.html">
+       molecular clouds
+      </a>
+      because they also contain relatively high amounts of
+      <a href="https://en.wikipedia.org/wiki/Diatomic_molecule">
+       molecular
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Hydrogen">
+       hydrogen
+      </a>
+      and
+      <a href="ap120821.html">
+       larger molecules
+      </a>
+      .  Previously unnamed, the here dubbed
+      <a href="https://youtu.be/sHgPqrBF8bA">
+       Eagle Ray
+      </a>
+      Nebula  is normally
+      <a href="https://media.istockphoto.com/id/1326946398/photo/curious-dog-funny-pug-looking-through-binoculars.jpg?s=1024x1024&amp;w=is&amp;k=20&amp;c=daD-I9x7Ukt1qUsyqChchDFUt6vaI5vfvswI3dzJCUM=">
+       quite dim
+      </a>
+      but has been imaged clearly over 20-hours through
+      <a href="ap200408.html">
+       dark skies
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/26
   </summary>
   <table>
@@ -18,8 +128,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231126.html">
+      https://apod.nasa.gov/apod/ap231126.html
      </a>
     </td>
    </tr>
