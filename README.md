@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/Ganymede2_JunoGill_3445.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/Ganymede2_JunoGill_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What does the largest moon in the Solar System look like?
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      's moon
+      <a href="https://science.nasa.gov/jupiter/moons/ganymede/facts/">
+       Ganymede
+      </a>
+      , larger than even
+      <a href="https://science.nasa.gov/mercury/">
+       Mercury
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Pluto">
+       Pluto
+      </a>
+      ,  has an icy surface speckled with bright young craters overlying a mixture of  older, darker, more cratered terrain laced with
+      <a href="ap960711.html">
+       grooves
+      </a>
+      and ridges.   The cause of the grooved terrain remains a
+      <a href="https://www.gapphotos.com/images/WebPreview/0100/0100358.jpg">
+       topic of research
+      </a>
+      ,  with a leading hypothesis relating it to shifting ice plates.
+      <a href="https://en.wikipedia.org/wiki/Ganymede_(moon)">
+       Ganymede
+      </a>
+      is thought to have an
+      <a href="https://youtu.be/9e1wrjFSjkI">
+       ocean layer
+      </a>
+      that contains more water than Earth -- and
+      <a href="https://apod.nasa.gov/debate/debate100th.html">
+       might contain life
+      </a>
+      .   Like
+      <a href="ap210503.html">
+       Earth's Moon
+      </a>
+      , Ganymede keeps the
+      <a href="https://en.wikipedia.org/wiki/Tidal_locking">
+       same face towards
+      </a>
+      its central planet, in this case Jupiter.   The
+      <a href="https://www.flickr.com/photos/kevinmgill/51238659798/">
+       featured image
+      </a>
+      was captured in 2021 by NASA's robotic Juno spacecraft when it passed by the immense moon.   The close pass reduced Juno's orbital period around Jupiter from 53 days to 43 days.
+      <a href="https://www.nasa.gov/feature/jpl/nasa-s-juno-mission-expands-into-the-future">
+       Juno continues
+      </a>
+      to study the
+      <a href="https://www.missionjuno.swri.edu/mission/">
+       giant planet
+      </a>
+      's high gravity,  unusual
+      <a href="ap200225.html">
+       magnetic field
+      </a>
+      , and  complex
+      <a href="ap230523.html">
+       cloud structures
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/27
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231127.html">
+      https://apod.nasa.gov/apod/ap231127.html
      </a>
     </td>
    </tr>
