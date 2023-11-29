@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/11/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2311/LowerLandspout_Hannon_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2311/LowerLandspout_Hannon_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Could there be a tornado inside another tornado?  In general, no.   OK, but could there be a tornado inside a wider
+      <a href="https://youtu.be/4aswtt6Cobo">
+       dust devil
+      </a>
+      ?  No again, for one
+      <a href="https://www.reddit.com/r/askscience/comments/78oaoc/is_there_a_fundamental_difference_between/">
+       reason because
+      </a>
+      tornados comes down from the sky,  but dust devils
+      <a href="https://assets.puzzlefactory.com/puzzle/502/800/original.webp">
+       rise up
+      </a>
+      from the ground.  What is pictured is a
+      <a href="https://en.wikipedia.org/wiki/Landspout">
+       landspout
+      </a>
+      , an unusual type of tornado known to occur  on the edge of a violent
+      <a href="ap220116.html">
+       thunderstorm
+      </a>
+      .  The
+      <a href="https://www.instagram.com/p/B9SdnFAJpWU/">
+       featured landspout
+      </a>
+      was imaged and identified in
+      <a href="https://en.wikipedia.org/wiki/Kansas">
+       Kansas
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      ,  in June 2019 by an experienced storm chaser.   The
+      <a href="https://www.facebook.com/photo/?fbid=1136196520169464&amp;set=a.205174699938322">
+       real tornado
+      </a>
+      is in the center, and the outer sheath was possibly created by
+      <a href="https://www.washingtonpost.com/weather/2021/06/08/tall-tornado-denver-colorado/">
+       large dust particles thrown out
+      </a>
+      from the central tornado.  So far, the only planet known to create tornados is
+      <a href="https://spaceplace.nasa.gov/all-about-earth/">
+       Earth
+      </a>
+      , although
+      <a href="https://svs.gsfc.nasa.gov/11691/">
+       tornado-like activity
+      </a>
+      has been
+      <a href="ap980429.html">
+       found
+      </a>
+      on the Sun and
+      <a href="ap150303.html">
+       dust devils
+      </a>
+      are common on
+      <a href="https://mars.nasa.gov/">
+       Mars
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/11/28
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231128.html">
+      https://apod.nasa.gov/apod/ap231128.html
      </a>
     </td>
    </tr>
