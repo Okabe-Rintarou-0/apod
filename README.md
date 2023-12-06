@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/12/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2312/TorchedDust_HubbleMecone_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2312/TorchedDust_HubbleMecone_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It's stars versus dust in the Carina Nebula and the stars are winning.  More precisely, the
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       energetic light
+      </a>
+      and
+      <a href="ap000318.html">
+       wind
+      </a>
+      s  from massive newly formed
+      <a href="https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve/">
+       stars
+      </a>
+      are evaporating and dispersing the
+      <a href="ap220314.html">
+       dusty stellar nurseries
+      </a>
+      in which they formed.  Located in the
+      <a href="ap190623.html">
+       Carina Nebula
+      </a>
+      and inside a region  known informally as
+      <a href="https://esahubble.org/images/heic1007a/">
+       Mystic Mountain
+      </a>
+      ,  these pillars' appearance is dominated by opaque brown dust  even though it is composed mostly of clear
+      <a href="http://apod.nasa.gov/rjn/apod/lib/lament.html">
+       hydrogen
+      </a>
+      gas.  Even though some of the
+      <a href="ap211214.html">
+       dust pillar
+      </a>
+      s look like
+      <a href="https://en.wikipedia.org/wiki/Torch">
+       torches
+      </a>
+      ,  their ends are not on
+      <a href="ap180826.html">
+       fire
+      </a>
+      -- rather, they are illuminated by nearby stars.   About 7,500 light-years distant, the featured image was taken with the
+      <a href="https://hubblesite.org/mission-and-telescope">
+       Hubble Space Telescope
+      </a>
+      and highlights  an interior region of Carina known as
+      <a href="https://www.semanticscholar.org/paper/HST-WFC3-Imaging-of-Protostellar-Jets-in-Carina%3A-Reiter-Smith/71a6e0755f3b9ec46ca909c34ff0d3b282c6be00/figure/6">
+       HH1066
+      </a>
+      which spans nearly a
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light year
+      </a>
+      .  Within a few million years, the stars will likely
+      <a href="https://www.barnorama.com/wp-content/images/2013/01/Cats-Standing/30-Cats-Standing.jpg">
+       win out
+      </a>
+      completely and the dust torches will completely
+      <a href="https://www.youtube.com/shorts/avgUGHv2Sl4">
+       evaporate
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/12/05
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231205.html">
+      https://apod.nasa.gov/apod/ap231205.html
      </a>
     </td>
    </tr>
