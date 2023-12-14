@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/12/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2312/CasA_nircam_4096.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2312/CasA_nircam_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://en.wikipedia.org/wiki/Stellar_evolution#Massive_stars">
+       Massive stars
+      </a>
+      in our Milky Way Galaxy live spectacular lives.   Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores.  After only a few million years for the most massive stars, the
+      <a href="ap190801.html">
+       enriched material
+      </a>
+      is blasted back into interstellar space where star formation can begin anew.  The expanding debris cloud known as Cassiopeia A is an example of this final phase of the
+      <a href="https://universe.nasa.gov/stars/basics/">
+       stellar life cycle
+      </a>
+      .  Light from the supernova explosion that created this remnant would have been first
+      <a href="https://spider.seds.org/spider/Vars/casA.html">
+       seen in planet Earth's sky
+      </a>
+      about 350 years ago, although it took that light 11,000 years to reach us.
+      <a href="https://webbtelescope.org/contents/media/images/2023/149/01HGGZ4TPD8XFNPCBTZ2QYM0ZM">
+       This sharp NIRCam image
+      </a>
+      from the James Webb Space Telescope shows the still hot filaments and knots in the supernova remnant.  The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across, while the
+      <a href="ap170501.html">
+       bright speck
+      </a>
+      near center is a neutron star, the incredibly dense, collapsed remains of the massive stellar core.  Light echoes from the massive star's cataclysmic explosion are also
+      <a href="https://webbtelescope.org/contents/media/images/2023/149/01HGGZDJX7RZR07HWZ6YEQ74CR">
+       identified in Webb's detailed image
+      </a>
+      of supernova remnant Cassiopeia A.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/12/13
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231213.html">
+      https://apod.nasa.gov/apod/ap231213.html
      </a>
     </td>
    </tr>
