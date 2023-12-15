@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/12/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://ui.adsabs.harvard.edu/abs/2017MPBu...44...87P/abstract">
+       Asteroid 319 Leona
+      </a>
+      cast a shadow across planet Earth on December 12, as it
+      <a href="https://earthsky.org/space/betelgeuse-will-dim-disappear-asteroid-leona-dec-11-12-2023/">
+       passed in front of bright star Betelgeuse
+      </a>
+      .  But to see everyone's
+      <a href="ap200102.html">
+       favorite red giant star fade
+      </a>
+      this time, you had to stand
+      <a href="https://cloud.occultwatcher.net/event/1075-319-83995-648466-H27989">
+       near the center
+      </a>
+      of the narrow shadow path starting in central Mexico and extending eastward across southern Florida, the Atlantic Ocean, southern Europe, and Eurasia.  The geocentric celestial event is captured in these two panels taken at Almodovar del Rio, Spain from before (left) and during the asteroid-star occultation.  In both panels Betelgeuse is seen above and left, at the shoulder of the familiar constellation Orion.
+      <a href="https://skyandtelescope.org/astronomy-news/asteroid-will-cover-betelgeuse-may-reveal-its-visible-surface/">
+       Its brightness diminishes
+      </a>
+      noticeably during the exceedingly rare occultation when, for several seconds, the giant star was briefly eclipsed by a roughly 60 kilometer diameter
+      <a href="https://science.nasa.gov/solar-system/asteroids/">
+       main-belt asteroid
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/12/14
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231214.html">
+      https://apod.nasa.gov/apod/ap231214.html
      </a>
     </td>
    </tr>
