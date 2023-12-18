@@ -5,6 +5,93 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/12/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2312/greyilliusion_wikipedia_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2312/greyillusion_wikipedia_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Are squares A and B the same color?  They are!  To verify this, either run your cursor over the image or click
+      <a href="image/0707/samecolor_wikipedia_connected.jpg">
+       here
+      </a>
+      to see them connected.    The
+      <a href="https://michaelbach.de/ot/lum-adelsonCheckShadow/">
+       featured illusion
+      </a>
+      , an example of the
+      <a href="https://en.wikipedia.org/wiki/Same_color_illusion">
+       same color illusion
+      </a>
+      , illustrates that  purely human perceptions in science may be
+      <a href="https://www.quora.com/Optical-Illusions/What-are-some-great-optical-illusions">
+       ambiguous
+      </a>
+      or inaccurate, even such a seemingly direct
+      <a href="https://www.youtube.com/watch?v=y8U0YPHxiFQ">
+       perception
+      </a>
+      as relative color.    Similar
+      <a href="ap121003.html">
+       illusions
+      </a>
+      exist on the
+      <a href="https://www.facebook.com/APOD.Sky">
+       sky
+      </a>
+      , such as the
+      <a href="ap090616.html">
+       size of the Moon near the horizon
+      </a>
+      , or the
+      <a href="ap190211.html">
+       apparent shapes of astronomical objects
+      </a>
+      .    The advent of automated, reproducible measuring devices such as
+      <a href="https://en.wikipedia.org/wiki/Charge-coupled_device">
+       CCDs
+      </a>
+      have made
+      <a href="https://science.nasa.gov/">
+       science
+      </a>
+      in general and
+      <a href="https://www.iau.org/public/themes/astronomy_in_everyday_life/">
+       astronomy
+      </a>
+      in particular less prone to, but not free of,
+      <a href="https://www.youtube.com/watch?v=w8Zz05t19dg">
+       human-biased
+      </a>
+      <a href="https://www.michaelbach.de/ot/">
+       illusions
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/12/17
   </summary>
   <table>
@@ -18,8 +105,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231217.html">
+      https://apod.nasa.gov/apod/ap231217.html
      </a>
     </td>
    </tr>
