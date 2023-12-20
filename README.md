@@ -5,6 +5,137 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/12/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2312/BavarianHalos_Werner_1500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2312/BavarianHalos_Werner_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's causing those unusual sky arcs?  Ice crystals.   While crossing a field of fresh snow near
+      <a href="https://youtu.be/5GjgTrY_cjA">
+       Füssen
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Bavaria">
+       Bavaria
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Germany">
+       Germany
+      </a>
+      ,  earlier this month, the photographer noticed that he had entered an ice fog.   For suspended water to freeze into an
+      <a href="https://en.wikipedia.org/wiki/Ice_fog">
+       ice fog
+      </a>
+      requires quite cold temperatures,  and indeed the air temperature on this day was measured at well below zero.   The
+      <a href="ap211228.html">
+       ice fog
+      </a>
+      reflected light from the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      setting behind
+      <a href="https://www.reddit.com/r/churches/comments/18h9p41/st_colemans_church_in_schwangau_ostallg%C3%A4u_bavaria/">
+       St. Coleman Church
+      </a>
+      .   The result was one of the
+      <a href="https://img.buzzfeed.com/buzzfeed-static/static/campaign_images/web05/2011/11/28/10/this-cat-is-totally-amazed-28550-1322493178-12.jpg?resize=600:*">
+       greatest spectacles
+      </a>
+      the photographer has ever seen.  First, the spots in the
+      <a href="https://www.instagram.com/p/C0mLwRBN2Xf/">
+       featured picture
+      </a>
+      are not background stars but suspended ice and snow.  Next, two prominent
+      <a href="https://old.atoptics.co.uk/halosim.htm">
+       ice halos
+      </a>
+      are visible: the
+      <a href="ap210201.html">
+       22-degree halo
+      </a>
+      and the
+      <a href="https://en.wikipedia.org/wiki/46%C2%B0_halo">
+       46-degree
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Halo_(optical_phenomenon)">
+       halo
+      </a>
+      .  Multiple
+      <a href="https://old.atoptics.co.uk/halo/spsun.htm">
+       arcs
+      </a>
+      are also
+      <a href="https://old.atoptics.co.uk/halo/common.htm">
+       visible
+      </a>
+      ,  including, from top to bottom,
+      <a href="https://atoptics.wordpress.com/2014/05/09/the-mystery-of-bright-antisolar-arcs/">
+       antisolar
+      </a>
+      (subsun),
+      <a href="https://en.wikipedia.org/wiki/Circumzenithal_arc">
+       circumzenithal
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Parry_arc">
+       Parry
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Tangent_arc">
+       tangent
+      </a>
+      , and
+      <a href="https://en.wikipedia.org/wiki/Parhelic_circle">
+       parhelic
+      </a>
+      (horizontal).  Finally, the
+      <a href="ap030606.html">
+       balloon
+      </a>
+      shaped curve connecting  the top arc to the Sun is the
+      <a href="https://old.atoptics.co.uk/halo/whyinfr.htm">
+       rarest
+      </a>
+      of all: it is the
+      <a href="https://www.storyofsnow.com/blog1.php/a-rare-heliac-arc-plus-1">
+       heliac arc
+      </a>
+      , created by reflection from the sides of
+      <a href="https://en.wikipedia.org/wiki/Ice_crystal#/media/File:Hexagonal_Ice_Crystals.svg">
+       hexagonally
+      </a>
+      shaped
+      <a href="https://old.atoptics.co.uk/halo/platcol.htm">
+       ice crystals
+      </a>
+      suspended in a horizontal orientation.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/12/19
   </summary>
   <table>
@@ -18,8 +149,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231219.html">
+      https://apod.nasa.gov/apod/ap231219.html
      </a>
     </td>
    </tr>
