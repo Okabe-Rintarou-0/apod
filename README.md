@@ -5,6 +5,96 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/12/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2312/ngc2440e_hst_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2312/ngc2440e_hst_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's that in the center?   Like a
+      <a href="https://youtu.be/lWOySU_hAz0">
+       butterfly
+      </a>
+      , a
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/dwarfs2.html">
+       white dwarf star
+      </a>
+      begins its life by casting off a
+      <a href="https://en.wikipedia.org/wiki/Pupa#Cocoon">
+       cocoon
+      </a>
+      of gas that enclosed its former self.   In this analogy, however, the
+      <a href="ap231211.html">
+       Sun
+      </a>
+      would be a
+      <a href="https://www.woodlandtrust.org.uk/blog/2019/05/are-caterpillars-insects/">
+       caterpillar
+      </a>
+      and the ejected shell of gas would become the
+      <a href="https://s.wsj.net/public/resources/images/NY-CE236_DOG_DV_20130211182422.jpg">
+       prettiest
+      </a>
+      cocoon of all.    In the
+      <a href="https://esahubble.org/images/opo9935e/">
+       featured cocoon
+      </a>
+      , the
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      <a>
+      </a>
+      designated
+      <a href="ap070215.html">
+       NGC 2440
+      </a>
+      contains one of the
+      <a href="ap951130.html">
+       hottest white dwarf stars
+      </a>
+      known.   The
+      <a href="ap000910.html">
+       white dwarf
+      </a>
+      can be seen as the bright orange dot near the image center.   Our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      will eventually become a
+      <a href="https://en.wikipedia.org/wiki/White_dwarf">
+       white dwarf
+      </a>
+      butterfly, but not for
+      <a href="https://www.esa.int/ESA_Multimedia/Images/2022/08/The_Sun_s_future">
+       another 5 billion years
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/12/23
   </summary>
   <table>
@@ -18,8 +108,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231223.html">
+      https://apod.nasa.gov/apod/ap231223.html
      </a>
     </td>
    </tr>
