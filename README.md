@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2023/12/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2312/Jellyfish_Payne_7846.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2312/Jellyfish_Payne_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why is this jellyfish swimming in a sea of stars?  Drifting near bright star
+      <a href="https://en.wikipedia.org/wiki/Eta_Geminorum">
+       Eta Geminorum
+      </a>
+      ,  seen at the right, the
+      <a href="https://en.wikipedia.org/wiki/IC_443">
+       Jellyfish Nebula
+      </a>
+      extends its tentacles from the bright arcing ridge of emission left of center.   In fact, the cosmic
+      <a href="https://en.wikipedia.org/wiki/Jellyfish">
+       jellyfish
+      </a>
+      is part of bubble-shaped
+      <a href="https://en.wikipedia.org/wiki/Supernova_remnant">
+       supernova remnant
+      </a>
+      IC 443,  the expanding debris cloud from a
+      <a href="https://youtu.be/Q5UEMkvdnAc">
+       massive star that exploded
+      </a>
+      .   Light from the explosion first reached
+      <a href="https://science.nasa.gov/earth/facts/">
+       planet Earth
+      </a>
+      over
+      <a href="https://en.wikipedia.org/wiki/Upper_Paleolithic">
+       30,000 years ago
+      </a>
+      .   Like its cousin in astronomical waters, the
+      <a href="ap231115.html">
+       Crab Nebula
+      </a>
+      supernova remnant IC 443 is
+      <a href="ap060602.html">
+       known to harbor
+      </a>
+      a
+      <a href="https://en.wikipedia.org/wiki/Neutron_star">
+       neutron star
+      </a>
+      --  the remnant of the collapsed stellar core.   The Jellyfish Nebula is about 5,000
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light-years
+      </a>
+      away.   At that distance, the
+      <a href="https://www.astrobin.com/cgp7eo/B/">
+       featured image
+      </a>
+      would
+      <a href="https://i.pinimg.com/736x/9f/f7/24/9ff7249d652f407a5af1b6ac9827c917.jpg">
+       span
+      </a>
+      about 140 light-years across.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2023/12/25
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap231225.html">
+      https://apod.nasa.gov/apod/ap231225.html
      </a>
     </td>
    </tr>
