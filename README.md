@@ -5,6 +5,97 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/FalconMoon_Madow_1710.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/FalconMoon_Madow_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Can a rocket make the Moon ripple?  No, but it can make a background moon appear
+      <a href="ap110824.html">
+       wavy
+      </a>
+      .   The rocket, in this case, was a
+      <a href="https://en.wikipedia.org/wiki/SpaceX">
+       SpaceX
+      </a>
+      <a href="https://www.spacex.com/vehicles/falcon-heavy/">
+       Falcon Heavy
+      </a>
+      that blasted off from
+      <a href="https://www.nasa.gov/">
+       NASA
+      </a>
+      's
+      <a href="https://www.nasa.gov/kennedy/">
+       Kennedy Space Center
+      </a>
+      last week.  In the
+      <a href="https://www.instagram.com/p/C1axBjiML5G/">
+       featured launch picture
+      </a>
+      ,  the rocket's exhaust plume glows beyond its projection  onto the distant, rising, and nearly full moon.   Oddly, the Moon's lower edge shows
+      <a href="ap220531.html">
+       unusual drip-like ripples
+      </a>
+      .  The
+      <a href="https://science.nasa.gov/moon/">
+       Moon itself
+      </a>
+      ,  far in the distance, was really unchanged.   The
+      <a href="https://www.pressconnects.com/story/news/local/2016/05/19/why-do-we-see-waves-hot-objects/84598570/">
+       physical cause
+      </a>
+      of these
+      <a href="ap221014.html">
+       apparent ripples
+      </a>
+      was pockets of relatively hot or rarefied air
+      <a href="https://www.scientificamerican.com/article/what-causes-a-mirage/">
+       deflecting moonlight
+      </a>
+      less strongly than  pockets of relatively cool or compressed air:
+      <a href="https://youtu.be/m9cUy6B--xc">
+       refraction
+      </a>
+      .  Although the
+      <a href="https://as2.ftcdn.net/v2/jpg/05/71/90/95/1000_F_571909511_2H2RjYDbjosmoIBPivtXCgf61mub22oS.jpg">
+       shot was planned
+      </a>
+      , the timing of
+      <a href="https://youtu.be/yWUU1PqX6Og?t=50">
+       the launch
+      </a>
+      had to be just right for the rocket to be
+      <a href="ap201106.html">
+       transiting the Moon
+      </a>
+      during this single exposure.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/01
   </summary>
   <table>
@@ -18,8 +109,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240101.html">
+      https://apod.nasa.gov/apod/ap240101.html
      </a>
     </td>
    </tr>
