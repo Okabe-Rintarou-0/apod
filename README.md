@@ -5,6 +5,126 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/SarArcNz_McDonald_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/SarArcNz_McDonald_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What is that unusual red halo surrounding this aurora?   It is a Stable Auroral Red (SAR) arc.
+      <a href="https://www.windows2universe.org/glossary/aurora_SARARC.html">
+       SAR arc
+      </a>
+      s are rare and have only been acknowledged and studied since 1954.   The
+      <a href="https://www.instagram.com/p/C0e1DEXPQzR/">
+       featured wide-angle photograph
+      </a>
+      ,  capturing nearly an entire
+      <a href="ap231111.html">
+       SAR arc
+      </a>
+      surrounding more common green and red aurora,  was taken earlier this month from
+      <a href="https://youtu.be/DLxQsUAXKag">
+       Poolburn
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/New_Zealand">
+       New Zealand
+      </a>
+      , during an especially energetic
+      <a href="https://en.wikipedia.org/wiki/Geomagnetic_storm">
+       geomagnetic storm
+      </a>
+      .  Why
+      <a href="https://spaceweatherarchive.com/2021/11/22/3308/">
+       SAR arcs
+      </a>
+      form remains a topic of
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JA021722">
+       research
+      </a>
+      , but is likely related to
+      <a href="https://science.nasa.gov/science-research/planetary-science/earths-magnetosphere/">
+       Earth's protective magnetic field
+      </a>
+      , a field created by
+      <a href="https://physics.stackexchange.com/questions/385388/even-if-molten-iron-is-ionized-spins-how-does-it-make-a-mag-field">
+       molten iron
+      </a>
+      flowing deep inside the
+      <a href="https://spaceplace.nasa.gov/menu/earth/">
+       Earth
+      </a>
+      .   This magnetic field usually redirects incoming charged particles from the
+      <a href="ap000318.html">
+       Sun's wind
+      </a>
+      toward the Earth's poles.  However, it also traps a
+      <a href="https://en.wikipedia.org/wiki/Ring_current">
+       ring of ions
+      </a>
+      closer to the equator, where they can gain energy from the
+      <a href="https://science.nasa.gov/heliophysics/focus-areas/magnetosphere-ionosphere/">
+       magnetosphere
+      </a>
+      during high
+      <a href="ap160731.html">
+       solar activity
+      </a>
+      .  The energetic electrons in this
+      <a href="https://en.wikipedia.org/wiki/Ion">
+       ion
+      </a>
+      ring can collide with  and excite oxygen higher in
+      <a href="https://science.nasa.gov/earth/10-things-to-know-about-the-ionosphere/">
+       Earth's ionosphere
+      </a>
+      than typical
+      <a href="ap230730.html">
+       auroras
+      </a>
+      , causing the oxygen to glow red.
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101205">
+       Ongoing research
+      </a>
+      has uncovered evidence that a red SAR arc
+      <a href="https://allthingslearning.files.wordpress.com/2011/10/dogs_surprised.jpg">
+       can even transform
+      </a>
+      into a
+      <a href="ap230927.html">
+       purple and
+      </a>
+      green
+      <a href="https://eos.org/research-spotlights/from-sar-arc-to-steve-an-atmospheric-evolution">
+       STEVE
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/02
   </summary>
   <table>
@@ -18,8 +138,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240102.html">
+      https://apod.nasa.gov/apod/ap240102.html
      </a>
     </td>
    </tr>
