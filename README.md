@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/ZetaOph_spitzer_4015.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/ZetaOph_spitzer_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Like a ship plowing through cosmic seas,
+      <a href="ap061124.html">
+       runaway star
+      </a>
+      Zeta Ophiuchi produces the arcing interstellar bow wave or
+      <a href="https://www.youtube.com/watch?v=0rGz862VPRo">
+       bow shock
+      </a>
+      seen in this stunning infrared portrait.  In the false-color view, bluish Zeta Oph, a star about 20 times more massive than the Sun, lies near the center of the frame, moving toward the left at 24 kilometers per
+      <i>
+       second
+      </i>
+      .  Its strong stellar wind precedes it, compressing and heating the dusty
+      <a href="http://espg.sr.unh.edu/ism/what1.html">
+       interstellar material
+      </a>
+      and shaping the curved shock front.  What set this star in motion?  Zeta Oph was likely once a member of a
+      <a href="ap970219.html">
+       binary star system
+      </a>
+      , its companion star was more massive and hence shorter lived.  When the companion
+      <a href="https://en.wikipedia.org/wiki/Type_II_supernova">
+       exploded as a supernova
+      </a>
+      catastrophically losing mass, Zeta Oph was flung out of the system.    About 460 light-years away,
+      <a href="https://en.wikipedia.org/wiki/Zeta_Ophiuchi">
+       Zeta Oph
+      </a>
+      is 65,000 times more luminous than
+      <a href="https://solarsystem.nasa.gov/solar-system/sun/overview/">
+       the Sun
+      </a>
+      and would be one of the brighter stars in the sky if it weren't surrounded by obscuring
+      <a href="ap030706.html">
+       dust
+      </a>
+      .  The image spans about 1.5 degrees or 12 light-years at the estimated distance of
+      <a href="http://stars.astro.illinois.edu/sow/zetaoph.html">
+       Zeta Ophiuchi
+      </a>
+      .  In January 2020, NASA placed the
+      <a href="https://www.nasa.gov/mission_pages/spitzer/main/index.html">
+       Spitzer Space Telescope
+      </a>
+      in safe mode, ending its 16
+      <a href="http://www.spitzer.caltech.edu/news/2195-ssc2019-15-Sixteen-Images-for-Spitzer-s-Sweet-16">
+       successful years
+      </a>
+      of
+      <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasas-spitzer-tess-find-potentially-volcano-covered-earth-size-world/">
+       exploring the cosmos
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/03
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240103.html">
+      https://apod.nasa.gov/apod/ap240103.html
      </a>
     </td>
    </tr>
