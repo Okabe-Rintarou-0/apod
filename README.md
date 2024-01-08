@@ -5,6 +5,96 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_1280.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Venus goes through
+      <a href="https://en.wikipedia.org/wiki/Phases_of_Venus">
+       phases
+      </a>
+      .   Just like our Moon,
+      <a href="https://science.nasa.gov/venus/">
+       Venus
+      </a>
+      can appear as a full circular disk, a thin
+      <a href="ap230826.html">
+       crescent
+      </a>
+      , or anything in between.   Venus, frequently the brightest object in the
+      <a href="ap230102.html">
+       post-sunset
+      </a>
+      or
+      <a href="ap160130.html">
+       pre-sunrise
+      </a>
+      sky, appears so small,  however, that it usually requires binoculars or a small telescope to clearly see its current phase.   The
+      <a href="https://www.iau.org/public/images/detail/ann23043a/">
+       featured time-lapse sequence
+      </a>
+      was taken over the course of six months in 2015 from Surgères,
+      <a href="https://youtu.be/nAlTvNII1O8">
+       Charente-Maritime
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/France">
+       France
+      </a>
+      ,  and shows not only how Venus changes phase, but changes angular size as well.  When
+      <a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=Venus">
+       Venus
+      </a>
+      is on the far side of the Sun from the Earth,  it appears angularly smallest and nearest to full phase, while when
+      <a href="https://earthsky.org/astronomy-essentials/five-petals-of-venus/">
+       Venus and Earth
+      </a>
+      are on the same side of the Sun,
+      <a href="https://img.freepik.com/premium-photo/adorable-striped-cat-looking-up-cat-portrait-close-up_199743-10939.jpg">
+       Venus appears
+      </a>
+      larger, but as a crescent.
+      <a href="https://earthsky.org/upl/2023/01/Venus-elongation-north-sunrise-2023-Guy-Ottewell.jpg">
+       This month Venus
+      </a>
+      rises before dawn in
+      <a href="https://spaceplace.nasa.gov/moon-phases/">
+       waxing
+      </a>
+      <a href="ap231112.html">
+       gibbous
+      </a>
+      <a href="https://spaceplace.nasa.gov/moon-phases/">
+       phases
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/07
   </summary>
   <table>
@@ -18,8 +108,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240107.html">
+      https://apod.nasa.gov/apod/ap240107.html
      </a>
     </td>
    </tr>
