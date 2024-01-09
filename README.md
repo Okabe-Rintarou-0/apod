@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/ThorsHelmet_Biswas_1436.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/ThorsHelmet_Biswas_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Thor not only has
+      <a href="https://en.wikipedia.org/wiki/Thursday#Thor's_day">
+       his own day
+      </a>
+      (Thursday), but a helmet in the heavens.   Popularly called Thor's Helmet,
+      <a href="https://en.wikipedia.org/wiki/NGC_2359">
+       NGC 2359
+      </a>
+      is a hat-shaped cosmic cloud with wing-like appendages.  Heroically sized even for a
+      <a href="https://en.wikipedia.org/wiki/Thor">
+       Norse god
+      </a>
+      , Thor's Helmet is about 30 light-years across.  In fact, the cosmic head-covering is more like
+      <a href="ap180419.html">
+       an interstellar bubble
+      </a>
+      , blown with a fast wind from the bright, massive star near the bubble's center.  Known as a
+      <a href="https://astrobiology.nasa.gov/news/a-wolf-rayet-bubble-and-the-early-solar-system/">
+       Wolf-Rayet star
+      </a>
+      , the central star is an extremely
+      <a href="ap200308.html">
+       hot giant
+      </a>
+      thought to be in a brief, pre-
+      <a href="ap050910.html">
+       supernova
+      </a>
+      stage of
+      <a href="https://www.jpl.nasa.gov/infographics/stellar-evolution">
+       evolution
+      </a>
+      .  NGC 2359
+      <a href="ap100319.html">
+       is located
+      </a>
+      about 15,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-years
+      </a>
+      away toward the constellation of the
+      <a href="https://webhome.phy.duke.edu/~hsg/134/poems/frost-canis-major.txt">
+       Great Overdog
+      </a>
+      .  This
+      <a href="https://www.astrobin.com/jx49cy/0/">
+       remarkably sharp image
+      </a>
+      is a mixed cocktail of data from
+      <a href="https://astrobackyard.com/narrowband-imaging/">
+       narrowband filters
+      </a>
+      , capturing not only
+      <a href="https://images-na.ssl-images-amazon.com/images/I/81Nf3-uFj0L.__AC_SY445_SX342_QL70_FMwebp_.jpg">
+       natural looking
+      </a>
+      stars but details of
+      <a href="https://iopscience.iop.org/1538-3881/118/2/948">
+       the nebula's
+      </a>
+      filamentary structures.  The
+      <a href="https://en.wikipedia.org/wiki/WR_7">
+       star in the center
+      </a>
+      of Thor's Helmet is expected to
+      <a href="https://youtu.be/i_PCaRn2xoE">
+       explode
+      </a>
+      in a spectacular
+      <a href="https://en.wikipedia.org/wiki/Wolf%E2%80%93Rayet_star#Supernovae">
+       supernova sometime
+      </a>
+      within the next few thousand years.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/08
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240108.html">
+      https://apod.nasa.gov/apod/ap240108.html
      </a>
     </td>
    </tr>
