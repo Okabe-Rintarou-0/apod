@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/22halo_Zboran.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/22halo_Zboran1115.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/tonight/earth-comes-closest-to-sun-every-year-in-early-january/">
+       Earth's orbit around the Sun
+      </a>
+      is not a circle, it's an ellipse.  The point along its elliptical orbit where our fair planet is
+      <a href="https://blogs.nasa.gov/parkersolarprobe/2024/01/08/nasas-parker-solar-probe-completes-18th-close-approach-to-the-sun/">
+       closest to the Sun
+      </a>
+      is called perihelion.  This year, perihelion was on January 2 at 01:00 UTC, with the Earth about 3 million
+      <a href="ap201003.html">
+       miles
+      </a>
+      closer to the Sun than it was at aphelion (last July 6), the farthest point in its elliptical orbit.  Of course, distance from the Sun
+      <a href="https://earthsky.org/astronomy-essentials/december-solstice-january-perihelion-related/">
+       doesn't determine the seasons
+      </a>
+      , and it doesn't the determine size of Sun halos.
+      <a href="ap231014.html">
+       Easier to see
+      </a>
+      with the Sun hidden behind a tall tree trunk, this beautiful ice halo forms a 22 degree-wide circle around the Sun, recorded while strolling through the countryside near Heroldstatt, Germany.  The Sun halo's 22 degree angular diameter is
+      <a href="https://atoptics.co.uk/blog/22-halo-formation/">
+       determined by the six-sided geometry
+      </a>
+      of water ice crystals drifting high in planet Earth's atmosphere.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/12
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240112.html">
+      https://apod.nasa.gov/apod/ap240112.html
      </a>
     </td>
    </tr>
