@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/IC348_webb_3788.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/IC348_webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Sometimes, it's the stars that are the hardest to see that are the most interesting.
+      <a href="https://en.wikipedia.org/wiki/IC_348">
+       IC 348
+      </a>
+      is a young star cluster that illuminates surrounding filamentary dust.   The stringy and winding dust appears pink in
+      <a href="https://esawebb.org/images/weic2331a/">
+       this recently released infrared image
+      </a>
+      from the
+      <a href="https://science.nasa.gov/mission/webb/">
+       Webb Space Telescope
+      </a>
+      .  In
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      , this dust reflects mostly blue light, giving
+      <a href="ap230112.html">
+       the surrounding material
+      </a>
+      the familiar blue hue of a reflection nebula.   Besides bright stars, several cool objects have been located in IC 348, visible because they glow brighter in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared light
+      </a>
+      .   These objects are hypothesized to be low mass
+      <a href="https://en.wikipedia.org/wiki/Brown_dwarf">
+       brown dwarfs
+      </a>
+      .
+      <a href="https://ui.adsabs.harvard.edu/abs/2024AJ....167...19L/abstract">
+       Evidence for this
+      </a>
+      includes the detection of an
+      <a href="https://www.shutterstock.com/image-photo/banner-three-pets-atttentive-thinking-600nw-2136132101.jpg">
+       unidentified
+      </a>
+      atmospheric chemical, likely a hydrocarbon, seen previously in the
+      <a href="ap110119.html">
+       atmosphere
+      </a>
+      of
+      <a href="https://science.nasa.gov/saturn/">
+       Saturn
+      </a>
+      .  These objects appear to have masses slightly greater than known planets,  only a few times greater than
+      <a href="ap220828.html">
+       Jupiter
+      </a>
+      .   Together, these indicate that this young
+      <a href="ap230707.html">
+       star cluster
+      </a>
+      contains something noteworthy -- young planet-mass
+      <a href="https://webbtelescope.org/contents/articles/what-makes-brown-dwarfs-unique">
+       brown dwarfs
+      </a>
+      that float free, not orbiting any other star.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/14
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240114.html">
+      https://apod.nasa.gov/apod/ap240114.html
      </a>
     </td>
    </tr>
