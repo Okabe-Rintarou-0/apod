@@ -5,6 +5,54 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/2024_01_15-Jup-2h30-Chronograph.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/2024_01_15-Jup-2h30-Chronograph600.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Jupiter, our Solar System's ruling gas giant, is also the
+      <a href="https://coolcosmos.ipac.caltech.edu/ask/89-How-long-is-a-day-on-Jupiter-">
+       fastest spinning planet
+      </a>
+      , rotating once in less than 10 hours.  The gas giant doesn't rotate like a solid body though.
+      <a href="https://science.nasa.gov/jupiter/facts/">
+       A day on Jupiter
+      </a>
+      is about 9 hours and 56 minutes long at the poles, decreasing to 9 hours and 50 minutes near the equator.  The giant planet's fast rotation creates
+      <a href="https://www.jpl.nasa.gov/images/pia26076-cylindrical-orientation-of-jupiters-east-west-jet-streams">
+       strong jet streams
+      </a>
+      , separating its clouds into planet girdling bands of dark belts and bright zones.  You can easily follow Jupiter's rapid rotation in this sharp sequence of images from the night of January 15, all taken with a camera and small telescope outside of Paris, France.  Located just south of the equator, the giant planet's giant storm system, also known as
+      <a href="https://en.wikipedia.org/wiki/Great_Red_Spot#First_observations">
+       the Great Red Spot
+      </a>
+      , can be seen moving left to right with the planet's rotation.  From lower left to upper right, the sequence spans about 2 hours and 30 minutes.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/18
   </summary>
   <table>
@@ -18,8 +66,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240118.html">
+      https://apod.nasa.gov/apod/ap240118.html
      </a>
     </td>
    </tr>
