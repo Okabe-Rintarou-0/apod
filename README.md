@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/image-20240116164558_v1.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/image-20240116164558_v11024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      You might not immediately recognize this street map of
+      <a href="https://www.google.com/maps/@62.205288,25.7794447,16z?entry=ttu">
+       a neighborhood in Jyväskylä
+      </a>
+      , Finland,
+      <a href="https://earthobservatory.nasa.gov/">
+       planet Earth
+      </a>
+      .  But that's probably because the map was projected into the night sky and captured with an allsky camera on January 16.  The temperature recorded on that northern winter night was around minus 20 degrees Celsius.  As ice crystals formed in the atmosphere overhead, street lights spilling illumination into the sky above produced
+      <a href="https://atoptics.co.uk/blog/light-pillars/">
+       visible light pillars
+      </a>
+      , their ethereal appearance due to
+      <a href="ap220924.html">
+       specular reflections
+      </a>
+      from the fluttering crystals' flat surfaces.  Of course, the projected light pillars trace a map of the brightly lit local streets, though
+      <a href="image/2401/image-20240116214224_h.jpg">
+       reversed
+      </a>
+      right to left in the upward looking camera's view.  This light pillar street map was seen to hover for hours in
+      <a href="https://jyv-weather.info/allsky/videos/allsky-20240116.mp4">
+       the Jyväskylä night
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/24
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240124.html">
+      https://apod.nasa.gov/apod/ap240124.html
      </a>
     </td>
    </tr>
