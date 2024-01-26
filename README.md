@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/Ain_4096.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/Ain_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="http://stars.astro.illinois.edu/sow/ain.html">
+       Epsilon Tauri
+      </a>
+      lies 146 light-years away.  A K-type
+      <a href="https://en.wikipedia.org/wiki/Red_giant">
+       red giant
+      </a>
+      star, epsilon Tau is cooler than the Sun, but with about 13 times the solar radius it has nearly 100 times the solar luminosity.  A member of the
+      <a href="ap121224.html">
+       Hyades
+      </a>
+      open star cluster the giant star is known by the
+      <a href="https://en.wikipedia.org/wiki/List_of_proper_names_of_stars">
+       proper name Ain
+      </a>
+      , and along with brighter giant star Aldebaran, forms the eyes of Taurus the Bull.  Surrounded by dusty, dark clouds in Taurus, epsilon Tau is also known to have a planet.  Discovered by
+      <a href="https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/#/1">
+       radial velocity
+      </a>
+      measurements in 2006,
+      <a href="https://exoplanets.nasa.gov/exoplanet-catalog/7044/epsilon-tauri-b/">
+       Epsilon Tauri b
+      </a>
+      is a gas giant planet larger than Jupiter with an orbital period of 1.6 years.  And though the exoplanet can't be seen directly, on a dark night its parent star epsilon Tauri is easily visible to the unaided eye.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/25
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240125.html">
+      https://apod.nasa.gov/apod/ap240125.html
      </a>
     </td>
    </tr>
