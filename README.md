@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/PlutoTrueColor_NewHorizons_8000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/PlutoTrueColor_NewHorizons_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What color is Pluto, really?  It took some effort to figure out.   Even given all of the
+      <a href="ap150831.html">
+       images sent back
+      </a>
+      to Earth when the robotic
+      <a href="https://science.nasa.gov/mission/new-horizons/">
+       New Horizons
+      </a>
+      spacecraft
+      <a href="ap170731.html">
+       sped past Pluto
+      </a>
+      in 2015,  processing these
+      <a href="https://en.wikipedia.org/wiki/Ralph_(New_Horizons)">
+       multi-spectral
+      </a>
+      frames to approximate what the
+      <a href="https://micro.magnet.fsu.edu/primer/java/humanvision/accommodation/index.html">
+       human eye
+      </a>
+      would see was challenging.  The result
+      <a href="http://pluto.jhuapl.edu/Galleries/Featured-Images/image.php?page=1&amp;gallery_id=2&amp;image_id=543">
+       featured here
+      </a>
+      ,  released three years after the raw data was acquired by
+      <a href="http://pluto.jhuapl.edu/Mission/Spacecraft.php#Systems-and-Components">
+       New Horizons
+      </a>
+      ,  is the highest resolution true color image of
+      <a href="https://science.nasa.gov/dwarf-planets/pluto/">
+       Pluto
+      </a>
+      ever taken.  Visible in the image is the light-colored, heart-shaped,
+      <a href="https://en.wikipedia.org/wiki/Tombaugh_Regio">
+       Tombaugh Regio
+      </a>
+      , with the unexpectedly smooth
+      <a href="ap161122.html">
+       Sputnik Planitia
+      </a>
+      ,  made of frozen
+      <a href="https://periodic.lanl.gov/7.shtml">
+       nitrogen
+      </a>
+      ,  filling its western lobe.  New Horizons found the dwarf planet to have a
+      <a href="ap150914.html">
+       surprisingly complex surface
+      </a>
+      composed of many regions having
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fxvdk3cwfp1171.jpg">
+       perceptibly different hues
+      </a>
+      .   In total, though, Pluto is
+      <a href="ap060903.html">
+       mostly brown
+      </a>
+      ,  with much of its muted color originating from small amounts of surface
+      <a href="https://www.nasa.gov/solar-system/first-you-see-it-then-you-dont-scientists-closer-to-explaining-mars-methane-mystery/">
+       methane
+      </a>
+      energized by
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       ultraviolet light
+      </a>
+      from the Sun.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/27
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240127.html">
+      https://apod.nasa.gov/apod/ap240127.html
      </a>
     </td>
    </tr>
