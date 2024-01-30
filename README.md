@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/01/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2401/Slim_jaxa_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2401/Slim_jaxa_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      New landers are on the Moon.  Nearly two weeks ago,
+      <a href="https://en.wikipedia.org/wiki/Japan">
+       Japan
+      </a>
+      's
+      <a href="https://www.isas.jaxa.jp/en/missions/spacecraft/current/slim.html">
+       Smart Lander for Investigating Moon
+      </a>
+      (SLIM) released two rovers as it descended, before its main lander  touched  down itself.  The larger of the two rovers can
+      <a href="https://youtu.be/tP2TWhDVPVY">
+       hop like a frog
+      </a>
+      ,  while the smaller rover is about the size of a
+      <a href="https://en.wikipedia.org/wiki/Baseball_(ball)">
+       baseball
+      </a>
+      and can move after
+      <a href="https://youtu.be/F9ImPb8EnPU">
+       pulling itself apart
+      </a>
+      like a
+      <a href="https://www.newyorker.com/science/elements/a-mini-moon-rover-from-the-toy-company-that-created-transformers">
+       transformer
+      </a>
+      .  The main lander, nicknamed Moon Sniper, is seen in the
+      <a href="https://www.jaxa.jp/press/2024/01/20240125-4_j.html">
+       featured image
+      </a>
+      taken by the smaller rover.  Inspection of the image shows that
+      <a href="https://www.isas.jaxa.jp/en/missions/spacecraft/current/slim.html">
+       Moon Sniper
+      </a>
+      's thrusters are facing up,  meaning that the lander is
+      <a href="https://img2.joyreactor.cc/pics/post/%D0%BA%D0%BE%D1%82%D1%8D-%D0%B6%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-3650094.jpeg">
+       upside down
+      </a>
+      from its descent configuration and  on its side from its intended
+      <a href="https://youtu.be/57hS8uLU7v4">
+       landing configuration
+      </a>
+      .   One result is that
+      <a href="https://global.jaxa.jp/countdown/slim_special_site.html">
+       Moon Sniper
+      </a>
+      's
+      <a href="ap091130.html">
+       solar panel
+      </a>
+      s are not in the
+      <a href="https://www.nytimes.com/2024/01/25/science/japan-moon-lander-slim.html">
+       expected orientation
+      </a>
+      , so that
+      <a href="https://spaceplace.nasa.gov/what-powers-a-spacecraft/">
+       powering
+      </a>
+      the lander had to be curtailed and adapted.
+      <a href="https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-137D">
+       SLIM
+      </a>
+      's lander has
+      <a href="https://youtu.be/nvXLt3ET9mE?t=11800">
+       already succeeded as a technology demonstration
+      </a>
+      , its main mission, but was not  designed to withstand the lunar night -- which
+      <a href="https://svs.gsfc.nasa.gov/5187/">
+       starts tomorrow
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/29
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240129.html">
+      https://apod.nasa.gov/apod/ap240129.html
      </a>
     </td>
    </tr>
