@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/NGC1365_v4.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/NGC1365_v4_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Barred spiral galaxy NGC 1365 is truly a majestic
+      <a href="ap100109.html">
+       island universe
+      </a>
+      some 200,000 light-years across.  Located a mere 60 million light-years away toward the faint but heated constellation
+      <a href="https://earthsky.org/constellations/fornax-the-furnace-galaxy-hubble-ultra-deep-field/">
+       Fornax
+      </a>
+      , NGC 1365 is a
+      <a href="ap220129.html">
+       dominant member
+      </a>
+      of the well-studied
+      <a href="http://www.atlasoftheuniverse.com/galgrps/for.html">
+       Fornax Cluster
+      </a>
+      of galaxies.  This
+      <a href="https://www.astrobin.com/cq7ja1/">
+       sharp color image
+      </a>
+      shows the intense, reddish star forming regions near the ends of the galaxy's central bar and along its spiral arms.  Seen in fine detail, obscuring dust lanes cut across the galaxy's bright core.  At the core lies a supermassive black hole.  Astronomers think
+      <a href="http://arxiv.org/abs/0907.2602">
+       NGC 1365's
+      </a>
+      prominent bar plays a crucial role in the galaxy's evolution,
+      <a href="https://webbtelescope.org/contents/media/images/2023/104/01GS812G7AGRG6D1WCXPS3EYZ5">
+       drawing gas and dust
+      </a>
+      into a star-forming maelstrom and ultimately feeding material into the
+      <a href="https://phys.org/news/2022-08-image-webb-galaxy-ngc-supermassive.html">
+       central black hole
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/01/31
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240131.html">
+      https://apod.nasa.gov/apod/ap240131.html
      </a>
     </td>
    </tr>
