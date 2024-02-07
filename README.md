@@ -5,7 +5,7 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
-   2024/02/06
+   2024/02/07
   </summary>
   <table>
    <tr>
@@ -20,6 +20,101 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
      Original url:
      <a href="https://apod.nasa.gov/apod/">
       https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's different about this galaxy?  Very little, which makes the
+      <a href="ap230508.html">
+       Spanish Dancer galaxy
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/NGC_1566">
+       NGC 1566
+      </a>
+      ,  one of the most typical and photogenic
+      <a href="https://en.wikipedia.org/wiki/Spiral_galaxy">
+       spirals
+      </a>
+      on the sky.  There is something different about
+      <a href="https://webbtelescope.org/contents/media/images/2024/105/01HM9ZFS5KC07R4TQWFQ0W9HMH">
+       this galaxy
+       <i>
+        image
+       </i>
+      </a>
+      , though,  because it is a diagonal combination of two images: one by the
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble Space Telescope
+      </a>
+      on the upper left, and the other by the
+      <a href="https://webb.nasa.gov/content/about/index.html">
+       James Webb Space Telescope
+      </a>
+      on the lower right.   The
+      <a href="https://stsci-opo.org/STScI-01HM9ZTYDAR87J4S4J89KW1W7R.png">
+       Hubble image
+      </a>
+      was taken in
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet light
+      </a>
+      and highlights the locations of
+      <a href="ap240129.html">
+       bright blue stars
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Dust_lane">
+       dark dust
+      </a>
+      along the galaxy's impressive spiral arms.  In contrast, the
+      <a href="https://stsci-opo.org/STScI-01HMA037D847D4Y4046CRSZGQF.png">
+       Webb image
+      </a>
+      was taken in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared light
+      </a>
+      and highlights where the
+      <a href="ap220907.html">
+       same dust
+      </a>
+      emits more light than it absorbed.  In the rollover image, the other two sides of these images are revealed.  Blinking between the two images shows which
+      <a href="https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve/">
+       stars
+      </a>
+      are particularly hot because  they glow brighter in ultraviolet light,  and the difference between
+      <a href="https://i.pinimg.com/474x/f0/a9/bd/f0a9bd84d9b1587607e57c09b97a8c49.jpg">
+       seemingly empty space
+      </a>
+      and infrared-glowing dust.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
+   2024/02/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/Ngc1566_HubbleWebb_2125.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/Ngc1566_HubbleWebb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/ap240206.html">
+      https://apod.nasa.gov/apod/ap240206.html
      </a>
     </td>
    </tr>
