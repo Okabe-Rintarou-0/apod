@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/Rosette2024newt533mmcopy.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/Rosette2024newt533mmcopy1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Not all roses are red
+      <a href="https://en.wikipedia.org/wiki/Roses_Are_Red">
+       of course
+      </a>
+      , but they can still be very pretty.  Likewise, the beautiful
+      <a href="http://www.atlasoftheuniverse.com/nebulae/ngc2237.html">
+       Rosette Nebula
+      </a>
+      and other star forming regions are often shown in astronomical images with a predominately red hue, in part because the dominant emission in the nebula is
+      <a href="https://en.wikipedia.org/wiki/H-alpha">
+       from hydrogen atoms
+      </a>
+      .  Hydrogen's strongest optical emission line, known as H-alpha, is in the red region of the spectrum.  But the beauty of an emission nebula need not be appreciated in red light alone.  Other atoms in the nebula are also excited by energetic starlight and produce narrow emission lines as well.
+      <a href="https://www.astrobin.com/net448/">
+       In this close-up view
+      </a>
+      of the Rosette Nebula, narrowband images are mapped into broadband colors to show emission from Sulfur atoms in red, Hydrogen in green, and Oxygen in blue.  In fact, the
+      <a href="https://aaa.org/2020/06/23/pillars-of-creation-using-the-hubble-palette/">
+       scheme of mapping
+      </a>
+      these narrow atomic emission lines (SHO) into the broader colors (RGB) is adopted in many
+      <a href="https://hubblesite.org/home">
+       Hubble images
+      </a>
+      of emission nebulae.  This image spans about 50 light-years across the center of the
+      <a href="http://www.messier.seds.org/xtra/ngc/n2244.html">
+       Rosette Nebula
+      </a>
+      .  The nebula lies some 3,000
+      <a href="http://www.atlasoftheuniverse.com/5000lys.html">
+       light-years away
+      </a>
+      in the constellation Monoceros.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/08
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240208.html">
+      https://apod.nasa.gov/apod/ap240208.html
      </a>
     </td>
    </tr>
