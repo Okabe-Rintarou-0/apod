@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/PIA26243-web.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/PIA26243-1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://mars.nasa.gov/news/9540/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/">
+       On January 18, 2024
+      </a>
+      , during its 72nd flight in the thin Martian atmosphere, autonomous
+      <a href="https://mars.nasa.gov/technology/helicopter/">
+       Mars Helicopter Ingenuity
+      </a>
+      rose to an altitude of 12 meters (40 feet) and hovered for 4.5 seconds above the Red Planet.    Ingenuity's 72nd landing was a rough one though.  During descent it lost contact with the Perseverance rover about 1 meter above the Martian surface.  Ingenuity was able to transmit this image after contact was re-established,
+      <a href="https://www.jpl.nasa.gov/images/pia26243-ingenuity-spots-the-shadow-of-its-damaged-rotor-blade">
+       showing the shadow
+      </a>
+      of one of its rotor blades likely damaged during landing.  And so, after wildly
+      <a href="https://mars.nasa.gov/mars2020/multimedia/videos/?v=577">
+       exceeding expectations
+      </a>
+      during over 1,000 days of exploring Mars, the history-making Ingenuity has ended its flight operations.  Nicknamed Ginny, Mars Helicopter Ingenuity became the first aircraft to achieve powered, controlled flight on another planet
+      <a href="https://www.nasa.gov/news-release/nasas-ingenuity-mars-helicopter-succeeds-in-historic-first-flight/">
+       on April 19, 2021
+      </a>
+      .  Before launch, a small piece of material from the lower-left wing of the
+      <a href="https://en.wikipedia.org/wiki/Wright_Flyer">
+       Wright Brothers Flyer
+      </a>
+      1, the first aircraft to achieve powered, controlled flight on planet Earth, was
+      <a href="https://images.nasa.gov/details/PIA24291">
+       fixed to the underside
+      </a>
+      of Ingenuity's solar panel.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/09
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240209.html">
+      https://apod.nasa.gov/apod/ap240209.html
      </a>
     </td>
    </tr>
