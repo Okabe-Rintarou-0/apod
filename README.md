@@ -5,6 +5,125 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/sts98plume_nasa_1111.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/sts98plume_nasa_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why would the shadow of a
+      <a href="https://earthobservatory.nasa.gov/images/1221/smoke-plume">
+       rocket's launch plume
+      </a>
+      point toward the Moon?   In early 2001 during a launch of the
+      <a href="https://www.nasa.gov/space-shuttle/">
+       space shuttle
+      </a>
+      <a href="https://www.kennedyspacecenter.com/explore-attractions/shuttle-a-ship-like-no-other/featured-attraction/space-shuttle-atlantis">
+       Atlantis
+      </a>
+      , the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      ,
+      <a href="ap220206.html">
+       Earth
+      </a>
+      ,
+      <a href="https://svs.gsfc.nasa.gov/5187/">
+       Moon
+      </a>
+      , and rocket were all properly aligned for
+      <a href="https://visibleearth.nasa.gov/images/1221/smoke-plume">
+       this photogenic coincidence
+      </a>
+      .    First, for the
+      <a href="https://en.wikipedia.org/wiki/Space_Shuttle">
+       space shuttle
+      </a>
+      's plume to cast a long shadow, the time of day must be either near
+      <a href="ap170705.html">
+       sunrise
+      </a>
+      or
+      <a href="ap231025.html">
+       sunset
+      </a>
+      .    Only then will the
+      <a href="ap161026.html">
+       shadow
+      </a>
+      be its longest and extend all the way to the
+      <a href="ap171205.html">
+       horizon
+      </a>
+      .    Finally, during a
+      <a href="ap000113.html">
+       Full Moon
+      </a>
+      , the
+      <a href="ap010129.html">
+       Sun
+      </a>
+      and
+      <a href="ap180318.html">
+       Moon
+      </a>
+      are on opposite sides of the sky.    Just after
+      <a href="ap060723.html">
+       sunset
+      </a>
+      , for example,  the Sun is slightly below the
+      <a href="https://en.wikipedia.org/wiki/Horizon">
+       horizon
+      </a>
+      , and, in the other direction, the Moon is slightly above the
+      <a href="ap000320.html">
+       horizon
+      </a>
+      .    Therefore, as
+      <a href="ap950812.html">
+       Atlantis
+      </a>
+      blasted off, just after
+      <a href="ap220320.html">
+       sunset
+      </a>
+      , its shadow projected away from the Sun toward the
+      <a href="https://i2-prod.mirror.co.uk/incoming/article27932447.ece/ALTERNATES/n615/0_PAY-GREAT-DANE-OPTICAL-ILLUSION.jpg">
+       opposite horizon
+      </a>
+      , where the
+      <a href="ap220612.html">
+       Full Moon
+      </a>
+      happened to be.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/10
   </summary>
   <table>
@@ -18,8 +137,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240210.html">
+      https://apod.nasa.gov/apod/ap240210.html
      </a>
     </td>
    </tr>
