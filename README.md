@@ -5,6 +5,121 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/Hfg1Abell6_CadenaCoulon_6140.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/Hfg1Abell6_CadenaCoulon_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       Planetary nebulae
+      </a>
+      like
+      <a href="https://www.sternwarte-baerenstein.de/hfg1-abell6-en.html">
+       Heckathorn-Fesen-Gull 1
+      </a>
+      (HFG1) and
+      <a href="https://in-the-sky.org/data/object.php?id=Abell_6">
+       Abell 6
+      </a>
+      in the constellation
+      <a href="https://en.wikipedia.org/wiki/Cassiopeia_(constellation)">
+       Cassiopeia
+      </a>
+      are remnants from the last phase of a
+      <a href="https://imagine.gsfc.nasa.gov/educators/lifecycles/SC_main_p1.html">
+       medium sized star
+      </a>
+      like our
+      <a href="https://science.nasa.gov/sun">
+       Sun
+      </a>
+      .   In spite of their shapes, planetary nebulae have
+      <a href="https://images.squarespace-cdn.com/content/v1/5b631cba5b409b413bb3a633/1533669968141-15YL8HF098WAOR8RYKFD/A-dog-looking-confused-and-surprised.jpg">
+       nothing in common with actual planets
+      </a>
+      .   Located in the bottom left part of the
+      <a href="https://www.facebook.com/ZwoDesignAstronomyCameras/posts/802324015256448">
+       featured photo
+      </a>
+      , HFG1 was created by the
+      <a href="https://science.nasa.gov/universe/stars/multiple-star-systems/">
+       binary star system
+      </a>
+      V664 Cas, which consists of a
+      <a href="ap231224.html">
+       white dwarf star
+      </a>
+      and a
+      <a href="ap110408.html">
+       red giant star
+      </a>
+      .  Both stars orbit their
+      <a href="https://spaceplace.nasa.gov/barycenter/en/">
+       center of mass
+      </a>
+      over about
+      <a href="https://www.astro.oma.be/en/gaia-observes-a-cosmic-clock-inside-a-large-planetary-nebula/">
+       half an Earth day
+      </a>
+      .   Traveling with the entire nebula at a speed about 300 times faster than the fastest train on Earth, V664 Cas generates a
+      <a href="https://www.astronomersdoitinthedark.com/index.php?c=145&amp;p=571">
+       bluish
+      </a>
+      arc shaped
+      <a href="ap240104.html">
+       shock wave
+      </a>
+      .  The wave interacts most strongly with the surrounding
+      <a href="https://en.wikipedia.org/wiki/Interstellar_medium">
+       interstellar medium
+      </a>
+      in the areas where the arc is brightest.  After roughly
+      <a href="http://koreascience.or.kr/article/JAKO200502637762045.page">
+       10,000 years
+      </a>
+      , planetary nebulae become invisible due to a lack of
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       ultraviolet light
+      </a>
+      being emitted by the
+      <a href="https://en.wikipedia.org/wiki/Star">
+       star
+      </a>
+      s that create them.   Displaying
+      <a href="ap240107.html">
+       beautiful shapes
+      </a>
+      and structures,  planetary nebulae are
+      <a href="https://skynews.ca/hfg1-abell-6-by-dan-kusz/">
+       highly desired object
+      </a>
+      s for astrophotographers.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/11
   </summary>
   <table>
@@ -18,8 +133,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240211.html">
+      https://apod.nasa.gov/apod/ap240211.html
      </a>
     </td>
    </tr>
