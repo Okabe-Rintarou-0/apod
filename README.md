@@ -5,6 +5,122 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/Hoag_HubbleBlanco_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/Hoag_HubbleBlanco_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is this one galaxy or two?    This question came to light in 1950 when astronomer
+      <a href="https://en.wikipedia.org/wiki/Arthur_Allen_Hoag">
+       Arthur Hoag
+      </a>
+      chanced upon this unusual extragalactic object.    On the outside is a
+      <a href="ap051022.html">
+       ring
+      </a>
+      dominated by bright blue stars, while near the center lies a ball of much redder stars that are likely much older.    Between the two is a
+      <a href="ap040702.html">
+       gap
+      </a>
+      that appears almost completely dark.    How
+      <a href="https://ui.adsabs.harvard.edu/abs/1990ApJ...348..448W/abstract">
+       Hoag's Object
+      </a>
+      formed, including  its nearly
+      <a href="https://youtu.be/LvpCX89lHvU">
+       perfectly round ring
+      </a>
+      of stars and gas, remains unknown.   Genesis hypotheses include a
+      <a href="https://nedwww.ipac.caltech.edu/level5/Struck/frames.html">
+       galaxy collision
+      </a>
+      billions of years ago and the gravitational effect of a
+      <a href="ap080622.html">
+       central bar
+      </a>
+      that has
+      <a href="https://ui.adsabs.harvard.edu/abs/2010CeMDA.108...23F/">
+       since vanished
+      </a>
+      .  The
+      <a href="https://www.astrobin.com/skeebg/D/?nc=user">
+       featured  photo
+      </a>
+      was taken by the
+      <a href="ap010806.html">
+       Hubble Space Telescope
+      </a>
+      and reprocessed using an
+      <a href="https://en.wikipedia.org/wiki/Deep_Image_Prior">
+       artificially intelligent de-noising algorithm
+      </a>
+      .   Observations in
+      <a href="https://science.nasa.gov/ems/05_radiowaves">
+       radio waves
+      </a>
+      indicate that
+      <a href="https://ui.adsabs.harvard.edu/abs/2013MNRAS.435..475B/">
+       Hoag's Object
+      </a>
+      has
+      <i>
+       not
+      </i>
+      accreted a smaller galaxy in the past billion years.
+      <a href="https://en.wikipedia.org/wiki/Hoag%27s_Object">
+       Hoag's Object
+      </a>
+      spans about 100,000
+      <a href="https://chandra.harvard.edu/photo/cosmic_distance.html">
+       light years
+      </a>
+      and lies about 600 million
+      <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question19.html">
+       light years
+      </a>
+      away toward the
+      <a href="https://spaceplace.nasa.gov/constellations/">
+       constellation
+      </a>
+      of the Snake (
+      <a href="https://en.wikipedia.org/wiki/Serpens_(constellation)">
+       Serpens
+      </a>
+      ).    Many galaxies far in the distance are visible toward the right, while
+      <a href="https://i.huffpost.com/gadgets/slideshows/252026/slide_252026_1551499_free.jpg">
+       coincidentally
+      </a>
+      , visible in the gap at about seven o'clock,  is another but more distant
+      <a href="ap150419.html">
+       ring galaxy
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/17
   </summary>
   <table>
@@ -18,8 +134,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240217.html">
+      https://apod.nasa.gov/apod/ap240217.html
      </a>
     </td>
    </tr>
