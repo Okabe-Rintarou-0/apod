@@ -5,6 +5,104 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/AM1054_Hubble_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/AM1054_Hubble_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      When galaxies collide, how many stars are born?   For AM1054-325,
+      <a href="https://hubblesite.org/contents/news-releases/2024/news-2024-004">
+       featured here
+      </a>
+      in a recently released image by the
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble Space Telescope
+      </a>
+      , the answer is millions.  Instead of stars
+      <a href="ap171016.html">
+       being destroyed
+      </a>
+      as galaxy AM1054-325 and a nearby galaxy
+      <a href="https://youtu.be/TI5j-6vGGnA">
+       circle each other
+      </a>
+      ,  their gravity and motion has
+      <a href="https://en.wikipedia.org/wiki/Starburst_galaxy">
+       ignited stellar creation
+      </a>
+      .   Star formation occurs rapidly in the gaseous debris stretching from
+      <a href="https://hubblesite.org/contents/media/images/2024/004/01HN3A68AHYZ7YV50T5G2D2K0Y">
+       AM1054-325
+      </a>
+      ’s yellowish body due to the other galaxy’s gravitational pull.   Hydrogen gas surrounding newborn
+      <a href="ap020613.html">
+       stars glows pink
+      </a>
+      .    Bright infant
+      <a href="https://www.astronomy.com/science/young-hot-and-blue-stars-in-cluster-ngc-2547/">
+       stars shine blue
+      </a>
+      and cluster together in compact nurseries of thousands to
+      <a href="ap210110.html">
+       millions of stars
+      </a>
+      .  AM1054-325 possesses over 100 of these intense-blue,
+      <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.2341R/abstract">
+       dot-like star clusters
+      </a>
+      , some appearing like a
+      <a href="ap020525.html">
+       string
+      </a>
+      <a href="ap040220.html">
+       of
+      </a>
+      <a href="https://www.missionjuno.swri.edu/junocam/processing?id=10966">
+       pearls
+      </a>
+      .   Analyzing
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet light
+      </a>
+      helped determine that most of these stars are less than 10 million years old:
+      <a href="https://thumbs.dreamstime.com/b/four-fluffy-golden-british-longhair-cat-isolated-white-background-kittens-sitting-dark-brown-jewelery-box-pearls-127733819.jpg">
+       stellar babies
+      </a>
+      .   Many of these nurseries may grow up to be
+      <a href="ap230130.html">
+       globular star clusters
+      </a>
+      , while the bundle of young stars at the bottom tip may even
+      <a href="ap151121.html">
+       detach and form a small galaxy
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/18
   </summary>
   <table>
@@ -18,8 +116,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240219.html">
+      https://apod.nasa.gov/apod/ap240219.html
      </a>
     </td>
    </tr>
