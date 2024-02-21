@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/SeagullPinnacles_Venkatraman_2051.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/SeagullPinnacles_Venkatraman_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The bird is bigger than the peak.   Nicknamed for its
+      <a href="https://en.wiktionary.org/wiki/avian#Adjective">
+       avian
+      </a>
+      shape, the
+      <a href="ap230119.html">
+       Seagull Nebula
+      </a>
+      is an
+      <a href="https://apod.nasa.gov/apod/emission_nebulae.html">
+       emission nebula
+      </a>
+      on the night sky that is
+      <a href="ap240123.html">
+       vast
+      </a>
+      ,  spanning an angle over five times the diameter of the
+      <a href="ap220612.html">
+       full moon
+      </a>
+      and over 200
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      .   The head of the nebula is catalogued as
+      <a href="https://en.wikipedia.org/wiki/IC_2177">
+       IC 2177
+      </a>
+      , and the star cluster under its right  wing is catalogued as NGC 2343.  Consisting of mostly red-glowing
+      <a href="https://periodic.lanl.gov/1.shtml">
+       hydrogen
+      </a>
+      gas, the
+      <a href="ap180316.html">
+       Seagull Nebula
+      </a>
+      incorporates some dust lanes and is forming
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      .   The peak over which this Seagull
+      <a href="https://i1.sndcdn.com/avatars-000031354923-a6ixw8-t500x500.jpg">
+       seems to soar
+      </a>
+      occurs at
+      <a href="https://en.wikipedia.org/wiki/Pinnacles_National_Park">
+       Pinnacles National Park
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/California">
+       California
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      .   The
+      <a href="https://www.instagram.com/p/CKXdL1YndQi/">
+       featured image
+      </a>
+      is a composite of  long exposure images of the background sky  and short exposure images of the foreground,  all taken consecutively with the same camera and from the same location.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/20
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240220.html">
+      https://apod.nasa.gov/apod/ap240220.html
      </a>
     </td>
    </tr>
