@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/NGC2736_Helge_Buesing2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/NGC2736_Helge_Buesing1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This supernova shock wave plows through interstellar space  at over 500,000 kilometers per hour.  Centered and moving upward in the
+      <a href="https://www.astrobin.com/dl30yu/">
+       sharply detailed color composite
+      </a>
+      its thin, bright, braided filaments are actually long ripples  in a cosmic sheet of glowing gas seen almost edge-on.  Discovered in the 1840s by
+      <a href="https://www.rmg.co.uk/stories/blog/curatorial/remembering-sir-john-fw-herschel-1792-1871">
+       Sir John Herschel
+      </a>
+      , the narrow-looking nebula is sometimes known as Herschel's Ray.
+      <a href="https://hubblesite.org/contents/media/images/2003/16/1350-Image.html">
+       Cataloged as NGC 2736
+      </a>
+      ,  its pointed appearance suggests its modern popular name, the Pencil Nebula.  The
+      <a href="https://www.youtube.com/watch?v=P4rXhOArFw8">
+       Pencil Nebula
+      </a>
+      is about 800 light-years away.  Nearly 5 light-years long it represents only a small part of the
+      <a href="ap100910.html">
+       Vela supernova remnant
+      </a>
+      though.  The
+      <a href="https://en.wikipedia.org/wiki/Vela_Supernova_Remnant">
+       enormous Vela remnant itself
+      </a>
+      is around 100 light-years in diameter, the expanding
+      <a href="https://chandra.harvard.edu/xray_sources/supernovas.html">
+       debris cloud of a star
+      </a>
+      that was seen to
+      <a href="ap131001.html">
+       explode
+      </a>
+      about 11,000 years ago.  Initially, the section of the
+      <a href="ap200202.html">
+       shock wave
+      </a>
+      seen as the Pencil nebula was moving at millions of kilometers per hour but has slowed considerably, sweeping up surrounding interstellar material.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/22
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240222.html">
+      https://apod.nasa.gov/apod/ap240222.html
      </a>
     </td>
    </tr>
