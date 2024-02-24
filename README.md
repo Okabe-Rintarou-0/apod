@@ -5,6 +5,54 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/im-moon-imageFeb23_1024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/im-moon-imageFeb23_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Intuitive Machines'
+      <a href="https://www.nasa.gov/news-release/nasa-tech-contributes-to-soft-moon-landing-agency-science-underway/">
+       robotic lander Odysseus
+      </a>
+      has accomplished the first U.S. landing on the Moon since the
+      <a href="ap240117.html">
+       Apollo 17 mission in 1972
+      </a>
+      .  Launched on a SpaceX rocket on February 15, the phone booth sized lander reached lunar orbit on the 21st and touched down on the lunar surface at 6:23 pm ET on February 22nd.  Its landing region is about 300 kilometers north of the
+      <a href="http://lroc.sese.asu.edu/posts/237">
+       Moon's south pole
+      </a>
+      , near a crater designated Malapert A.  The lander is presently collecting solar power and transmitting data back to the Intuitive Machines' mission control center in Houston.  The mission marks the first commercial uncrewed landing on the Moon.  Prior to landing, Odysseus’ camera captured this extreme wide angle image (landing legs visible at right) as it flew over
+      <a href="https://en.wikipedia.org/wiki/Schomberger_(crater)">
+       Schomberger crater
+      </a>
+      some 200 kilometers from its landing site.  Odysseus was still about 10 kilometers above the lunar surface.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/23
   </summary>
   <table>
@@ -18,8 +66,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240223.html">
+      https://apod.nasa.gov/apod/ap240223.html
      </a>
     </td>
    </tr>
