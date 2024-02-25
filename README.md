@@ -5,6 +5,96 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/PhoenixAurora_Helgason_3130.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/PhoenixAurora_Helgason_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      All of the other aurora watchers had gone home.  By 3:30 am in
+      <a href="https://en.wikipedia.org/wiki/Iceland">
+       Iceland
+      </a>
+      ,  on a quiet September night, much of that night's auroras had died down.  Suddenly, unexpectedly, a new burst of particles streamed down from space, lighting up the
+      <a href="http://www.nasa.gov/mission_pages/sunearth/science/atmosphere-layers2.html">
+       Earth's atmosphere
+      </a>
+      once again.  This time, surprisingly,
+      <a href="https://en.wikipedia.org/wiki/Pareidolia">
+       pareidolia
+      </a>
+      cally,  the night lit up with an
+      <a href="ap140429.html">
+       amazing
+      </a>
+      <a href="ap121003.html">
+       shape
+      </a>
+      reminiscent of a giant
+      <a href="https://en.wikipedia.org/wiki/Phoenix_(mythology)">
+       phoenix
+      </a>
+      .  With camera equipment at the ready, two quick sky images were taken,  followed immediately by a third of the land.   The mountain in the background is
+      <a href="https://www.youtube.com/watch?v=3BuhpUn0LsE">
+       Helgafell
+      </a>
+      ,  while the small foreground river is called Kaldá,  both located about 30 kilometers north of Iceland's capital
+      <a href="https://youtu.be/-5exa7svE5Y">
+       Reykjavík
+      </a>
+      .
+      <a href="https://c2.staticflickr.com/8/7071/7180595308_f6ba60d0b8_b.jpg">
+       Seasoned skywatchers
+      </a>
+      will note that just above the mountain, toward the left, is the
+      <a href="ap101117.html">
+       constellation of Orion
+      </a>
+      , while the
+      <a href="ap140225.html">
+       Pleiades
+      </a>
+      <a href="http://asterisk.apod.com/viewtopic.php?f=24&amp;t=18009">
+       star cluster
+      </a>
+      is also visible just above the frame center.   The 2016
+      <a href="https://spaceplace.nasa.gov/aurora/">
+       aurora
+      </a>
+      ,  which lasted only a minute and was soon gone forever --   would possibly be dismissed as a
+      <a href="https://en.wikipedia.org/wiki/Tall_tale">
+       fanciful fable
+      </a>
+      -- were it not captured in the
+      <a href="https://www.facebook.com/Icelandic.Photos/photos/pb.1859684057503918.-2207520000.1458064624./2130278890444432/">
+       featured, digitally-composed, image mosaic
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/24
   </summary>
   <table>
@@ -18,8 +108,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240224.html">
+      https://apod.nasa.gov/apod/ap240224.html
      </a>
     </td>
    </tr>
