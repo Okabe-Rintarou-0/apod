@@ -5,6 +5,108 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It's easy to get lost following the intricate,  looping, and twisting filaments of
+      <a href="https://chandra.harvard.edu/xray_sources/supernovas.html">
+       supernova remnant
+      </a>
+      Simeis 147.   Also cataloged as Sharpless 2-240, the filamentary nebula goes by the popular nickname the Spaghetti Nebula.
+      <a href="ap101220.html">
+       Seen toward
+      </a>
+      the boundary of the
+      <a href="https://spaceplace.nasa.gov/constellations/">
+       constellations
+      </a>
+      of the Bull  (
+      <a href="https://en.wikipedia.org/wiki/Taurus_(constellation)">
+       Taurus
+      </a>
+      )  and the Charioteer  (
+      <a href="https://en.wikipedia.org/wiki/Auriga_(constellation)">
+       Auriga
+      </a>
+      ),  the impressive gas structure covers nearly 3
+      <a href="https://www.1728.org/angsize.htm">
+       degrees
+      </a>
+      on the sky,  equivalent to 6
+      <a href="ap200925.html">
+       full moon
+      </a>
+      s.  That's about 150
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-years
+      </a>
+      at the stellar debris cloud's estimated distance of 3,000 light-years.
+      <a href="https://www.facebook.com/photo.php?fbid=7494042507273492">
+       This composite image
+      </a>
+      includes data taken through  narrow-band filters isolating emission from
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       hydrogen
+      </a>
+      (red) and
+      <a href="https://periodic.lanl.gov/8.shtml">
+       oxygen
+      </a>
+      (blue) glowing gas.  The
+      <a href="https://youtu.be/wymMn-SmALY">
+       supernova
+      </a>
+      remnant has an estimated age of about 40,000 years,  meaning light from this massive stellar explosion first reached the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      when
+      <a href="https://en.wikipedia.org/wiki/Woolly_mammoth#/media/File:Woolly_mammoth_model_Royal_BC_Museum_in_Victoria.jpg">
+       woolly mammoth
+      </a>
+      s roamed free.   Besides the expanding remnant, this
+      <a href="https://mfrost.typepad.com/photos/uncategorized/2008/01/11/boston_terror.jpg">
+       cosmic catastrophe
+      </a>
+      <a>
+      </a>
+      left behind a
+      <a href="https://en.wikipedia.org/wiki/Pulsar">
+       pulsar
+      </a>
+      : a spinning
+      <a href="ap170501.html">
+       neutron star
+      </a>
+      that is the remnant of the original star's core.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/25
   </summary>
   <table>
@@ -18,8 +120,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240226.html">
+      https://apod.nasa.gov/apod/ap240226.html
      </a>
     </td>
    </tr>
