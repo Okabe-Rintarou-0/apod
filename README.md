@@ -5,6 +5,113 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/02/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2402/TwilightShades_Giannobile_1600.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2402/TwilightShades_Giannobile_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How does the sky turn dark at night?  In stages, and with different characteristic colors rising from the horizon.  The
+      <a href="https://www.facebook.com/photo/?fbid=10231968620107561">
+       featured image
+      </a>
+      shows, left to right, increasingly late
+      <a href="ap230506.html">
+       twilight
+      </a>
+      times after sunset in 20 different vertical bands.  The picture was taken last month in
+      <a href="https://youtu.be/zopIdrtkbVE">
+       Syracuse
+      </a>
+      ,
+      <a href="https://youtu.be/NnKs9NDzvVs">
+       Sicily
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italy
+      </a>
+      ,  in the direction
+      <a href="ap190624.html">
+       opposite the Sun
+      </a>
+      .  On the far left is the pre-sunset upper sky.   Toward the right, prominent bands include the
+      <a href="ap230626.html">
+       Belt of Venus
+      </a>
+      ,  the
+      <a href="https://twanight.org/gallery/the-elusive-bands-of-anti-twilight/">
+       Blue Band
+      </a>
+      , the
+      <a href="https://epod.usra.edu/blog/2023/01/anti-tiwilight-colors-and-belt-of-venus.html">
+       Horizon Band
+      </a>
+      , and the Red Band.  As the dark shadow of the Earth rises, the colors in these bands are
+      <a href="https://www.eso.org/sci/publications/messenger/archive/no.178-dec19/messenger-no178-51-56.pdf">
+       caused
+      </a>
+      <a href="https://opg.optica.org/ao/fulltext.cfm?uri=ao-56-19-G156&amp;id=367436">
+       by
+      </a>
+      direct sunlight reflecting from air and
+      <a href="https://en.wikipedia.org/wiki/Aerosol">
+       aerosol
+      </a>
+      s in the
+      <a href="https://climate.nasa.gov/news/2919/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      ,  multiple reflections sometimes involving a
+      <a href="ap170120.html">
+       reddened sunset
+      </a>
+      , and
+      <a href="https://en.wikipedia.org/wiki/Refraction">
+       refraction
+      </a>
+      .  In practice, these bands can be diffuse and hard to discern,  and their colors can depend on
+      <a href="ap061221.html">
+       colors near the setting Sun
+      </a>
+      .  Finally, the Sun
+      <a href="https://www.weather.gov/lmk/twilight-types">
+       completely sets
+      </a>
+      and the sky becomes dark.
+      <a href="https://qph.cf2.quoracdn.net/main-qimg-ad89b5e5f33336dc569bfe095c1342df-lq">
+       Don't despair
+      </a>
+      -- the whole thing will happen in reverse when the
+      <a href="ap231019.html">
+       Sun rises
+      </a>
+      again in the morning.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/02/27
   </summary>
   <table>
@@ -18,8 +125,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240227.html">
+      https://apod.nasa.gov/apod/ap240227.html
      </a>
     </td>
    </tr>
