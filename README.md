@@ -5,6 +5,53 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-2048x1118.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap230406.html">
+       Methalox
+      </a>
+      rocket engine firing, Odysseus' landing legs absorb first contact with the lunar surface in this wide-angle snapshot from a camera on board the robotic Intuitive Machines
+      <a href="https://en.wikipedia.org/wiki/Intuitive_Machines_Nova-C">
+       Nova-C moon lander
+      </a>
+      .  Following the
+      <a href="https://blogs.nasa.gov/artemis/2024/02/28/nasa-intuitive-machines-share-images-from-the-moon-provide-science-updates/">
+       landing on February 22
+      </a>
+      , broken landing legs, visible in the image, ultimately left the lander at rest but tilted.  Odysseus' gentle lean into a sloping lunar surface preserved the phone booth-sized lander's ability to operate, collect solar power, and return images and data to Earth.
+      <a href="https://www.nasa.gov/missions/lro/nasas-lro-images-intuitive-machines-odysseus-lander/">
+       Its exact landing site
+      </a>
+      in the Moon's far south polar region was imaged by NASA's Lunar Reconnaissance Orbiter.  Donated by NASA, the American flag seen on the lander's central panel is 1970 Apollo program flight hardware.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/01
   </summary>
   <table>
@@ -18,8 +65,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240301.html">
+      https://apod.nasa.gov/apod/ap240301.html
      </a>
     </td>
    </tr>
