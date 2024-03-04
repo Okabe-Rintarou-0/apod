@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/PillarsMongolia_Liao_6240.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/PillarsMongolia_Liao_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening across that field?   Pictured here are not
+      <a href="https://www.mtu.edu/tour/copper-country/northern-lights/">
+       auroras
+      </a>
+      but nearby
+      <a href="https://atoptics.co.uk/blog/light-pillars/">
+       light pillars
+      </a>
+      ,  a phenomenon typically much closer.     In most places on
+      <a href="ap100713.html">
+       Earth
+      </a>
+      , a lucky viewer can see a
+      <a href="ap010313.html">
+       Sun pillar
+      </a>
+      , a column of light  appearing to extend up from the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      caused by flat fluttering
+      <a href="https://atoptics.co.uk/blog/real-crystals/">
+       ice-crystals
+      </a>
+      reflecting sunlight from the
+      <a href="https://www.nasa.gov/image-article/earths-upper-atmosphere/">
+       upper atmosphere
+      </a>
+      .    Usually, these ice
+      <a href="https://en.wikipedia.org/wiki/Crystal">
+       crystal
+      </a>
+      s  evaporate before reaching the ground.    During freezing temperatures, however,
+      <a href="https://i.imgur.com/ELtLVZy.jpeg">
+       flat
+      </a>
+      fluttering
+      <a href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/">
+       ice crystals
+      </a>
+      may form near the  ground in a form of
+      <a href="ap240121.html">
+       light snow
+      </a>
+      sometimes known as a
+      <a href="ap231220.html">
+       crystal fog
+      </a>
+      .    These ice crystals may then reflect ground lights  in columns not unlike a
+      <a href="http://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=%22sun%20pillar%22">
+       Sun pillar
+      </a>
+      .    The featured image was taken last month across the
+      <a href="https://youtu.be/u5ap7c91Sbg">
+       Wulan Butong Grasslands
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Inner_Mongolia">
+       Inner Mongolia
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/China">
+       China
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/02
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240303.html">
+      https://apod.nasa.gov/apod/ap240303.html
      </a>
     </td>
    </tr>
