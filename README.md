@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/M102_HubbleEbrahimian_3615.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/M102_HubbleEbrahimian_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What kind of celestial object is this?  A relatively normal galaxy -- but seen from its edge.   Many disk galaxies are actually just as thin as NGC 5866,  the Spindle galaxy,
+      <a href="https://www.astrobin.com/xhlow5/">
+       pictured here
+      </a>
+      , but are not
+      <a href="ap010510.html">
+       seen edge-on
+      </a>
+      from our vantage point.    A perhaps more familiar galaxy seen edge-on is our own
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way galaxy
+      </a>
+      .   Also cataloged as M102, the
+      <a href="https://en.wikipedia.org/wiki/NGC_5866">
+       Spindle galaxy
+      </a>
+      has numerous and complex dust lanes appearing dark and red,  while many of the bright stars in the disk give it  a more blue underlying hue.   The blue disk of young
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      can be seen in this
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble
+      </a>
+      image extending past the
+      <a href="ap990919.html">
+       dust
+      </a>
+      in the extremely
+      <a href="ap180725.html">
+       thin galactic plane
+      </a>
+      .  There is evidence that the
+      <a href="https://en.wikipedia.org/wiki/Spindle_(textiles)#/media/File:Drop_spindles.jpg">
+       Spindle
+      </a>
+      galaxy has cannibalized  smaller galaxies over the past billion years or so, including
+      <a href="ap180206.html">
+       multiple streams
+      </a>
+      of faint stars,  dark dust that extends away from the main galactic plane, and a
+      <a href="https://en.wikipedia.org/wiki/NGC_5866_Group">
+       surrounding group
+      </a>
+      of galaxies (not shown).   In general, many
+      <a href="ap230531.html">
+       disk galaxies become thin
+      </a>
+      because the gas that
+      <a href="http://en.wikipedia.org/wiki/Galaxy_formation_and_evolution">
+       forms them
+      </a>
+      collides with itself as it rotates about the gravitational center.  The
+      <a href="ap160309.html">
+       Spindle galaxy
+      </a>
+      lies about 50 million
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      distant toward the constellation of the Dragon (
+      <a href="http://www.ianridpath.com/startales/draco.htm">
+       Draco
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/05
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240305.html">
+      https://apod.nasa.gov/apod/ap240305.html
      </a>
     </td>
    </tr>
