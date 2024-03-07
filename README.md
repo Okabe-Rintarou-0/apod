@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/Crew-8image0.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/Crew-8image0_1024.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Not the
+      <a href="ap230713.html">
+       James Webb Space Telescope's
+      </a>
+      latest view of a distant galactic nebula, this cloud of gas and dust dazzled spacecoast skygazers on March 3.  The telephoto snapshot was taken minutes after the launch of a Falcon 9 rocket on
+      <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-8-launches-to-international-space-station/">
+       the SpaceX Crew-8 mission
+      </a>
+      , to the International Space Station.  It captures plumes and exhaust from the separated first and second stage, a drifting
+      <a href="ap211030.html">
+       Rorschach pattern
+      </a>
+      in dark evening skies.    The bright spot near bottom center within the stunning terrestrial nebulosity  is the second stage engine firing to carry 4
+      <a href="https://www.nasa.gov/humans-in-space/astronauts/">
+       humans to space
+      </a>
+      in the Crew Dragon
+      <a href="https://www.youtube.com/watch?v=mMSzxmsXXwY">
+       spacecraft Endeavour
+      </a>
+      .  In sharp silhouette just above it is the Falcon 9  first stage booster orienting itself for return to a landing zone
+      <a href="ap230803.html">
+       at Cape Canaveral
+      </a>
+      , planet Earth.  This reuseable first stage booster was making its first flight.  But the
+      <a href="https://en.wikipedia.org/wiki/Crew_Dragon_Endeavour">
+       Crew Dragon Endeavour
+      </a>
+      capsule has flown humans to low Earth orbit and back again 4 times before.
+      <a href="https://en.wikipedia.org/wiki/HMS_Endeavour">
+       Endeavour
+      </a>
+      , as a name for a spacecraft, has also seen reuse, christening retired
+      <a href="ap140831.html">
+       Space Shuttle Endeavour
+      </a>
+      and the
+      <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197685/apollo-15-command-module/">
+       Apollo 15 command module
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/06
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240306.html">
+      https://apod.nasa.gov/apod/ap240306.html
      </a>
     </td>
    </tr>
