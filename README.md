@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/AntarcticEclipse_bruenjes_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/AntarcticEclipse_bruenjes_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Would you go to the end of the world to see a total eclipse of the Sun?  If you did, would you be surprised to find someone else
+      <a href="http://www.icstars.com/Antarctica/Eclipse2003.html">
+       there already?
+      </a>
+      In 2003, the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      ,  the Moon, Antarctica, and two photographers all lined up in
+      <a href="ap991116.html">
+       Antarctica
+      </a>
+      during an unusual
+      <a href="ap100730.html">
+       total solar eclipse
+      </a>
+      .    Even given the extreme location, a group of
+      <a href="http://www.moonglow.net/eclipse/2003nov23/index.html">
+       enthusiastic eclipse chasers
+      </a>
+      ventured near the bottom of the world to
+      <a href="http://www.youtube.com/watch?v=qUNau9YjA2U">
+       experience the surreal
+      </a>
+      momentary disappearance of the
+      <a href="ap240303.html">
+       Sun behind the Moon
+      </a>
+      .    One of the treasures collected was the
+      <a href="http://www.moonglow.net/eclipse/2003nov23/index.html">
+       featured picture
+      </a>
+      -- a composite of four separate images digitally combined to realistically simulate how the adaptive human
+      <a href="ap230516.html">
+       eye saw
+      </a>
+      the eclipse.    As the image was taken, both the
+      <a href="ap031127.html">
+       Moon and the Sun
+      </a>
+      peeked together over an Antarctic ridge.    In the
+      <a href="ap211205.html">
+       sudden darkness
+      </a>
+      , the
+      <a href="ap100316.html">
+       magnificent corona
+      </a>
+      of the Sun became visible around the Moon.    Quite by accident, another photographer was
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2F6KSS0cdkLrB6oSpJFbgcLAa36Nk312Q3EaEWf_TRDu0.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Db6f2617acbc01d2e5c81ae47ff7dcc65f743e94d">
+       caught
+      </a>
+      in one of the images checking his video camera.     Visible to his left are an equipment bag and a
+      <a href="http://www.abriefourie.com/crossingcontinue_01.html">
+       collapsible chair
+      </a>
+      .   A more easily visible solar eclipse will occur in just under four weeks and
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/">
+       be visible
+      </a>
+      from a long, thin swath of North America.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/09
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240309.html">
+      https://apod.nasa.gov/apod/ap240309.html
      </a>
     </td>
    </tr>
