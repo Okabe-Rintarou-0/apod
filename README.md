@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/FullPlantonMoon_Horalek_1022.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/FullPlantonMoon_Horalek_1022.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What glows in the night?  This night
+      <a href="https://www.petrhoralek.com/?p=23460">
+       featured
+      </a>
+      a combination of usual and unusual glows.  Perhaps the most usual glow was from
+      <a href="ap220612.html">
+       the Moon
+      </a>
+      , a potentially familiar object.  The full Moon's nearly
+      <a href="https://www.timeanddate.com/astronomy/moon/upside-down.html">
+       vertical descent
+      </a>
+      results from the observer being near
+      <a href="https://www.timeanddate.com/geography/equator.html">
+       Earth's equator
+      </a>
+      .  As the Moon sets,
+      <a href="https://spaceplace.nasa.gov/blue-sky/">
+       air
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Aerosol">
+       aerosol
+      </a>
+      s in
+      <a href="https://climate.nasa.gov/news/2919/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      preferentially scatter out blue light, making the
+      <a href="ap220515.html">
+       Sun-reflecting satellite
+      </a>
+      appear reddish when near the horizon.                                                                                                                                               Perhaps the most
+      <a href="ap170418.html">
+       unusual glow
+      </a>
+      was from the bioluminescent
+      <a href="ap230529.html">
+       plankton
+      </a>
+      , likely less familiar objects.  These
+      <a href="https://en.wikipedia.org/wiki/Plankton#/media/File:Marine_microplankton.jpg">
+       microscopic creatures
+      </a>
+      glow blue, it is thought, primarily to
+      <a href="https://assets-global.website-files.com/6323a9e201619b7ff6df9568/635aeda78b9def627cb87ff2_How%20to%20Handle%20a%20Frightened%20Dog.jpg">
+       surprise
+      </a>
+      and
+      <a href="https://www.earth.com/news/marine-plankton-glow-predators/">
+       deter predators
+      </a>
+      .  In this case, the glow was caused primarily by plankton-containing waves crashing onto the beach.  The image was taken on
+      <a href="https://youtu.be/xtK4gKNJXpA?t=18">
+       Soneva Fushi Island
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Maldives">
+       Maldives
+      </a>
+      just over one year ago.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/10
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240310.html">
+      https://apod.nasa.gov/apod/ap240310.html
      </a>
     </td>
    </tr>
