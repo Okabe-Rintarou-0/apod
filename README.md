@@ -5,6 +5,113 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/RocketSpiral_Yang_3024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/RocketSpiral_Yang_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's that over the horizon?  What may look like a strangely
+      <a href="ap231113.html">
+       nearby galaxy
+      </a>
+      is actually a normal rocket's exhaust plume -- but unusually backlit.   Although the
+      <a href="https://www.spacex.com/">
+       SpaceX
+      </a>
+      <a href="https://www.spacex.com/vehicles/falcon-9/">
+       Falcon 9
+      </a>
+      rocket was
+      <a href="https://youtu.be/kEupBbJI07g?t=3662">
+       launched
+      </a>
+      from
+      <a href="ap181001.html">
+       Cape Canaveral
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Florida">
+       Florida
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      ,  its burned propellant was visible over a much wider area,  with the featured photograph being taken from
+      <a href="https://youtu.be/TrQCPC-wdTc">
+       Akureyri
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Iceland">
+       Iceland
+      </a>
+      .  The huge spaceship was lifted off a week ago, and the
+      <a href="ap171224.html">
+       resulting spectacle
+      </a>
+      was captured soon afterward with a single 10-second
+      <a href="https://en.wikipedia.org/wiki/Smartphone">
+       smartphone
+      </a>
+      exposure,  before it quickly dissipated.  Like
+      <a href="ap220712.html">
+       noctilucent clouds
+      </a>
+      ,  the plume's brightness is caused by the
+      <a href="https://youtu.be/Y1Hfiirwgys">
+       Twilight Effect
+      </a>
+      ,  where an object is high enough to be illuminated by the twilight Sun,  even when the observer on the ground experiences the darkness of night.  The
+      <a href="https://www.businessinsider.com/mysterious-glowing-spirals-night-sky-could-be-spacex-rocket-fuel-2023-4">
+       spiral shape
+      </a>
+      is likely caused by
+      <a href="https://youtu.be/rKUipxR3bDc">
+       high winds
+      </a>
+      pushing the expelled gas into the shape of a
+      <a href="https://en.wikipedia.org/wiki/Corkscrew#/media/File:Korkenzieher_01_KMJ.jpg">
+       corkscrew
+      </a>
+      , which, when seen along the trajectory, looks like a
+      <a href="ap240101.html">
+       spiral
+      </a>
+      .  Stars and faint green and red
+      <a href="https://spaceplace.nasa.gov/aurora/en/">
+       aurora
+      </a>
+      appear in the background of this
+      <a href="https://www.floppycats.com/wp-content/uploads/2023/06/Heroic-Cat.webp">
+       extraordinary
+      </a>
+      image.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/11
   </summary>
   <table>
@@ -18,8 +125,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240311.html">
+      https://apod.nasa.gov/apod/ap240311.html
      </a>
     </td>
    </tr>
