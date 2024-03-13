@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/Seagull_Lacroce_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/Seagull_Lacroce_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A broad expanse of glowing gas and dust presents a bird-like visage to astronomers
+      <a href="ap090411.html">
+       from planet Earth
+      </a>
+      , suggesting its popular moniker: the
+      <a href="https://www.nebulaphotos.com/ngc-ic/ic2177/">
+       Seagull Nebula
+      </a>
+      .
+      <a href="https://www.flickr.com/photos/194921065@N03/">
+       This portrait
+      </a>
+      of the
+      <a href="ap230620.html">
+       cosmic bird
+      </a>
+      covers a 1.6-degree wide swath across the plane of the Milky Way,
+      <a href="http://www.eanet.com/kodama/astro/2007/0216a/index.htm">
+       near the direction
+      </a>
+      of
+      <a href="ap161215.html">
+       Sirius
+      </a>
+      ,  the alpha star of the constellation of the Big Dog  (
+      <a href="https://en.wikipedia.org/wiki/Canis_Major">
+       Canis Major
+      </a>
+      ).  Of course,
+      <a href="http://www.youtube.com/watch?v=SLW7uPs7hS0">
+       the region
+      </a>
+      includes objects with other catalog designations: notably
+      <a href="https://theskylive.com/sky/deepsky/ngc2327-object">
+       NGC 2327
+      </a>
+      , a compact, dusty emission and reflection nebula  with an embedded massive star that forms the
+      <a href="https://petcube.com/blog/content/images/2021/03/IMG_1796--1-.png">
+       bird's head
+      </a>
+      .  Dominated by the
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       reddish glow
+      </a>
+      of atomic
+      <a href="https://periodic.lanl.gov/1.shtml">
+       hydrogen
+      </a>
+      , the complex of gas and dust clouds with bright young stars spans over 100
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-years
+      </a>
+      at an estimated 3,800
+      <a href="https://chandra.harvard.edu/photo/cosmic_distance.html">
+       light-year
+      </a>
+      distance.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/12
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240312.html">
+      https://apod.nasa.gov/apod/ap240312.html
      </a>
     </td>
    </tr>
