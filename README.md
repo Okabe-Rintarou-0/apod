@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/Ngc7714_HubblePohl_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/Ngc7714_HubblePohl_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is this galaxy jumping through a
+      <a href="ap150419.html">
+       giant ring of stars
+      </a>
+      ?   Probably not.   Although the precise
+      <a href="https://ui.adsabs.harvard.edu/abs/2003ApJ...589..157S/abstract">
+       dynamics behind
+      </a>
+      the featured image is yet unclear, what is clear is that the pictured galaxy,
+      <a href="https://www.youtube.com/watch?v=zMIBcXo-oXo">
+       NGC 7714
+      </a>
+      ,  has been stretched and distorted by a recent collision with a neighboring galaxy.  This smaller neighbor,
+      <a href="http://faculty.etsu.edu/smithbj/captions/n7714cap.html">
+       NGC 7715
+      </a>
+      ,  situated off to the left of the frame, is thought to have
+      <a href="https://live.staticflickr.com/5250/5228406300_27e05d74b7_b.jpg">
+       charged
+      </a>
+      right through
+      <a href="https://www.spacetelescope.org/news/heic1503/">
+       NGC 7714
+      </a>
+      .  Observations indicate that the golden
+      <a href="https://www.flickr.com/photos/rudypohl/32588157757/in/photostream/">
+       ring pictured
+      </a>
+      is composed of millions of older Sun-like stars  that are likely co-moving with the
+      <a href="ap221205.html">
+       interior bluer stars
+      </a>
+      .  In contrast, the bright center of
+      <a href="https://en.wikipedia.org/wiki/NGC_7714">
+       NGC 7714
+      </a>
+      appears to be undergoing a burst of new star formation.   The
+      <a href="https://www.astrobin.com/399094/J/?nc=user">
+       featured image
+      </a>
+      was captured by the
+      <a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/">
+       Hubble Space Telescope
+      </a>
+      .   NGC 7714 is located about 130 million
+      <a href="https://exoplanets.nasa.gov/faq/26/what-is-a-light-year/">
+       light years
+      </a>
+      away toward the constellation of the Two Fish  (
+      <a href="https://en.wikipedia.org/wiki/Pisces_(constellation)">
+       Pisces
+      </a>
+      ).   The
+      <a href="ap150212.html">
+       interactions
+      </a>
+      between these galaxies  likely started about 150 million
+      <a href="http://en.wikipedia.org/wiki/Timeline_of_natural_history">
+       years ago
+      </a>
+      and should continue for several hundred million
+      <a href="http://en.wikipedia.org/wiki/Timeline_of_the_far_future">
+       years more
+      </a>
+      , after which a
+      <a href="ap220606.html">
+       single central galaxy
+      </a>
+      may result.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/16
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240316.html">
+      https://apod.nasa.gov/apod/ap240316.html
      </a>
     </td>
    </tr>
