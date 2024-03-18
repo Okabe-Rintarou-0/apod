@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/CometPonsBrook_Vallestad_2564.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/CometPonsBrook_Vallestad_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A bright comet will be visible during next month's total solar eclipse.   This very
+      <a href="https://www.scientificamerican.com/article/stunning-comet-could-photobomb-this-aprils-total-solar-eclipse/">
+       unusual coincidence
+      </a>
+      occurs because
+      <a href="https://en.wikipedia.org/wiki/12P/Pons%E2%80%93Brooks">
+       Comet 12P/Pons-Brooks
+      </a>
+      's  return to the inner Solar System places it by chance only
+      <a href="https://www.mathsisfun.com/geometry/degrees.html">
+       25 degrees
+      </a>
+      away from the Sun during Earth's
+      <a href="ap230418.html">
+       April 8 total solar eclipse
+      </a>
+      .   Currently
+      <a href="https://youtu.be/BRlZlw1xw3A?t=107">
+       the comet
+      </a>
+      is just on the
+      <a href="https://theskylive.com/how-bright-is-12p">
+       edge of visibility
+      </a>
+      to the unaided eye,  best visible with binoculars in the early evening sky toward the
+      <a href="https://spaceplace.nasa.gov/constellations/en/">
+       constellation
+      </a>
+      of the Fish  (
+      <a href="https://en.wikipedia.org/wiki/Pisces_(constellation)">
+       Pisces
+      </a>
+      ).
+      <a href="https://theskylive.com/12p-info">
+       Comet Pons-Brooks
+      </a>
+      ,  though, is putting on quite a show for deep camera images even now.   The
+      <a href="https://www.astrobin.com/eqxd1j/B/">
+       featured image
+      </a>
+      is a
+      <a href="https://media.gettyimages.com/id/200202597-001/photo/man-and-woman-metamorphasised-as-cat-and-dog.jpg?s=1024x1024&amp;w=gi&amp;k=20&amp;c=rJB50XdSMxn9imcozdd2_f-HDv7S8TQEmy04gg1NofE=">
+       composite
+      </a>
+      of three very specific colors, showing the comet's ever-changing
+      <a href="ap200429.html">
+       ion tail
+      </a>
+      in light blue, its outer
+      <a href="https://en.wikipedia.org/wiki/Coma_(comet)">
+       coma
+      </a>
+      in green,  and highlights some red-glowing gas around the coma in a
+      <a href="ap240101.html">
+       spiral
+      </a>
+      .  The spiral is thought to be caused by gas being expelled by the slowly
+      <a href="https://www.astronomerstelegram.org/?read=16508">
+       rotating nucleus
+      </a>
+      of the giant iceberg comet.  Although it is always difficult to predict the future brightness of comets,
+      <a href="ap240216.html">
+       Comet Pons-Brook
+      </a>
+      has been particularly prone to
+      <a href="https://skyandtelescope.org/astronomy-news/see-comet-12p-pons-brooks-in-outburst/">
+       outbursts
+      </a>
+      , making it even more difficult  to predict how bright it will actually be as the
+      <a href="ap170820.html">
+       Moon moves in front of the Sun
+      </a>
+      on
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/">
+       April 8
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/17
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240317.html">
+      https://apod.nasa.gov/apod/ap240317.html
      </a>
     </td>
    </tr>
