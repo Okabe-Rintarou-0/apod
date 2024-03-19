@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/EquinoxSunset_Dyer_1701.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/EquinoxSunset_Dyer_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's that at the end of the road?  The Sun.  Many towns have roads that run east-west, and on two days each year,  the Sun rises and sets
+      <a href="ap100321.html">
+       right down the middle
+      </a>
+      .  Today, in some parts of the world (tomorrow in others),  is one of those days: an
+      <a href="ap210922.html">
+       equinox
+      </a>
+      .   Not only is this a day of equal night
+      <a href="https://en.wiktionary.org/wiki/equinox#Etymology">
+       ("aequus"-"nox")
+      </a>
+      and day time, but also a day when the
+      <a href="http://earthsky.org/astronomy-essentials/everything-you-need-to-know-vernal-or-spring-equinox">
+       sun rises
+      </a>
+      precisely to the east and sets due west.  Displayed here is a picturesque rural road in
+      <a href="https://youtu.be/COtpTM1MpAA">
+       Alberta
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Canada">
+       Canada
+      </a>
+      that runs approximately east-west.  The
+      <a href="https://www.flickr.com/photos/amazingsky/51508883089/in/pool-apods/">
+       featured image
+      </a>
+      was taken during the September
+      <a href="https://blogs.nasa.gov/Watch_the_Skies/tag/equinox/">
+       Equinox
+      </a>
+      of 2021, but the geometry remains the same every year.   In many cultures, this
+      <a href="https://en.wikipedia.org/wiki/March_equinox">
+       March equinox
+      </a>
+      is taken to be the first day of a season, typically spring in Earth's
+      <a href="https://en.wikipedia.org/wiki/Northern_Hemisphere">
+       northern hemisphere
+      </a>
+      , and autumn in the
+      <a href="ap951222.html">
+       south
+      </a>
+      .  Does your
+      <a href="https://i.pinimg.com/originals/02/c2/09/02c20915a2e492de284d537ec0a4825e.jpg">
+       favorite street
+      </a>
+      run east-west?  Tonight, at sunset, you can
+      <a href="https://www.google.com/search?q=when+is+the+march+equinox+2024">
+       find out
+      </a>
+      with a quick glance.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/18
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240318.html">
+      https://apod.nasa.gov/apod/ap240318.html
      </a>
     </td>
    </tr>
