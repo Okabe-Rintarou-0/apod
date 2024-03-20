@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/Ngc4438_Selby_2068.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/Ngc4438_Selby_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Across the heart of the
+      <a href="ap230526.html">
+       Virgo Galaxy Cluster
+      </a>
+      lies a string of galaxies known as
+      <a href="ap210522.html">
+       Markarian's Chain
+      </a>
+      .  Prominent in
+      <a href="https://www.skyatnightmagazine.com/astrophotography/galaxies/markarians-chain">
+       Markarian's Chain
+      </a>
+      are these two
+      <a href="https://youtu.be/7MKCZJYChmE">
+       interacting galaxies
+      </a>
+      ,  NGC 4438 (left) and NGC 4435 - also known as The Eyes.  About 50 million
+      <a href="https://exoplanets.nasa.gov/faq/26/what-is-a-light-year/">
+       light-year
+      </a>
+      s away, the two galaxies appear to be about 100,000 light-years apart in
+      <a href="https://www.instagram.com/p/C4fgJ9puFQL/">
+       this sharp close-up
+      </a>
+      , but have likely approached to within an estimated 16,000 light-years of each other in their
+      <a href="https://chandra.harvard.edu/photo/cosmic_lookback.html">
+       cosmic past
+      </a>
+      .  Gravitational tides from
+      <a href="http://chandra.harvard.edu/photo/2003/ngc4438/">
+       the close encounter
+      </a>
+      have ripped away at their stars, gas, and dust.  The more massive NGC 4438 managed to hold on to much of the material torn out in the
+      <a href="ap130514.html">
+       collision
+      </a>
+      , while material from the smaller NGC 4435 was more
+      <a href="https://www.pawschicago.org/fileadmin/_processed_/0/1/csm__MG_7375_b9fb882943.jpg">
+       easily lost
+      </a>
+      .  The remarkably deep image of this crowded region
+      <a href="ap220316.html">
+       of the universe
+      </a>
+      also includes many more
+      <a href="https://svs.gsfc.nasa.gov/30946">
+       distant background galaxies
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/19
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240319.html">
+      https://apod.nasa.gov/apod/ap240319.html
      </a>
     </td>
    </tr>
