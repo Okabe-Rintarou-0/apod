@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Here is what the Earth looks like during a
+      <a href="https://www.mreclipse.com/Special/SEprimer.html">
+       solar eclipse
+      </a>
+      .  The
+      <a href="ap201229.html">
+       shadow
+      </a>
+      of the
+      <a href="https://science.nasa.gov/moon/">
+       Moon
+      </a>
+      can be seen darkening part of
+      <a href="http://antwrp.gsfc.nasa.gov/apod/image/0208/earthlights02_dmsp_big.jpg">
+       Earth
+      </a>
+      .  This
+      <a href="ap031127.html">
+       shadow
+      </a>
+      moved
+      <a href="http://www.youtube.com/watch?v=-EYk_iSpBaE">
+       across
+      </a>
+      the
+      <a href="earth.html">
+       Earth
+      </a>
+      at nearly 2000 kilometers per hour.  Only
+      <a href="https://c8.alamy.com/comp/2G61P84/curious-dog-funny-pug-looking-through-binoculars-up-in-the-sky-high-angle-owner-holding-a-tool-moon-reflecting-in-lenses-2G61P84.jpg">
+       observers
+      </a>
+      near the center of the
+      <a href="ap031208.html">
+       dark circle
+      </a>
+      see a total solar eclipse - others see a partial eclipse where only part of the
+      <a href="ap230516.html">
+       Sun appears blocked by the Moon
+      </a>
+      .  This
+      <a href="http://theastropages.com/articles/articles011.htm">
+       spectacular picture
+      </a>
+      of the 1999 August 11
+      <a href="http://eclipse.gsfc.nasa.gov/eclipse.html">
+       solar eclipse
+      </a>
+      was one of the last ever taken from the
+      <a href="https://en.wikipedia.org/wiki/Mir">
+       Mir space station
+      </a>
+      .  The two bright spots that  appear on the upper left are thought to be
+      <a href="http://theastropages.com/articles/articles011.htm">
+       Jupiter and Saturn
+      </a>
+      .  Mir was
+      <a href="ap010323.html">
+       deorbited
+      </a>
+      in a
+      <a href="http://www.youtube.com/watch?v=fVQd9Ejkbiw">
+       controlled re-entry
+      </a>
+      in 2001.  A
+      <a href="https://science.nasa.gov/solar-system/skywatching/how-is-the-2024-total-solar-eclipse-different-than-the-2017-eclipse/">
+       new solar eclipse
+      </a>
+      will occur over
+      <a href="https://www.timeanddate.com/eclipse/map/2024-april-8">
+       North America
+      </a>
+      in about two weeks.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/23
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240323.html">
+      https://apod.nasa.gov/apod/ap240323.html
      </a>
     </td>
    </tr>
