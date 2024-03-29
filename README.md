@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/PIA19048europa.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/PIA19048europa1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Looping through the Jovian system in the late 1990s, the
+      <a href="https://solarsystem.nasa.gov/galileo/">
+       Galileo spacecraft
+      </a>
+      recorded stunning views of Europa and uncovered evidence that the moon's icy surface likely hides a deep, global ocean.  Galileo's Europa image data has been
+      <a href="https://photojournal.jpl.nasa.gov/catalog/?IDNumber=PIA19048">
+       remastered here
+      </a>
+      , with improved calibrations to produce a color image approximating what the human eye might see.  Europa's long curving fractures
+      <a href="https://www.nasa.gov/feature/goddard/2019/nasa-scientists-confirm-water-vapor-on-europa">
+       hint at the subsurface liquid water
+      </a>
+      .    The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid.  But more
+      <a href="ap140919.html">
+       tantalizing
+      </a>
+      is the possibility that even in the absence of sunlight that process could also supply the energy to support life,
+      <a href="ap160401.html">
+       making Europa
+      </a>
+      one of the best places to look for life beyond Earth.  The Juno spacecraft currently in Jovian orbit has also made repeated flybys of the water world, returning images along with data exploring
+      <a href="https://www.nasa.gov/missions/juno/nasas-juno-mission-measures-oxygen-production-at-europa/">
+       Europa's habitability
+      </a>
+      .  This October will see the launch of the NASA's
+      <a href="https://europa.nasa.gov/">
+       Europa Clipper
+      </a>
+      on a voyage of
+      <a href="https://www.youtube.com/watch?v=EgWbeDNPD6o">
+       exploration
+      </a>
+      .  The spacecraft will make nearly 50 flybys, approaching to within 25 kilometers of Europa's icy surface.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/28
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240328.html">
+      https://apod.nasa.gov/apod/ap240328.html
      </a>
     </td>
    </tr>
