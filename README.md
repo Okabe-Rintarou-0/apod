@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/03/31
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2403/EclipseAntarctica_Horalek_1500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2403/EclipseAntarctica_Horalek_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In late 2021 there was a total solar eclipse visible only at the end of the Earth.   To capture the
+      <a href="ap240310.html">
+       unusual phenomenon
+      </a>
+      ,  airplanes took flight below the clouded seascape of
+      <a href="https://en.wikipedia.org/wiki/Southern_Ocean">
+       Southern Ocean
+      </a>
+      .  The
+      <a href="https://www.instagram.com/p/CXETIsGFPMR/">
+       featured image
+      </a>
+      shows one relatively spectacular capture where the  bright spot is the outer
+      <a href="ap170920.html">
+       corona
+      </a>
+      of the Sun and the
+      <a href="ap170820.html">
+       eclipsing Moon
+      </a>
+      is seen as the dark spot in the center.   A wing and engine of the
+      <a href="https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/airplanes.html">
+       airplane
+      </a>
+      are visible across  the left and bottom of the image, while
+      <a href="ap130513.html">
+       another airplane observing the eclipse
+      </a>
+      is visible on the far left.  The dark area of the sky surrounding the
+      <a href="https://spaceplace.nasa.gov/eclipse-snap/">
+       eclipsed Sun
+      </a>
+      is called a
+      <a href="ap100804.html">
+       shadow cone
+      </a>
+      .  It is dark because you are looking down a
+      <a href="ap031127.html">
+       long corridor
+      </a>
+      of air shadowed by the Moon.  A
+      <a href="https://i.kym-cdn.com/photos/images/facebook/001/705/995/a66.png">
+       careful inspection
+      </a>
+      of the eclipsed Sun will reveal the
+      <a href="ap200708.html">
+       planet Mercury
+      </a>
+      just to the right.  You won't have to travel to the end of the Earth to see the
+      <a href="https://www.timeanddate.com/eclipse/solar/2024-april-8">
+       next total solar eclipse
+      </a>
+      .  The total eclipse path will cross
+      <a href="https://en.wikipedia.org/wiki/North_America">
+       North America
+      </a>
+      on
+      <a href="https://eclipse.aas.org/eclipse-america-2024">
+       2024 April 8
+      </a>
+      , just over one week from today.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/29
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240330.html">
+      https://apod.nasa.gov/apod/ap240330.html
      </a>
     </td>
    </tr>
