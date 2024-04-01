@@ -5,6 +5,104 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening to the big black hole in the center of our galaxy?   It is sucking in matter from a swirling disk -- a disk that is
+      <a href="https://pwg.gsfc.nasa.gov/Education/Imagnet.html">
+       magnetized
+      </a>
+      , it has now been confirmed.  Specifically, the
+      <a href="ap140323.html">
+       black hole's accretion disk
+      </a>
+      has recently been seen to emit
+      <a href="https://youtu.be/E9qpbt0v5Hw">
+       polarized light
+      </a>
+      ,  radiation frequently associated with a
+      <a href="https://youtu.be/60qnTvDbOZ0">
+       magnetized source
+      </a>
+      .
+      <a href="https://eventhorizontelescope.org/blog/astronomers-unveil-strong-magnetic-fields-spiraling-edge-milky-way%E2%80%99s-central-black-hole">
+       Pictured here
+      </a>
+      is a close-up of Sgr A*, our
+      <a href="ap220513.html">
+       Galaxy's central black hole
+      </a>
+      , taken by
+      <a href="ap201009.html">
+       radio telescopes
+      </a>
+      <a href="https://eventhorizontelescope.org/array">
+       around the world
+      </a>
+      participating in the
+      <a href="https://eventhorizontelescope.org/organization">
+       Event Horizon Telescope (EHT) Collaboration
+      </a>
+      .   Superposed are illustrative curved lines indicating
+      <a href="https://www.physicsclassroom.com/class/light/Lesson-1/Polarization">
+       polarized light
+      </a>
+      likely emitted from  swirling magnetized gas that will soon fall into the  4+ million mass
+      <a href="https://en.wikipedia.org/wiki/Sagittarius_A*">
+       central black hole
+      </a>
+      .   The central part of this image is likely dark because little light-emitting gas is visible between us and the
+      <a href="https://apod.nasa.gov/htmltest/rjn_bht.html">
+       dark event
+      </a>
+      <a href="https://ui.adsabs.harvard.edu/abs/1993AmJPh..61..619N/abstract">
+       horizon
+      </a>
+      of the black hole.
+      <a href="https://eventhorizontelescope.org/science">
+       Continued EHT monitoring
+      </a>
+      of this and M87's central black hole may
+      <a href="https://i.imgflip.com/6wndv2.png">
+       yield new clues
+      </a>
+      about the gravity of black holes and how infalling matter creates
+      <a href="ap200825.html">
+       disks
+      </a>
+      and
+      <a href="ap230919.html">
+       jets
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/03/31
   </summary>
   <table>
@@ -18,8 +116,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240331.html">
+      https://apod.nasa.gov/apod/ap240331.html
      </a>
     </td>
    </tr>
