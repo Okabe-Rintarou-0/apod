@@ -5,6 +5,89 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/CoronaExmouth_Hart_1920.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/CoronaExmouth_Hart_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Only in the fleeting darkness of a total solar eclipse is the light of the solar corona easily visible.  Normally overwhelmed by the bright solar disk, the
+      <a href="ap230516.html">
+       expansive corona
+      </a>
+      , the
+      <a href="https://en.wikipedia.org/wiki/Stellar_corona">
+       sun's outer atmosphere
+      </a>
+      , is an alluring sight.  But the subtle details and
+      <a href="ap080920.html">
+       extreme ranges
+      </a>
+      in the corona's brightness,  although discernible to the eye, are notoriously difficult to photograph.
+      <a href="https://philhart.com/exmouth-eclipse">
+       Pictured here
+      </a>
+      , however, using multiple images and digital processing,  is a detailed image of the Sun's corona taken during the
+      <a href="https://www.timeanddate.com/eclipse/solar/2023-april-20">
+       April 20, 2023 total
+      </a>
+      solar eclipse from
+      <a href="https://youtu.be/WB8ch2NtBNQ?t=42">
+       Exmouth
+      </a>
+      , Australia.  Clearly visible are
+      <a href="https://farm3.static.flickr.com/2249/2214149648_5a980d4c26_o.jpg">
+       intricate layers
+      </a>
+      and glowing caustics of an ever changing mixture of hot gas and
+      <a href="https://www.nasa.gov/feature/goddard/2016/understanding-the-magnetic-sun">
+       magnetic fields
+      </a>
+      .  Bright
+      <a href="ap090531.html">
+       looping prominences
+      </a>
+      appear pink just around the Sun's
+      <a href="ap020222.html">
+       limb
+      </a>
+      .  A similar solar corona might be
+      <a href="https://eclipse.aas.org/resources/solar-filters">
+       visible
+      </a>
+      through clear skies in a
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/">
+       narrow swath across the North America
+      </a>
+      during the  total solar eclipse that occurs
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/faq/">
+       just six days from today
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/01
   </summary>
   <table>
@@ -18,8 +101,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240401.html">
+      https://apod.nasa.gov/apod/ap240401.html
      </a>
     </td>
    </tr>
