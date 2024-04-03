@@ -5,6 +5,130 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/Pa30_NASA_4350.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/Pa30V_NASA_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What created this unusual celestial firework?  The nebula, dubbed
+      <a href="https://en.wikipedia.org/wiki/SN_1181#Pa_30">
+       Pa 30
+      </a>
+      , appears in the same sky direction now as a bright  "
+      <a href="https://en.wikipedia.org/wiki/Guest_star_(astronomy)">
+       guest star
+      </a>
+      " did in the
+      <a href="https://en.wikipedia.org/wiki/1181">
+       year 1181
+      </a>
+      .  Although Pa 30's filaments look similar to that created by a nova  (for example
+      <a href="ap111105.html">
+       GK Per
+      </a>
+      ), and a planetary nebula (for example
+      <a href="ap130313.html">
+       NGC 6751
+      </a>
+      ), some astronomers
+      <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.3885S/abstract">
+       now propose
+      </a>
+      that it was created by a rare type of
+      <a href="https://youtu.be/-yEBVm5o97E">
+       supernova
+      </a>
+      :  a thermonuclear Type Iax, and so is (also) named
+      <a href="https://en.wikipedia.org/wiki/SN_1181">
+       SN 1181
+      </a>
+      .   In
+      <a href="https://iopscience.iop.org/article/10.3847/2041-8213/acbb67/pdf">
+       this model
+      </a>
+      , the supernova was not the result of the  detonation of a single star, but rather a blast that occurred when two
+      <a href="https://youtu.be/HQtZXjktQ-Q">
+       white dwarf stars  spiraled together
+      </a>
+      and merged.   The blue dot in the center is hypothesized to be a
+      <a href="https://en.wikipedia.org/wiki/Zombie_star">
+       zombie star
+      </a>
+      , the remnant white dwarf that
+      <a href="https://www.shutterstock.com/image-photo/close-scottish-fold-cat-head-600nw-1276621966.jpg">
+       somehow survived
+      </a>
+      this
+      <a href="https://spaceplace.nasa.gov/supernova/">
+       supernova
+      </a>
+      -level explosion.   The
+      <a href="https://news.umanitoba.ca/ctv-winnipeg-new-image-of-800-year-old-explosion/">
+       featured image
+      </a>
+      combines images and data obtained with
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      (
+      <a rhef="https://www.jpl.nasa.gov/missions/wide-field-infrared-survey-explorer-wise">
+       WISE
+      </a>
+      ),
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible
+      </a>
+      (
+      <a href="https://noirlab.edu/public/programs/kitt-peak-national-observatory/the-hiltner-24m-telescope/">
+       MDM
+      </a>
+      ,
+      <a href="https://www2.ifa.hawaii.edu/research/Pan-STARRS.shtml">
+       Pan-STARRS
+      </a>
+      ),  and
+      <a href="https://science.nasa.gov/ems/11_xrays/">
+       X-ray
+      </a>
+      (
+      <a href="https://chandra.harvard.edu/">
+       Chandra
+      </a>
+      ,
+      <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton_overview">
+       XMM
+      </a>
+      ) telescopes.   Future observations and analyses may
+      <a href="ap230326.html">
+       tell us more
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/02
   </summary>
   <table>
@@ -18,8 +142,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240402.html">
+      https://apod.nasa.gov/apod/ap240402.html
      </a>
     </td>
    </tr>
