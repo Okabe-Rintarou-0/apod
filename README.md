@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/CoronaGraph.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/CoronaGraph_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Changes in the
+      <a href="ap240402.html">
+       alluring solar corona
+      </a>
+      are detailed in this
+      <a href="http://www.atscope.com.au/BRO/gallery645.html">
+       creative composite image
+      </a>
+      mapping the dynamic outer atmosphere of the Sun during two separate total solar eclipses.  Unwrapped from the complete circle of the eclipsed Sun's edge to a rectangle and mirrored, the entire solar corona is shown during the
+      <a href="ap170901.html">
+       2017 eclipse
+      </a>
+      (bottom) seen from Jackson Hole, Wyoming, and the
+      <a href="ap230516.html">
+       2023 eclipse
+      </a>
+      from Exmouth, Western Australia.  While the 2017 eclipse was near a minimum in the
+      <a href="ap231211.html">
+       Sun's 11 year activity cycle
+      </a>
+      , the 2023 eclipse was closer to solar maximum.  The 2023 solar corona hints at the dramatically different character of the active Sun, with many streamers and pinkish prominences arising along the solar limb.  Of course, the solar corona is only easily visible to the eye while standing in the shadow of the Moon.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/04
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240404.html">
+      https://apod.nasa.gov/apod/ap240404.html
      </a>
     </td>
    </tr>
