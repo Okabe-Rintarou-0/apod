@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/EclipseWyoming_Cooper_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/EclipseWyoming_Cooper_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Will the sky be clear enough to see the eclipse?  This question is already on the minds of many North Americans hoping to see
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/">
+       tomorrow's solar eclipse
+      </a>
+      .   This question was also on the mind of many people attempting to see the total solar eclipse that crossed North America in
+      <a href="https://eclipse.gsfc.nasa.gov/SEmono/TSE2017/TSE2017.html">
+       August 2017
+      </a>
+      .   Then, the path of total darkness shot across the mainland of the
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      from
+      <a href="https://youtu.be/wxiMrvDbq3s">
+       coast to coast
+      </a>
+      , from
+      <a href="https://en.wikipedia.org/wiki/Oregon">
+       Oregon
+      </a>
+      to
+      <a href="https://en.wikipedia.org/wiki/South_Carolina">
+       South Carolina
+      </a>
+      -- but, like tomorrow's event, a partial eclipse occurred above most of
+      <a href="https://en.wikipedia.org/wiki/North_America">
+       North America
+      </a>
+      .   Unfortunately, in 2017, many locations
+      <a href="https://images.ctfassets.net/2djrn56blv6r/7rAzwZd1uxcIsKO7ZfJqVL/686320c46e6ff8d63191f3a8eb33de1f/sad-cat-header.jpg">
+       saw predominantly clouds
+      </a>
+      .  One location that did not was a bank of the
+      <a href="https://youtu.be/DQoMKHMev6o">
+       Green River Lakes
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Wyoming">
+       Wyoming
+      </a>
+      .   Intermittent clouds were far enough away to allow the center image of the
+      <a href="https://www.launchphotography.com/Total_Solar_Eclipse_2017.html">
+       featured composite sequence
+      </a>
+      to be taken,  an image that shows the
+      <a href="ap240402.html">
+       corona
+      </a>
+      of the Sun extending out past the central dark
+      <a href="https://science.nasa.gov/moon/">
+       Moon
+      </a>
+      that blocks
+      <a href="https://solar-center.stanford.edu/interview/nemiroff.html">
+       our familiar Sun
+      </a>
+      .  The surrounding images show the
+      <a href="ap180211.html">
+       partial phase
+      </a>
+      s of the solar eclipse both before and after totality.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/06
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240406.html">
+      https://apod.nasa.gov/apod/ap240406.html
      </a>
     </td>
    </tr>
