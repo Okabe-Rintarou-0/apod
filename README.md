@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How does a comet tail change?  It depends on the comet.   The ion tail of
+      <a href="https://en.wikipedia.org/wiki/12P/Pons%E2%80%93Brooks">
+       Comet 12P/Pons–Brooks
+      </a>
+      has been changing markedly,  as detailed in the featured image sequenced over nine days  from March 6 to 14 (top to bottom).   On some days, the comet's
+      <a href="http://www2.ess.ucla.edu/~jewitt/tail.html">
+       ion tail
+      </a>
+      was relatively long and complex,  but not every day.   Reasons for tail changes include the rate of
+      <a href="ap151118.html">
+       ejection of material
+      </a>
+      from the
+      <a href="https://www.cometcampaign.org/files/images/comets_spacecraft.jpg">
+       comet's nucleus
+      </a>
+      ,  the strength and complexity of the
+      <a href="ap240219.html">
+       passing solar wind
+      </a>
+      , and the
+      <a href="ap240318.html">
+       rotation rate
+      </a>
+      of the
+      <a href="https://spaceplace.nasa.gov/comets/">
+       comet
+      </a>
+      .   Over the course of a week, apparent changes even include a  change of perspective from the Earth.  In general, a comet's
+      <a href="https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg">
+       ion tail will point away from the Sun
+      </a>
+      ,  as gas expelled is pushed out by the
+      <a href="ap000318.html">
+       Sun's wind
+      </a>
+      .  Today,
+      <a href="https://earthsky.org/tonight/12-p-comet-pons-brooks-outburst-millennium-falcon-bright-2024-eclipse/">
+       Pons-Brooks
+      </a>
+      may become a rare comet
+      <a href="https://live.staticflickr.com/5613/15634745431_af629b9374.jpg">
+       suddenly visible
+      </a>
+      in the middle of the day for those able to see the
+      <a href="ap170820.html">
+       Sun totally eclipsed by the Moon
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/07
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240407.html">
+      https://apod.nasa.gov/apod/ap240407.html
      </a>
     </td>
    </tr>
