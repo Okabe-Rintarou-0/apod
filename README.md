@@ -5,6 +5,42 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada1200.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Captured in this snapshot, the shadow of the Moon came to Lake Magog, Quebec, North America, planet Earth on April 8.  For the lakeside eclipse chasers, the much anticipated total solar eclipse was a spectacle to behold in briefly dark, but clear skies.  Of course Lake Magog was one of the last places to be visited by the Moon's shadow.  The narrow path of totality for the
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/">
+       2024 total solar eclipse
+      </a>
+      swept from Mexico's Pacific Coast north and eastward through the US and Canada.  But a partial eclipse was visible across the entire North American continent.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/08
   </summary>
   <table>
@@ -18,8 +54,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240408.html">
+      https://apod.nasa.gov/apod/ap240408.html
      </a>
     </td>
    </tr>
