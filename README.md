@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_1014.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What wonders appear when the Moon blocks the Sun?  For many eager observers of
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/">
+       Monday’s total eclipse
+      </a>
+      of the Sun, the suddenly dark sky  included the expected corona and two (perhaps surprise) planets:
+      <a href="ap230306.html">
+       Venus and Jupiter
+      </a>
+      .  Normally, in recent days, Venus is visible only in the morning when the Sun and Jupiter are below the horizon, while Jupiter appears bright only in the evening.   On Monday, though, for well-placed observers, both planets became easily visible during the day right in line with the
+      <a href="ap240409.html">
+       totally eclipsed Sun
+      </a>
+      .  This line was captured Monday afternoon in the featured image from
+      <a href="https://www.arkansasstateparks.com/parks/mount-nebo-state-park">
+       Mount Nebo
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Arkansas">
+       Arkansas
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      ,  along with a line of
+      <a href="https://www.temptationstreats.com/sites/g/files/fnmzdf3061/files/2023-02/curious-owners-hero_0.jpg">
+       curious observers
+      </a>
+      — and a
+      <a href="ap231015.html">
+       picturesque tree
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/09
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240409.html">
+      https://apod.nasa.gov/apod/ap240409.html
      </a>
     </td>
    </tr>
