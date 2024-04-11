@@ -5,6 +5,54 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Start at the upper left above and you can follow the progress of
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/">
+       April 8's
+      </a>
+      total eclipse of the Sun in seven sharp, separate exposures.  The image sequence was recorded with a telescope and camera located within the narrow path of totality as the
+      <a href="ap240324.html">
+       Moon's shadow
+      </a>
+      swept across Newport, Vermont, USA.  At center is a spectacular view of
+      <a href="https://solarscience.msfc.nasa.gov/corona.shtml">
+       the solar corona
+      </a>
+      .  The tenuous outer atmosphere of the Sun is only easily visible to the eye in clear dark skies during the total eclipse phase.
+      <a href="https://www.timeanddate.com/eclipse/in/usa/newport?iso=20240408">
+       Seen from Newport
+      </a>
+      , the total phase for this solar eclipse lasted about 3 minutes and 26 seconds.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/10
   </summary>
   <table>
@@ -18,8 +66,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240410.html">
+      https://apod.nasa.gov/apod/ap240410.html
      </a>
     </td>
    </tr>
