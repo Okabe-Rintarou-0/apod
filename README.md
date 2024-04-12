@@ -5,6 +5,53 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/image0tseKorona.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/image0tseKorona_1100.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://alpo-astronomy.org/eclipse/observeeclipses/chapter9.htm">
+       Baily's beads
+      </a>
+      often appear at the boundaries of the total phase of an eclipse of the Sun.  Pearls of sunlight still beaming through gaps in the
+      <a href="ap230917.html">
+       rugged terrain
+      </a>
+      along the lunar limb silhouette, their appearance is recorded in this dramatic timelapse composite.  The series of images follows the Moon's edge from beginning through the end of totality during April 8's solar eclipse
+      <a href="https://www.timeanddate.com/eclipse/in/mexico/durango?iso=20240408">
+       from Durango, Mexico
+      </a>
+      .  They also capture pinkish prominences of plasma arcing high above the edge of the active Sun.  One of the first places in North America visited by the
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/">
+       Moon's shadow
+      </a>
+      on April 8, totality in Durango lasted about 3 minutes and 46 seconds.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/11
   </summary>
   <table>
@@ -18,8 +65,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240411.html">
+      https://apod.nasa.gov/apod/ap240411.html
      </a>
     </td>
    </tr>
