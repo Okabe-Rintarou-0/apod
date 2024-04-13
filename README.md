@@ -5,6 +5,50 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/pinholepalm.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Only those
+      <a href="https://science.nasa.gov/solar-system/skywatching/how-is-the-2024-total-solar-eclipse-different-than-the-2017-eclipse/">
+       along the narrow track
+      </a>
+      of the Moon's shadow on April 8 saw a total solar eclipse.  But most of North America still saw a partial eclipse of the Sun.  From Clearwater, Florida, USA this single snapshot captured multiple images of that more widely viewed celestial event without observing the Sun directly.
+      <a href="ap231015.html">
+       In the shade
+      </a>
+      of a palm tree, criss-crossing fronds are projecting recognizable eclipse images on the ground,
+      <a href="https://www.jpl.nasa.gov/edu/learn/project/how-to-make-a-pinhole-camera/">
+       pinhole camera style
+      </a>
+      .   In Clearwater the maximum eclipse phase was about 53 percent.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/12
   </summary>
   <table>
@@ -18,8 +62,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240412.html">
+      https://apod.nasa.gov/apod/ap240412.html
      </a>
     </td>
    </tr>
