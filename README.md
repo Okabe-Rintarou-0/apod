@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/M82Center_HubbleWebb_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/M82Center_HubbleWebb_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Something strange happened to this galaxy, but what?  Known as the
+      <a href="ap230802.html">
+       Cigar Galaxy
+      </a>
+      and cataloged as
+      <a href="https://en.wikipedia.org/wiki/Messier_82">
+       M82
+      </a>
+      ,  red glowing gas and dust are being cast out from the center.   Although this
+      <a href="http://burro.case.edu/Academics/Astr222/Galaxies/Peculiar/starburst.html">
+       starburst galaxy
+      </a>
+      was surely stirred up by a recent pass near its
+      <a href="ap160203.html">
+       neighbor
+      </a>
+      ,  large spiral galaxy
+      <a href="ap210312.html">
+       M81
+      </a>
+      ,  this doesn't fully explain the source of the  red-glowing outwardly expanding gas and
+      <a href="https://astronomy.swin.edu.au/cosmos/d/Dust+Grain">
+       dust
+      </a>
+      .   Evidence indicates that this material is being driven out by the combined emerging
+      <a href="https://en.wikipedia.org/wiki/Stellar_wind">
+       particle winds
+      </a>
+      of many stars, together creating a
+      <a href="https://en.wikipedia.org/wiki/Galactic_superwind">
+       galactic superwind
+      </a>
+      .  In the
+      <a href="https://webbtelescope.org/contents/media/images/2024/109/01HRD12PNCS1RFCS4VAHWPZDGQ">
+       featured images
+      </a>
+      , a
+      <a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/">
+       Hubble Space Telescope
+      </a>
+      image in
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      is shown on the left, while a
+      <a href="https://webb.nasa.gov/content/about/index.html">
+       James Webb Space Telescope
+      </a>
+      image of the central region in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared light
+      </a>
+      is shown on the right.
+      <a href="https://www.ardeaprints.com/p/172/cat-black-white-cat-garden-looking-plant-3749006.jpg.webp">
+       Detailed inspection
+      </a>
+      of the
+      <a href="https://webbtelescope.org/contents/news-releases/2024/news-2024-109">
+       new Webb image
+      </a>
+      shows, unexpectedly,  that this red-glowing dust is associated with
+      <a href="https://youtu.be/3vtGktz8c1M">
+       hot plasma
+      </a>
+      .
+      <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240116648B/abstract">
+       Research
+      </a>
+      into the nature of
+      <a href="ap230802.html">
+       this strange nearby galaxy
+      </a>
+      will surely continue.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/13
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240414.html">
+      https://apod.nasa.gov/apod/ap240414.html
      </a>
     </td>
    </tr>
