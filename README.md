@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/VelaSnr_CTIO_3989.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/VelaSnr_CTIO_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The explosion is over, but the consequences continue.   About eleven thousand years ago, a star in the constellation of
+      <a href="ap190110.html">
+       Vela
+      </a>
+      could be seen to
+      <a href="https://youtu.be/wymMn-SmALY">
+       explode
+      </a>
+      ,  creating a strange point of light briefly visible to  humans living near the beginning of
+      <a href="https://en.wikipedia.org/wiki/Cave_painting">
+       recorded history
+      </a>
+      .   The outer layers of the star crashed into the
+      <a href="ap130924.html">
+       interstellar medium
+      </a>
+      , driving a
+      <a href="ap210414.html">
+       shock wave
+      </a>
+      that is still visible today.   The
+      <a href="https://noirlab.edu/public/images/noirlab2406a/">
+       featured image
+      </a>
+      captures some of that filamentary and gigantic shock in
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      .  As gas flies away from the detonated star, it
+      <a href="https://imagine.gsfc.nasa.gov/observatories/satellite/compton/snr.html">
+       decays
+      </a>
+      and reacts with the interstellar medium,  producing light in many different colors and energy bands.  Remaining at the center of the
+      <a href="https://en.wikipedia.org/wiki/Vela_Supernova_Remnant">
+       Vela Supernova Remnant
+      </a>
+      is a
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html">
+       pulsar
+      </a>
+      , a star as dense as nuclear matter that
+      <a href="https://youtu.be/jv2rEa7iqhA">
+       spins around
+      </a>
+      more than ten times in a single second.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/15
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240415.html">
+      https://apod.nasa.gov/apod/ap240415.html
      </a>
     </td>
    </tr>
