@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/EclipseComets_Zixuan_6105.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/EclipseComets_Zixuan_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Not one, but two comets appeared near the Sun during
+      <a href="https://science.nasa.gov/solar-system/skywatching/april-8-total-solar-eclipse-through-the-eyes-of-nasa/">
+       last week's total solar eclipse
+      </a>
+      .  The expected comet was
+      <a href="ap240408.html">
+       Comet 12P/Pons-Brooks
+      </a>
+      ,  but it was disappointingly dimmer than many had hoped.  However, relatively unknown
+      <a href="https://www.sciencetimes.com/articles/49697/20240411/sungrazer-comet-soho-5008-total-solar-eclipse.htm">
+       Comet SOHO-5008 also appeared
+      </a>
+      in long duration camera exposures.
+      <a href="https://www.livescience.com/space/the-sun/tiny-sungrazer-comet-discovered-photographed-and-destroyed-all-during-historic-total-solar-eclipse">
+       This comet
+      </a>
+      was the 5008th comet identified on images taken by
+      <a href="https://www.esa.int/">
+       ESA
+      </a>
+      &amp;
+      <a href="https://www.nasa.gov/">
+       NASA
+      </a>
+      's Sun-orbiting
+      <a href="https://soho.nascom.nasa.gov/about/spacecraft.html">
+       SOHO spacecraft
+      </a>
+      .   Likely much smaller, Comet SOHO-5008 was a sungrazer which
+      <a href="https://spaceweatherarchive.com/2024/04/12/this-comet-did-not-survive-the-eclipse/">
+       disintegrated within hours
+      </a>
+      as it passed too
+      <a href="ap240219.html">
+       near the Sun
+      </a>
+      .   The featured image is not only unusual for capturing
+      <a href="ap171002.html">
+       two comets
+      </a>
+      during an eclipse,  but one of the
+      <a href="https://static.wikia.nocookie.net/nicos-nextbots-fanmade/images/2/23/WOW_Three_Cats.png">
+       rare times
+      </a>
+      that a
+      <a href="https://en.wikipedia.org/wiki/Sungrazing_comet">
+       sungrazing comet
+      </a>
+      has been photographed from the Earth's surface.  Also visible in the image is the
+      <a href="ap230516.html">
+       sprawling corona
+      </a>
+      of
+      <a href="https://science.nasa.gov/sun/">
+       our Sun
+      </a>
+      and the planets
+      <a href="https://science.nasa.gov/mercury/">
+       Mercury
+      </a>
+      (left) and
+      <a href="ap220306.html">
+       Venus
+      </a>
+      (right).   Of these planets and comets, only
+      <a href="ap230306.html">
+       Venus
+      </a>
+      was easily visible to
+      <a href="https://www.pbs.org/newshour/show/millions-of-people-witness-rare-total-solar-eclipse-across-north-america">
+       millions of people
+      </a>
+      in the
+      <a href="ap240324.html">
+       dark shadow of the Moon
+      </a>
+      that
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when">
+       crossed North America
+      </a>
+      on April 8.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/16
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240416.html">
+      https://apod.nasa.gov/apod/ap240416.html
      </a>
     </td>
    </tr>
