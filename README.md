@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/NGC3372_ETA CARINA_LOPES.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/NGC3372_ETA CARINA_LOPES1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A jewel of the
+      <a href="ap210101.html">
+       southern sky
+      </a>
+      , the
+      <a href="http://www.messier.seds.org/xtra/ngc/n3372.html">
+       Great Carina Nebula
+      </a>
+      is more modestly known as NGC 3372.  One of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Galaxy's
+      </a>
+      largest star forming regions, it spans over 300 light-years.  Like the smaller, more northerly
+      <a href="ap240105.html">
+       Great Orion Nebula
+      </a>
+      , the
+      <a href="https://hubblesite.org/contents/news-releases/2007/news-2007-16.html">
+       Carina Nebula
+      </a>
+      is easily visible to the  unaided eye.  But at a distance of 7,500 light-years  it lies some 5 times farther away.  This stunning telescopic view reveals remarkable details of the region's glowing filaments of
+      <a href="http://www-ssg.sr.unh.edu/ism/what1.html">
+       interstellar gas
+      </a>
+      and
+      <a href="ap080528.html">
+       obscuring cosmic dust
+      </a>
+      clouds.  The
+      <a href="https://www.eso.org/public/news/eso1637/">
+       Carina Nebula
+      </a>
+      is home to young, extremely massive stars, including the still enigmatic variable
+      <a href="ap230709.html">
+       Eta Carinae
+      </a>
+      , a star with well over 100 times the mass of the Sun.
+      <a href="http://stars.astro.illinois.edu/sow/etacar.html">
+       Eta Carinae
+      </a>
+      is the bright star above the central dark notch in  this field and left of the
+      <a href="ap160814.html">
+       dusty Keyhole
+      </a>
+      Nebula (NGC 3324).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/18
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240418.html">
+      https://apod.nasa.gov/apod/ap240418.html
      </a>
     </td>
    </tr>
