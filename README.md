@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/tse2024Dobbs.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/tse2024Dobbs_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthobservatory.nasa.gov/images/152663/total-solar-eclipse-darkens-north-america">
+       When the dark shadow of the Moon
+      </a>
+      raced across North America on April 8,
+      <a href="ap190704.html">
+       sky watchers
+      </a>
+      along the shadow's narrow central path were treated to a total solar eclipse.  During the New Moon's shadow play diamonds glistened twice in the
+      <a href="https://earthobservatory.nasa.gov/images/152683/looking-up-and-down-during-the-eclipse">
+       eclipse-darkened skies
+      </a>
+      .
+      <a href="http://www.alpo-astronomy.org/eclipse/observeeclipses/chapter9.htm">
+       The transient celestial jewels
+      </a>
+      appeared immediately before and after the total eclipse phase.  That's when the rays of a vanishing and then emerging sliver of solar disk are just visible behind the silhouetted Moon's edge, creating the appearance of a shiny diamond set in a dark ring.
+      <a href="https://www.instagram.com/wrightdobbs/p/C5i5kpHL1V4/">
+       This dramatic timelapse composite
+      </a>
+      from north-central Arkansas captures both diamond ring moments of
+      <a href="https://www.facebook.com/media/set/?set=a.410844681644115&amp;type=3">
+       this total solar eclipse
+      </a>
+      .  The diamond rings are separated by the ethereal beauty of
+      <a href="ap240405.html">
+       the solar corona
+      </a>
+      visible during totality.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/19
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240419.html">
+      https://apod.nasa.gov/apod/ap240419.html
      </a>
     </td>
    </tr>
