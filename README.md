@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/EtnaRingsMoonCrop_Giannobile_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/EtnaRingsMoonCrop_Giannobile_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Yes, but can your volcano do this?  To the
+      <a href="https://media.istockphoto.com/id/1128004359/photo/close-up-scottish-fold-cat-head-with-shocking-face-and-wide-open-eyes-frighten-or-surprised.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=HglQ8Nf1PslTuI91T-dfhkln-iEbchjqfhGKCWTbaxg=">
+       surprise
+      </a>
+      of some,
+      <a href="https://youtu.be/4ACzGDPnsAM?t=7">
+       Mt. Etna
+      </a>
+      emits,  on occasion, smoke rings.  Technically known as
+      <a href="https://en.wikipedia.org/wiki/Vortex_ring">
+       vortex rings
+      </a>
+      ,  the walls of the volcano slightly slow the outside of
+      <a href="https://youtu.be/izlsxgAvL18">
+       emitted smoke puffs
+      </a>
+      ,  causing the inside gas to move faster.   A circle of low pressure develops so that the emitted puff of
+      <a href="https://en.wikipedia.org/wiki/Volcanic_gas">
+       volcanic gas
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Volcanic_ash">
+       ash
+      </a>
+      loops around in a
+      <a href="ap230814.html">
+       ring
+      </a>
+      ,  a familiar geometric structure that can be surprisingly stable as it rises.
+      <a href="https://youtu.be/ckFdAVFgIR8">
+       Smoke ring
+      </a>
+      s  are quite rare and need a coincidence of the right
+      <a href="https://youtu.be/N7d_RWyOv20">
+       geometry
+      </a>
+      of the vent, the right speed of
+      <a href="ap030102.html">
+       ejected smoke
+      </a>
+      ,  and the relative calmness of the outside atmosphere.   In the
+      <a href="https://www.instagram.com/p/C5h7DueonwE/">
+       featured image
+      </a>
+      taken about two weeks ago from
+      <a href="https://youtu.be/VNQVtyNQQ9A">
+       Gangi
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Sicily">
+       Sicily
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italy
+      </a>
+      ,  multiple volcanic smoke rings are visible.   The scene is shaded by the
+      <a href="ap240228.html">
+       red light
+      </a>
+      of a dawn
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      , while a
+      <a href="https://svs.gsfc.nasa.gov/5187/">
+       crescent Moon
+      </a>
+      is visible in the background.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/20
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240421.html">
+      https://apod.nasa.gov/apod/ap240421.html
      </a>
     </td>
    </tr>
