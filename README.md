@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/ContrailX_Ekmen_2268.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/ContrailX_Ekmen_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What created this giant X in the clouds?  It was the shadow of
+      <a href="https://en.wikipedia.org/wiki/Contrail">
+       contrails
+      </a>
+      illuminated from below.  When airplanes fly, humid
+      <a href="https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/engines.html">
+       engine
+      </a>
+      exhaust may form  water droplets that might freeze in Earth's
+      <a href="https://cloud1.arc.nasa.gov/solveII/outreach/middleschool-atmos.htm">
+       cold upper atmosphere
+      </a>
+      .   These persistent
+      <a href="ap231204.html">
+       streams of water and ice
+      </a>
+      scatter light from the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      above and so appear
+      <a href="ap050513.html">
+       bright from below
+      </a>
+      .  On rare occasions, though, when the Sun is near the horizon,
+      <a href="https://www.nasa.gov/wp-content/uploads/2023/06/contrails-k-12.pdf?emrc=9d8066">
+       contrails
+      </a>
+      can be lit from below.   These contrails cast long shadows upwards, shadows that usually go unseen unless there is a high cloud deck.  But that was just the case over
+      <a href="https://youtu.be/eV6lTEY95yY">
+       Istanbul
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Turkey">
+       Türkiye
+      </a>
+      ,  earlier this month.  Contrails occur
+      <a href="ap080429.html">
+       all over
+      </a>
+      planet Earth and, generally,
+      <a href="https://baltimorefishbowl.com/wp-content/uploads/2014/03/catsburritoscoldkittenswrapburrito-03bc734d15d3f1eed350fa0b20e309ed_h.jpg">
+       warm
+      </a>
+      the Earth when the trap
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared light
+      </a>
+      but cool the Earth  when they efficiently reflect
+      <a href="ap230611.html">
+       sunlight
+      </a>
+      .  The image was taken by a surprised photographer  in the morning
+      <a href="ap200224.html">
+       on the way to work
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/22
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240422.html">
+      https://apod.nasa.gov/apod/ap240422.html
      </a>
     </td>
    </tr>
