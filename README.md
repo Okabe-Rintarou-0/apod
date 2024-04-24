@@ -5,6 +5,93 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/DragonsEgg_Prangley_4688.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/DragonsEgg_Prangley_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How did a star form this beautiful nebula?   In the middle of
+      <a href="https://en.wikipedia.org/wiki/Emission_nebula">
+       emission nebula
+      </a>
+      NGC 6164 is an
+      <a href="https://en.wikipedia.org/wiki/O-type_star">
+       unusually massive star
+      </a>
+      .   The central star has been compared to an
+      <a href="https://www.thepearlsource.com/blog/wp-content/uploads/2017/12/Black-pearls.jpg">
+       oyster's pearl
+      </a>
+      and an
+      <a href="https://en.wikipedia.org/wiki/Dragon%27s_Egg">
+       egg
+      </a>
+      <a href="https://www.boredpanda.com/blog/wp-content/uploads/2015/07/dog-protecting-cat-internet-meme-fb2__700.jpg">
+       protected
+      </a>
+      by the mythical sky
+      <a href="ap220607.html">
+       dragons of Ara
+      </a>
+      .   The star, visible in the center of the
+      <a href="https://www.astrobin.com/7dexm4/">
+       featured image
+      </a>
+      and catalogued as
+      <a href="https://telescope.live/gallery/hd-148937-ngc-6165">
+       HD 148937
+      </a>
+      , is so hot that the
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet light
+      </a>
+      it emits heats up gas that surrounds it.   That gas was likely thrown off from the star previously,  possibly the result of a
+      <a href="https://science.nasa.gov/resource/tides/">
+       gravitational interaction
+      </a>
+      with a looping stellar companion.   Expelled material might have been channeled by the
+      <a href="https://pwg.gsfc.nasa.gov/Education/Imagnet.html">
+       magnetic field
+      </a>
+      of the massive star, in all creating the symmetric
+      <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...961...72L/abstract">
+       shape of the bipolar nebula
+      </a>
+      .   NGC 6164 spans about four
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      and is located about 3,600 light years away  toward the southern constellation
+      <a href="https://en.wikipedia.org/wiki/Norma_(constellation)">
+       Norma
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/23
   </summary>
   <table>
@@ -18,8 +105,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240423.html">
+      https://apod.nasa.gov/apod/ap240423.html
      </a>
     </td>
    </tr>
