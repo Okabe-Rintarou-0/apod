@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/stsci-xNGC604NIRcam2048.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/stsci-xNGC604NIRcam1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Located some 3 million light-years away in the arms of nearby spiral
+      <a href="ap080913.html">
+       galaxy M33
+      </a>
+      , giant stellar nursery
+      <a href="http://www.seds.org/messier/more/m033_n604.html">
+       NGC 604 is
+      </a>
+      about 1,300 light-years across.  That's nearly 100 times the size of the Milky Way's
+      <a href="ap240105.html">
+       Orion Nebula
+      </a>
+      , the closest large star forming region to planet Earth.  In fact, among the star forming regions within the Local Group of galaxies, NGC 604 is second in size only to 30 Doradus, also known as
+      <a href="ap240308.html">
+       the Tarantula Nebula
+      </a>
+      in the Large Magellanic Cloud.  Cavernous bubbles and cavities in NGC 604 fill this stunning infrared image from the
+      <a href="https://webbtelescope.org/contents/news-releases/2024/news-2024-110">
+       James Webb Space Telescope's NIRCam
+      </a>
+      .  They are carved out by energetic stellar winds from the region's more than 200 hot, massive, young stars, all still in early
+      <a href="https://webbtelescope.org/webb-science/the-star-lifecycle">
+       stages of their lives
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/24
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240424.html">
+      https://apod.nasa.gov/apod/ap240424.html
      </a>
     </td>
    </tr>
