@@ -5,6 +5,77 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/Regulus_Dwarf_by_Markus_Horn2048.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/Regulus_Dwarf_by_Markus_Horn1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/favorite-star-patterns/spring-triangle-regulus-arcturus-spica/">
+       In northern hemisphere spring
+      </a>
+      , bright star Regulus is easy to spot above the eastern horizon.  The alpha star of the constellation Leo, Regulus is the spiky star centered in this
+      <a href="https://astrophoto-hannover.de/regulus.html">
+       telescopic field of view
+      </a>
+      .  A mere 79 light-years distant,
+      <a href="http://stars.astro.illinois.edu/sow/regulus.html">
+       Regulus
+      </a>
+      is a
+      <a href="https://earthsky.org/brightest-stars/best-regulus-the-heart-of-the-lion/">
+       hot, rapidly spinning star
+      </a>
+      that is known to be part of a multiple star system.  Not quite lost in the glare, the fuzzy patch just below Regulus is diffuse starlight from small galaxy Leo I.  Leo I is a
+      <a href="https://en.wikipedia.org/wiki/Leo_I_(dwarf_galaxy)">
+       dwarf spheroidal galaxy
+      </a>
+      , a member of the
+      <a href="http://www.seds.org/messier/more/local.html">
+       Local Group
+      </a>
+      of galaxies dominated by our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      and the Andromeda Galaxy (
+      <a href="ap051222.html">
+       M31
+      </a>
+      ).  About 800 thousand light-years away, Leo I is thought to be the most distant of the known small satellite galaxies orbiting the Milky Way.
+      <a href="https://www.sci.news/astronomy/dwarf-spheroidal-galaxy-leo-i-black-hole-10328.html">
+       But dwarf galaxy Leo I
+      </a>
+      has shown
+      <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...956L..37P/abstract">
+       evidence
+      </a>
+      of a supermassive black hole at its center, comparable in mass to the black hole at the center of the Milky Way.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/25
   </summary>
   <table>
@@ -18,8 +89,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240425.html">
+      https://apod.nasa.gov/apod/ap240425.html
      </a>
     </td>
    </tr>
