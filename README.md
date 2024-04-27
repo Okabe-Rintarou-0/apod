@@ -5,6 +5,53 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/20240408h14.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/tse20240408h14_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.flickr.com/photos/nasahqphoto/albums/72177720315879304/">
+       If the Sun is up
+      </a>
+      but the sky is dark and the horizon is bright all around, you might be standing in the Moon's shadow during a total eclipse of the Sun.  In fact, the all-sky Moon shadow shown in this composited panoramic view was captured from a farm near Shirley, Arkansas, planet Earth.  The exposures were made under clear skies during the
+      <a href="https://science.nasa.gov/solar-system/skywatching/april-8-total-solar-eclipse-through-the-eyes-of-nasa/">
+       April 8 total solar eclipse
+      </a>
+      .  For that location near the center line of the Moon's shadow track, totality lasted over 4 minutes.  Along with the solar corona surrounding the
+      <a href="https://www.facebook.com/media/set/?set=a.410844681644115&amp;type=3">
+       silhouette of the Moon
+      </a>
+      planets and stars were visible during the total eclipse phase.
+      <a href="image/2404/20240408h14La.jpg">
+       Easiest to see here
+      </a>
+      are bright planets Venus and Jupiter, to the lower right and upper left of the eclipsed Sun.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/26
   </summary>
   <table>
@@ -18,8 +65,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240426.html">
+      https://apod.nasa.gov/apod/ap240426.html
      </a>
     </td>
    </tr>
