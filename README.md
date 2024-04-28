@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/M57Ring_HubbleGendler_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/M57Ring_HubbleGendler_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The
+      <a href="https://en.wikipedia.org/wiki/Ring_nebula">
+       Ring Nebula (M57)
+      </a>
+      is more complicated than it appears through a small telescope.   The easily visible
+      <a href="ap230402.html">
+       central ring
+      </a>
+      is about one
+      <a href="http://chandra.harvard.edu/photo/cosmic_distance.html">
+       light-year
+      </a>
+      across, but
+      <a href="http://www.robgendlerastropics.com/M57-HST-LBT.html">
+       this remarkably deep exposure
+      </a>
+      - a
+      <a href="https://i.ytimg.com/vi/t8tjT9MA7yU/hqdefault.jpg">
+       collaborative effort
+      </a>
+      combining data from  three different large telescopes -
+      <a href="https://ui.adsabs.harvard.edu/abs/2004A%26A...417..637C/abstract">
+       explores
+      </a>
+      the looping filaments of glowing gas extending much farther from
+      <a href="ap210721.html">
+       the nebula
+      </a>
+      's central star.  This
+      <a href="http://www.robgendlerastropics.com/M57-HST-LBT.html">
+       composite image
+      </a>
+      includes red light emitted by hydrogen as well as visible and
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared light
+      </a>
+      .  The Ring Nebula is an elongated
+      <a href="https://astronomy.swin.edu.au/cosmos/p/Planetary+Nebulae">
+       planetary nebula
+      </a>
+      , a type of nebula created when a
+      <a href="ap230611.html">
+       Sun
+      </a>
+      -like star evolves to
+      <a href="https://www.youtube.com/watch?v=6FSIfUYFeTM">
+       throw off its outer atmosphere
+      </a>
+      and become a
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/dwarfs2.html">
+       white dwarf star
+      </a>
+      .   The
+      <a href="https://www.youtube.com/watch?v=OiYRL3HFULU">
+       Ring Nebula
+      </a>
+      is about 2,500 light-years away toward the musical
+      <a href="http://www.hawastsoc.org/deepsky/lyr/index.html">
+       constellation Lyra
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/27
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240427.html">
+      https://apod.nasa.gov/apod/ap240427.html
      </a>
     </td>
    </tr>
