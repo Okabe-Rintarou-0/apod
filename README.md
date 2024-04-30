@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/04/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2404/GKPerWide_DSC_4329.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2404/GKPerWide_DSC_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The star system GK Per is known to be associated  with only two of the three nebulas
+      <a href="https://www.astrobin.com/ocm8rv/">
+       pictured
+      </a>
+      .   At 1500
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      distant,  Nova Persei 1901  (
+      <a href="https://en.wikipedia.org/wiki/GK_Persei">
+       GK Persei
+      </a>
+      )  was the second closest
+      <a href="https://en.wikipedia.org/wiki/Nova">
+       nova
+      </a>
+      yet recorded.  At the very center is a
+      <a href="https://science.nasa.gov/universe/stars/types/#white-dwarfs">
+       white dwarf star
+      </a>
+      , the surviving core of a former Sun-like star.  It is surrounded by the circular
+      <a href="ap980704.html">
+       Firework nebula
+      </a>
+      , gas that was ejected by a
+      <a href="https://youtu.be/11e8XyUBqRQ">
+       thermonuclear explosion
+      </a>
+      on the white dwarf's surface -- a nova -- as
+      <a href="https://www.aavso.org/vsots_gkper">
+       recorded in 1901
+      </a>
+      .  The red glowing gas surrounding the Firework nebula  is the atmosphere that used to surround the central star.  This gas was expelled before the
+      <a href="https://youtu.be/zYmd8EETy74">
+       nova
+      </a>
+      and appears as a diffuse
+      <a href="ap230416.html">
+       planetary nebula
+      </a>
+      .   The
+      <a href="https://deepskycollective.com/gkpersei/lrgbhoo">
+       faint gray gas
+      </a>
+      running across is
+      <a href="https://www.cosmotography.com/images/galactic_cirrus.html">
+       interstellar cirrus
+      </a>
+      that seems to be
+      <a href="https://arxiv.org/abs/2201.10332">
+       just passing through
+      </a>
+      coincidently.  In 1901, GK Per's nova
+      <a href="https://media.zenfs.com/en_US/News/BGR_News/scared-surprised-cat-face.jpg">
+       became brighter
+      </a>
+      than
+      <a href="ap200511.html">
+       Betelgeuse
+      </a>
+      .  Similarly, star system
+      <a href="https://blogs.nasa.gov/Watch_the_Skies/2024/02/27/view-nova-explosion-new-star-in-northern-crown/">
+       T CrB
+      </a>
+      is expected to  erupt in a nova later this year,  but we don't know exactly when nor
+      <a href="https://en.wikipedia.org/wiki/T_Coronae_Borealis">
+       how bright
+      </a>
+      it will become.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/04/29
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240429.html">
+      https://apod.nasa.gov/apod/ap240429.html
      </a>
     </td>
    </tr>
