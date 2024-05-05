@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/05/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2405/BhShredder_NASA_3482.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2405/BhShredder_NASA_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What happens to a star that goes near a black hole?  If the star directly impacts a massive
+      <a href="https://www1.phys.vt.edu/~jhs/faq/blackholes.html">
+       black hole
+      </a>
+      ,  then the star falls in completely -- and everything vanishes.
+      <a href="https://www.sciencemag.org/news/2020/01/black-holes-caught-act-swallowing-stars">
+       More likely
+      </a>
+      , though, the star goes close enough to have the  black hole's gravity pull away its outer layers, or
+      <a href="https://www.nasa.gov/image-article/tidal-disruption/">
+       disrupt, the star
+      </a>
+      .  Then, most of the star's gas does not fall into the
+      <a href="ap191001.html">
+       black hole
+      </a>
+      .   These stellar
+      <a href="https://en.wikipedia.org/wiki/Tidal_disruption_event">
+       tidal disruption
+      </a>
+      events can be as bright as a supernova,  and an increasing amount of them are being discovered by automated
+      <a href="https://en.wikipedia.org/wiki/Astronomical_survey#List_of_sky_surveys">
+       sky surveys
+      </a>
+      .  In the
+      <a href="https://www.jpl.nasa.gov/images/pia20027-infrared-echoes-of-a-black-hole-eating-a-star-illustration">
+       featured artist's illustration
+      </a>
+      , a star has just passed a massive
+      <a href="ap210427.html">
+       black hole
+      </a>
+      and sheds gas that continues to orbit.   The inner edge of a disk of gas and dust
+      <a href="ap200825.html">
+       surrounding the black hole
+      </a>
+      is heated by the
+      <a href="ap151028.html">
+       disruption event
+      </a>
+      and may
+      <a href="https://media.sciencephoto.com/image/z9340730/800wm/Z9340730.jpg">
+       glow
+      </a>
+      long after the star   is gone.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/05/04
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240504.html">
+      https://apod.nasa.gov/apod/ap240504.html
      </a>
     </td>
    </tr>
