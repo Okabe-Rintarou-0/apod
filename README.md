@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/05/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_2491.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What happens when a black hole devours a star?   Many details remain unknown, but observations are providing new clues.  In 2014, a
+      <a href="http://iopscience.iop.org/article/10.3847/2041-8213/aa6003">
+       powerful explosion
+      </a>
+      was recorded by the ground-based robotic telescopes of the
+      <a href="http://www.astronomy.ohio-state.edu/~assassin/index.shtml">
+       All Sky Automated Survey for SuperNovae
+      </a>
+      (Project ASAS-SN),  with followed-up observations by instruments including
+      <a href="https://www.nasa.gov">
+       NASA
+      </a>
+      's Earth-orbiting
+      <a href="https://swift.gsfc.nasa.gov/">
+       Swift satellite
+      </a>
+      .  Computer modeling of these emissions fit a star being
+      <a href="https://thedoorguardian.com/wp-content/uploads/2017/04/DOG-14.jpg">
+       ripped apart
+      </a>
+      by a distant
+      <a href="ap130312.html">
+       supermassive black hole
+      </a>
+      .   The results of such a collision are portrayed in the
+      <a href="https://news.mit.edu/2017/black-hole-choking-stardust-0315">
+       featured artistic illustration
+      </a>
+      .  The
+      <a href="https://spaceplace.nasa.gov/black-holes/">
+       black hole
+      </a>
+      itself is a depicted as a tiny black dot in the center.  As matter falls toward
+      <a href="ap220501.html">
+       the hole
+      </a>
+      , it collides with other matter and
+      <a href="http://stronggravity.eu/public-outreach-tmp/accretion-disks/">
+       heats up
+      </a>
+      .  Surrounding the black hole is an
+      <a href="ap050312.html">
+       accretion disk
+      </a>
+      of hot matter that used to be the star, with a
+      <a href="ap131120.html">
+       jet
+      </a>
+      emanating from the
+      <a href="ap011029.html">
+       black hole's spin axis
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/05/05
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240506.html">
+      https://apod.nasa.gov/apod/ap240506.html
      </a>
     </td>
    </tr>
