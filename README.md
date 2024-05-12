@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/05/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2405/AuroraPoland_Durlej_1940.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2405/AuroraPoland_Durlej_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Northern lights don't usually reach this far south.   Magnetic chaos in the Sun's
+      <a href="ap240511.html">
+       huge Active Region 3664
+      </a>
+      , however, produced a surface explosion that sent a
+      <a href="ap031029.html">
+       burst
+      </a>
+      of  electrons, protons, and more massive, charged nuclei into the
+      <a href="https://science.nasa.gov/solar-system/facts/">
+       Solar System
+      </a>
+      .  A few days later, that
+      <a href="https://en.wikipedia.org/wiki/Coronal_mass_ejection">
+       coronal mass ejection
+      </a>
+      (CME) impacted the Earth and
+      <a href="https://www.facebook.com/media/set?set=a.431368006258449&amp;type=3">
+       triggered auroras
+      </a>
+      that are being reported  unusually far from our planet's
+      <a href="https://climatekids.nasa.gov/polar-temperatures/">
+       north and south poles
+      </a>
+      .   The free sky show
+      <a href="https://www.universetoday.com/166942/if-youve-never-seen-an-aurora-before-this-might-be-your-chance/">
+       might not be over
+      </a>
+      --  the sunspot rich
+      <a href="https://skyandtelescope.org/online-gallery/ar3664-ginormous-active-sunspot-area/">
+       AR3664
+      </a>
+      has ejected even more
+      <a href="https://www.nasa.gov/image-article/what-coronal-mass-ejection-or-cme/">
+       CME
+      </a>
+      s that might also impact the
+      <a href="https://www.swpc.noaa.gov/news/geomagnetic-storming-likely-persist-weekend">
+       Earth tonight or tomorrow
+      </a>
+      .  That active region is now
+      <a href="https://www.spaceweather.com/images2024/11may24/hmi1898.gif">
+       near the Sun's edge
+      </a>
+      , though,  and will soon be rotating away from the
+      <a href="ap161010.html">
+       Earth
+      </a>
+      .   Pictured, a
+      <a href="ap220220.html">
+       red
+      </a>
+      and
+      <a href="ap080101.html">
+       rayed aurora
+      </a>
+      was captured in a single 6-second exposure from
+      <a href="https://youtu.be/bMf--MCsLLY">
+       Racibórz
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Poland">
+       Poland
+      </a>
+      early last night.   The photographer's friend, seeing an aurora
+      <a href="https://as2.ftcdn.net/v2/jpg/01/89/49/89/1000_F_189498933_OeutsN0mMlzJGaJZJvkXIsoSCUCFIO7W.jpg">
+       for the first time
+      </a>
+      , is visible in the  distance also taking images of the
+      <a href="ap231227.html">
+       beautifully colorful
+      </a>
+      nighttime sky.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/05/11
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240511.html">
+      https://apod.nasa.gov/apod/ap240511.html
      </a>
     </td>
    </tr>
