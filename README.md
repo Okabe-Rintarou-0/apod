@@ -5,6 +5,77 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/05/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2405/NGC2169LRGBQHY183HR.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2405/NGC2169LRGBQHY183HR_c1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      For the mostly harmless denizens of planet Earth, the brighter stars of open cluster
+      <a href="https://webda.physics.muni.cz/cgi-bin/ocl_page.cgi?dirname=ngc2169">
+       NGC 2169
+      </a>
+      seem to form a cosmic
+      <a href="https://en.wikipedia.org/wiki/37_(number)">
+       37
+      </a>
+      .  Did you expect
+      <a href="http://en.wikipedia.org/wiki/42_Puzzle">
+       42
+      </a>
+      ?  From our perspective, the improbable numerical
+      <a href="http://www.seds.org/Maps/Const/asterism.html">
+       asterism
+      </a>
+      appears solely by chance.  It lies at an estimated distance of 3,300 light-years toward the
+      <a href="http://www.gb.nrao.edu/~rmaddale/Education/ OrionTourCenter/">
+       constellation Orion
+      </a>
+      .  As far as galactic or open star clusters go, NGC 2169 is a small one, spanning about 7 light-years.    Formed at the same time from the same cloud of dust and gas,
+      <a href="https://science.nasa.gov/universe/stars/">
+       the stars
+      </a>
+      of NGC 2169 are only about 11 million years old.  Such
+      <a href="http://www.seasky.org/cosmic/sky7a06.html">
+       clusters are
+      </a>
+      expected to disperse over time as they encounter other stars, interstellar clouds, and experience gravitational tides while hitchhiking
+      <a href="https://en.wikipedia.org/wiki/Open_cluster#Eventual_fate">
+       through
+      </a>
+      <a href="https://science.nasa.gov/universe/galaxies/">
+       the galaxy
+      </a>
+      .  Over four billion years ago, our own Sun was likely formed in a similar
+      <a href="http://www.seds.org/messier/open.html">
+       open cluster of stars
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/05/13
   </summary>
   <table>
@@ -18,8 +89,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240513.html">
+      https://apod.nasa.gov/apod/ap240513.html
      </a>
     </td>
    </tr>
