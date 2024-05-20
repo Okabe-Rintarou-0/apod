@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/05/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_6000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It seemed like night, but part of the sky glowed purple.   It was the now famous night of May 10, 2024, when
+      <a href="https://www.facebook.com/media/set/?set=a.431368006258449&amp;type=3">
+       people over much of the world reported beautiful aurora-filled skies
+      </a>
+      .  The featured image was captured this night during early morning hours from
+      <a href="https://en.wikipedia.org/wiki/Arlington,_Wisconsin">
+       Arlington
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Wisconsin">
+       Wisconsin
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      .  The panorama is a composite of several 6-second exposures covering  two thirds of the visible sky, with
+      <a href="ap240518.html">
+       north
+      </a>
+      in the center,  and processed to heighten the colors and remove electrical wires.  The photographer (in the foreground) reported that the
+      <a href="https://spaceplace.nasa.gov/aurora/en/">
+       aurora
+      </a>
+      appeared to flow from a point overhead but  illuminated the sky only toward the
+      <a href="ap200212.html">
+       north
+      </a>
+      .  The aurora's energetic particles originated from
+      <a href="https://en.wikipedia.org/wiki/Coronal_mass_ejection">
+       CME
+      </a>
+      s
+      <a href="https://i.pinimg.com/736x/77/30/f7/7730f7bb82f011c58c53b31793ba3c51.jpg">
+       ejected
+      </a>
+      from our Sun over sunspot
+      <a href="ap240513.html">
+       AR 6443
+      </a>
+      a few days before.  This
+      <a href="ap240511.html">
+       large active region
+      </a>
+      rotated to the far side of the Sun last week, but
+      <a href="https://science.nasa.gov/get-involved/citizen-science/be-a-solar-active-region-spotter/">
+       may well survive
+      </a>
+      to  rotate back toward the
+      <a href="ap220227.html">
+       Earth
+      </a>
+      next week.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/05/18
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240519.html">
+      https://apod.nasa.gov/apod/ap240519.html
      </a>
     </td>
    </tr>
