@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/05/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2405/Cg4Galaxy_CtioRector_1476.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2405/Cg4Galaxy_CtioRector_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Can a gas cloud eat a galaxy?    It's not even close.    The "claw" of this odd looking "creature" in the
+      <a href="https://noirlab.edu/public/images/noirlab2412a/">
+       featured photo
+      </a>
+      is a gas cloud known as a
+      <a href="https://en.wikipedia.org/wiki/cometary_globule">
+       cometary globule
+      </a>
+      .   This globule, however,
+      <a href="https://ui.adsabs.harvard.edu/abs/1995A%26A...293..493G/abstract">
+       has ruptured
+      </a>
+      .   Cometary
+      <a href="ap221212.html">
+       globules
+      </a>
+      are typically characterized by
+      <a href="lib/glossary.html#dust">
+       dusty
+      </a>
+      heads and elongated
+      <a href="https://ui.adsabs.harvard.edu/abs/1996ApJ...463L.105M/abstract">
+       tails
+      </a>
+      .   These features cause cometary
+      <a href="ap120612.html">
+       globules
+      </a>
+      to have visual similarities to
+      <a href="ap170409.html">
+       comet
+      </a>
+      s,  but in reality they are very much different.
+      <a href="https://en.wikipedia.org/wiki/Dark_nebula">
+       Globules
+      </a>
+      are frequently the birthplaces of stars,  and many show very young
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      in their heads.  The reason for the rupture in the head of
+      <a href="https://noirlab.edu/public/news/noirlab2412/">
+       this object
+      </a>
+      is not yet known.  The
+      <a href="http://en.wikipedia.org/wiki/Galaxy">
+       galaxy
+      </a>
+      to the left of the globule is huge, very far in the distance, and only placed near
+      <a href="https://en.wikipedia.org/wiki/CG_4">
+       CG4
+      </a>
+      by
+      <a href="https://blogmais.files.wordpress.com/2008/04/imagem_ht_07-04-23.jpg">
+       chance superposition
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/05/20
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240520.html">
+      https://apod.nasa.gov/apod/ap240520.html
      </a>
     </td>
    </tr>
