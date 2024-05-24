@@ -5,6 +5,97 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/05/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2405/M78_Euclid_5532.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2405/M78_Euclid_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Star formation can be messy.  To help find out just how messy,
+      <a href="https://www.esa.int">
+       ESA
+      </a>
+      's new
+      <a href="https://sci.esa.int/web/euclid/-/29537-the-second-lagrangian-point-l2">
+       Sun-orbiting
+      </a>
+      <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">
+       Euclid telescope
+      </a>
+      recently captured the most detailed  image ever of the bright star forming region M78.  Near the image center,
+      <a href="ap210121.html">
+       M78
+      </a>
+      lies at a distance of only about 1,300
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-year
+      </a>
+      s  away and has a main glowing core that spans about 5 light-years.   The
+      <a href="https://www.esa.int/ESA_Multimedia/Images/2024/05/Euclid_s_new_image_of_star-forming_region_Messier_78">
+       featured image
+      </a>
+      was taken in both
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible
+      </a>
+      and
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      light.  The purple tint in
+      <a href="ap170124.html">
+       M78's center
+      </a>
+      is caused by dark
+      <a href="https://astronomy.swin.edu.au/cosmos/D/Dust+Grain">
+       dust
+      </a>
+      preferentially
+      <a href="https://en.wikipedia.org/wiki/Reflection_nebula">
+       reflect
+      </a>
+      ing  the blue light of hot, young stars.   Complex dust lanes and filaments can be traced through this
+      <a href="https://i.imgflip.com/eyvnj.jpg">
+       gorgeous and revealing
+      </a>
+      skyscape.  On the upper left is associated star forming region
+      <a href="https://en.wikipedia.org/wiki/NGC_2071">
+       NGC 2071
+      </a>
+      ,  while a third region of star formation is visible on the lower right.   These nebulas are all part of the vast
+      <a href="https://en.wikipedia.org/wiki/Orion_molecular_cloud_complex">
+       Orion Molecular Cloud Complex
+      </a>
+      which can be found with even a small telescope
+      <a href="ap150316.html">
+       just north of Orion's belt
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/05/23
   </summary>
   <table>
@@ -18,8 +109,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240523.html">
+      https://apod.nasa.gov/apod/ap240523.html
      </a>
     </td>
    </tr>
