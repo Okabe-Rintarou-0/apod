@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/05/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2405/iss059e019043.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2405/iss059e019043_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Orbiting 400 kilometers above Quebec, Canada, planet Earth, the International Space Station
+      <a href="https://www.flickr.com/photos/nasa2explore/albums/72157684823968065/">
+       Expedition 59 crew captured
+      </a>
+      this snapshot of the broad St. Lawrence River and curiously circular Lake Manicouagan on April 11.  Right of center, the ring-shaped lake is a
+      <a href="https://en.wikipedia.org/wiki/Manicouagan_Reservoir">
+       modern reservoir
+      </a>
+      within the eroded remnant of an ancient 100 kilometer diameter impact crater.  The ancient crater is very
+      <a href="ap180529.html">
+       conspicuous from orbit
+      </a>
+      , a visible reminder that Earth is vulnerable to
+      <a href="ap130812.html">
+       rocks from space
+      </a>
+      .  Over 200 million years old, the Manicouagan crater was likely caused by the impact of a rocky body about 5 kilometers in diameter.
+      <i>
+       Currently, there is no known asteroid with a significant probability of impacting Earth in the next century.
+      </i>
+      Each month,
+      <a href="https://science.nasa.gov/planetary-defense-news/">
+       NASA’s Planetary Defense
+      </a>
+      Coordination Office
+      <a href="https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/">
+       releases an update
+      </a>
+      featuring the most recent figures on near-Earth object close approaches, and other facts about comets and asteroids that could pose a potential impact hazard with Earth.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/05/24
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240524.html">
+      https://apod.nasa.gov/apod/ap240524.html
      </a>
     </td>
    </tr>
