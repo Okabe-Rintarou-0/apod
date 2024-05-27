@@ -5,6 +5,72 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/05/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2405/Cederblad111-110.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2405/Cederblad111-110_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap090425.html">
+       Dark markings
+      </a>
+      and bright nebulae in this telescopic southern sky view are telltale signs of young stars and
+      <a href="https://www.spitzer.caltech.edu/image/sig06-002a-spitzer-infrared-view-of-herbig-haro-49-50-a-cosmic-tornado">
+       active
+      </a>
+      <a href="https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve">
+       star formation
+      </a>
+      .  They lie a mere 650 light-years away,
+      <a href="https://arxiv.org/abs/2201.05124">
+       at the boundary
+      </a>
+      of the
+      <a href="https://skyandtelescope.org/astronomy-news/1000-light-year-bubble-is-the-source-of-all-nearby-baby-stars/?utm_source=cc&amp;utm_medium=newsletter">
+       local bubble
+      </a>
+      and the Chamaeleon molecular cloud complex.  Regions with young stars identified as dusty reflection nebulae from the 1946
+      <a href="https://ui.adsabs.harvard.edu/abs/1946MeLuS.119....1C/abstract">
+       Cederblad catalog
+      </a>
+      include the C-shaped Ced 110 just above and right of center, and bluish Ced 111 below it.  Also a standout in the frame, the orange tinted V-shape of the
+      <a href="https://noirlab.edu/public/news/noirlab2129/">
+       Chamaeleon Infrared Nebula
+      </a>
+      (Cha IRN) was carved by material streaming from a newly formed low-mass star.
+      <a href="https://www.astrobin.com/32d8tb/">
+       The well-composed image
+      </a>
+      spans 1.5 degrees.  That's about 17 light-years at the estimated distance of the nearby
+      <a href="https://www.esa.int/ESA_Multimedia/Images/2020/06/Chamaeleon_I_molecular_cloud_viewed_by_Herschel_and_Planck">
+       Chamaeleon I molecular cloud
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/05/26
   </summary>
   <table>
@@ -18,8 +84,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240526.html">
+      https://apod.nasa.gov/apod/ap240526.html
      </a>
     </td>
    </tr>
