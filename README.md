@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/05/31
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2405/NebulousRealmofWR134_2048.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2405/NebulousRealmofWR134_1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Made with narrowband filters,
+      <a href="https://www.astrobin.com/b2ammk/">
+       this cosmic snapshot
+      </a>
+      covers a field of view over twice as wide as the full Moon within the boundaries of the constellation Cygnus.  It highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas.  Embedded in
+      <a href="ap220609.html">
+       the region's expanse of interstellar clouds
+      </a>
+      , the complex, glowing arcs are sections of shells of material
+      <a href="ap090915.html">
+       swept up by the wind
+      </a>
+      from
+      <a href="ap230318.html">
+       Wolf-Rayet
+      </a>
+      star WR 134, brightest star near the center of the frame.  Distance estimates put WR 134 about 6,000 light-years away, making the frame over 100 light-years across.
+      <a href="http://adsabs.harvard.edu/abs/1995A&amp;A...304..491E">
+       Shedding
+      </a>
+      their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a
+      <a href="http://chandra.harvard.edu/photo/2003/ngc6888/">
+       prodigious rate
+      </a>
+      and end this final phase of massive star evolution in a spectacular supernova explosion.  The stellar winds and final supernova enrich the interstellar material with
+      <a href="ap011026.html">
+       heavy elements
+      </a>
+      to be incorporated in
+      <a href="https://science.nasa.gov/universe/stars/">
+       future generations of stars
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/05/30
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240530.html">
+      https://apod.nasa.gov/apod/ap240530.html
      </a>
     </td>
    </tr>
