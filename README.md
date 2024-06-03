@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Magnificent island universe
+      <a href="http://messier.seds.org/xtra/ngc/n2403.html">
+       NGC 2403 stands
+      </a>
+      within the boundaries of the long-necked constellation
+      <a href="http://en.wikipedia.org/wiki/Camelopardalis">
+       Camelopardalis
+      </a>
+      .  Some 10 million light-years distant and about 50,000 light-years across, the spiral galaxy also seems to have more than its fair share of giant star forming
+      <a href="http://en.wikipedia.org/wiki/H_II_region">
+       HII regions
+      </a>
+      , marked by the telltale reddish glow of atomic hydrogen gas.  The giant HII regions are energized by clusters of hot, massive stars that explode as
+      <a href="https://hubblesite.org/contents/news-releases/2004/news-2004-23.html">
+       bright supernovae
+      </a>
+      at the end of their short and furious lives.  A member of the M81 group of galaxies, NGC 2403 closely resembles a galaxy in our own local galaxy group with an abundance of star forming regions, M33, the
+      <a href="ap131226.html">
+       Triangulum Galaxy
+      </a>
+      .
+      <a href="ap121013.html">
+       Spiky
+      </a>
+      in appearance, bright stars in
+      <a href="http://www.astrobin.com/2ve5vn/">
+       this portrait of NGC 2403
+      </a>
+      are in the foreground, within our own Milky Way.  Also in the foreground of the deep, wide-field, telescopic image are the Milky Way's dim and dusty interstellar clouds also known as
+      <a href="ap230721.html">
+       galactic cirrus
+      </a>
+      or integrated flux nebulae.  But faint features that seem to extend from
+      <a href="https://arxiv.org/abs/2301.13526">
+       NGC 2403 itself
+      </a>
+      are likely tidal stellar streams drawn out by gravitational interactions with neighboring galaxies.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/01
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240602.html">
+      https://apod.nasa.gov/apod/ap240602.html
      </a>
     </td>
    </tr>
