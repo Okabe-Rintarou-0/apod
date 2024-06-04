@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_1601.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why does
+      <a href="https://spaceplace.nasa.gov/comets/">
+       Comet Pons-Brooks
+      </a>
+      now have tails pointing in opposite directions?   The most
+      <a href="ap210308.html">
+       spectacular tail
+      </a>
+      is the blue-glowing
+      <a href="https://astronomy.swin.edu.au/cosmos/c/Cometary+Gas+Tail">
+       ion tail
+      </a>
+      that is visible flowing down the image.   The ion tail is
+      <a href="ap220110.html">
+       pushed
+      </a>
+      directly out from the Sun by the
+      <a href="https://science.nasa.gov/resource/the-solar-wind-across-our-solar-system/">
+       solar wind
+      </a>
+      .  On the upper right is the glowing central coma of
+      <a href="https://en.wikipedia.org/wiki/12P/Pons%E2%80%93Brooks">
+       Comet 12P/Pons–Brooks
+      </a>
+      .  Fanning out from the
+      <a href="https://en.wikipedia.org/wiki/Coma_(comet)">
+       coma
+      </a>
+      ,  mostly to the left, is the comet's
+      <a href="https://astronomy.swin.edu.au/cosmos/C/Cometary+Dust+Tail">
+       dust tail
+      </a>
+      .  Pushed out and slowed down by the
+      <a href="https://en.wikipedia.org/wiki/Poynting%E2%80%93Robertson_effect">
+       pressure of sunlight
+      </a>
+      ,  the dust tail tends to trail the comet along its orbit and, from
+      <a href="https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg">
+       some viewing angles
+      </a>
+      , can appear
+      <a href="ap190624.html">
+       opposite
+      </a>
+      to the ion tail.   The distant, bright star
+      <a href="https://en.wikipedia.org/wiki/Alpha_Leporis">
+       Alpha Leporis
+      </a>
+      is seen at the bottom of the
+      <a href="https://www.facebook.com/photo/?fbid=8297831726911868&amp;set=a.100321199996336">
+       featured image
+      </a>
+      captured last week from
+      <a href="https://en.wikipedia.org/wiki/Namibia">
+       Namibia
+      </a>
+      .  Two days ago, the comet passed its closest to the
+      <a href="ap220206.html">
+       Earth
+      </a>
+      and is now best visible from southern skies as it dims and
+      <a href="https://youtu.be/L9mrTdYhOHg">
+       glides
+      </a>
+      back to the outer
+      <a href="ap220911.html">
+       Solar System
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/03
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240603.html">
+      https://apod.nasa.gov/apod/ap240603.html
      </a>
     </td>
    </tr>
