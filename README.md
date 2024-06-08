@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/abell2744_jwst.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/abell2744_jwst1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://webbtelescope.org/contents/news-releases/2023/news-2023-107">
+       This deep field mosaicked image
+      </a>
+      presents a stunning view of galaxy cluster Abell 2744 recorded by the James Webb Space Telescope's NIRCam.  Also dubbed Pandora's Cluster, Abell 2744 itself appears to be a ponderous merger of three different massive galaxy clusters.  It lies some 3.5 billion light-years away, toward the constellation Sculptor.
+      <a href="https://chandra.harvard.edu/photo/2011/a2744/">
+       Dominated by dark matter
+      </a>
+      , the mega-cluster warps and distorts the fabric of spacetime,
+      <a href="https://webbtelescope.org/contents/media/videos/2019/41/1229-Video">
+       gravitationally lensing
+      </a>
+      even more distant objects.  Redder than the Pandora cluster galaxies many of the lensed sources are very distant galaxies in the early Universe, their lensed images stretched and distorted into arcs.  Of course
+      <a href="ap220319.html">
+       distinctive
+      </a>
+      diffraction spikes mark foreground Milky Way stars.  At the Pandora Cluster's estimated distance this cosmic box spans about 6 million light-years.  But don't panic.  You can explore the tantalizing region in a
+      <a href="https://webbtelescope.org/contents/news-releases/2023/news-2023-107#section-id-3">
+       2 minute video tour
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/07
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240607.html">
+      https://apod.nasa.gov/apod/ap240607.html
      </a>
     </td>
    </tr>
