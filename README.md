@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What is that light in the sky?  The answer to one of humanity's more common questions  may emerge from a few quick observations.   For example -- is it moving or blinking?  If so, and if you live near a
+      <a href="ap200624.html">
+       city
+      </a>
+      ,  the answer is typically an airplane,  since planes are so numerous and so few stars and
+      <a href="ap080604.html">
+       satellites
+      </a>
+      are bright enough  to be seen over the glare of
+      <a href="https://darksky.org/what-we-do/international-dark-sky-places/">
+       artificial city lights
+      </a>
+      .  If not, and if you live far from a city, that bright light is likely a planet such as
+      <a href="ap210317.html">
+       Venus
+      </a>
+      or
+      <a href="ap180709.html">
+       Mars
+      </a>
+      --  the former of which is constrained to appear near the horizon just before dawn or after dusk.   Sometimes the low apparent motion of a distant
+      <a href="ap190212.html">
+       airplane
+      </a>
+      near the horizon makes it hard to tell from a
+      <a href="http://earthsky.org/space/why-dont-planets-twinkle-as-stars-do">
+       bright planet
+      </a>
+      ,  but even this can usually be discerned by the plane's motion over a few minutes.
+      <a href="http://img.youtube.com/vi/9uuqXXT7VYo/hqdefault.jpg">
+       Still unsure?
+      </a>
+      The
+      <a href="http://www.leagueoflostcauses.com/blog/2013/08/astronomy-101.html">
+       featured chart
+      </a>
+      gives a sometimes-humorous but mostly-accurate assessment.   Dedicated sky enthusiasts will likely note -- and are
+      <a href="http://asterisk.apod.com/discuss_apod.php?date=211114">
+       encouraged to provide
+      </a>
+      -- polite corrections.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/08
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240608.html">
+      https://apod.nasa.gov/apod/ap240608.html
      </a>
     </td>
    </tr>
