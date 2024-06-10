@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_3720.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is the Lion Nebula the real ruler of the
+      <a href="https://en.wikipedia.org/wiki/Cepheus_(constellation)">
+       constellation Cepheus
+      </a>
+      ?   This powerful feline appearing
+      <a href="https://en.wikipedia.org/wiki/Nebula">
+       nebula
+      </a>
+      is powered by two
+      <a href="https://skyandtelescope.org/online-gallery/sh2-132-lion-nebula/">
+       massive stars
+      </a>
+      , each with a mass over 20 times greater than
+      <a href="https://science.nasa.gov/sun">
+       our Sun
+      </a>
+      .   Formed from
+      <a href="https://ui.adsabs.harvard.edu/abs/2010MNRAS.405.1976V/abstract">
+       shells of ionized gas
+      </a>
+      that have expanded,  the nebula's energetic matter not only
+      <a href="ap230724.html">
+       glows
+      </a>
+      ,  but is dense enough to contract
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars">
+       gravitationally and form stars
+      </a>
+      .    The angular size of the
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fzbf8ej9iq1b51.jpg">
+       Lion
+      </a>
+      Nebula, officially named
+      <a href="https://ui.adsabs.harvard.edu/abs/1959ApJS....4..257S/abstract">
+       Sh
+      </a>
+      2-132,   is slightly greater than that of the
+      <a href="ap240602.html">
+       full moon
+      </a>
+      .   The gaseous
+      <a href="https://www.astrobin.com/78pnzo/0/">
+       iconic region
+      </a>
+      resides about 10,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light year
+      </a>
+      s away in a
+      <a href="https://spaceplace.nasa.gov/constellations/">
+       constellation
+      </a>
+      named after the King of
+      <a href="https://en.wikipedia.org/wiki/Aethiopia">
+       Aethopia
+      </a>
+      in
+      <a href="https://www.history.com/topics/ancient-greece/greek-mythology">
+       Greek mythology
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/09
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240609.html">
+      https://apod.nasa.gov/apod/ap240609.html
      </a>
     </td>
    </tr>
