@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_2560.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why is the sky near
+      <a href="https://en.wikipedia.org/wiki/Antares">
+       Antares
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Rho_Ophiuchi_cloud_complex">
+       Rho Ophiuchi
+      </a>
+      so colorful, yet dusty?    The colors result from a mixture of objects and processes.    Fine dust -- illuminated by starlight -- produces blue
+      <a href="reflection_nebulae.html">
+       reflection nebulae
+      </a>
+      .  Gaseous clouds whose atoms are
+      <a href="https://i.pinimg.com/736x/5f/02/9e/5f029e83ee5a6c667a6a70cb18202307.jpg">
+       excited
+      </a>
+      by
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       ultraviolet
+      </a>
+      starlight produce reddish
+      <a href="ap210214.html">
+       emission nebulae
+      </a>
+      .  Backlit
+      <a href="ap030706.html">
+       dust
+      </a>
+      clouds block starlight and so
+      <a href="ap230129.html">
+       appear dark
+      </a>
+      .
+      <a href="http://stars.astro.illinois.edu/sow/antares.html">
+       Antares
+      </a>
+      , a
+      <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/astro/redsup.html">
+       red supergiant
+      </a>
+      and one of the
+      <a href="https://en.wikipedia.org/wiki/List_of_brightest_stars#Table">
+       brighter stars in the night sky
+      </a>
+      ,  lights up the yellow-red clouds on the upper right of the  featured image.  The
+      <a href="https://en.wikipedia.org/wiki/Rho_Ophiuchi">
+       Rho Ophiuchi
+      </a>
+      star system lies at the center of the blue
+      <a href="https://en.wikipedia.org/wiki/Reflection_nebula">
+       reflection nebula
+      </a>
+      on the left, while a different reflection nebula,
+      <a href="https://www.astrobin.com/migind/C/">
+       IC 4605
+      </a>
+      ,
+      <a href="ap090615.html">
+       lies
+      </a>
+      just below and right of the image center.   These star clouds are even more
+      <a href="https://spaceplace.nasa.gov/color-your-universe-game/en/">
+       colorful
+      </a>
+      than
+      <a href="ap190818.html">
+       humans
+      </a>
+      can see, emitting light across the
+      <a href="https://science.nasa.gov/ems/01_intro">
+       electromagnetic spectrum
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/10
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240610.html">
+      https://apod.nasa.gov/apod/ap240610.html
      </a>
     </td>
    </tr>
