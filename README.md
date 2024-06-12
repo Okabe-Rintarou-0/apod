@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1409.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It was the first time ever.  At least, the first time this photographer  had ever seen aurora from his home mountains.   And what a
+      <a href="ap240512.html">
+       spectacular aurora
+      </a>
+      it was.  The
+      <a href="https://en.wikipedia.org/wiki/Giant_Mountains_National_Park">
+       Karkonosze Mountains
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Poland">
+       Poland
+      </a>
+      are usually too far south to see any auroras.   But on the
+      <a href="https://www.shutterstock.com/image-photo/close-scottish-fold-cat-head-260nw-1277698591.jpg">
+       amazing night
+      </a>
+      of May 10 - 11, purple and green colors lit up much of the night sky,  a surprising spectacle that
+      <a href="https://www.facebook.com/media/set/?set=a.431368006258449&amp;type=3">
+       also appeared over many
+      </a>
+      mid-
+      <a href="https://www.researchgate.net/profile/Biagio-Di-Mauro-2/publication/355674389/figure/fig1/AS:1084113742245888@1635484266211/Global-map-divided-in-tropical-areas-middle-latitudes-and-polar-regions.png">
+       latitude
+      </a>
+      locations around the
+      <a href="ap220206.html">
+       Earth
+      </a>
+      .   The
+      <a href="https://www.instagram.com/p/C60r4UgLlGq/">
+       featured image
+      </a>
+      is a composite of  six vertical exposures taken during the auroral peak.  The futuristic buildings on the right are part of a
+      <a href="https://en.wikipedia.org/wiki/Tadeusz_Ho%C5%82dys_High-Mountain_Meteorological_Observatory_on_%C5%9Anie%C5%BCka">
+       meteorological observatory
+      </a>
+      located on the highest peak of the
+      <a href="https://youtu.be/BiNQB4f_6eY">
+       Karkonosze Mountains
+      </a>
+      .   The
+      <a href="https://site.uit.no/spaceweather/wp-content/uploads/sites/194/2019/08/Colours-700x742.png">
+       purple color
+      </a>
+      is primarily due to
+      <a href="https://theconversation.com/are-the-northern-lights-caused-by-particles-from-the-sun-not-exactly-174019">
+       Sun-triggered
+      </a>
+      , high-energy
+      <a href="https://www.aps.org/archives/publications/apsnews/200010/history.cfm">
+       electrons
+      </a>
+      impacting
+      <a href="https://en.wikipedia.org/wiki/Nitrogen">
+       nitrogen
+      </a>
+      molecules in
+      <a href="https://www.nasa.gov/general/what-is-earths-atmosphere/">
+       Earth's atmosphere
+      </a>
+      .   Our
+      <a href="https://spaceplace.nasa.gov/all-about-the-sun/">
+       Sun
+      </a>
+      is reaching its maximum
+      <a href="https://www.nasa.gov/news-release/solar-cycle-25-is-here-nasa-noaa-scientists-explain-what-that-means/">
+       surface activity
+      </a>
+      over the next two years,  and although many more
+      <a href="ap230122.html">
+       auroras
+      </a>
+      are predicted,  most will occur over regions closer to the
+      <a href="https://en.wikipedia.org/wiki/Polar_regions_of_Earth">
+       Earth's poles
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/11
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240611.html">
+      https://apod.nasa.gov/apod/ap240611.html
      </a>
     </td>
    </tr>
