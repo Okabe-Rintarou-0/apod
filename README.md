@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_4010.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Squids on Earth aren't this big.   This mysterious squid-like cosmic cloud spans nearly three
+      <a href="ap220612.html">
+       full moon
+      </a>
+      s on planet Earth's sky.
+      <a href="https://ui.adsabs.harvard.edu/abs/2012RMxAA..48..223A/abstract">
+       Discovered in 2011 by
+      </a>
+      French astro-imager
+      <a href="http://outters.fr/wp/?page_id=50">
+       Nicolas Outters
+      </a>
+      , the Squid Nebula's
+      <a href="ap230416.html">
+       bipolar shape
+      </a>
+      is distinguished
+      <a href="https://www.instagram.com/p/C7g5JleMv90/">
+       here
+      </a>
+      by the telltale blue
+      <a href="https://en.wikipedia.org/wiki/Nebulium">
+       emission from
+      </a>
+      doubly ionized
+      <a href="https://youtu.be/uPK_rSf1WUc">
+       oxygen
+      </a>
+      atoms.  Though apparently
+      <a href="ap230817.html">
+       surrounded by
+      </a>
+      the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been
+      <a href="https://www.shutterstock.com/shutterstock/videos/1048890202/thumb/1.jpg">
+       difficult to determine
+      </a>
+      .  Still, one
+      <a href="https://ui.adsabs.harvard.edu/abs/2014A%26A...570A.105C/abstract">
+       investigation
+      </a>
+      suggests Ou4 really does lie
+      <a href="ap210723.html">
+       within Sh2-129
+      </a>
+      some 2,300 light-years away.  Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a
+      <a href="http://www.atlasoftheuniverse.com/orbits.html">
+       triple system
+      </a>
+      of hot, massive stars, cataloged as
+      <a href="https://in-the-sky.org/data/object.php?id=TYC3965-880-1#google_vignette">
+       HR8119
+      </a>
+      , seen near the center of the nebula.  If so, this truly giant squid nebula would physically be over 50
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-year
+      </a>
+      s across.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/15
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240616.html">
+      https://apod.nasa.gov/apod/ap240616.html
      </a>
     </td>
    </tr>
