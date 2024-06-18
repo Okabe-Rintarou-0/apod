@@ -5,6 +5,113 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/GiganticJets_Xuanhua_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/GiganticJets_Xuanhua_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Yes, but can your thunderstorm do this?  Pictured here are
+      <a href="ap190918.html">
+       gigantic jets
+      </a>
+      shooting up from a  thunderstorm last week toward the
+      <a href="https://en.wikipedia.org/wiki/Himalayas">
+       Himalayan Mountains
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/China">
+       China
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Bhutan">
+       Bhutan
+      </a>
+      .  The composite image captured four long jets that occurred only minutes apart.
+      <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning#Gigantic_jets">
+       Gigantic jets
+      </a>
+      , documented only in this century,  are a type of lightning discharge that occurs between some
+      <a href="ap191204.html">
+       thunderstorms
+      </a>
+      and the Earth's
+      <a href="https://science.nasa.gov/earth/10-things-to-know-about-the-ionosphere/">
+       ionosphere
+      </a>
+      high above them.
+      <a href="ap160823.html">
+       They
+      </a>
+      are an unusual type of lightning  that is much different from regular cloud-to-cloud and
+      <a href="ap210524.html">
+       cloud-to-ground lightning
+      </a>
+      .  The bottoms of
+      <a href="https://www.realclearscience.com/quick_and_clear_science/2019/01/08/what_causes_earths_rare_and_mysterious_gigantic_jets.html">
+       gigantic jets
+      </a>
+      appear similar to a
+      <a href="https://earthobservatory.nasa.gov/images/147900/bolts-of-blue">
+       cloud-to-above strike
+      </a>
+      called
+      <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning#Blue_jets">
+       blue jets
+      </a>
+      , while the tops appear similar to
+      <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning">
+       upper-atmosphere
+      </a>
+      <a href="ap210104.html">
+       red sprites
+      </a>
+      .  Although the mechanism and
+      <a href="ap060814.html">
+       trigger
+      </a>
+      that cause gigantic jets remains a
+      <a href="https://miro.medium.com/v2/resize:fit:2400/1*Bp1dNLfyDjH2QCgALi-BrQ.jpeg">
+       topic of research
+      </a>
+      ,  it is clear that the jets reduce charge imbalance between different parts of
+      <a href="https://spaceplace.nasa.gov/atmosphere/en/">
+       Earth's atmosphere
+      </a>
+      .    A good way to look for
+      <a href="https://ui.adsabs.harvard.edu/abs/2005AGUFMAE11A..02F/abstract">
+       gigantic jets
+      </a>
+      is to watch a powerful but
+      <a href="ap131110.html">
+       distant thunderstorm
+      </a>
+      from a clear location.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/17
   </summary>
   <table>
@@ -18,8 +125,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240617.html">
+      https://apod.nasa.gov/apod/ap240617.html
      </a>
     </td>
    </tr>
