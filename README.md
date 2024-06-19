@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_4728.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Do dragons fight on the altar of the sky?    Although it might appear that way, these dragons are
+      <a href="https://en.wikipedia.org/wiki/Pareidolia">
+       illusions
+      </a>
+      made of thin gas and dust.  The
+      <a href="https://en.wikipedia.org/wiki/Emission_nebula">
+       emission nebula
+      </a>
+      NGC 6188, home to the glowing clouds, is found about 4,000
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light years
+      </a>
+      away near the edge of a large molecular cloud, unseen at visible wavelengths, in the southern
+      <a href="https://en.wikipedia.org/wiki/Ara_(constellation)">
+       constellation Ara
+      </a>
+      (the Altar).  Massive, young
+      <a href="https://ui.adsabs.harvard.edu/abs/2011A%26A...531A..73B/abstract">
+       stars of
+      </a>
+      the embedded Ara
+      <a href="https://en.wikipedia.org/wiki/Stellar_association#Stellar_associations">
+       OB1 association
+      </a>
+      were formed in that region only a few million years ago,
+      <a href="ap080313.html">
+       sculpting
+      </a>
+      the dark shapes and powering the nebular glow with stellar winds and intense
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       ultraviolet radiation
+      </a>
+      .  The recent
+      <a href="https://science.nasa.gov/universe/stars/">
+       star
+      </a>
+      formation itself was likely triggered by winds and supernova explosions from previous generations of massive
+      <a href="https://spaceplace.nasa.gov/search/stars/">
+       stars
+      </a>
+      ,  that swept up and compressed the molecular gas.  This
+      <a href="https://cdn.petcarerx.com/blog/wp-content-uploads-2015-07-surprise-dog.jpg">
+       impressively
+      </a>
+      detailed
+      <a href="https://www.astrobin.com/ofcovc/C/">
+       image
+      </a>
+      spans over 2 degrees (four full Moons), corresponding to over 150 light years at the estimated distance
+      <a href="http://www.youtube.com/watch?v=Gn9mZpAcbF8">
+       of NGC 6188
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/18
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240618.html">
+      https://apod.nasa.gov/apod/ap240618.html
      </a>
     </td>
    </tr>
