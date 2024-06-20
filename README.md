@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Last April's Full Moon shines
+      <a href="https://greenflash.photo/portfolio/lunar-halo/">
+       through high clouds
+      </a>
+      near the horizon, casting shadows in this garden-at-night skyscape.  Along with canine sentinel Sandy watching the garden gate, the wide-angle snapshot also captured the
+      <a href="ap220514.html">
+       bright Moon's
+      </a>
+      22 degree ice halo.  But June's bright Full Moon will cast shadows too.
+      <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-strawberry-moon-2/">
+       This month, the Moon's
+      </a>
+      exact full phase occurs at 01:08 UTC June 22.  That's a mere 28 hours or so after
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-june-solstice/">
+       today's June solstice
+      </a>
+      (at 20:51 UTC June 20), the moment when the Sun reaches its maximum northern declination.  Known to some as a Strawberry Moon, June's Full Moon is at its southernmost declination, and of course will create its own
+      <a href="https://atoptics.co.uk/blog/22-halo-formation/">
+       22 degree halos
+      </a>
+      in hazy night skies.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/19
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240619.html">
+      https://apod.nasa.gov/apod/ap240619.html
      </a>
     </td>
    </tr>
