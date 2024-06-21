@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/NGC1546compassHST.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/NGC1546compassHST1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/">
+       Returning to science operations
+      </a>
+      on June 14, the Hubble Space Telescope used its new
+      <a href="https://science.nasa.gov/mission/hubble/observatory/design/pointing-control/">
+       pointing mode
+      </a>
+      to capture this sharp image of
+      <a href="https://hubblesite.org/contents/media/images/2024/026/01J0P5R2SHWT62980ADZE5AZ7X">
+       spiral galaxy NGC 1546
+      </a>
+      .  A member of the
+      <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...643A.176R/abstract">
+       Dorado galaxy group
+      </a>
+      , the island universe lies a mere 50 million light-years away.  The galactic disk of NGC 1546 is  tilted to our line-of-sight, with the yellowish light of the old stars and bluish regions of newly formed stars shining through the galaxy's dust lanes.  More distant background galaxies are scattered throughout this Hubble view.  Launched in 1990, Hubble has been
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/">
+       exploring the cosmos
+      </a>
+      for more than three decades, recently celebrating its 34th anniversary.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/20
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240620.html">
+      https://apod.nasa.gov/apod/ap240620.html
      </a>
     </td>
    </tr>
