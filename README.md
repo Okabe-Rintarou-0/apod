@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/LDN1251_2048.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/LDN1251_1098c.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Stars are forming in Lynds Dark Nebula (
+      <a href="http://adsabs.harvard.edu/abs/1962ApJS....7....1L">
+       LDN
+      </a>
+      ) 1251.  About 1,000 light-years away and drifting above the plane of our Milky Way galaxy, LDN 1251 is also less appetizingly known as "The Rotten Fish Nebula."  The dusty molecular cloud is part of a complex of dark nebulae mapped toward the
+      <a href="https://arxiv.org/abs/0809.4761">
+       Cepheus flare
+      </a>
+      region.
+      <a href="https://arxiv.org/abs/1503.02934">
+       Across the spectrum
+      </a>
+      , astronomical explorations of the obscuring interstellar clouds reveal energetic shocks and outflows associated with newborn stars, including the telltale reddish glow from scattered
+      <a href="https://www.nasa.gov/image-feature/awakening-newborn-stars">
+       Herbig-Haro
+      </a>
+      objects hiding in the image.  Distant background galaxies also lurk in the scene, almost buried behind the dusty expanse.
+      <a href="https://www.astrobin.com/5328vp/0/">
+       This alluring view
+      </a>
+      spans over four full moons on the sky, or 35 light-years at the estimated distance of LDN 1251.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/21
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240621.html">
+      https://apod.nasa.gov/apod/ap240621.html
      </a>
     </td>
    </tr>
