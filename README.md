@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_9193.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What is that strange brown ribbon on the sky?   When observing the star cluster
+      <a href="https://en.wikipedia.org/wiki/NGC_4372">
+       NGC 4372
+      </a>
+      , observers frequently take note of  an unusual dark streak nearby running about three
+      <a :="" href="https://www.mathsisfun.com/geometry/degrees.html">
+       degrees
+      </a>
+      in length.  The streak, actually a long
+      <a href="ap230129.html">
+       molecular cloud
+      </a>
+      ,  has become known as the Dark Doodad Nebula.   (Doodad is slang for a
+      <a href="https://en.wikipedia.org/wiki/Thingy">
+       thingy
+      </a>
+      or a
+      <a href="https://en.wikipedia.org/wiki/Whatchamacallit">
+       whatchamacallit.
+      </a>
+      )   Pictured here, the
+      <a href="https://skyandtelescope.org/online-gallery/dark-doodad-nebula/">
+       Dark Doodad Nebula
+      </a>
+      sweeps across the  center of a rich and colorful starfield.   Its dark color comes from a high concentration of
+      <a href="https://astronomy.swin.edu.au/cosmos/d/Dust+Grain">
+       interstellar dust
+      </a>
+      that preferentially scatters
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible
+      </a>
+      light.   The
+      <a href="https://science.nasa.gov/resource/globular-clusters-stellar-pockets/">
+       globular star cluster
+      </a>
+      NGC 4372 is visible as the
+      <a href="https://i1.pickpik.com/photos/957/342/365/cat-kitten-puppy-fluffy-preview.jpg">
+       fuzzy white spot
+      </a>
+      on the far left, while the bright blue star
+      <a href="https://en.wikipedia.org/wiki/Gamma_Muscae">
+       gamma Muscae
+      </a>
+      is seen to the cluster's upper right.  The
+      <a href="https://en.wikipedia.org/wiki/Dark_Doodad_Nebula">
+       Dark Doodad Nebula
+      </a>
+      can be found with strong
+      <a href="https://www.explainthatstuff.com/binoculars.html">
+       binoculars
+      </a>
+      toward the southern
+      <a href="https://spaceplace.nasa.gov/constellations/">
+       constellation
+      </a>
+      of the
+      <a href="https://en.wikipedia.org/wiki/Fly#/media/File:Fossil_insect_Diptera,_Brachycera_in_Baltic_amber._Age_50_Mill._years_(the_Lower_Eocene).jpg">
+       Fly
+      </a>
+      (
+      <a href="https://en.wikipedia.org/wiki/Musca">
+       Musca
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/24
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240624.html">
+      https://apod.nasa.gov/apod/ap240624.html
      </a>
     </td>
    </tr>
