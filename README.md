@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/06/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2406/SolsMoon2024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Rising opposite the setting Sun,
+      <a href="https://earthsky.org/tonight/june-full-moon/">
+       June's Full Moon
+      </a>
+      occurred within about 28 hours of the solstice.  The Moon stays close to the Sun's path along the ecliptic plane and so while the solstice Sun climbed high in daytime skies, June's Full Moon remained low
+      <a href="ap240620.html">
+       that night
+      </a>
+      as seen from northern latitudes.  In fact, the Full Moon hugs the horizon in this June 21 rooftop night sky view from Bursa, Turkey, constructed from exposures made every 10 minutes between moonrise and moonset.  In 2024 the Moon also reached a
+      <a href="https://griffithobservatory.org/extreme-moon-the-major-lunar-standstills-of-2024-2025/">
+       major lunar standstill
+      </a>
+      , an extreme in the
+      <a href="https://en.wikipedia.org/wiki/Lunar_standstill">
+       monthly north-south
+      </a>
+      range of moonrise and moonset caused by the precession of the Moon's orbit over an
+      <a href="">
+       18.6 year cycle
+      </a>
+      .  As a result, this June solstice Full Moon was at its southernmost moonrise and moonset
+      <a href="https://www.nps.gov/hocu/learn/historyculture/high-bank-works.htm">
+       along the horizon
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/06/28
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240628.html">
+      https://apod.nasa.gov/apod/ap240628.html
      </a>
     </td>
    </tr>
