@@ -5,6 +5,122 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/Ngc602_ChandraHubbleSpitzer_3600.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The clouds may look like an oyster, and the stars like pearls,  but look beyond.  Near the outskirts of the
+      <a href="ap210105.html">
+       Small Magellanic Cloud
+      </a>
+      , a satellite galaxy some 200 thousand light-years distant, lies this 5 million year
+      <a href="https://science.nasa.gov/universe/stars/">
+       old
+      </a>
+      star cluster
+      <a href="https://youtu.be/LpQgKX1fGxQ">
+       NGC 602
+      </a>
+      .  Surrounded by its birth shell of gas and dust, star cluster
+      <a href="https://en.wikipedia.org/wiki/NGC_602">
+       NGC 602
+      </a>
+      is featured in this
+      <a href="https://hubblesite.org/contents/news-releases/2007/news-2007-04.html">
+       stunning Hubble image
+      </a>
+      , augmented in a rollover by images in the
+      <a href="https://science.nasa.gov/ems/11_xrays/">
+       X-ray
+      </a>
+      by the
+      <a href="https://www.nasa.gov/mission/chandra-x-ray-observatory/">
+       Chandra Observatory
+      </a>
+      and in the
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      by
+      <a href="https://science.nasa.gov/mission/spitzer/">
+       Spitzer Telescope
+      </a>
+      .
+      <a href="https://i.pinimg.com/474x/9d/a6/41/9da64199c08de5d023a91f52ac404273.jpg">
+       Fantastic
+      </a>
+      ridges and swept back gas strongly suggest that
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       energetic radiation
+      </a>
+      and
+      <a href="ap240104.html">
+       shock waves
+      </a>
+      from
+      <a href="https://hubblesite.org/contents/media/videos/2007/04/539-Video.html">
+       NGC 602
+      </a>
+      's  massive young stars have eroded the
+      <a href="https://youtu.be/jn5M48MVWyg">
+       dust
+      </a>
+      y material  and triggered a progression of
+      <a href="https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve">
+       star formation
+      </a>
+      moving away from the star cluster's center.  At the estimated distance of the
+      <a href="ap230211.html">
+       Small Magellanic Cloud
+      </a>
+      , the
+      <a href="https://hubblesite.org/contents/media/images/2007/04/2042-Image.html">
+       featured picture
+      </a>
+      spans about 200 light-years, but a
+      <a href="https://hubblesite.org/contents/media/videos/2007/04/539-Video.html">
+       tantalizing
+      </a>
+      assortment of background galaxies are also visible in
+      <a href="http://chandra.harvard.edu/photo/2013/ngc602/">
+       this sharp view
+      </a>
+      .  The
+      <a href="ap210802.html">
+       background galaxies
+      </a>
+      are hundreds of millions of light-years -- or more --
+      <a href="ap150307.html">
+       beyond NGC 602
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/01
   </summary>
   <table>
@@ -18,8 +134,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240701.html">
+      https://apod.nasa.gov/apod/ap240701.html
      </a>
     </td>
    </tr>
