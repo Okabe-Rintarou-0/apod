@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Big, bright, and beautiful,
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-83/">
+       spiral galaxy M83
+      </a>
+      lies a mere twelve million light-years away, near the southeastern tip of the very long
+      <a href="http://www.hawastsoc.org/deepsky/hya/index.html">
+       constellation Hydra
+      </a>
+      .  About 40,000 light-years across, M83 is known as the Southern Pinwheel for its pronounced spiral arms.  But the wealth of
+      <a href="ap111111.html">
+       reddish star forming regions
+      </a>
+      found near the edges of the arms' thick dust lanes, also suggest another popular moniker for M83, the
+      <a href="http://www.eso.org/public/news/eso0825/">
+       Thousand-Ruby Galaxy
+      </a>
+      .  This new deep telescopic
+      <a href="https://pbase.com/strongmanmike2002/image/174678436">
+       digital image
+      </a>
+      also records the bright galaxy's faint, extended halo.  Arcing toward the bottom of the cosmic frame lies a
+      <a href="ap100911.html">
+       stellar tidal stream
+      </a>
+      , debris drawn from massive M83 by the gravitational disruption of a smaller, merging satellite galaxy.  Astronomers David Malin and Brian Hadley
+      <a href="http://adsabs.harvard.edu/abs/1997PASA...14...52M">
+       found the elusive
+      </a>
+      star stream in the mid 1990s by enhancing photographic plates.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/02
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240702.html">
+      https://apod.nasa.gov/apod/ap240702.html
      </a>
     </td>
    </tr>
