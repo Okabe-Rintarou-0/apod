@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&amp;MW_14mm_JPG_LOGO__2048pix.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&amp;MW_14mm_JPG_LOGO__1024pix.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A glow from the summit of
+      <a href="https://www.earthobservatory.nasa.gov/images/event/43216/mount-etna">
+       Mount Etna
+      </a>
+      , famous active stratovolcano of planet Earth, stands out along the horizon in this
+      <a href="https://www.facebook.com/photo/?fbid=10211647956870276&amp;set=a.10206621597734439">
+       mountain and night
+      </a>
+      skyscape.  Bands of diffuse light from
+      <a href="https://en.wikipedia.org/wiki/Sidereus_Nuncius#Stars">
+       congeries
+      </a>
+      of innumerable stars along the Milky Way galaxy stretch across the sky above.  In silhouette, the  Milky Way's massive dust clouds are clumped along the galactic plane.  But also familiar to northern skygazers are bright stars Deneb, Vega, and Altair, the
+      <a href="ap170703.html">
+       Summer Triangle
+      </a>
+      straddling dark nebulae and luminous star clouds poised over the volcanic peak.  The deep combined exposures also reveal the light of active
+      <a href="https://science.nasa.gov/universe/stars/">
+       star forming
+      </a>
+      regions along the Milky Way, echoing Etna's
+      <a href="ap220908.html">
+       ruddy hue
+      </a>
+      in the northern hemisphere
+      <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-july-2024-skywatching-tips-from-nasa/">
+       summer's night
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/04
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240704.html">
+      https://apod.nasa.gov/apod/ap240704.html
      </a>
     </td>
    </tr>
