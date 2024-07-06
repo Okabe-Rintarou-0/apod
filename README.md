@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/NGC7789_difusco2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Found among the rich starfields of the Milky Way,
+      <a href="http://messier.seds.org/xtra/ngc/n7789.html">
+       star cluster NGC 7789
+      </a>
+      lies about 8,000 light-years away toward the constellation Cassiopeia.  A late 18th century deep sky discovery of astronomer
+      <a href="https://skyandtelescope.org/observing/in-caroline-herschels-footsteps/">
+       Caroline Lucretia Herschel
+      </a>
+      , the cluster is also known as Caroline's Rose.  Its
+      <a href="https://skyandtelescope.org/astronomy-news/explore-caroline-herschels-celestial-showpieces/">
+       visual appearance
+      </a>
+      in small telescopes, created by the cluster's complex of stars and voids, is suggestive of nested rose petals.  Now estimated to be 1.6 billion years young, the galactic or open
+      <a href="https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-star-clusters/">
+       cluster of stars
+      </a>
+      also shows its age.  All the stars in the cluster were likely born at the same time, but the brighter and more massive ones have more rapidly exhausted the hydrogen fuel in their cores.  These have evolved from
+      <a href="http://en.wikipedia.org/wiki/Main_sequence">
+       main sequence
+      </a>
+      stars like the Sun into the many red giant stars shown with a  yellowish cast in this color composite.  Using measured
+      <a href="ap010223.html">
+       color and brightness
+      </a>
+      , astronomers can model the mass and hence the age of the cluster stars just starting to "turn off" the main sequence and become
+      <a href="ap110408.html">
+       red giants
+      </a>
+      .  Over 50 light-years across,
+      <a href="http://adsbit.harvard.edu//full/1848MNRAS...8...64./ 0000064.000.html">
+       Caroline's Rose
+      </a>
+      spans about half a degree (the angular size of the Moon) near the center of
+      <a href="https://www.astrobin.com/4qk8jq/0/">
+       the sharp telescopic image
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/05
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240705.html">
+      https://apod.nasa.gov/apod/ap240705.html
      </a>
     </td>
    </tr>
