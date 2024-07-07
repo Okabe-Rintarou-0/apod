@@ -5,6 +5,109 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_1500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why are these clouds multi-colored?   A relatively rare phenomenon in clouds known as
+      <a href="https://en.wikipedia.org/wiki/Cloud_iridescence">
+       iridescence
+      </a>
+      can bring up unusual colors vividly  --  or even a whole
+      <a href="https://science.nasa.gov/ems/01_intro/">
+       spectrum
+      </a>
+      of colors simultaneously.  These
+      <a href="https://en.wikipedia.org/wiki/Polar_stratospheric_cloud">
+       polar stratospheric clouds
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Cloud_iridescence">
+       also
+      </a>
+      , known as
+      <a href="ap200110.html">
+       nacreous
+      </a>
+      and mother-of-pearl clouds,   are formed of small
+      <a href="https://www.atoptics.co.uk/droplets/clouds.htm">
+       water droplets
+      </a>
+      of nearly uniform size.  When the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      is in the right position and, typically, hidden from direct view,
+      <a href="http://cimss.ssec.wisc.edu/wxwise/class/iredsnce.html">
+       these thin clouds
+      </a>
+      can be seen significantly
+      <a href="http://www.exploratorium.edu/snacks/diffraction/index.html">
+       diffracting
+      </a>
+      sunlight in a nearly coherent manner, with
+      <a href="https://youtu.be/VljrlBkJUl0">
+       different colors
+      </a>
+      being deflected by different amounts.  Therefore,
+      <a href="https://en.wikipedia.org/wiki/Iridescence">
+       different colors
+      </a>
+      will come to the observer from slightly
+      <a href="http://www.kaushik.net/avinash/wp-content/uploads/2010/02/many_different_directions.jpg">
+       different directions
+      </a>
+      .  Many
+      <a href="https://scijinks.gov/rainbow-clouds/">
+       clouds
+      </a>
+      start with uniform regions that could show
+      <a href="ap140708.html">
+       iridescence
+      </a>
+      but quickly become too thick, too mixed, or too angularly far from the
+      <a href="https://solarsystem.nasa.gov/solar-system/sun/in-depth/">
+       Sun
+      </a>
+      to exhibit striking colors.  The featured image and an
+      <a href="https://youtu.be/VljrlBkJUl0">
+       accompanying video
+      </a>
+      were taken  late in 2019 over
+      <a href="https://www.youtube.com/watch?v=E0z1BqhtyLA">
+       Ostersund
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Sweden">
+       Sweden
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/06
   </summary>
   <table>
@@ -18,8 +121,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240706.html">
+      https://apod.nasa.gov/apod/ap240706.html
      </a>
     </td>
    </tr>
