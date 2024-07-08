@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Do other stars have planets like our Sun?  Surely they do, and evidence includes slight  star wobbles created by the gravity of orbiting
+      <a href="https://science.nasa.gov/exoplanets/">
+       exoplanets
+      </a>
+      and slight star dimmings caused by orbiting planets moving in front.  In all, there have now been over 5,500
+      <a href="ap190710.html">
+       exoplanets
+      </a>
+      discovered, including  thousands by
+      <a href="https://www.nasa.gov/">
+       NASA
+      </a>
+      's space-based
+      <a href="https://science.nasa.gov/mission/kepler/">
+       Kepler
+      </a>
+      and
+      <a href="https://science.nasa.gov/mission/tess/">
+       TESS
+      </a>
+      missions, and over 100 by
+      <a href="https://www.eso.org/public/">
+       ESO
+      </a>
+      's ground-based
+      <a href="https://www.eso.org/public/teles-instr/lasilla/36/harps/">
+       HARPS
+      </a>
+      instrument.
+      <a href="https://www.halcyonmaps.com/#/the-exoplanet-zoo/">
+       Featured here
+      </a>
+      is an illustrated guess  as to what some of these
+      <a href="https://exoplanets.nasa.gov/what-is-an-exoplanet/overview/">
+       exoplanets
+      </a>
+      might look like.
+      <a href="ap230527.html">
+       Neptune
+      </a>
+      -type planets occupy the middle and are  colored blue because of blue-scattering
+      <a href="ap190422.html">
+       atmospheric methane
+      </a>
+      they might contain.  On the sides of the illustration,
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      -type  planets are shown, colored tan and red from the  scatterings of atmospheric gases that likely include small amounts of
+      <a href="https://periodic.lanl.gov/6.shtml">
+       carbon
+      </a>
+      .   Interspersed are many Earth-type
+      <a href="ap230201.html">
+       rocky planet
+      </a>
+      s of many colors.  As more
+      <a href="https://en.wikipedia.org/wiki/Lists_of_planets">
+       exoplanets
+      </a>
+      are discovered and
+      <a href="https://www.nasa.gov/image-article/nasas-webb-reveals-steamy-atmosphere-of-distant-planet-detail/">
+       investigated
+      </a>
+      , humanity is developing a
+      <a href="https://i.pinimg.com/736x/cc/1f/d2/cc1fd22b9cd2bf70dc1068310a0a3067.jpg">
+       better understanding
+      </a>
+      of how common Earth-like planets are, and how common life might be in the universe.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/07
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240707.html">
+      https://apod.nasa.gov/apod/ap240707.html
      </a>
     </td>
    </tr>
