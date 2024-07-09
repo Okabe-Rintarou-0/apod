@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_1966.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      These clouds are
+      <a href="https://assets3.thrillist.com/v1/image/2540564/792x594/scale;webp=auto;jpeg_quality=60.jpg">
+       doubly
+      </a>
+      unusual.  First, they are rare
+      <a href="https://en.wikipedia.org/wiki/Noctilucent_cloud">
+       noctilucent clouds
+      </a>
+      , meaning that they are
+      <a href="ap220712.html">
+       visible at night
+      </a>
+      --  but only just before sunrise or just after sunset.   Second, the source of these
+      <a href="https://science.nasa.gov/missions/hubble/nasa-noctilucent-clouds/">
+       noctilucent clouds
+      </a>
+      is actually known.  In this rare case, the source of the
+      <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars">
+       sunlight-reflecting ice-crystals
+      </a>
+      in the
+      <a href="https://spaceplace.nasa.gov/mesosphere/en/">
+       upper atmosphere
+      </a>
+      can be traced back to the
+      <a href="https://youtu.be/z3yDEVxI5TM">
+       launch of a nearby SpaceX rocke
+      </a>
+      t about 30 minutes earlier.   Known more formally as
+      <a href="https://earthobservatory.nasa.gov/images/80217/polar-mesospheric-clouds-south-pacific-ocean">
+       polar mesospheric clouds
+      </a>
+      ,  the vertex of these icy wisps happens to converge just in front of a
+      <a href="ap211010.html">
+       rising
+      </a>
+      crescent Moon.  The featured image -- and
+      <a href="image/2407/NoctilucentFlorida_Pouquet.mp4">
+       accompanying video
+      </a>
+      -- were captured over
+      <a href="https://youtu.be/an8cAHG-pqs">
+       Orlando
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Florida">
+       Florida
+      </a>
+      ,
+      <a href="https://www.cia.gov/the-world-factbook/countries/united-states/">
+       USA
+      </a>
+      about a week ago.   The bright spot to the right of the Moon is the planet
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      ,  while the dotted
+      <a href="ap240609.html">
+       lights
+      </a>
+      above the horizon on the right are from an
+      <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/airplane.html">
+       airplane
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/08
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240708.html">
+      https://apod.nasa.gov/apod/ap240708.html
      </a>
     </td>
    </tr>
