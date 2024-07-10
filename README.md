@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/sagittariusTri.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      These three bright nebulae are often featured on telescopic tours of the constellation
+      <a href="http://www.hawastsoc.org/deepsky/sgr/index.html">
+       Sagittarius
+      </a>
+      and the crowded starfields of the
+      <a href="ap161110.html">
+       central Milky Way
+      </a>
+      .  In fact, 18th century cosmic tourist
+      <a href="https://www.nasa.gov/content/explore-the-night-sky-hubble-s-messier-catalog-bio">
+       Charles Messier
+      </a>
+      cataloged two of them;
+      <a href="ap160909.html">
+       M8
+      </a>
+      , the large nebula above center, and colorful
+      <a href="ap170628.html">
+       M20
+      </a>
+      below and left in the frame.  The third emission region includes
+      <a href="ap040629.html">
+       NGC 6559
+      </a>
+      , right of M8 and separated from the larger nebula by a dark dust lane.  All three are stellar nurseries about five thousand light-years or so distant.  Over a hundred light-years across the expansive M8 is also known as the Lagoon Nebula.  M20's popular moniker is the Trifid.  Glowing hydrogen gas creates the dominant red color of the emission nebulae.  But for striking contrast, blue hues in the Trifid are due to dust
+      <a href="ap011228.html">
+       reflected starlight
+      </a>
+      .  The broad
+      <a href="https://www.instagram.com/andyermolli/p/C9GnqlvJCc5/">
+       interstellar skyscape
+      </a>
+      spans almost 4 degrees or 8 full moons on the sky.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/09
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240709.html">
+      https://apod.nasa.gov/apod/ap240709.html
      </a>
     </td>
    </tr>
