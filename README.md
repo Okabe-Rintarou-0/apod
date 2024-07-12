@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/PK164_vdef3.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/PK164_vdef3_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Planetary nebula
+      <a href="https://en.wikipedia.org/wiki/Jones-Emberson_1">
+       Jones-Emberson 1
+      </a>
+      is the
+      <a href="https://physics.weber.edu/palen/phsx1040/lectures/lplanneb.html">
+       death shroud
+      </a>
+      of a dying Sun-like star.  It lies some 1,600 light-years from Earth toward the
+      <a href="https://websites.umich.edu/~lowbrows/guide/lynx.html">
+       sharp-eyed constellation Lynx
+      </a>
+      .  About 4 light-years across, the expanding remnant of the dying star's atmosphere was
+      <a href="https://chandra.si.edu/photo/2021/pne/animations.html">
+       shrugged off
+      </a>
+      into interstellar space, as the star's central supply of hydrogen and then helium for fusion was depleted after billions of years.  Visible near the center of the planetary nebula is what remains of the stellar core, a blue-hot
+      <a href="https://ui.adsabs.harvard.edu/abs/1978PASA....3..220B/abstract">
+       white dwarf star
+      </a>
+      .   Also known as PK 164 +31.1, the nebula is faint and very difficult to glimpse at a telescope's eyepiece.
+      <a href="https://www.astrobin.com/52l8p7/">
+       But this deep image
+      </a>
+      combining over 12 hours of exposure time does show it off in exceptional detail.  Stars within our own Milky Way galaxy as well as background galaxies across the universe are scattered through the clear field of view.
+      <a href="https://www.futuretimeline.net/beyond.htm">
+       Ephemeral
+      </a>
+      on the cosmic stage, Jones-Emberson 1 will fade away over the next few thousand years.  Its hot, central white dwarf star will take
+      <a href="https://www.futuretimeline.net/beyond-1000000.htm#12000000000">
+       billions
+      </a>
+      of years to cool.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/11
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240711.html">
+      https://apod.nasa.gov/apod/ap240711.html
      </a>
     </td>
    </tr>
