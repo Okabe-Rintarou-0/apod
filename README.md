@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The galaxy was never in danger.  For one thing, the
+      <a href="ap180927.html">
+       Triangulum galaxy
+      </a>
+      (M33), pictured,  is much bigger than the
+      <a href="ap011117.html">
+       tiny grain of rock
+      </a>
+      at the head of the meteor.  For another, the galaxy is much farther away -- in this instance 3 million
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light year
+      </a>
+      s as opposed to only about 0.0003 light seconds.   Even so, the
+      <a href="ap130209.html">
+       meteor's path
+      </a>
+      took it angularly below the galaxy.  Also the wind high in
+      <a href="https://www.nasa.gov/general/what-is-earths-atmosphere/">
+       Earth's atmosphere
+      </a>
+      blew the
+      <a href="https://www.syfy.com/syfywire/catching-meteor-train">
+       meteor's glowing evaporative molecule train
+      </a>
+      away from the galaxy, in
+      <a href="https://en.wikipedia.org/wiki/Forced_perspective#/media/File:Europe_2007_Disk_1_340.jpg">
+       angular projection
+      </a>
+      .   Still, the astrophotographer was quite lucky to capture
+      <a href="ap180812.html">
+       both a meteor and a galaxy
+      </a>
+      in a single exposure -- which was subsequently added to two other images of
+      <a href="https://youtu.be/qVTgWPFRQCo">
+       M33
+      </a>
+      to bring up the
+      <a href="https://en.wikipedia.org/wiki/Spiral_galaxy">
+       spiral galaxy
+      </a>
+      's colors.   At the end,
+      <a href="https://www.amsmeteors.org/meteor-showers/meteor-faq/">
+       the meteor
+      </a>
+      was gone in a second, but
+      <a href="https://en.wikipedia.org/wiki/Triangulum_Galaxy">
+       the galaxy
+      </a>
+      will last billions of years.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/13
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240713.html">
+      https://apod.nasa.gov/apod/ap240713.html
      </a>
     </td>
    </tr>
