@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_3751.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why does this galaxy have such a long tail?   In this stunning vista, based on image data from the
+      <a href="https://hla.stsci.edu/">
+       Hubble Legacy Archive
+      </a>
+      , distant galaxies form a dramatic backdrop for disrupted spiral
+      <a href="http://nedwww.ipac.caltech.edu/level5/Arp/frames.html">
+       galaxy  Arp
+      </a>
+      188, the Tadpole Galaxy.  The
+      <a href="https://hubblesite.org/contents/media/images/2002/11/1181-Image.html">
+       cosmic tadpole
+      </a>
+      is a mere 420 million light-years distant toward the northern constellation of the Dragon  (
+      <a href="https://en.wikipedia.org/wiki/Draco_(constellation)">
+       Draco
+      </a>
+      ).  Its
+      <a href="https://img.huffingtonpost.com/asset/5bad12683c000032000b0e42.jpeg?ops=scalefit_630_noupscale">
+       eye-catching
+      </a>
+      tail is about 280 thousand
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-year
+      </a>
+      s long and features massive, bright blue star clusters.  One
+      <a href="http://www.boop.org/jan/justso/">
+       story
+      </a>
+      goes that a more compact intruder galaxy  crossed in front of
+      <a href="https://www.astrobin.com/6odbgy/G/">
+       Arp 188
+      </a>
+      -  from right to left in this view - and was
+      <a href="ap150201.html">
+       slung around
+      </a>
+      behind the
+      <a href="https://en.wikipedia.org/wiki/Tadpole_Galaxy">
+       Tadpole
+      </a>
+      by their gravitational attraction.  During the
+      <a href="ap120812.html">
+       close encounter
+      </a>
+      , tidal forces drew out the
+      <a href="ap120604.html">
+       spiral galaxy's
+      </a>
+      stars, gas, and dust forming the spectacular tail.  The
+      <a href="ap970224.html">
+       intruder
+      </a>
+      galaxy itself, estimated to lie about 300 thousand light-years behind the Tadpole, can be seen through foreground spiral arms at the upper right.
+      <a href="https://annex.exploratorium.edu/frogs/">
+       Following
+      </a>
+      its terrestrial
+      <a href="http://www.countrysideinfo.co.uk/metindex.htm">
+       namesake
+      </a>
+      , the
+      <a href="https://en.wikipedia.org/wiki/Tadpole_Galaxy">
+       Tadpole Galaxy
+      </a>
+      will likely lose
+      <a href="https://ui.adsabs.harvard.edu/abs/1972ApJ...178..623T/abstract">
+       its tail
+      </a>
+      as it grows older, the tail's star clusters forming smaller satellites of the large spiral galaxy.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/14
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240714.html">
+      https://apod.nasa.gov/apod/ap240714.html
      </a>
     </td>
    </tr>
