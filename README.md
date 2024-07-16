@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_4692.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What are these unusual interstellar structures?  Bright-rimmed, flowing shapes gather near the center of
+      <a href="https://www.hansonastronomy.com/cg-30-cometary-globule">
+       this rich starfield
+      </a>
+      toward the borders of the nautical southern
+      <a href="http://en.wikipedia.org/wiki/Argo_Navis">
+       constellations Pupis and Vela
+      </a>
+      .  Composed of interstellar gas and dust, the grouping of light-year sized cometary globules is about 1300
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-year
+      </a>
+      s distant.  Energetic ultraviolet light from nearby hot stars
+      <a href="ap071215.html">
+       has molded the globules
+      </a>
+      and ionized their bright rims.
+      <a href="http://arxiv.org/abs/astro-ph/0502285">
+       The globules also
+      </a>
+      stream away from the
+      <a href="ap190110.html">
+       Vela supernova remnant
+      </a>
+      which may have influenced their swept-back shapes.  Within them, cores of cold gas and dust are likely
+      <a href="https://pbs.twimg.com/media/BUCOEePIcAAht9h.jpg">
+       collapsing
+      </a>
+      to form low mass stars, whose formation will ultimately cause the
+      <a href="ap230104.html">
+       globules to disperse
+      </a>
+      .  In fact, cometary globule CG 30 (on the upper left) sports a small reddish glow near its head,
+      <a href="https://ui.adsabs.harvard.edu/abs/1990MNRAS.242..419S/abstract">
+       a telltale sign
+      </a>
+      of energetic jets from a star in the early stages
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/">
+       of formation
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/15
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240715.html">
+      https://apod.nasa.gov/apod/ap240715.html
      </a>
     </td>
    </tr>
