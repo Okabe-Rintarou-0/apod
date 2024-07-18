@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.nasa.gov/content/goddard/hubble-s-messier-catalog">
+       Unlike most entries
+      </a>
+      in Charles Messier's famous catalog of deep sky objects,
+      <a href="http://www.messier.seds.org/m/m024.html">
+       M24
+      </a>
+      is not a bright galaxy, star cluster, or nebula.  It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy.
+      <a href="https://oneminuteastronomer.com/4460/small-sagittarius-star-cloud/">
+       Direct your gaze
+      </a>
+      through this gap with binoculars or small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth.  Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars are left of center in
+      <a href="https://www.astrobin.com/0lzu44/">
+       this gorgeous starscape
+      </a>
+      .    Covering over 6 degrees or the width of 12 full moons in the constellation Sagittarius, the telescopic field of view includes
+      <a href="https://ui.adsabs.harvard.edu/abs/1919ApJ....49....1B/abstract">
+       dark markings
+      </a>
+      B92 and B93
+      <a href="ap100708.html">
+       near the center
+      </a>
+      of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/16
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240717.html">
+      https://apod.nasa.gov/apod/ap240717.html
      </a>
     </td>
    </tr>
