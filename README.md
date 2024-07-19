@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_2048p.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.instagram.com/neuveritelne.brno/">
+       For some
+      </a>
+      , these subtle bands of light and shadow stretched across the sky as the Sun set on July 11.  Known as
+      <a href="ap200318.html">
+       anticrepuscular
+      </a>
+      rays, the bands are formed as a large cloud bank near the western horizon cast
+      <a href="ap220924.html">
+       long shadows
+      </a>
+      through the atmosphere at sunset.  Due to the camera's perspective, the bands of light and shadow seem to converge toward the eastern (opposite) horizon at a point seen just above a 14th century
+      <a href="ap160916.html">
+       hilltop castle
+      </a>
+      near Brno, Czech Republic.  In the foreground,
+      <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg">
+       denizens
+      </a>
+      of planet Earth are enjoying the region's annual
+      <a href="https://www.festivalplanetbrno.cz/">
+       Planet Festival
+      </a>
+      in the park below the Brno Observatory and Planetarium.  And while crepuscular and anticrepuscular rays are a relatively common atmospheric phenomenon, this festival's 10 meter diameter inflatable spheres representing
+      <a href="https://science.nasa.gov/solar-system/planets/">
+       bodies of the Solar System
+      </a>
+      are less often seen
+      <a href="image/2407/2024-07-11Pavel_models1024p.jpg">
+       on planet Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/18
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240718.html">
+      https://apod.nasa.gov/apod/ap240718.html
      </a>
     </td>
    </tr>
