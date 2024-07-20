@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Have you seen
+      <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-fords-an-ancient-river-to-reach-science-target/">
+       a panorama from
+      </a>
+      another world lately?
+      <a href="http://www.hq.nasa.gov/alsj/a11/images11.html#a11pan5449-53">
+       Assembled from high-resolution scans
+      </a>
+      of the original film frames, this one sweeps across the magnificent desolation of the Apollo 11 landing site
+      <a href="ap190719.html">
+       on the Moon's Sea of Tranquility
+      </a>
+      .  The images were taken 55 years ago by
+      <a href="https://en.wikipedia.org/wiki/Neil_Armstrong">
+       Neil Armstrong
+      </a>
+      looking out his window on the Eagle Lunar Module  shortly after the
+      <a href="https://www.nasa.gov/mission/apollo-11/">
+       July 20, 1969 landing
+      </a>
+      .  The frame at the far left (
+      <a href="http://www.hq.nasa.gov/alsj/a11/images11.html#5449">
+       AS11-37-5449
+      </a>
+      ) is the first picture taken by a person on another world.  Thruster nozzles can be seen in the foreground on the left (toward the south), while at the right (west), the shadow of the Eagle is visible.  For scale, the large, shallow crater on the right has a diameter of about 12 meters.  Frames taken from the Lunar Module windows about an hour and a half after landing, before
+      <a href="http://www.hq.nasa.gov/alsj/a11/a11.html">
+       walking on the lunar surface
+      </a>
+      , were intended to document the landing site in case an early departure was necessary.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/19
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240719.html">
+      https://apod.nasa.gov/apod/ap240719.html
      </a>
     </td>
    </tr>
