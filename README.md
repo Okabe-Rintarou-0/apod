@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_7360.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This rock structure is not only surreal -- it's real.   Perhaps the reason it's not more famous is that it is  smaller than one might guess: the capstone rock overhangs only a
+      <a href="https://liveloveruntravel.com/king-of-wings-new-mexico/">
+       few meters
+      </a>
+      .   Even so, the
+      <a href="https://www.summitpost.org/king-of-wings/1010769">
+       King of Wings
+      </a>
+      outcrop, located in
+      <a href="https://en.wikipedia.org/wiki/New_Mexico">
+       New Mexico
+      </a>
+      ,
+      <a href="https://www.cia.gov/the-world-factbook/countries/united-states/">
+       USA
+      </a>
+      , is a fascinating example of an unusual type of rock structure called a
+      <a href="https://en.wikipedia.org/wiki/Hoodoo_(geology)">
+       hoodoo
+      </a>
+      .
+      <a href="ap200813.html">
+       Hoodoo
+      </a>
+      s may
+      <a href="https://en.wikipedia.org/wiki/Hoodoo_(geology)#Formation">
+       form
+      </a>
+      when a layer of hard rock overlays a layer of
+      <a href="http://www.nationalgeographic.org/encyclopedia/erosion/">
+       eroding
+      </a>
+      softer rock.  Figuring out the details of incorporating
+      <a href="https://youtu.be/OcWAkbG_YLo">
+       this hoodoo
+      </a>
+      into a night-sky photoshoot took over a year.  Besides
+      <a href="https://www.shutterstock.com/image-photo/funny-cat-tired-boring-lying-260nw-1447517609.jpg">
+       waiting for a suitably picturesque night
+      </a>
+      behind a sky with few clouds, the foreground had to be
+      <a href="ap230308.html">
+       artificially lit
+      </a>
+      just right relative to the
+      <a href="https://nightsky.jpl.nasa.gov/news-display.cfm?News_ID=745">
+       natural glow
+      </a>
+      of the background.   After much planning and waiting, the final shot,
+      <a href="http://waynepinkstonphoto.com/WhatsNew/i-Trxjrp7/A">
+       featured here
+      </a>
+      ,  was taken in May 2016.  Mimicking the horizontal bar, the background sky features the band of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      stretching overhead.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/20
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240720.html">
+      https://apod.nasa.gov/apod/ap240720.html
      </a>
     </td>
    </tr>
