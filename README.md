@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_4123.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What powers the Crab Nebula?  A city-sized magnetized
+      <a href="ap030201.html">
+       neutron star
+      </a>
+      spinning around 30 times a second.  Known as the
+      <a href="https://en.wikipedia.org/wiki/Crab_Pulsar">
+       Crab Pulsar
+      </a>
+      , it is the bright spot in the center  of the gaseous swirl at the nebula's core.   About 10 light-years across, the
+      <a href="https://i.chzbgr.com/full/9047697920/hF7BB9AC7/">
+       spectacular picture
+      </a>
+      of the
+      <a href="https://en.wikipedia.org/wiki/Crab_Nebula">
+       Crab Nebula
+      </a>
+      (M1) frames a swirling central disk and complex filaments of surrounding and expanding glowing gas.  The picture combines
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      from the
+      <a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/">
+       Hubble Space Telescope
+      </a>
+      in red and blue with
+      <a href="https://science.nasa.gov/ems/11_xrays/">
+       X-ray light
+      </a>
+      from the
+      <a href="https://chandra.harvard.edu/about/">
+       Chandra X-ray Observatory
+      </a>
+      shown in white,  and diffuse X-ray emission detected by
+      <a href="https://www.nasa.gov/ixpe-overview/">
+       Imaging X-ray Polarimetry Explorer
+      </a>
+      (IXPE) in diffuse purple.   The central
+      <a href="ap210209.html">
+       pulsar
+      </a>
+      powers the
+      <a href="https://arxiv.org/abs/1704.02968">
+       Crab Nebula
+      </a>
+      's  emission and
+      <a href="ap230320.html">
+       expansion
+      </a>
+      by slightly slowing its spin rate,  which drives out a
+      <a href="https://en.wikipedia.org/wiki/Stellar_wind">
+       wind
+      </a>
+      of energetic
+      <a href="https://www.aps.org/archives/publications/apsnews/200010/history.cfm">
+       electrons
+      </a>
+      .   The
+      <a href="https://chandra.harvard.edu/photo/2024/25th/more.html">
+       featured image
+      </a>
+      released today, the
+      <a href="https://chandra.harvard.edu/25th/">
+       25th Anniversary
+      </a>
+      of the
+      <a href="https://youtu.be/al0Ol3rGthE">
+       launch
+      </a>
+      of NASA's
+      <a href="https://en.wikipedia.org/wiki/NASA_large_strategic_science_missions">
+       flagship-class
+      </a>
+      X-ray Observatory:
+      <a href="https://chandra.harvard.edu/">
+       Chandra
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/22
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240722.html">
+      https://apod.nasa.gov/apod/ap240722.html
      </a>
     </td>
    </tr>
