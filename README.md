@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_2610.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Our Moon doesn't really have craters this big.
+      <a href="https://science.nasa.gov/moon/">
+       Earth's Moon
+      </a>
+      , Luna, also doesn't naturally show this spikey texture,  and its colors are more subtle.  But this digital creation is based on reality.   The
+      <a href="https://www.instagram.com/p/C9VolwSsvhk/">
+       featured image
+      </a>
+      is a digital composite of a good Moon image  and surface height data taken from NASA's
+      <a href="https://science.nasa.gov/mission/lro/lola/">
+       Lunar Orbiter Laser Altimeter
+      </a>
+      (LOLA) mission -- and then exaggerated for
+      <a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fc529a49-3f59-4502-a7c3-5ac4c3c5a032/d5q4hbz-5b803f71-04b3-47a3-a27c-8f49425d3d8c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZjNTI5YTQ5LTNmNTktNDUwMi1hN2MzLTVhYzRjM2M1YTAzMlwvZDVxNGhiei01YjgwM2Y3MS0wNGIzLTQ3YTMtYTI3Yy04ZjQ5NDI1ZDNkOGMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zOT8uNXcb5eNG6mmR7iiEuPGjUE8u35YDhheTEmE8lM">
+       educational understanding
+      </a>
+      .   The digital enhancements, for example, accentuate
+      <a href="https://www.lpi.usra.edu/exploration/education/hsResearch/presentations/2017-2018/Henry-M-Jackson-Moon-a.pdf">
+       lunar highlands
+      </a>
+      and show more clearly craters that illustrate the
+      <a href="https://en.wikipedia.org/wiki/Late_Heavy_Bombardment">
+       tremendous bombardment
+      </a>
+      our Moon has been through during its
+      <a href="https://science.nasa.gov/moon/composition/#otp_lunar_origins">
+       4.6-billion-year history
+      </a>
+      .   The
+      <a href="https://en.wikipedia.org/wiki/Lunar_mare#/media/File:Moon_names.svg">
+       dark areas
+      </a>
+      , called
+      <a href="https://en.wikipedia.org/wiki/Lunar_mare">
+       maria
+      </a>
+      ,  have fewer
+      <a href="https://youtu.be/HTukFx17Ryg">
+       craters
+      </a>
+      and were once seas of
+      <a href="https://youtu.be/wiRdr5LzbwY">
+       molten lava
+      </a>
+      .  Additionally, the image
+      <a href="ap210831.html">
+       colors
+      </a>
+      , although based on the  moon's real composition, are changed and exaggerated.   Here, a blue hue indicates a region that is
+      <a href="https://astrobiology.nasa.gov/news/a-story-of-iron-in-ancient-sediments/">
+       iron rich
+      </a>
+      , while orange indicates a slight excess of
+      <a href="https://youtu.be/ZVkpQKRgHvU">
+       aluminum
+      </a>
+      .   Although the
+      <a href="https://spaceplace.nasa.gov/all-about-the-moon/en/">
+       Moon
+      </a>
+      has shown the same side to the Earth for billions of years,
+      <a href="ap140113.html">
+       modern technology
+      </a>
+      is allowing humanity to learn
+      <a href="ap190717.html">
+       much more
+      </a>
+      about it -- and how it
+      <a href="https://www.iop.org/explore-physics/moon/how-does-moon-affect-earth">
+       affects the Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/23
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240723.html">
+      https://apod.nasa.gov/apod/ap240723.html
      </a>
     </td>
    </tr>
