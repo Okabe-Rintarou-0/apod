@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/NGC6946_verB.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      From our vantage point in the
+      <a href="https://science.nasa.gov/universe/galaxies/">
+       Milky Way Galaxy
+      </a>
+      , we see
+      <a href="http://www.messier.seds.org/xtra/ngc/n6946.html">
+       NGC 6946 face-on
+      </a>
+      .  The big, beautiful
+      <a href="http://www.messier.seds.org/spir.html">
+       spiral galaxy
+      </a>
+      is located just 20 million light-years away, behind a veil of foreground dust and stars in the high and far-off constellation Cepheus.  In this
+      <a href="https://www.astrobin.com/2kxh8z/B/">
+       sharp telescopic portrait
+      </a>
+      , from the core outward the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms.  NGC 6946 is also bright
+      <a href="ap990322.html">
+       in infrared light
+      </a>
+      and rich in gas and dust, exhibiting a high star birth and death rate.
+      <a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...875...85L/abstract">
+       In fact, since
+      </a>
+      the early 20th century
+      <a href="http://www.rochesterastronomy.org/sn2017/sn2017eaw.html">
+       ten confirmed
+      </a>
+      supernovae, the
+      <a href="ap060728.html">
+       death explosions
+      </a>
+      of massive stars, were
+      <a href="http://www.astrosurf.com/snweb2/ 2008/08S_/08S_Home.htm">
+       discovered
+      </a>
+      in NGC 6946.  Nearly 40,000 light-years across, NGC 6946 is also known as the
+      <a href="http://www.gemini.edu/node/116">
+       Fireworks Galaxy
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/25
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240725.html">
+      https://apod.nasa.gov/apod/ap240725.html
      </a>
     </td>
    </tr>
