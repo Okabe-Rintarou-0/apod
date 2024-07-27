@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Saturn now rises before midnight in planet Earth's sky.  On July 24, the naked-eye planet was in close conjunction,
+      <a href="https://www.space.com/moon-saturn-night-sky-july-23-2024">
+       close on the sky
+      </a>
+      , to a waning gibbous Moon.  But from some locations on planet Earth the
+      <a href="https://science.nasa.gov/saturn/">
+       ringed gas giant
+      </a>
+      was occulted,
+      <a href="https://in-the-sky.org/news.php?id=20240724_16_100">
+       disappearing behind
+      </a>
+      the Moon for about an hour from skies over parts of Asia and Africa.  Because the Moon and bright planets wander through the sky near the
+      <a href="https://en.wikipedia.org/wiki/Ecliptic">
+       ecliptic plane
+      </a>
+      , such
+      <a href="http://www.lunar-occultations.com/iota/planets/planets.htm">
+       occultation events
+      </a>
+      are not uncommon, but they can be
+      <a href="ap030724.html">
+       dramatic
+      </a>
+      .  In this telescopic view from Nanjing, Jiangsu, China, Saturn is caught moments before its disappearance behind the lunar disk.  The snapshot gives the illusion that Saturn hangs just above
+      <a href="https://en.wikipedia.org/wiki/Glushko_(crater)">
+       Glushko crater
+      </a>
+      , a
+      <a href="https://sci.esa.int/web/smart-1/-/37704-crater-glushko">
+       43 kilometer diameter
+      </a>
+      , young, ray crater near the Moon's western edge.  Of course, the Moon is 400 thousand kilometers away, compared to Saturn's distance of 1.4
+      <a href="http://kokogiak.com/megapenny/nine.asp">
+       billion
+      </a>
+      kilometers.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/26
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240726.html">
+      https://apod.nasa.gov/apod/ap240726.html
      </a>
     </td>
    </tr>
