@@ -5,6 +5,97 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_1350.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening above Uluru?   A
+      <a href="https://whc.unesco.org/en/list/">
+       United Nations World Heritage Site
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Uluru">
+       Uluru
+      </a>
+      is an extraordinary 350-meter high mountain in central
+      <a href="https://en.wikipedia.org/wiki/Australia">
+       Australia
+      </a>
+      that rises sharply from nearly flat surroundings.  Composed of
+      <a href="https://en.wikipedia.org/wiki/Arkose">
+       sandstone
+      </a>
+      , Uluru has
+      <a href="https://parksaustralia.gov.au/uluru/discover/nature/geology/">
+       slowly formed
+      </a>
+      over the past 300 million years  as softer rock eroded away.   The
+      <a href="ap150730.html">
+       Uluru
+      </a>
+      region has been a
+      <a href="https://ulurutoursaustralia.com.au/blog/the-significance-of-uluru-to-australian-indigenous-culture/">
+       home to humans
+      </a>
+      for
+      <a href="https://northernterritory.com/uluru-and-surrounds/destinations/kata-tjuta-the-olgas">
+       over 22,000
+      </a>
+      years.
+      <a href="https://www.instagram.com/p/C87AnVopYM4/">
+       Recorded
+      </a>
+      last month, the starry sky above
+      <a href="https://youtu.be/xUADPqYbnvI">
+       Uluru
+      </a>
+      includes the central band of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way galaxy
+      </a>
+      , complete with complex dark filaments of
+      <a href="https://astronomy.swin.edu.au/cosmos/D/Dust+Grain">
+       dust
+      </a>
+      , bright red
+      <a href="ap181112.html">
+       emission
+      </a>
+      <a href="ap230515.html">
+       nebulas
+      </a>
+      , and
+      <a href="https://media.istockphoto.com/id/924327272/photo/gray-kitten-on-black-background.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=uW_WOoIvPX-fwSDLaI2jPemyWNtbKtF64xdd41fDdHg=">
+       billions
+      </a>
+      of stars.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/27
   </summary>
   <table>
@@ -18,8 +109,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240728.html">
+      https://apod.nasa.gov/apod/ap240728.html
      </a>
     </td>
    </tr>
