@@ -5,6 +5,96 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/07/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2407/Arp142_Webb_1487.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      To some, it looks like a penguin.  But to people who study the universe, it is an interesting example of two big galaxies interacting.  Just a few hundred million years ago, the upper NGC 2936 was likely a
+      <a href="ap130416.html">
+       normal spiral galaxy
+      </a>
+      :  spinning, creating stars, and minding its own business.   Then it got too close to the massive
+      <a href="https://en.wikipedia.org/wiki/Elliptical_galaxy">
+       elliptical galaxy
+      </a>
+      NGC 2937, below, and took a dive.   Together known as
+      <a href="https://webbtelescope.org/contents/media/images/2024/124/01J06XYGEDEE86D1H9N5EJ9EG0">
+       Arp 142
+      </a>
+      , they are
+      <a href="https://esawebb.org/news/weic2420/">
+       featured
+      </a>
+      in this new
+      <a href="https://webb.nasa.gov/content/webbLaunch/whereIsWebb.html">
+       Webb
+      </a>
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      image, while a
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble
+      </a>
+      image appears in comparison.   NGC 2936 is not only being deflected, but
+      <a href="ap240320.html">
+       distorted
+      </a>
+      , by this close gravitational interaction.   When massive galaxies
+      <a href="ap130825.html">
+       pass near
+      </a>
+      each other,  gas is typically condensed from which
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/">
+       new stars form
+      </a>
+      .   A
+      <a href="https://img.freepik.com/premium-photo/group-kittens-are-sitting-together-one-which-is-labeled-as-cat_900958-25003.jpg">
+       young group
+      </a>
+      of stars appears as the nose of the
+      <a href="https://en.wikipedia.org/wiki/Penguin#/media/File:Penguin_in_Antarctica_jumping_out_of_the_water.jpg">
+       penguin
+      </a>
+      toward the right of the upper galaxy, while in the center of the
+      <a href="https://en.wikipedia.org/wiki/Spiral_galaxy">
+       spiral
+      </a>
+      ,  bright stars together appear as an eye.   Before a billion years, the
+      <a href="ap220606.html">
+       two galaxies will likely merge
+      </a>
+      into one larger galaxy.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/07/29
   </summary>
   <table>
@@ -18,8 +108,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240729.html">
+      https://apod.nasa.gov/apod/ap240729.html
      </a>
     </td>
    </tr>
