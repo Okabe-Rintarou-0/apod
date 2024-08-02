@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/2024MaUrM45.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://en.wikipedia.org/wiki/Mars_in_fiction">
+       As Mars
+      </a>
+      wanders through Earth's night, it passes about 5 degrees south of the Pleiades star cluster in this composite astrophoto.  The skyview was constructed from a series of images captured over a run of 16 consecutive clear nights beginning on July 12.
+      <a href="https://science.nasa.gov/solar-system/resources/resource-packages/mars-resources/">
+       Mars' march
+      </a>
+      across the field of view begins at the far right, the planet's ruddy hue. showing a nice contrast with the blue Pleiades stars.  Moving much faster across the sky against the distant stars, the fourth planet
+      <a href="https://science.nasa.gov/solar-system/planets/">
+       from the Sun
+      </a>
+      easily passes seventh planet Uranus, also moving across this field of view.  Red planet Mars and the ice giant world were in close conjunction, about 1/2 degree apart, on July 16.  Continuing its rapid eastward trek, Mars has now left the sister stars and outer planet behind though,
+      <a href="ap221230.html">
+       passing north
+      </a>
+      of red giant star Aldebaran.  Mars will come within about 1/3 degree of Jupiter in
+      <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-august-2024-skywatching-tips-from-nasa/">
+       planet Earth's sky
+      </a>
+      on August 14.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/01
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240801.html">
+      https://apod.nasa.gov/apod/ap240801.html
      </a>
     </td>
    </tr>
