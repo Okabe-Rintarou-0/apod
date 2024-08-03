@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/GloryFog1.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/GloryFog_label.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      On a road trip up
+      <a href="https://en.wikipedia.org/wiki/Uluda%C4%9F">
+       Mount Uludağ
+      </a>
+      in Bursa province, Turkey these motorcyclists found themselves above low clouds and fog in late June.  With the bright Sun directly behind them, the view down the side of the great mountain revealed a beautiful, atmospheric glory and fog bow.  Known to some as the
+      <a href="http://www.weatherscapes.com/gallery.php?cat=optics&amp;subcat=light_water&amp;expand=light_water">
+       heiligenschein
+      </a>
+      or the
+      <a href="ap140823.html">
+       Specter of the Brocken
+      </a>
+      , a glory can also sometimes be seen from airplanes or even high buildings.  It often appears to be a dark giant surrounded by a bright halo.  Of course the dark giant is just the
+      <a href="image/2408/Glory_and_Fogbow_V2.mp4">
+       shadow of the observer (90MB video)
+      </a>
+      cast opposite the Sun.
+      <a href="https://earthobservatory.nasa.gov/features/CloudsGallery">
+       The clouds and fog
+      </a>
+      are composed of very small water droplets, smaller than rain drops, that refract and reflect sunlight to create the glory's colorful halo and this more extensive fog bow.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/02
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240802.html">
+      https://apod.nasa.gov/apod/ap240802.html
      </a>
     </td>
    </tr>
