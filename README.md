@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      That's
+      <a href="https://youtu.be/i7eqjiRRIqg">
+       no moon
+      </a>
+      .  On the ground, that's the
+      <a href="https://www.atlasobscura.com/places/lars-homestead">
+       Lars Homestead
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Tunisia">
+       Tunisia
+      </a>
+      .  And that's not just any galaxy.  That's the central band of our own
+      <a href="ap230620.html">
+       Milky Way galaxy
+      </a>
+      .  Last, that's not just any meteor.  It is a bright
+      <a href="ap081125.html">
+       fireball
+      </a>
+      likely from last year's
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/">
+       Perseids meteor shower
+      </a>
+      .  The
+      <a href="https://www.astrobin.com/jzupqh/">
+       featured image
+      </a>
+      composite combines consecutive exposures  taken by the same camera from the same location.
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/">
+       This year's Perseids
+      </a>
+      peak during the coming weekend is
+      <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-august-2024-skywatching-tips-from-nasa/">
+       expected to show
+      </a>
+      the most meteors after the
+      <a href="https://science.nasa.gov/moon/lunar-phases-and-eclipses/">
+       first quarter moon
+      </a>
+      sets, near midnight.   To
+      <a href="https://www.jpl.nasa.gov/news/how-to-see-the-best-meteor-showers-of-the-year-tools-tips-and-save-the-dates-2">
+       best experience
+      </a>
+      a meteor shower,  you should have clear and dark skies, a
+      <a href="https://png.pngtree.com/png-vector/20240509/ourlarge/pngtree-relax-spa-wellness-dog-body-relax-lazy-png-image_12391632.png">
+       comfortable seat
+      </a>
+      , and patience.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/03
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240804.html">
+      https://apod.nasa.gov/apod/ap240804.html
      </a>
     </td>
    </tr>
