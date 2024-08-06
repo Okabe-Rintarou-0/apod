@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What makes this storm cloud so colorful?   First, the
+      <a href="https://climatekids.nasa.gov/cloud-formation/">
+       cloud
+      </a>
+      itself is composed of millions of tiny droplets of water and ice.   Its bottom is almost completely flat -- but this isn't unusual.
+      <a href="https://www.abc.net.au/news/2020-09-01/flat-bottom-clouds-and-the-science-behind-them/12591230">
+       Bottom flatness in clouds
+      </a>
+      is generally caused by
+      <a href="https://scied.ucar.edu/sites/default/files/interactives/atmosphere-altitude/vertpro_comet.jpg">
+       air temperature
+      </a>
+      dropping as you go up, and that above a specific height,  water-saturated air condenses out water droplets.   The
+      <a href="ap040218.html">
+       shape of the cloud
+      </a>
+      middle is caused by a  water-droplet-laden column of air being blown upward.
+      <a href="https://www.seadna.ca/wp-content/uploads/2019/10/Hilariously-Surprised-Dogs.jpg">
+       Most unusual
+      </a>
+      , though, are the orange and yellow colors.   Both
+      <a href="https://www.noaa.gov/jetstream/clouds/color-of-clouds">
+       colors are caused
+      </a>
+      by the cloud's water drops reflecting sunlight.  The orange color in the cloud's middle and bottom  sections are reflections of a nearly
+      <a href="ap170120.html">
+       red sunset
+      </a>
+      .   In contrast, the yellow color of the cloud's top results from
+      <a href="ap180613.html">
+       reflection of light from a not-yet-setting Sun
+      </a>
+      , where some -- but less --
+      <a href="https://spaceplace.nasa.gov/blue-sky/en/">
+       blue light is being scattered away
+      </a>
+      .  Appearing to
+      <a href="ap230514.html">
+       float above
+      </a>
+      the plains in
+      <a href="https://en.wikipedia.org/wiki/Texas">
+       Texas
+      </a>
+      , the
+      <a href="https://www.instagram.com/p/CO_y-rKhqhK/">
+       featured impressive image
+      </a>
+      of a dynamic
+      <a href="https://en.wikipedia.org/wiki/Cumulonimbus_cloud">
+       cumulonimbus cloud
+      </a>
+      was
+      <a href="https://laurarowe.smugmug.com/About-Laura-Rowe">
+       captured in 2021
+      </a>
+      while investigating a
+      <a href="ap200517.html">
+       tornado
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/05
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240805.html">
+      https://apod.nasa.gov/apod/ap240805.html
      </a>
     </td>
    </tr>
