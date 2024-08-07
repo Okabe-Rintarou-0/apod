@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_4681.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      To some, they look like battlements,  here protecting us against the center of the
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way
+      </a>
+      .  The Three
+      <a href="https://en.wikipedia.org/wiki/Merlon">
+       Merlon
+      </a>
+      s,  also called the
+      <a href="https://en.wikipedia.org/wiki/Tre_Cime_di_Lavaredo">
+       Three Peaks of Lavaredo
+      </a>
+      , stand tall today because they are made of dense dolomite rock which has better resisted
+      <a href="https://youtu.be/-43_HBy9huc">
+       erosion
+      </a>
+      than surrounding softer rock.  They formed about
+      <a href="https://astrobiology.nasa.gov/news/timeline-of-a-mass-extinction/">
+       250 million years ago
+      </a>
+      and so are comparable in age with one of the
+      <a href="https://science.nasa.gov/science-research/earth-science/the-great-dying/">
+       great extinctions
+      </a>
+      of life on
+      <a href="ap240324.html">
+       Earth
+      </a>
+      .  A leading hypothesis is that this great
+      <a href="https://astrobiology.nasa.gov/news/could-recent-supernovae-be-responsible-for-mass-extinctions/">
+       extinction
+      </a>
+      was triggered by an
+      <a href="https://science.nasa.gov/solar-system/asteroids/">
+       asteroid
+      </a>
+      about 10-km across, larger in size than
+      <a href="ap110417.html">
+       Mount Everest
+      </a>
+      , impacting the Earth.
+      <a href="https://www.nasa.gov/history/the-human-desire-for-exploration-leads-to-discovery/">
+       Humans
+      </a>
+      have gazed up at the stars in the
+      <a href="ap170726.html">
+       Milky Way
+      </a>
+      and beyond for centuries,  making these battlefield-like formations, based in the
+      <a href="https://en.wikipedia.org/wiki/Sexten_Dolomites">
+       Sexten Dolomites
+      </a>
+      , a popular place for
+      <a href="https://skywiseunlimited.com/wp-content/uploads/2015/02/scoper_05.jpg">
+       current
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/History_of_astronomy">
+       ancient astronomers
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/06
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240806.html">
+      https://apod.nasa.gov/apod/ap240806.html
      </a>
     </td>
    </tr>
