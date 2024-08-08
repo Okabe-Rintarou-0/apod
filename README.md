@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A Halley-type comet with an orbital period of about 133 years,
+      <a href="https://science.nasa.gov/solar-system/comets/109p-swift-tuttle/">
+       Comet 109P/Swift-Tuttle
+      </a>
+      is recognized as the parent of the annual Perseid Meteor Shower.  The comet's last visit to the inner Solar System
+      <a href="https://ui.adsabs.harvard.edu/abs/1994JBAA..104...11M/abstract">
+       was in 1992
+      </a>
+      .  Then, it did not become easily visible to the naked eye, but it did become bright enough to see from most locations with binoculars and small telescopes.  This stunning color image of Swift-Tuttle's greenish coma, long ion tail and dust tail was recorded using
+      <a href="http://www.astrostudio.at/2_Bright%20Comets.php?img=images/2_Bright%20Comets/799_109P_24_11_92.jpg">
+       film on November 24, 1992
+      </a>
+      .  That was about 16 days after the
+      <a href="https://www.rocketstem.org/2020/11/28/ice-and-stone-comet-of-week-49/">
+       large periodic comet's
+      </a>
+      closest approach to Earth.
+      <a href="https://en.wikipedia.org/wiki/Comet_Swift%E2%80%93Tuttle">
+       Comet Swift-Tuttle
+      </a>
+      is expected to next make an impressive appearance in night skies in 2126.  Meanwhile, dusty cometary debris left along the orbit of Swift-Tuttle will continue to be swept up creating planet Earth's best-known July and
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/">
+       August meteor shower
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/07
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240807.html">
+      https://apod.nasa.gov/apod/ap240807.html
      </a>
     </td>
    </tr>
