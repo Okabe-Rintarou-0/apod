@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_1464.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's that on the horizon?  When circling the Earth on the
+      <a href="https://www.nasa.gov/international-space-station/">
+       International Space Station
+      </a>
+      early
+      <a href="https://en.wikipedia.org/wiki/SpaceX_Crew-8">
+       last month
+      </a>
+      ,  astronaut
+      <a href="https://www.nasa.gov/people/matthew-dominick/">
+       Matthew Dominick
+      </a>
+      saw an unusual type of lightning just beyond the Earth's edge: a gigantic jet.  The powerful jet appears on the left of the
+      <a href="https://www.flickr.com/photos/semeion/53899529103/in/pool-apods/">
+       featured image
+      </a>
+      in red and blue.
+      <a href="ap160823.html">
+       Giant jet lightning
+      </a>
+      has only been known about for the past 23 years.  The atmospheric jets are associated with  thunderstorms and extend upwards towards
+      <a href="https://science.nasa.gov/earth/10-things-to-know-about-the-ionosphere/">
+       Earth's ionosphere
+      </a>
+      .   The lower part of
+      <a href="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS071&amp;roll=E&amp;frame=319414">
+       the frame
+      </a>
+      shows the
+      <a href="ap121207.html">
+       Earth at night
+      </a>
+      ,  with Earth's thin atmosphere tinted green from airglow.
+      <a href="ap130331.html">
+       City lights
+      </a>
+      are visible, sometimes resolved, but usually  creating diffuse white glows in intervening clouds.   The top of
+      <a href="https://www.flickr.com/photos/frankie57pr/53877835585/">
+       the frame
+      </a>
+      reveals distant stars in the dark night sky.  The nature of
+      <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning#Gigantic_jets">
+       gigantic jets
+      </a>
+      and their possible association with other types of
+      <a href="https://skybrary.aero/articles/transient-luminous-events-tles">
+       Transient Luminous Events
+      </a>
+      (TLEs) such as
+      <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning#Blue_jets">
+       blue jets
+      </a>
+      and
+      <a href="ap231002.html">
+       red sprites
+      </a>
+      remains an
+      <a href="https://upload.wikimedia.org/wikipedia/commons/8/88/Example-dog-on-the-internet.png">
+       active topic of research
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/12
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240812.html">
+      https://apod.nasa.gov/apod/ap240812.html
      </a>
     </td>
    </tr>
