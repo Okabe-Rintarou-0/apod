@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_4855.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This was an unusual night.  For one thing, the night sky of August 11 and 12,  earlier this week, occurred near the peak of the annual
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/">
+       Perseid Meteor Shower
+      </a>
+      .  Therefore, meteors streaked across the  dark night as small bits cast off from
+      <a href="ap960219.html">
+       Comet Swift-Tuttle
+      </a>
+      came crashing into the
+      <a href="https://www.nasa.gov/general/what-is-earths-atmosphere/">
+       Earth's atmosphere
+      </a>
+      .  Even more unusually, for central
+      <a href="https://en.wikipedia.org/wiki/Germany">
+       Germany
+      </a>
+      at least, the night
+      <a href="ap240612.html">
+       sky glowed purple
+      </a>
+      .  The red-blue hue was due to aurora caused by an
+      <a href="ap180902.html">
+       explosion of particles
+      </a>
+      from the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      a few days before.
+      <a href="https://www.swpc.noaa.gov/news/severe-g4-geomagnetic-storms-observed-12-aug-2024">
+       This auroral storm
+      </a>
+      was so intense that it  was seen as far south as
+      <a href="https://spaceweathergallery2.com/indiv_upload.php?upload_id=211318">
+       Texas
+      </a>
+      and
+      <a href="https://spaceweathergallery2.com/indiv_upload.php?upload_id=211357">
+       Italy
+      </a>
+      , in Earth's northern hemisphere.   The
+      <a href="https://www.instagram.com/p/C-k4uM-NtSP/">
+       featured image
+      </a>
+      composite was built from 7 exposures  taken over 26 minutes from
+      <a href="https://youtu.be/7SylqzpjQfA">
+       Ense
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Germany">
+       Germany
+      </a>
+      .  The Perseids occur
+      <a href="https://mrwallpaper.com/images/high/cute-yet-bored-funny-cat-e2ftbgrfxrbazqsb.webp">
+       predictably
+      </a>
+      every August,  but auroras visible this far south are more unusual and less predictable.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/13
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240813.html">
+      https://apod.nasa.gov/apod/ap240813.html
      </a>
     </td>
    </tr>
