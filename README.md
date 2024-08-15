@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap240802.html">
+       Bright Mars
+      </a>
+      and even brighter Jupiter are in close conjunction just above the pine trees in this post-midnight skyscape from
+      <a href="ap150319.html">
+       Vallentuna
+      </a>
+      , Sweden.  Taken on August 12 during a geomagnetic storm, the snapshot records the glow of aurora borealis or northern lights, beaming from the left side of the frame.  Of course on
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/">
+       that date Perseid meteors
+      </a>
+      rained through planet Earth's skies, grains of dust from the shower's parent, periodic comet
+      <a href="ap240808.html">
+       Swift-Tuttle
+      </a>
+      .  The meteor streak at the upper right is a Perseid plowing through the atmosphere at about 60 kilometers per
+      <i>
+       second
+      </i>
+      .  Also well-known in in Earth's night sky, the bright Pleides star cluster shines below the Perseid meteor streak.  In Greek myth, the Pleiades were
+      <a href="https://en.wikipedia.org/wiki/Pleiades_(Greek_mythology)">
+       seven daughters
+      </a>
+      of the astronomical titan Atlas and sea-nymph Pleione.  The Pleiades and their parents' names are given to the cluster's nine brightest stars.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/14
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240814.html">
+      https://apod.nasa.gov/apod/ap240814.html
      </a>
     </td>
    </tr>
