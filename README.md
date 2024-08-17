@@ -5,6 +5,54 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/RocketGannaway.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      On August 11 a
+      <a href="https://en.wikipedia.org/wiki/List_of_Electron_rocket_launches">
+       Rocket Lab Electron rocket launched
+      </a>
+      from a rotating planet.  With a small satellite on board its mission was dubbed
+      <a href="https://www.rocketlabusa.com/missions/missions-launched/a-sky-full-of-sars/">
+       A Sky Full of SARs
+      </a>
+      (Synthetic Aperture Radar satellites), departing for low Earth orbit from Mahia Peninsula on New Zealand's north island.  The fiery trace of the Electron's graceful launch arc is toward the east in this southern sea and skyscape, a composite of 50 consecutive frames taken over 2.5 hours.  Fixed to a tripod, the camera was pointing directly at the South Celestial Pole, the extension of planet Earth's axis of rotation in to space.
+      <a href="ap191130.html">
+       But no bright star
+      </a>
+      marks that location in the southern hemisphere's night sky.  Still, the South
+      <a href="https://science.nasa.gov/learn/basics-of-space-flight/chapter2-2/">
+       Celestial
+      </a>
+      Pole is easy to spot.  It lies at the center of the concentric star trail arcs that fill the skyward field of view.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/16
   </summary>
   <table>
@@ -18,8 +66,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240816.html">
+      https://apod.nasa.gov/apod/ap240816.html
      </a>
     </td>
    </tr>
