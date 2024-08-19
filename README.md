@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_2047.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Inside the Cocoon Nebula is a newly developing cluster of stars.  Cataloged as
+      <a href="http://www.universetoday.com/2008/07/07/ the-cosmic-cocoon-ic-5146-by-tom-v-davis/">
+       IC 5146
+      </a>
+      , the beautiful nebula is nearly 15
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-year
+      </a>
+      s wide.  Soaring high in
+      <a href="https://science.nasa.gov/skywatching/">
+       northern summer night skies
+      </a>
+      , it's located some 4,000 light years away toward the  constellation of the Swan  (
+      <a href="https://en.wikipedia.org/wiki/Cygnus_(constellation)">
+       Cygnus
+      </a>
+      ).   Like other star forming regions, it stands out in red, glowing,
+      <a href="ap050930.html">
+       hydrogen gas
+      </a>
+      excited by young, hot stars, and
+      <a href="ap061211.html">
+       dust-reflected
+      </a>
+      starlight at the edge of an otherwise invisible
+      <a href="http://loke.as.arizona.edu/~ckulesa/research/overview.html">
+       molecular cloud
+      </a>
+      .   In fact, the bright star found near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it
+      <a href="https://ui.adsabs.harvard.edu/abs/2014A%26A...571A..93G/abstract">
+       clears out
+      </a>
+      a cavity in the
+      <a href="ap230129.html">
+       molecular cloud
+      </a>
+      's star forming dust and gas.  A 48-hour long integration resulted in this
+      <a href="https://www.flickr.com/photos/astrotolva/53899561718/">
+       exceptionally deep color view
+      </a>
+      tracing
+      <a href="https://media.istockphoto.com/id/832162420/photo/intrigued-cat-under-a-blanket.jpg?s=1024x1024&amp;w=is&amp;k=20&amp;c=0GQ8NOKdnthUpRQxIhwt6ZZ-K-x6aRo8Y_lhNhijADQ=">
+       tantalizing
+      </a>
+      features within and surrounding the dusty
+      <a href="https://science.nasa.gov/universe/stars/">
+       stellar nursery
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/17
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240818.html">
+      https://apod.nasa.gov/apod/ap240818.html
      </a>
     </td>
    </tr>
