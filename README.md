@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_1601.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A supermoon occurred yesterday.  And tonight's moon should also look impressive.
+      <a href="https://science.nasa.gov/solar-system/moon/what-is-a-supermoon/">
+       Supermoons
+      </a>
+      appear slightly larger and brighter than  most full moons because they reach their full phase when
+      <a href="https://earthsky.org/astronomy-essentials/what-is-a-supermoon/">
+       slightly nearer to the Earth
+      </a>
+      -- closer than 90 percent of all
+      <a href="ap220612.html">
+       full moons
+      </a>
+      .   This supermoon was also a blue moon given the  definition that it is the third of four full moons occurring during a single season.
+      <a href="https://moon.nasa.gov/news/197/super-blue-moons-your-questions-answered/">
+       Blue moons
+      </a>
+      are not usually blue,  and a different definition holds that a
+      <a href="ap210831.html">
+       blue moon
+      </a>
+      is the second full moon that occurs during a single month.   The
+      <a href="https://www.instagram.com/p/C-3NZVEOdaV/">
+       featured image
+      </a>
+      captured the
+      <a href="ap230905.html">
+       blue supermoon
+      </a>
+      right near its peak size yesterday as it was rising
+      <a href="https://youtu.be/mGl5ALlUI-Q?t=39">
+       beyond
+      </a>
+      the
+      <a href="https://en.wikipedia.org/wiki/Temple_of_Poseidon,_Sounion">
+       Temple of Poseidon
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Greece">
+       Greece
+      </a>
+      .
+      <a href="https://www.smithsonianmag.com/smart-news/a-rare-super-blue-moon-will-be-visible-monday-night-what-does-that-mean-180984928">
+       This supermoon
+      </a>
+      is particularly unusual in that it is the
+      <a href="https://i2.pickpik.com/photos/19/144/45/cat-feeding-young-cat-animal-preview.jpg">
+       first of four
+      </a>
+      successive supermoons,  the next three occurring in September, October, and November.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/19
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240819.html">
+      https://apod.nasa.gov/apod/ap240819.html
      </a>
     </td>
    </tr>
