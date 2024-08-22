@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In silhouette against a crowded star field along the tail of the arachnological constellation
+      <a href="http://hawastsoc.org/deepsky/sco/index.html">
+       Scorpius
+      </a>
+      , this dusty cosmic cloud evokes for some the image of an
+      <a href="https://en.wikipedia.org/wiki/Childe_Roland_to_the_Dark_Tower_Came">
+       ominous
+      </a>
+      dark tower.  In fact, monstrous clumps of dust and molecular gas
+      <a href="ap210630.html">
+       collapsing
+      </a>
+      to form stars may well lurk within the dark nebula, a structure that spans almost 40 light-years across this
+      <a href="https://throughlightandtime.com/dark-tower-cdk-700-ii-lrgb-ha-rev-1-30-july-2024/">
+       gorgeous telescopic portrait
+      </a>
+      .  A
+      <a href="ap240716.html">
+       cometary globule
+      </a>
+      , the swept-back cloud is shaped by intense ultraviolet radiation from the
+      <a href="http://en.wikipedia.org/wiki/Stellar_association#Types">
+       OB association
+      </a>
+      of very
+      <a href="https://chandra.harvard.edu/photo/2018/ngc6231/index.html">
+       hot stars in NGC 6231
+      </a>
+      , off the upper right corner of the scene.  That energetic ultraviolet light also powers the globule's bordering reddish glow of
+      <a href="ap051223.html">
+       hydrogen gas
+      </a>
+      .  Hot stars embedded in the dust can be seen as bluish
+      <a href="ap011228.html">
+       reflection nebulae
+      </a>
+      .  This dark tower and associated nebulae are about 5,000 light-years away.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/21
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240821.html">
+      https://apod.nasa.gov/apod/ap240821.html
      </a>
     </td>
    </tr>
