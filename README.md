@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      There is a
+      <a href="https://www.science.org/doi/10.1126/sciadv.aao7228">
+       quiet pulsar
+      </a>
+      at the heart of CTA 1.  The supernova remnant was
+      <a href="https://www.deepskycorner.ch/obj/cta1.en.php">
+       discovered
+      </a>
+      as a source of emission
+      <a href="https://science.nasa.gov/ems/05_radiowaves/">
+       at radio wavelengths
+      </a>
+      by astronomers in 1960 and since identified as the result of the death explosion of a massive star.  But no radio pulses were detected from the expected pulsar, the
+      <a href="ap240723.html">
+       rotating neutron star
+      </a>
+      remnant of the massive star's collapsed core.  Seen about 10,000 years after the initial supernova explosion, the interstellar debris cloud is faint at optical wavelengths.  CTA 1's visible wavelength emission from still expanding shock fronts is revealed in
+      <a href="https://www.astrobin.com/3vfxec/0/">
+       this deep telescopic image
+      </a>
+      , a frame that spans about 2 degrees across a starfield in the northern constellation of Cepheus.  While no pulsar has since been found at radio wavelengths, in 2008 the
+      <a href="https://science.nasa.gov/mission/fermi">
+       Fermi Gamma-ray Space Telescope
+      </a>
+      detected pulsed emission from CTA 1, identifying the supernova remnant's rotating neutron star.  The source has been recognized as the first in a growing class of pulsars that are quiet at radio wavelengths but
+      <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasas-fermi-telescope-discovers-first-gamma-ray-only-pulsar/">
+       pulse in high-energy gamma-rays
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/22
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240822.html">
+      https://apod.nasa.gov/apod/ap240822.html
      </a>
     </td>
    </tr>
