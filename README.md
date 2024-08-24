@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin1060.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The
+      <a href="ap240314.html">
+       full Moon
+      </a>
+      and
+      <a href="ap240228.html">
+       Earth's shadow
+      </a>
+      set together in this island skyscape.  The alluring scene was captured Tuesday morning, August 20, from Fiji, South Pacific Ocean, planet Earth.  For early morning risers shadowset in the western sky is a
+      <a href="ap050127.html">
+       daily apparition
+      </a>
+      .  Still, the grey-blue shadow is often overlooked in favor of a brighter eastern horizon.  Extending through the dense atmosphere, Earth's setting shadow is bounded above by a pinkish glow or
+      <a href="https://auroralabsnorway.com/blog/the-belt-of-venus-or-the-anti-twilight-arch/">
+       anti-twilight arch
+      </a>
+      .  Known as the Belt of Venus, the arch's lovely color is due to backscattering of reddened light from the opposite horizon's rising Sun.  Of course, the setting Moon's light is reddened by the long sight-line through the atmosphere.  But on that date the full Moon could be called a seasonal Blue Moon, the third full Moon in a season with four full Moons.  And even though the
+      <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-blue-moon/">
+       full Moon is always impressive
+      </a>
+      near the horizon, August's full Moon is considered by some the first of four consecutive full Supermoons in 2024.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/23
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240823.html">
+      https://apod.nasa.gov/apod/ap240823.html
      </a>
     </td>
    </tr>
