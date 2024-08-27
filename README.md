@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What if Saturn disappeared?   Sometimes, it does.   It doesn't really go away, though, it just disappears from view when our
+      <a href="https://www.youtube.com/watch?v=8AtMXEviIa0">
+       Moon moves in front
+      </a>
+      .   Such a Saturnian eclipse, more formally called an
+      <a href="https://en.wikipedia.org/wiki/Occultation">
+       occultation
+      </a>
+      , was visible along a
+      <a href="https://in-the-sky.org/news.php?id=20240821_16_100">
+       long swath of Earth
+      </a>
+      -- from
+      <a href="https://en.wikipedia.org/wiki/Peru">
+       Peru
+      </a>
+      ,  across the Atlantic Ocean, to
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italy
+      </a>
+      --  only a few days ago.   The
+      <a href="https://www.flickr.com/photos/astrobreda/53938042146/in/pool-apods/">
+       featured color image
+      </a>
+      is a digital fusion of the  clearest images captured during
+      <a href="https://www.instagram.com/p/C-8M5VuS_2o/">
+       the event
+      </a>
+      and rebalanced for color and relative brightness between the relatively dim Saturn and the comparatively bright Moon.
+      <a href="https://science.nasa.gov/saturn/">
+       Saturn
+      </a>
+      and the
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fxr8mg5nunzj91.jpg">
+       comparative bright Moon
+      </a>
+      .   The exposures were all taken from
+      <a href="https://youtu.be/DCv5p4nB3bw">
+       Breda
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Catalonia">
+       Catalonia
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Spain">
+       Spain
+      </a>
+      ,  just before occultation.
+      <a href="ap020222.html">
+       Eclipses
+      </a>
+      of Saturn by
+      <a href="https://science.nasa.gov/moon/">
+       our Moon
+      </a>
+      will occur  each month for the rest of this year.  Each time, though, the fleeting event will be visible  only to those with clear skies -- and the right location on
+      <a href="ap220206.html">
+       Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/25
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240826.html">
+      https://apod.nasa.gov/apod/ap240826.html
      </a>
     </td>
    </tr>
