@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_6144.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      When can you see a black hole, a tulip, and a swan all at once?  At night -- if the timing is right,  and if your telescope is pointed in the
+      <a href="https://skywiseunlimited.com/wp-content/uploads/2015/02/scoper_05.jpg">
+       right direction
+      </a>
+      .   The complex and beautiful
+      <a href="https://en.wikipedia.org/wiki/Sh_2-101">
+       Tulip Nebula
+      </a>
+      blossoms about 8,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-years
+      </a>
+      away toward the
+      <a href="https://en.wikipedia.org/wiki/Cygnus_(constellation)">
+       constellation of Cygnus
+      </a>
+      the Swan.
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       Ultraviolet radiation
+      </a>
+      from young energetic stars  at the edge of the Cygnus
+      <a href="https://en.wikipedia.org/wiki/Stellar_kinematics#OB_associations">
+       OB3 association
+      </a>
+      , including
+      <a href="ap070726.html">
+       O star
+      </a>
+      HDE 227018,  ionizes the atoms and powers the emission from the Tulip Nebula.
+      <a href="https://en.wikipedia.org/wiki/Stewart_Sharpless">
+       Stewart Sharpless
+      </a>
+      cataloged this nearly 70 light-years  across reddish glowing cloud of interstellar gas and dust in
+      <a href="https://ui.adsabs.harvard.edu/abs/1959ApJS....4..257S/abstract">
+       1959
+      </a>
+      , as
+      <a href="http://galaxymap.org/cat/list/sharpless/101">
+       Sh2-101
+      </a>
+      .  Also in the
+      <a href="https://www.astrobin.com/3y9228/">
+       featured field
+      </a>
+      of view is the black hole
+      <a href="http://chandra.harvard.edu/photo/2011/cygx1/">
+       Cygnus X-1
+      </a>
+      ,  which to be a
+      <a href="https://en.wikipedia.org/wiki/Microquasar">
+       microquasar
+      </a>
+      because it  is one of strongest
+      <a href="https://science.nasa.gov/ems/11_xrays/">
+       X-ray
+      </a>
+      sources in planet Earth's sky.  Blasted by powerful jets from a
+      <a href="https://exoplanets.nasa.gov/resources/2259/devoured-by-gravity-poster/?galaxy_horror">
+       lurking black hole
+      </a>
+      ,  its fainter bluish curved
+      <a href="https://en.wikipedia.org/wiki/Shock_wave">
+       shock front
+      </a>
+      is only faintly visible
+      <a href="ap090608.html">
+       beyond
+      </a>
+      the cosmic Tulip's petals, near the right side of the frame.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/27
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240827.html">
+      https://apod.nasa.gov/apod/ap240827.html
      </a>
     </td>
    </tr>
