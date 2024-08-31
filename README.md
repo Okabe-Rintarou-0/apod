@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/08/31
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Galaxies of the NGC 7771 Group are featured in
+      <a href="https://www.astrobin.com/wt7ct9/">
+       this intriguing skyscape
+      </a>
+      .  Some 200 million light-years distant toward the constellation Pegasus,
+      <a href="ap090829.html">
+       NGC 7771 is
+      </a>
+      the large, edge-on spiral near center, about 75,000 light-years across, with two smaller galaxies below it.  Large spiral NGC 7769 is seen face-on to the right.  Galaxies of the NGC 7771 group are interacting, making repeated close passages that will ultimately result in galaxy-galaxy mergers on a cosmic timescale.  The interactions can be traced by
+      <a href="https://hubblesite.org/contents/news-releases/2002/news-2002-22.html">
+       distortions
+      </a>
+      in the shape of the galaxies themselves and faint
+      <a href="ap080619.html">
+       streams of stars
+      </a>
+      created by their mutual gravitational tides.  But a clear view of this galaxy group is difficult to come by as the deep image also reveals extensive clouds of
+      <a href="ap170627.html">
+       foreground dust
+      </a>
+      sweeping across the field of view.  The dim, dusty galactic cirrus clouds are known as Integrated Flux Nebulae.  The faint IFN reflect starlight from our own Milky Way Galaxy and lie only a few hundred light-years above the
+      <a href="ap090613.html">
+       galactic plane
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/08/30
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240830.html">
+      https://apod.nasa.gov/apod/ap240830.html
      </a>
     </td>
    </tr>
