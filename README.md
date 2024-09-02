@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/SunTriangle_Vanoni_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/SunTriangle_Vanoni_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why is there a triangle hovering over the Sun?   Although the shape is unusual, the type of structure is not:  it is part of an evolving
+      <a href="https://en.wikipedia.org/wiki/Solar_prominence">
+       solar prominence
+      </a>
+      .   Looping magnetic fields on the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      channel the flow of  energetic particles, sometimes holding glowing gaseous structures aloft for months.   A
+      <a href="ap180527.html">
+       prominence
+      </a>
+      glows brightly because it contains particularly hot, dense, or opaque solar
+      <a href="https://en.wikipedia.org/wiki/Plasma_(physics)">
+       plasma
+      </a>
+      .  The
+      <a href="https://petsonme.com.au/blog//wp-content/uploads/2015/11/pugheadtilt.jpg">
+       surprising
+      </a>
+      triangular structure occurred last week.  Larger than our Earth, the
+      <a href="ap230801.html">
+       iconic prominence
+      </a>
+      was imaged by several solar photographers and
+      <a href="https://www.facebook.com/APOD.Sky/videos/1537986243787259">
+       documented
+      </a>
+      by NASA's
+      <a href="https://sdo.gsfc.nasa.gov/">
+       Solar Dynamic Observatory
+      </a>
+      to form and violently dissipate in about a day.  The
+      <a href="https://www.instagram.com/p/C_K1nhxMRrP/">
+       featured image
+      </a>
+      was captured in a color of
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       red light
+      </a>
+      emitted strongly by
+      <a href="https://periodic.lanl.gov/1.shtml">
+       hydrogen
+      </a>
+      .   Below,
+      <a href="https://apod.nasa.gov/apod/ap150217.html">
+       solar fibrils
+      </a>
+      carpet the
+      <a href="https://solarscience.msfc.nasa.gov/chromos.shtml">
+       Sun's chromosphere
+      </a>
+      ,  while the background sky is so faint  in comparison that no stars are visible.   Our Sun's surface has been
+      <a href="ap240615.html">
+       quite active
+      </a>
+      this year.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/01
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240901.html">
+      https://apod.nasa.gov/apod/ap240901.html
      </a>
     </td>
    </tr>
