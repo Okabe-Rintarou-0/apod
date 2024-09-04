@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/Bat_Taivalnaa_4200.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/Bat_Taivalnaa_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Can you see the bat?   It haunts
+      <a href="https://www.astrobin.com/8goim6/">
+       this cosmic close-up
+      </a>
+      of the eastern
+      <a href="https://en.wikipedia.org/wiki/Veil_Nebula">
+       Veil Nebula
+      </a>
+      .   The
+      <a href="ap191031.html">
+       Veil Nebula
+      </a>
+      itself is a large supernova remnant, the expanding debris cloud from the
+      <a href="https://www.youtube.com/watch?v=OyntBsxoEkA">
+       death explosion
+      </a>
+      of a massive
+      <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/universe_level1/stars.html">
+       star
+      </a>
+      .  While the Veil is roughly
+      <a href="https://www.mathsisfun.com/algebra/trig-interactive-unit-circle.html">
+       circular
+      </a>
+      in shape and covers nearly 3 degrees on the sky toward the constellation of the Swan  (
+      <a href="https://en.wikipedia.org/wiki/Cygnus_(constellation)">
+       Cygnus
+      </a>
+      ), NGC 6995, known informally as the Bat Nebula,  spans only 1/2 degree, about the apparent size
+      <a href="ap130801.html">
+       of the Moon
+      </a>
+      .  That
+      <a href="https://chandra.harvard.edu/photo/ scale_distance.html">
+       translates
+      </a>
+      to 12 light-years at the Veil's estimated distance, a reassuring 1,400 light-years from
+      <a href="https://www.globe.gov/en">
+       planet Earth
+      </a>
+      .  In the composite of image data recorded through
+      <a href="ap071102.html">
+       narrow band
+      </a>
+      filters, emission from
+      <a href="https://periodic.lanl.gov/1.shtml">
+       hydrogen
+      </a>
+      atoms in the remnant is shown in red with strong emission from
+      <a href="https://youtu.be/5Q3ft8OsFaM">
+       oxygen
+      </a>
+      atoms shown in hues of blue.  Of course, in the western part of the Veil lies
+      <a href="https://i.ytimg.com/vi/1Kl4rNUTWCA/hqdefault.jpg">
+       another
+      </a>
+      seasonal apparition:
+      <a href="ap180408.html">
+       the Witch's Broom
+      </a>
+      Nebula.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/03
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240903.html">
+      https://apod.nasa.gov/apod/ap240903.html
      </a>
     </td>
    </tr>
