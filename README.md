@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben2048.JPG">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben1024.JPG"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      About 70,000 light-years across,
+      <a href="https://www.eso.org/public/news/eso1107/">
+       NGC 247 is a spiral galaxy
+      </a>
+      smaller than our Milky Way.
+      <a href="https://arxiv.org/abs/0905.2699">
+       Measured to be
+      </a>
+      only 11 million light-years distant it is nearby though.  Tilted nearly edge-on as seen
+      <a href="https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-galaxies/">
+       from our perspective
+      </a>
+      , it dominates this telescopic field of view toward the southern constellation Cetus.  The pronounced void on one side of the galaxy's disk recalls for some its popular name, the Needle's Eye galaxy.  Many background galaxies are visible in this sharp galaxy portrait, including the remarkable string of four galaxies just below and left of NGC 247 known as Burbidge's Chain.
+      <a href="https://ui.adsabs.harvard.edu/abs/1960ApJ...131..742B/abstract">
+       Burbidge's Chain galaxies
+      </a>
+      are about 300 million light-years distant.  NGC 247 itself is part of the Sculptor Group of galaxies along with
+      <a href="ap180322.html">
+       shiny spiral NGC 253
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/04
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240904.html">
+      https://apod.nasa.gov/apod/ap240904.html
      </a>
     </td>
    </tr>
