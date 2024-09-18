@@ -5,6 +5,128 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/Mermaid_Corke_4205.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/Mermaid_Corke_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      New
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      are
+      <a href="https://webbtelescope.org/contents/media/images/4190-Image">
+       born
+      </a>
+      from the
+      <a href="https://science.nasa.gov/missions/webb/investigating-the-origins-of-the-crab-nebula-with-nasas-webb/">
+       remnants
+      </a>
+      of
+      <a href="https://science.nasa.gov/universe/the-lives-times-and-deaths-of-stars/">
+       dead
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Star">
+       star
+      </a>
+      s.  The gaseous remnant of the
+      <a href="https://en.wikipedia.org/wiki/Gravitational_collapse">
+       gravitational collapse
+      </a>
+      and subsequent death of a very
+      <a href="ap200830.html">
+       massive star
+      </a>
+      in our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way
+      </a>
+      created the
+      <a href="https://www.astrobin.com/kpl1kc/?q=Betta%20fish">
+       G296.5+10.0
+      </a>
+      <a href="ap230115.html">
+       supernova remnant
+      </a>
+      ,  of which the
+      <a href="https://www.astrobin.com/84ogxw/">
+       featured
+      </a>
+      Mermaid Nebula is part.  Also known as the
+      <a href="https://www.astrobin.com/gcl2j7/C/">
+       Betta Fish Nebula
+      </a>
+      , the Mermaid Nebula makes up part of an unusual
+      <a href="https://heasarc.gsfc.nasa.gov/docs/objects/snrs/snrstext.html">
+       subclass of supernova remnants
+      </a>
+      that are
+      <a href="https://ui.adsabs.harvard.edu/abs/1992A%26A...265..752S/abstract">
+       two-sided
+      </a>
+      and nearly circular.  Originally
+      <a href="https://ui.adsabs.harvard.edu/abs/1979ApJ...230L..27T/abstract">
+       discovered
+      </a>
+      in
+      <a href="https://science.nasa.gov/ems/11_xrays/">
+       X-rays
+      </a>
+      ,  the filamentary nebula is a frequently studied source also in
+      <a href="https://science.nasa.gov/ems/05_radiowaves/">
+       radio
+      </a>
+      and
+      <a href="https://science.nasa.gov/ems/12_gammarays/">
+       gamma-ray
+      </a>
+      light.   The blue color visible here originates from
+      <a href="https://en.wikipedia.org/wiki/Doubly_ionized_oxygen">
+       doubly ionized oxygen
+      </a>
+      (OIII), while the deep red is emitted by
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       hydrogen gas
+      </a>
+      .  The nebula's
+      <a href="https://www.mewcats.com/cdn/shop/files/MermaidCatCostumeFunnyPhotoPropClothes_1.jpg">
+       mermaid-like
+      </a>
+      shape has proven to be
+      <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.2095E/abstract">
+       useful
+      </a>
+      for measurements of the
+      <a href="ap210120.html">
+       interstellar magnetic field
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/17
   </summary>
   <table>
@@ -18,8 +140,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240917.html">
+      https://apod.nasa.gov/apod/ap240917.html
      </a>
     </td>
    </tr>
