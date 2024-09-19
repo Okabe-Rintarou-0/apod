@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/LDN1082_px2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/LDN1082_px1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Spanning light-years, this
+      <a href="https://ui.adsabs.harvard.edu/?#abs/1916ApJ....43....1B">
+       suggestive
+      </a>
+      shape known as the Seahorse Nebula floats in silhouette against a rich, luminous background of stars.  Seen toward the royal northern constellation of Cepheus, the dusty, dark nebula is part of a Milky Way molecular cloud some 1,200 light-years distant.  It is also listed as Barnard 150 (B150), one of 182
+      <a href="http://adsabs.harvard.edu/cgi-bin/ bib_query?1919ApJ....49....1B">
+       dark markings of the sky
+      </a>
+      cataloged in the early 20th century by astronomer
+      <a href="https://exhibit-archive.library.gatech.edu/barnard/">
+       E. E. Barnard
+      </a>
+      .  Packs of low mass stars are forming
+      <a href="https://arxiv.org/abs/0809.4761">
+       within
+      </a>
+      , but their collapsing cores are only visible at long
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared wavelengths
+      </a>
+      .  Still, the colorful Milky Way stars of Cepheus add to this stunning
+      <a href="https://www.instagram.com/astro.db/p/C-ZwOQTNuH9/?img_index=1">
+       galactic skyscape
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/18
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240918.html">
+      https://apod.nasa.gov/apod/ap240918.html
      </a>
     </td>
    </tr>
