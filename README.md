@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/2024_09_18_ZM_Spis_50mm-Pano_Postupka_1500px.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/2024_09_18_ZM_Spis_50mm-Pano_Postupka_1024c.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      For northern hemisphere dwellers, September's Full Moon was
+      <a href="https://earthsky.org/astronomy-essentials/harvest-moon-2/">
+       the Harvest Moon
+      </a>
+      .  On September 17/18 the sunlit lunar nearside passed into shadow, just grazing Earth's umbra, the planet's dark, central shadow cone, in a
+      <a href="https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-seotember-17-18-2024/">
+       partial lunar eclipse
+      </a>
+      .  Over the two and half hours before dawn a camera fixed to a tripod was used to record this
+      <a href="https://www.petrhoralek.com/?p=24829">
+       series of exposures
+      </a>
+      as the eclipsed Harvest Moon set behind Spiš Castle in the hazy morning sky over eastern Slovakia.  Famed in festival, story, and song, Harvest Moon is just the traditional name of the full moon nearest the
+      <a href="https://en.wikipedia.org/wiki/Mid-Autumn_Festival">
+       autumnal
+      </a>
+      equinox.    According to lore the name is a fitting one.  Despite the diminishing daylight hours as the
+      <a href="https://www.instagram.com/p/CxyAMAOseA0/?img_index=1">
+       growing season
+      </a>
+      drew to a close, farmers could harvest crops by the light of a full moon
+      <a href="https://en.wikipedia.org/wiki/Shine_On,_Harvest_Moon">
+       shining on
+      </a>
+      from dusk to dawn.  This September's Harvest Moon was also known to some as a supermoon, a term becoming a traditional name for a
+      <a href="https://science.nasa.gov/solar-system/moon/what-is-a-supermoon/">
+       full moon near perigee
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/19
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240919.html">
+      https://apod.nasa.gov/apod/ap240919.html
      </a>
     </td>
    </tr>
