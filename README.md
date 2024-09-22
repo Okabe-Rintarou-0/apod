@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_1320.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Chicago, in a way, is like a modern
+      <a href="https://en.wikipedia.org/wiki/Stonehenge">
+       Stonehenge
+      </a>
+      .  The way is east to west, and the time is today.   Today, and every
+      <a href="ap210922.html">
+       equinox
+      </a>
+      , the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      will set exactly to the west, everywhere on
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      .  Therefore, today in
+      <a href="https://en.wikipedia.org/wiki/Chicago">
+       Chicago
+      </a>
+      ,  the Sun will set directly down the long equatorially-aligned
+      <a href="https://www.domu.com/blog/decoding-the-chicago-street-grid-system">
+       grid of streets
+      </a>
+      and buildings, an event dubbed
+      <a href="https://twitter.com/search?q=%23chicagohenge">
+       #chicagohenge
+      </a>
+      .
+      <a href="https://twitter.com/anthony_artese/status/910309187049148417">
+       Featured here
+      </a>
+      is a
+      <a href="http://www.chicagotribune.com/news/ct-viewing-chicagohenge-when-and-how-it-works-20150922s-htmlstory.html">
+       Chicago Henge
+      </a>
+      picture taken during the
+      <a href="https://blogs.nasa.gov/Watch_the_Skies/tag/equinox/">
+       equinox
+      </a>
+      in mid-September of 2017 looking along part of Upper
+      <a href="https://en.wikipedia.org/wiki/Wacker_Drive">
+       Wacker Drive
+      </a>
+      .
+      <a href="https://www.citylab.com/transportation/2016/03/mapping-street-numbering-us-new-york-philadelphia/472809/">
+       Many cities
+      </a>
+      , though,  have
+      <a href="ap240319.html">
+       streets
+      </a>
+      or other
+      <a href="ap170621.html">
+       features
+      </a>
+      that are
+      <a href="ap140706.html">
+       well-aligned
+      </a>
+      to Earth's spin axis.  Therefore, quite possibly, your
+      <a href="http://static.boredpanda.com/blog/wp-content/uploads/2016/01/police-rescue-sloth-cross-highway-ecuador-6.jpg">
+       favorite street
+      </a>
+      may also run east - west.  Tonight at sunset, with a quick glance, you can
+      <a href="https://as2.ftcdn.net/v2/jpg/00/34/33/73/1000_F_34337307_NVRxBN6qAPMSzwlLvHk91LZHTnPPemts.jpg">
+       actually find out
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/21
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240921.html">
+      https://apod.nasa.gov/apod/ap240921.html
      </a>
     </td>
    </tr>
