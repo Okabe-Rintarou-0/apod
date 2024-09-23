@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_5672.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What will happen as this already bright comet approaches?   Optimistic predictions have
+      <a href="https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)">
+       Comet C/2023 A3 (Tsuchinshan–ATLAS)
+      </a>
+      briefly becoming  easily visible to the unaided eye -- although the  future brightness of
+      <a href="ap131117.html">
+       comet
+      </a>
+      s are notoriously
+      <a href="https://emusements.com/wp-content/uploads/2019/04/cat-doh.jpg">
+       hard to predict
+      </a>
+      , and this comet may even
+      <a href="ap230903.html">
+       break up
+      </a>
+      in warming sunlight.  What is certain is that the comet is now unexpectedly bright and is
+      <a href="https://theskylive.com/3dsolarsystem?obj=c2023a3">
+       on track
+      </a>
+      to pass its closest to the Sun  (0.39
+      <a href="https://en.wikipedia.org/wiki/Astronomical_unit">
+       AU
+      </a>
+      )  later this week and closest to the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      (0.47 AU) early next month.    The
+      <a href="https://www.astrobin.com/jt8z8x/B/">
+       featured image
+      </a>
+      was taken in late May as
+      <a href="https://www.seti.org/will-comet-c2023-a3-tsuchinshan-atlas-be-comet-decade">
+       Comet Tsuchinshan–ATLAS
+      </a>
+      , discovered only last year,  passed nearly in front of two
+      <a href="ap210802.html">
+       distant galaxies
+      </a>
+      .   The
+      <a href="https://earthsky.org/space/comet-c-2023-a3-sep-oct-2024-tsuchinshan-atlas/">
+       comet can now be found
+      </a>
+      with binoculars in the  early morning sky rising just before the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      , while over the next few weeks it
+      <a href="http://www.aerith.net/comet/catalog/2023A3/2023A3.html">
+       will brighten
+      </a>
+      as it moves to the early evening sky.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/22
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240922.html">
+      https://apod.nasa.gov/apod/ap240922.html
      </a>
     </td>
    </tr>
