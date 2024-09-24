@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/Baboon_ZhangYu_2010.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/Baboon_ZhangYu_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This dusty region is forming stars.  Part of a sprawling
+      <a href="https://en.wikipedia.org/wiki/Molecular_cloud">
+       molecular cloud
+      </a>
+      complex that
+      <a href="https://commons.wikimedia.org/wiki/File:Papio_cynocephalus02.jpg">
+       resembles
+      </a>
+      , to some, a rampaging
+      <a href="https://en.wikipedia.org/wiki/Baboon">
+       baboon
+      </a>
+      ,  the region is a relatively close by 500
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-years
+      </a>
+      away  toward the constellation
+      <a href="ap181129.html">
+       Corona Australis
+      </a>
+      .  That's about one third the distance of the more famous
+      <a href="ap240425.html">
+       stellar nursery
+      </a>
+      known as the
+      <a href="ap210707.html">
+       Orion Nebula
+      </a>
+      .   Mixed with bright nebulosities, the brown
+      <a href="http://www-ssg.sr.unh.edu/ism/what1.html">
+       dust
+      </a>
+      clouds  effectively block light from more distant background stars in the
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way
+      </a>
+      and
+      <a href="ap230129.html">
+       obscure from view
+      </a>
+      embedded stars still in the process of formation.   The eyes of the
+      <a href="https://cdn.images.express.co.uk/img/dynamic/128/590x/Dog-mop-564889.jpg">
+       dust creature
+      </a>
+      in the
+      <a href="https://www.astrobin.com/d5z8gm/">
+       featured image
+      </a>
+      are actually blue
+      <a href="https://en.wikipedia.org/wiki/Reflection_nebula">
+       reflection nebula
+      </a>
+      s  cataloged as
+      <a href="https://www.astrobin.com/d5z8gm/">
+       NGC 6726, 6727, 6729
+      </a>
+      , and
+      <a href="https://theskylive.com/sky/deepsky/ic4812-object">
+       IC 4812
+      </a>
+      ,  while the red mouth glows with
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       light emitted by hydrogen
+      </a>
+      gas.   Just to the upper left of the baboon's head is
+      <a href="https://en.wikipedia.org/wiki/NGC_6723">
+       NGC 6723
+      </a>
+      ,  a whole
+      <a href="https://en.wikipedia.org/wiki/Globular_cluster">
+       globular cluster
+      </a>
+      of stars nearly 30,000 light years in the distance.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/23
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240923.html">
+      https://apod.nasa.gov/apod/ap240923.html
      </a>
     </td>
    </tr>
