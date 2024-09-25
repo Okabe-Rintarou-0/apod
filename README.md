@@ -5,6 +5,109 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/Comet23A3_LucyHu_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/Comet23A3_LucyHu_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Comet Tsuchinshan-ATLAS is now visible in the early morning sky.   Diving into the inner
+      <a href="https://science.nasa.gov/solar-system/">
+       Solar System
+      </a>
+      at an
+      <a href="https://theskylive.com/3dsolarsystem?obj=c2023a3">
+       odd angle
+      </a>
+      , this large dirty iceberg will pass its closest to the
+      <a href="ap240728.html">
+       Sun
+      </a>
+      -- between the orbits of
+      <a href="https://science.nasa.gov/mercury/">
+       Mercury
+      </a>
+      and
+      <a href="ap210317.html">
+       Venus
+      </a>
+      -- in just two days.  Long camera exposures are now capturing
+      <a href="https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)">
+       C/2023 A3 (Tsuchinshan–ATLAS)
+      </a>
+      ,  sometimes abbreviated as just
+      <a href="https://earthsky.org/space/comet-c-2023-a3-sep-oct-2024-tsuchinshan-atlas/">
+       A3
+      </a>
+      , and its dust tail before and during sunrise.   The featured image composite was taken four days ago  and captured the comet as it rose above
+      <a href="https://youtu.be/VdjajukqIqQ">
+       Lake George
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/New_South_Wales">
+       NSW
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Australia">
+       Australia
+      </a>
+      .   Vertical bands further left are
+      <a href="https://spaceweathergallery2.com/index.php?title=comet">
+       images of the comet
+      </a>
+      as the rising Sun made the predawn sky increasingly bright and colorful.  Just how bright the comet will become over the next month is  currently unknown as it involves how much gas and dust the
+      <a href="ap151118.html">
+       comet's nucleus will expel
+      </a>
+      .  Optimistic
+      <a href="https://skyandtelescope.org/astronomy-news/update-comet-tsuchinshan-atlas-might-outshine-predictions/">
+       skywatchers
+      </a>
+      are
+      <a href="https://media.tenor.com/QbpJE3bOKB4AAAAM/crazykai-kaithedog.gif">
+       hoping
+      </a>
+      for a great show where
+      <a href="https://theskylive.com/c2023a3-info">
+       Tsuchinshan–ATLAS
+      </a>
+      creates
+      <a href="ap210308.html">
+       dust and ion tails
+      </a>
+      visible across  Earth's sky and becomes known as the
+      <a href="ap220408.html">
+       Great
+      </a>
+      <a href="ap131028.html">
+       Comet
+      </a>
+      of 2024.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/24
   </summary>
   <table>
@@ -18,8 +121,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240924.html">
+      https://apod.nasa.gov/apod/ap240924.html
      </a>
     </td>
    </tr>
