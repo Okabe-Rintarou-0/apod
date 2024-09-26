@@ -5,6 +5,73 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/M13IFN_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/M13IFN_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="http://messier.seds.org/xtra/similar/halley_pt.html">
+       In 1716
+      </a>
+      , English astronomer
+      <a href="http://www.bbc.co.uk/history/historic_figures/halley_edmond.shtml">
+       Edmond Halley
+      </a>
+      noted, "This is but a little Patch, but it shows itself to the naked Eye, when the Sky is serene and the Moon absent."
+      <a href="http://messier.seds.org/m/m013.html">
+       Of course, M13
+      </a>
+      is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest
+      <a href="http://en.wikipedia.org/wiki/Globular_cluster">
+       globular star clusters
+      </a>
+      in the northern sky.  Sharp telescopic views like this one reveal the spectacular cluster's
+      <a href="https://skyandtelescope.org/observing/gobs-of-globs-guide-to-16-spring-globular-clusters/">
+       hundreds of thousands of stars.
+      </a>
+      At a distance of 25,000 light-years, the
+      <a href="https://hubblesite.org/contents/news-releases/2008/news-2008-40.html">
+       cluster stars crowd
+      </a>
+      into a region 150 light-years in diameter.
+      <a href="ap031213.html">
+       Approaching
+      </a>
+      the cluster core,  upwards of 100 stars could be contained in a cube just 3 light-years on a side.  For comparison, the
+      <a href="ap160825.html">
+       closest star
+      </a>
+      to the Sun is over 4 light-years away.  The deep, wide-field image also reveals distant background galaxies including NGC 6207 at the upper left, and faint, foreground Milky Way dust clouds known to some as
+      <a href="ap240831.html">
+       integrated flux nebulae
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/25
   </summary>
   <table>
@@ -18,8 +85,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240925.html">
+      https://apod.nasa.gov/apod/ap240925.html
      </a>
     </td>
    </tr>
