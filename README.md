@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/SSSGreatestHits.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/SSSGreatestHits1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...671A.141M/abstract">
+       The twenty galaxies
+      </a>
+      arrayed in these panels are part of an ambitious astronomical survey of tidal stellar streams.  Each panel presents a composite view; a deep, inverted image taken from publicly
+      <a href="https://ui.adsabs.harvard.edu/abs/2019AJ....157..168D/abstract">
+       available imaging surveys
+      </a>
+      of a field that surrounds a
+      <a href="ap240703.html">
+       nearby
+      </a>
+      massive galaxy image.  The inverted images reveal faint cosmic structures, star streams hundreds of thousands of light-years across, that result from the gravitational disruption and
+      <a href="ap191116.html">
+       eventual merger of satellite galaxies
+      </a>
+      in the
+      <a href="https://www.astro.wisc.edu/research/research-areas/extragalactic-astronomy-and-cosmology/local-universe/">
+       local universe
+      </a>
+      .  Such surveys of mergers and gravitational tidal interactions between massive galaxies and their dwarf satellites are
+      <a href="https://arxiv.org/abs/2409.03585">
+       crucial guides
+      </a>
+      for current models of galaxy formation and cosmology.  Of course, the detection of stellar streams in the neighboring Andromeda Galaxy and
+      <a href="ap130815.html">
+       our own Milky Way
+      </a>
+      also offers spectacular evidence for ongoing satellite galaxy disruption within our more
+      <a href="https://imagine.gsfc.nasa.gov/features/cosmic/local_group_info.html">
+       local galaxy group
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/26
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240926.html">
+      https://apod.nasa.gov/apod/ap240926.html
      </a>
     </td>
    </tr>
