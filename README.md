@@ -5,6 +5,54 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/Galileo_L13_DSC_9929.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/Galileo_L13_DSC_9929.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Shockwaves ripple across the glare as a launch eclipses the setting Sun in this
+      <a href="https://www.launchphotography.com/Galileo_L13">
+       exciting close-up
+      </a>
+      .  Captured on September 17, the roaring Falcon 9 rocket carried European Galileo L13 navigation satellites to medium Earth orbit
+      <a href="https://www.space.com/spacex-galileo-l13-satellite-navigation-launch">
+       after a lift-off
+      </a>
+      from Cape Canaveral on Florida's space coast.   The Falcon 9 booster returned safely to Earth about 8.5 minutes later, notching the 22nd launch
+      <i>
+       and
+      </i>
+      landing for the reusable workhorse launch vehicle.  But where did it land?
+      <a href="https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship#Just_Read_the_Instructions_(II)">
+       Just Read the Instructions
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/27
   </summary>
   <table>
@@ -18,8 +66,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240927.html">
+      https://apod.nasa.gov/apod/ap240927.html
      </a>
     </td>
    </tr>
