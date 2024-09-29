@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_5000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is this really the famous Pleiades star cluster?  Known for its
+      <a href="ap221205.html">
+       iconic blue stars
+      </a>
+      , the
+      <a href="https://en.wikipedia.org/wiki/Pleiades">
+       Pleiades
+      </a>
+      is shown here in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared light
+      </a>
+      where the surrounding dust outshines the stars.  Here, three infrared colors have been mapped into visual colors (R=24, G=12, B=4.6
+      <a href="https://en.wikipedia.org/wiki/Micrometre">
+       micron
+      </a>
+      s).  The base images were taken by NASA's orbiting
+      <a href="https://en.wikipedia.org/wiki/Wide-field_Infrared_Survey_Explorer">
+       Wide Field Infrared Survey Explorer
+      </a>
+      (WISE) spacecraft.  Cataloged as
+      <a href="ap140225.html">
+       M45
+      </a>
+      and nicknamed the
+      <a href="https://en.wikipedia.org/wiki/Pleiades#Origin_of_name">
+       Seven Sisters
+      </a>
+      ,  the
+      <a href="https://arxiv.org/abs/0810.1592">
+       Pleiades
+      </a>
+      star cluster is by chance situated in a
+      <a href="ap171114.html">
+       passing dust cloud
+      </a>
+      .  The light and
+      <a href="https://www.boredpanda.com/blog/wp-content/uploads/2015/05/dogs-on-joyrides-16__605.jpg">
+       wind
+      </a>
+      s from the massive Pleiades stars  preferentially repel smaller
+      <a href="ap030706.html">
+       dust particles
+      </a>
+      ,  causing the dust to become stratified into
+      <a href="ap120215.html">
+       filaments
+      </a>
+      , as seen.  The featured image spans about 20
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light years
+      </a>
+      at the distance of
+      <a href="https://upload.wikimedia.org/wikipedia/commons/e/e1/M45map.jpg">
+       the Pleiades
+      </a>
+      ,  which lies about 450 light years distant  toward the constellation of the Bull  (
+      <a href="https://en.wikipedia.org/wiki/Taurus_(constellation)">
+       Taurus
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/28
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240928.html">
+      https://apod.nasa.gov/apod/ap240928.html
      </a>
     </td>
    </tr>
