@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/09/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2409/CometA3_Korona_2040.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2409/CometA3_Korona_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The new comet has passed its closest to the Sun and is now moving closer to the Earth.
+      <a href="https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)">
+       C/2023 A3 (Tsuchinshan–ATLAS)
+      </a>
+      is currently moving out from inside the orbit of
+      <a href="ap210317.html">
+       Venus
+      </a>
+      and on track to
+      <a href="ap200504.html">
+       pass
+      </a>
+      its nearest to the
+      <a href="https://earthobservatory.nasa.gov/">
+       Earth
+      </a>
+      in about two weeks.   Comet Tsuchinshan-ATLAS,
+      <a href="https://www.instagram.com/babaktafreshi/p/DAOfV4tPaCe/">
+       pronounced "Choo-cheen-shahn At-less,"
+      </a>
+      , is near naked-eye  visibility and easily picked up by long-exposure cameras.   The comet can also now be found by observers in  Earth's northern hemisphere as well as the south.   The featured image was captured just a few days ago above
+      <a href="https://youtu.be/JiIIAFeW56E">
+       Zacatecas
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Mexico">
+       Mexico
+      </a>
+      .  Because clouds were obscuring much of the pre-dawn sky,  the astrophotographer released a
+      <a href="https://www.ctia.org/news/up-up-and-away-how-do-drones-work">
+       drone
+      </a>
+      to take pictures from higher up,  several of which were later merged to enhance the comet's visibility.  Although the future brightness of comets is
+      <a href="https://www.shutterstock.com/image-photo/small-gray-cat-lies-on-600nw-2165991979.jpg">
+       hard to predict
+      </a>
+      , there is increasing hope that
+      <a href="https://theskylive.com/c2023a3-info">
+       Comet Tsuchinshan-ATLAS
+      </a>
+      will further brighten as it enters the early evening sky.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/29
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap240929.html">
+      https://apod.nasa.gov/apod/ap240929.html
      </a>
     </td>
    </tr>
