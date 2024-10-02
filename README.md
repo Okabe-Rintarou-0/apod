@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/LMC_Nowak_2160.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/LMC_Nowak_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It is the largest satellite galaxy of our home Milky Way Galaxy.  If you live in the south, the
+      <a href="https://en.wikipedia.org/wiki/Large_Magellanic_Cloud">
+       Large Magellanic Cloud
+      </a>
+      (LMC) is
+      <a href="https://media.gettyimages.com/id/113908644/photo/surprised-cat.jpg?s=612x612&amp;w=gi&amp;k=20&amp;c=gPFFKQ1xzY0GzfMeq-z5GG6bWVwyi3a_R07RKOKijI4=">
+       quite noticeable
+      </a>
+      , spanning about 10 degrees across the night sky,  which is 20 times larger than the
+      <a href="ap200925.html">
+       full moon
+      </a>
+      towards the southern constellation of the
+      <a href="https://en.wikipedia.org/wiki/Coryphaena">
+       dolphinfish
+      </a>
+      (
+      <a href="https://en.wikipedia.org/wiki/Dorado">
+       Dorado
+      </a>
+      ).  Being only about 160,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      away,  many details of the LMC's structure can be seen, such as its
+      <a href="ap180516.html">
+       central bar
+      </a>
+      and its single spiral arm.  The LMC harbors numerous stellar nurseries  where new stars are being born, which appear in pink in the
+      <a href="https://www.astrobin.com/full/b3se4j/">
+       featured image
+      </a>
+      .  It is home to the
+      <a href="ap240308.html">
+       Tarantula Nebula
+      </a>
+      ,  the currently most active star forming region in the entire
+      <a href="http://www.atlasoftheuniverse.com/localgr.html">
+       Local Group
+      </a>
+      , a small collection of nearby galaxies dominated by the massive
+      <a href="ap200925.html">
+       Andromeda
+      </a>
+      and
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way
+      </a>
+      galaxies.  Studies of the LMC and the
+      <a href="ap210105.html">
+       Small Magellanic Cloud
+      </a>
+      (SMC) by
+      <a href="ap000903.html">
+       Henrietta Swan Leavitt
+      </a>
+      led to the discovery of the period-luminosity relationship of
+      <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html">
+       Cepheid
+      </a>
+      variable stars that are used to
+      <a href="ap231006.html">
+       measure distances
+      </a>
+      across the nearby
+      <a href="ap220316.html">
+       universe
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/09/30
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241001.html">
+      https://apod.nasa.gov/apod/ap241001.html
      </a>
     </td>
    </tr>
