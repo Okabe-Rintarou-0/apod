@@ -5,6 +5,53 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/earliestsolareclipse.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/earliestsolareclipse1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/astronomy-essentials/an-annular-solar-eclipse-on-october-2-2024/">
+       The second solar eclipse
+      </a>
+      of 2024 began in the Pacific.  On October 2nd the Moon's shadow swept from west to east, with an
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/">
+       annular eclipse visible
+      </a>
+      along a narrow antumbral shadow path tracking mostly over ocean, crossing land near the southern tip of South America, and ending in the southern Atlantic.  The dramatic total annular eclipse phase is known to some as a
+      <a href="ap231005.html">
+       ring of fire
+      </a>
+      .  Still, a partial eclipse of the Sun was experienced over a wide region.  Captured at one of its earliest moments, October's eclipsed Sun is seen just above the clouds near sunrise in this snapshot.  The partially eclipsed solar disk is close to the maximum eclipse as seen from Mauna Kea Observatory Visitor Center, Island of Hawaii,
+      <a href="ap160225.html">
+       planet Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/02
   </summary>
   <table>
@@ -18,8 +65,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241002.html">
+      https://apod.nasa.gov/apod/ap241002.html
      </a>
     </td>
    </tr>
