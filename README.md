@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/zaparolliA3.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/zaparolliA3_1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)">
+       Comet C/2023 A3 (Tsuchinshan–ATLAS)
+      </a>
+      is growing brighter in planet Earth's sky.  Fondly known as comet A3, this new visitor to the inner Solar System is traveling from the
+      <a href="https://science.nasa.gov/solar-system/oort-cloud/">
+       distant Oort cloud
+      </a>
+      .  The comet reached perihelion, its closest approach to the Sun, on September 27 and will reach perigee, its closest to our fair planet, on October 12, by then becoming an evening sky apparition.
+      <a href="https://earthsky.org/space/comet-c-2023-a3-sep-oct-2024-tsuchinshan-atlas/">
+       But comet A3
+      </a>
+      was an early morning riser on September 30 when this image was made.  Its bright coma and already long tail share a pre-dawn skyscape from Praia Grande, Santa Catarina in southern Brazil with the waning crescent Moon just peeking above the eastern horizon.  While the behaviour of comets is
+      <a href="https://www.pinterest.com/pin/mittens-the-comet-cat-has-struck-earth--799740846315734544/">
+       notoriously
+      </a>
+      unpredictable, Tsuchinshan–ATLAS could become a
+      <a href="https://www.scientificamerican.com/article/will-comet-tsuchinshan-atlas-be-the-brightest-of-the-year/">
+       comet visually rivaling
+      </a>
+      C/2020 F3 (NEOWISE).  Comet NEOWISE
+      <a href="ap200723.html">
+       wowed skygazers
+      </a>
+      in the summer of 2020.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/03
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241003.html">
+      https://apod.nasa.gov/apod/ap241003.html
      </a>
     </td>
    </tr>
