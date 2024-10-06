@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/comet_mcnaught_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/comet_mcnaught_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Comet McNaught, the Great Comet of 2007,  grew a spectacularly long and filamentary tail.    The magnificent
+      <a href="https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg">
+       tail
+      </a>
+      spread across the sky and was visible for several days to  Southern Hemisphere observers just after sunset.    The
+      <a href="ap070117.html">
+       amazing ion tail
+      </a>
+      showed its greatest extent on long-duration, wide-angle camera exposures.    During some times,
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fwhy-does-my-chair-have-a-tail-v0-qb21j8tqqm9d1.jpeg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D4939c7f7cdca268e0d7ee51860e129ca09b27648">
+       just the tail
+      </a>
+      itself
+      <a href="http://spaceweather.com/comets/gallery_mcnaught_page11.htm">
+       was visible
+      </a>
+      just above the horizon for many northern observers as well.
+      <a href="https://en.wikipedia.org/wiki/Comet_McNaught">
+       Comet C/2006 P1 (McNaught)
+      </a>
+      ,  estimated to have attained a
+      <a href="https://web.archive.org/web/20111228014918/http://www.icq.eps.harvard.edu/brightest.html">
+       peak brightness
+      </a>
+      of
+      <a href="http://en.wikipedia.org/wiki/Apparent_magnitude">
+       magnitude
+      </a>
+      -5 (minus five),  was caught by the
+      <a href="http://en.wikipedia.org/wiki/Robert_H._McNaught">
+       comet's discoverer
+      </a>
+      in the featured image just after sunset in January 2007 from
+      <a href="https://youtu.be/A-85ZRf6z3U">
+       Siding Spring Observatory
+      </a>
+      in
+      <a href="http://en.wikipedia.org/wiki/Australia">
+       Australia
+      </a>
+      .  Comet McNaught, the brightest
+      <a href="https://science.nasa.gov/solar-system/comets/facts/">
+       comet
+      </a>
+      in decades, then
+      <a href="http://www.icq.eps.harvard.edu/C2006P1_eph.html">
+       faded
+      </a>
+      as it moved further into southern skies and away from the
+      <a href="ap230222.html">
+       Sun
+      </a>
+      and
+      <a href="ap060927.html">
+       Earth
+      </a>
+      .  Over the next month,
+      <a href="ap240925.html">
+       Comet Tsuchinshan–ATLAS
+      </a>
+      , a candidate for the Great Comet of 2024, should display its most
+      <a href="ap210308.html">
+       spectacular tails
+      </a>
+      visible from the
+      <a href="https://earthobservatory.nasa.gov/">
+       Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/05
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241005.html">
+      https://apod.nasa.gov/apod/ap241005.html
      </a>
     </td>
    </tr>
