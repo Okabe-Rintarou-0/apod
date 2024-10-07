@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1872.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A bright comet is moving into the evening skies.
+      <a href="https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)">
+       C/2023 A3 (Tsuchinshan–ATLAS)
+      </a>
+      has brightened and  even though it is now easily
+      <a href="https://theskylive.com/c2023a3-info">
+       visible
+      </a>
+      to the unaided eye,  it is so near to the Sun that it is still difficult to see.
+      <a href="https://www.flickr.com/photos/astrofotografiadesdeperu/54038260392/">
+       Pictured
+      </a>
+      , Comet
+      <a href="ap240930.html">
+       Tsuchinshan–ATLAS
+      </a>
+      was captured just before sunrise from an
+      <a href="https://youtu.be/k6082aNwPEk">
+       Andes Mountain
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Peru">
+       Peru
+      </a>
+      .  Braving cold weather, this unusually
+      <a href="ap110417.html">
+       high perch
+      </a>
+      gave the astrophotographer such a low eastern horizon  that the
+      <a href="https://science.nasa.gov/solar-system/comets/">
+       comet
+      </a>
+      was obvious in the pre-dawn sky.   Visible in the
+      <a href="https://www.flickr.com/photos/astrofotografiadesdeperu/54038260392/">
+       featured image
+      </a>
+      is not only an
+      <a href="https://www.boredpanda.com/blog/wp-content/uploads/2020/02/5e37fbed56a82_x049wyu58bx31__700.jpg">
+       impressively long
+      </a>
+      dust tail extending over
+      <a href="https://www.geogebra.org/m/atq6mr3a">
+       many degrees
+      </a>
+      ,  but an impressively long and blue
+      <a href="ap240326.html">
+       ion tail
+      </a>
+      , too.   This month, as the
+      <a href="https://www.facebook.com/APOD.Sky/videos/1193871551716124">
+       comet moves
+      </a>
+      out from the
+      <a href="https://spaceplace.nasa.gov/menu/sun/">
+       Sun
+      </a>
+      and passes the
+      <a href="ap220206.html">
+       Earth
+      </a>
+      ,  evening observers should be able to see the huge dirty
+      <a href="ap151118.html">
+       ice ball
+      </a>
+      toward the west just after
+      <a href="https://apod.nasa.gov/apod/ap240319.html">
+       sunset
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/06
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241006.html">
+      https://apod.nasa.gov/apod/ap241006.html
      </a>
     </td>
    </tr>
