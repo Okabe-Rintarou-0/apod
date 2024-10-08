@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/AnnularEclipse_Trigo_1080.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/AnnularEclipse_Trigo_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Can you find the Sun?  OK, but can you explain why there’s a big dark spot in the center?  The spot is
+      <a href="ap240915.html">
+       the Moon
+      </a>
+      ,  and the impressive alignment shown, where the
+      <a href="ap220509.html">
+       Moon lines up inside the Sun
+      </a>
+      , is called an
+      <a href="https://science.nasa.gov/eclipses/types/">
+       annular solar eclipse
+      </a>
+      .  Such an eclipse occurred
+      <a href="ap241003.html">
+       just last week
+      </a>
+      and was visible from a
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/">
+       thin swath
+      </a>
+      mostly in
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      's southern hemisphere.  The featured image was captured from
+      <a href="https://youtu.be/eOUXXzj19X0">
+       Patagonia
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .  When the Moon is
+      <a href="https://pbs.twimg.com/media/FX8moh5X0AENK7J.jpg">
+       significantly closer
+      </a>
+      to the Earth and it aligns with the Sun,  a
+      <a href="https://youtu.be/vIZyuXl-91U">
+       total solar eclipse
+      </a>
+      is then visible from parts of the Earth.
+      <a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=annular">
+       Annular eclipses
+      </a>
+      are  slightly more common than total eclipses, but as
+      <a href="ap190717.html">
+       the Moon
+      </a>
+      moves slowly away from the
+      <a href="ap210905.html">
+       Earth
+      </a>
+      , before a
+      <a href="https://en.wikipedia.org/wiki/Future_of_Earth">
+       billion more years
+      </a>
+      , the Moon's orbit will
+      <a href="https://youtu.be/W7mVQ3kRPv8">
+       no longer
+      </a>
+      bring it close enough for a
+      <a href="ap170820.html">
+       total solar eclipse
+      </a>
+      to be seen from anywhere on
+      <a href="https://eol.jsc.nasa.gov/ExplorePhotos/">
+       Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/07
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241007.html">
+      https://apod.nasa.gov/apod/ap241007.html
      </a>
     </td>
    </tr>
