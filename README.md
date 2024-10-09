@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/M106_Obaidly_3500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/M106_Obaidly_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening at the center of spiral galaxy M106?  A swirling disk of stars and gas,
+      <a href=" http://en.wikipedia.org/wiki/Messier_106">
+       M106
+      </a>
+      's appearance is dominated by blue spiral arms and red
+      <a href="http://www.annualreviews.org/doi/abs/10.1146/annurev.astro.41.011802.094840">
+       dust
+      </a>
+      lanes near the nucleus, as shown in the
+      <a href="https://www.astrobin.com/w20wbw/0/">
+       featured image
+      </a>
+      taken from the
+      <a href="https://en.wikipedia.org/wiki/Kuwait">
+       Kuwait
+      </a>
+      i
+      <a href="https://youtu.be/D7NEE32wics">
+       desert
+      </a>
+      .    The core of
+      <a href="ap131003.html">
+       M106
+      </a>
+      glows brightly in
+      <a href="https://science.nasa.gov/ems/05_radiowaves">
+       radio waves
+      </a>
+      and
+      <a href="https://science.nasa.gov/ems/11_xrays/">
+       X-rays
+      </a>
+      where
+      <a href="https://ui.adsabs.harvard.edu/abs/1995ApJ...440..181C/abstract">
+       twin jets have been found
+      </a>
+      running the length of the galaxy.    An unusual central glow makes
+      <a href="ap140705.html">
+       M106
+      </a>
+      one of the closest examples of the
+      <a href="http://www.seyfertgalaxies.com/">
+       Seyfert class of galaxies
+      </a>
+      ,  where vast amounts of glowing gas are thought  to be falling into a central massive
+      <a href="http://imagine.gsfc.nasa.gov/ask_astro/black_holes.html">
+       black hole
+      </a>
+      .
+      <a href="ap000311.html">
+       M
+      </a>
+      106,  also designated
+      <a href="http://en.wikipedia.org/wiki/New_General_Catalogue">
+       NGC
+      </a>
+      4258,  is a relatively close 23.5 million light years away,  spans 60 thousand
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      across, and can be
+      <a href="https://skywiseunlimited.com/wp-content/uploads/2015/02/scoper_05.jpg">
+       seen with a small telescope
+      </a>
+      towards the
+      <a href="https://www.iau.org/public/themes/constellations/">
+       constellation
+      </a>
+      of the Hunting Dogs (
+      <a href="https://en.wikipedia.org/wiki/Canes_Venatici">
+       Canes Venatici
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/08
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241008.html">
+      https://apod.nasa.gov/apod/ap241008.html
      </a>
     </td>
    </tr>
