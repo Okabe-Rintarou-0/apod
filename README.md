@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/eclipse_02.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/eclipse_02_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/astronomy-essentials/an-annular-solar-eclipse-on-october-2-2024/">
+       The second solar eclipse
+      </a>
+      of 2024 began in the Pacific.  On October 2nd the Moon's shadow swept from west to east, with an
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/">
+       annular eclipse visible
+      </a>
+      along a narrow antumbral shadow path tracking mostly over ocean, making its only major landfall near the southern tip of South America, and then ending in the southern Atlantic.  The dramatic total annular eclipse phase is known to some as a
+      <a href="ap231005.html">
+       ring of fire
+      </a>
+      .  Also tracking across islands in the southern Pacific, the Moon's antumbral shadow grazed Easter Island allowing
+      <a href="ap170918.html">
+       denizens
+      </a>
+      to follow all phases of the annular eclipse.  Framed by
+      <a href="ap240413.html">
+       palm tree leaves
+      </a>
+      this clear island view is a stack of two images, one taken with and one taken without a solar filter near the moment of the  maximum annular phase.
+      <a href="https://www.facebook.com/media/set/?set=a.524914740237108">
+       The New Moon's silhouette
+      </a>
+      appears just off center, though still engulfed by the bright disk of the active Sun.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/10
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241010.html">
+      https://apod.nasa.gov/apod/ap241010.html
      </a>
     </td>
    </tr>
