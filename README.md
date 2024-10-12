@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/241010_eggleston.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/241010_eggleston_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A gravel country lane gently winds through this
+      <a href="ap240516.html">
+       colorful rural
+      </a>
+      night skyscape.  Captured from Monroe County in southern West Virginia on the evening of October 10, the starry sky above is a familiar sight.  Shimmering curtains of aurora borealis or northern lights definitely do not make regular appearances here, though.  Surprisingly vivid auroral displays were present on that night at very low latitudes
+      <a href="https://spaceweathergallery2.com/index.php?&amp;starting_point=0">
+       around the globe
+      </a>
+      , far from their usual northern and southern
+      <a href="ap231117.html">
+       high latitude realms
+      </a>
+      .  The extensive auroral activity was evidence of a severe
+      <a href="https://spaceweather.com/">
+       geomagnetic storm
+      </a>
+      triggered by the impact of a
+      <a href="https://solarscience.msfc.nasa.gov/CMEs.shtml">
+       coronal mass ejection
+      </a>
+      (CME), an immense magnetized cloud of energetic plasma.  The CME was launched toward Earth from the active Sun following a powerful
+      <a href="https://blogs.nasa.gov/solarcycle25/2024/10/09/sun-releases-strong-solar-flare-17/">
+       X-class solar flare
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/11
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241011.html">
+      https://apod.nasa.gov/apod/ap241011.html
      </a>
     </td>
    </tr>
