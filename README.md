@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/CometA3Dc_Gilmore_1080.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/CometA3Dc_Gilmore_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Go outside at sunset tonight and see a comet!
+      <a href="https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)">
+       C/2023 A3 (Tsuchinshan–ATLAS)
+      </a>
+      has become visible in the early evening sky in northern locations to the unaided eye.  To
+      <a href="https://earthsky.org/space/comet-c-2023-a3-sep-oct-2024-tsuchinshan-atlas/">
+       see the comet
+      </a>
+      , look west through a sky with a low horizon.  If the sky is clear and dark enough,  you will not even need binoculars -- the
+      <a href="ap240925.html">
+       faint tail
+      </a>
+      of the
+      <a href="https://youtu.be/Nkj_ZrZsQC0?t=158">
+       comet should be visible
+      </a>
+      just above the horizon for about an hour.
+      <a href="https://www.instagram.com/p/DBDSNJkOzGc/">
+       Pictured
+      </a>
+      , Comet Tsuchinshan-ATLAS was captured two nights ago over the
+      <a href="https://www.nps.gov/linc/index.htm">
+       Lincoln Memorial
+      </a>
+      monument in
+      <a href="https://youtu.be/qdGin1IPgh0">
+       Washington, DC
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      .   With each passing day at sunset, the
+      <a href="https://spaceplace.nasa.gov/comets/en/">
+       comet
+      </a>
+      and its
+      <a href="ap241007.html">
+       changing tail
+      </a>
+      should be higher and higher in the sky,  although exactly how bright and how long its tails will be
+      <a href="https://www.shutterstock.com/image-photo/banner-three-pets-atttentive-thinking-600nw-2136132101.jpg">
+       can only be guessed
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/12
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241013.html">
+      https://apod.nasa.gov/apod/ap241013.html
      </a>
     </td>
    </tr>
