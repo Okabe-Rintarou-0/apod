@@ -5,6 +5,117 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/AuroraNz_McDonald_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/AuroraNz_McDonald_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Sometimes the night sky is full of surprises.  Take the sky over
+      <a href="https://www.youtube.com/watch?v=ESvSl7eIEes">
+       Lindis Pass
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/South_Island">
+       South Island
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/New_Zealand">
+       New Zealand
+      </a>
+      one-night last week.   Instead of a typically
+      <a href="ap220910.html">
+       calm night sky
+      </a>
+      filled with constant
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      ,  a busy and
+      <a href="ap241013.html">
+       dynamic night sky
+      </a>
+      appeared.  Suddenly visible were pervasive
+      <a href="ap240512.html">
+       red aurora
+      </a>
+      , green
+      <a href="ap080101.html">
+       picket-fence aurora
+      </a>
+      , a
+      <a href="ap231111.html">
+       red SAR arc
+      </a>
+      , a
+      <a href="ap230927.html">
+       STEVE
+      </a>
+      , a
+      <a href="ap240814.html">
+       meteor
+      </a>
+      , and the
+      <a href="https://svs.gsfc.nasa.gov/5187/">
+       Moon
+      </a>
+      .  These outshone the center of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      and both of its two satellite galaxies: the
+      <a href="ap241002.html">
+       LMC
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Small_Magellanic_Cloud">
+       SMC
+      </a>
+      .  All of these were captured together on  28 exposures in five minutes,  from which this panorama was composed.   Auroras
+      <a href="https://delavanlakesvet.com/wp-content/uploads/sites/195/2022/03/smiling-cat-for-web.jpg">
+       lit up
+      </a>
+      many skies last week, as a
+      <a href="https://svs.gsfc.nasa.gov/11298/">
+       Coronal Mass Ejection
+      </a>
+      from the Sun unleashed a burst of particles toward our Earth  that created colorful skies over
+      <a href="https://en.wikipedia.org/wiki/Latitude">
+       latitude
+      </a>
+      s  usually too far from the Earth's poles to see them.   More generally, night skies this month have other surprises,  showing not only auroras -- but
+      <a href="ap241007.html">
+       comet
+      </a>
+      <a href="https://earthsky.org/space/sungrazer-comet-bright-daytime-a11bp7i/">
+       s
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/14
   </summary>
   <table>
@@ -18,8 +129,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241015.html">
+      https://apod.nasa.gov/apod/ap241015.html
      </a>
     </td>
    </tr>
