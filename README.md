@@ -5,6 +5,56 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.nasa.gov/news-release/liftoff-nasas-europa-clipper-sails-toward-ocean-moon-of-jupiter/">
+       NASA's Europa Clipper
+      </a>
+      is now headed toward an ocean world beyond Earth.  The large spacecraft is tucked into the payload fairing atop the Falcon Heavy rocket in this
+      <a href="https://images.nasa.gov/details/KSC-20241013-PH-SPX03_0007">
+       photo, taken at Kennedy Space Center
+      </a>
+      the day before the mission's successful October 14 launch.  Europa Clipper's interplanetary voyage will first take it to Mars, then back to Earth, and then on to Jupiter on
+      <a href="https://science.nasa.gov/learn/basics-of-space-flight/primer/">
+       gravity assist trajectories
+      </a>
+      that will allow it to enter orbit around Jupiter in April 2030.  Once orbiting Jupiter, the spacecraft will fly past Europa 49 times,
+      <a href="https://europa.nasa.gov/why-europa/overview/">
+       exploring a Jovian moon
+      </a>
+      with a global subsurface ocean that may have conditions to support life.  Posing in the background next to the floodlit rocket is Comet Tsuchinsan-ATLAS, about a day after the comet's closest approach to Earth.  A current darling of evening skies, the naked-eye comet is a
+      <a href="https://earthobservatory.nasa.gov/images/153444/comet-tsuchinshan-atlas-arrives-from-afar">
+       vistor from the distant Oort cloud
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/16
   </summary>
   <table>
@@ -18,8 +68,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241016.html">
+      https://apod.nasa.gov/apod/ap241016.html
      </a>
     </td>
    </tr>
