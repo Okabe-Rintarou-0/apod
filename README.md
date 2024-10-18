@@ -5,6 +5,54 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/a3_20241014_s.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/a3_20241014_s1200.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      On October 14 it was hard to capture a full view of Comet C/2023 A3
+      <a href="https://skyandtelescope.org/astronomy-news/comet-tsuchinshan-atlas-climbs-brightens-and-delights/">
+       Tsuchinshan-ATLAS
+      </a>
+      .  Taken after the comet's closest approach to our fair planet,
+      <a href="https://www.adamblockphotos.com/c2023-a3-2024-10-14.html">
+       this evening skyview almost does though
+      </a>
+      .  With two telephoto frames combined, the image stretches about 26 degrees across the sky from top to bottom, looking west from Gates Pass, Tucson, Arizona.  Comet watchers that night could even
+      <a href="image/2410/olbersM5detail.jpg">
+       identify
+      </a>
+      globular star cluster M5 and the faint apparition of periodic comet 13P Olbers near the long the path of Tsuchinshan-ATLAS's whitish dust tail above the bright comet's coma.
+      <a href="ap230127.html">
+       Due to perspective
+      </a>
+      as the Earth is crossing the comet's orbital plane, Tsuchinshan-ATLAS also has a pronounced antitail.  The antitail is composed of dust previously released and fanning out away from the Sun along the comet's orbit, visible as a needle-like extension below the bright coma toward the rugged western horizon.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/17
   </summary>
   <table>
@@ -18,8 +66,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241017.html">
+      https://apod.nasa.gov/apod/ap241017.html
      </a>
     </td>
    </tr>
