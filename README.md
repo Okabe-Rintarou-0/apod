@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/C2023A3-in-the-past-6-days.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/C2023A3-in-the-past-6-days_1100.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      These six panels follow daily apparitions of comet
+      <a href="https://theskylive.com/c2023a3-info">
+       C/2023 A3 Tsuchinshan-ATLAS
+      </a>
+      as it moved away from our fair planet during the past week.  The images were taken with the same camera and lens at the indicated dates and locations from California, planet Earth.  At far right on October 12
+      <a href="https://earthobservatory.nasa.gov/images/153444/comet-tsuchinshan-atlas-arrives-from-afar">
+       the visitor
+      </a>
+      from the distant Oort cloud was near its closest approach, some 70 million kilometers (about 4 light-minutes) away.  Its bright coma and long dust tail were  close on the sky to the setting Sun but still easy to spot against a bright western horizon.  Over the following days, the outbound comet steadily climbs above the ecliptic and north into the darker western evening sky, but begins to fade from view.  Crossing the Earth's orbital plane around October 14, Tsuchinshan-ATLAS exhibits a noticeable
+      <a href="ap241018.html">
+       antitail
+      </a>
+      extended toward the western horizon.  Higher in the evening sky at sunset by October 17 (far left) the comet has faded and reached a distance of around 77 million kilometers from planet Earth.
+      <a href="https://skyandtelescope.org/astronomy-news/comet-tsuchinshan-atlas-climbs-brightens-and-delights/">
+       Hopefully you enjoyed
+      </a>
+      some of Tsuchinshan-ATLAS's bid to become the best comet of 2024.
+      <a href="https://planetarium.wvu.edu/mountaineer-skies-blog/2024/10/11/comet-tsuchinshan-atlas">
+       This comet's
+      </a>
+      initial orbital period estimates were a mere 80,000 years, but
+      <a href="https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=C%2F2023%20A3&amp;view=OPC">
+       in fact
+      </a>
+      it may never return to the inner Solar System.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/18
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241018.html">
+      https://apod.nasa.gov/apod/ap241018.html
      </a>
     </td>
    </tr>
