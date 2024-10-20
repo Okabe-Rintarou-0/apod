@@ -5,6 +5,121 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/DarkMatter_KipacAmnh_1200.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/DarkMatter_KipacAmnh_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is our universe haunted?   It might look that way on this
+      <a href="https://spaceplace.nasa.gov/dark-matter/">
+       dark matter
+      </a>
+      map.   The gravity of unseen
+      <a href="https://chandra.harvard.edu/xray_astro/dark_matter/">
+       dark matter
+      </a>
+      is the leading explanation for why
+      <a href="http://ircamera.as.arizona.edu/NatSci102/NatSci/lectures/darkmatter.htm">
+       galaxies rotate so fast
+      </a>
+      ,  why
+      <a href="https://medium.com/starts-with-a-bang/galaxy-clusters-prove-dark-matters-existence-fd962c979458">
+       galaxies orbit clusters so fast
+      </a>
+      ,  why
+      <a href="https://www.lsst.org/sites/default/files/img/xxnyt.jpg">
+       gravitational lenses so strongly deflect light
+      </a>
+      ,  and why
+      <a href="ap140512.html">
+       visible matter
+      </a>
+      is distributed as it is both
+      <a href="https://w.astro.berkeley.edu/~mwhite/models.html">
+       in the local universe
+      </a>
+      and
+      <a href="http://background.uchicago.edu/~whu/intermediate/driving2.html">
+       on the cosmic
+      </a>
+      <a href="ap130325.html">
+       microwave background
+      </a>
+      .   The featured image from the
+      <a href="https://www.amnh.org/">
+       American Museum of Natural History
+      </a>
+      's
+      <a href="https://www.amnh.org/research/hayden-planetarium">
+       Hayden Planetarium
+      </a>
+      Space Show Dark Universe highlights one example of how pervasive dark matter might haunt our universe.   In this frame from a
+      <a href="https://www.youtube.com/watch?v=zEEg1XkbXDo">
+       detailed computer simulation
+      </a>
+      ,  complex filaments of dark matter, shown in black, are strewn
+      <a href="ap111003.html">
+       about the universe
+      </a>
+      like
+      <a href="https://www.badspiderbites.com/giant-spider-web/">
+       spider webs
+      </a>
+      , while the relatively rare clumps of familiar
+      <a href="https://en.wikipedia.org/wiki/Baryon">
+       baryon
+      </a>
+      ic  matter are colored orange.
+      <a href="https://www.slac.stanford.edu/~kaehler/homepage/visualizations/dark-matter.html">
+       These simulations
+      </a>
+      are good statistical matches to astronomical observations.   In what is perhaps a scarier turn of events,
+      <a href="https://en.wikipedia.org/wiki/Dark_matter">
+       dark matter
+      </a>
+      -- although quite strange and in an
+      <a href="https://home.cern/science/physics/dark-matter">
+       unknown form
+      </a>
+      --  is no longer thought to be the strangest source of
+      <a href="https://ui.adsabs.harvard.edu/abs/2008AmJPh..76..265N/abstract">
+       gravity in the universe
+      </a>
+      .  That honor now falls to
+      <a href="https://science.nasa.gov/universe/dark-matter-dark-energy/">
+       dark energy
+      </a>
+      , a more uniform source of
+      <a href="http://www.preposterousuniverse.com/blog/2013/11/16/why-does-dark-energy-make-the-universe-accelerate/">
+       repulsive gravity
+      </a>
+      that seems to now dominate the expansion of the entire universe.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/19
   </summary>
   <table>
@@ -18,8 +133,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241019.html">
+      https://apod.nasa.gov/apod/ap241019.html
      </a>
     </td>
    </tr>
