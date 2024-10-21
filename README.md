@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/CometA3_Fulda_2549.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/CometA3_Fulda_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The tails of Comet Tsuchinshan-ATLAS were a sight to behold.  Pictured, C/2023 A3 (Tsuchinshan–ATLAS) was captured near peak impressiveness last week over the
+      <a href="https://youtu.be/wMXS2p3Knzk?t=47">
+       Eastern Sierra
+      </a>
+      Mountains in
+      <a href="https://en.wikipedia.org/wiki/California">
+       California
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      .   The comet not only showed a
+      <a href="ap210308.html">
+       bright tail
+      </a>
+      , but a distinct
+      <a href="https://earthsky.org/space/comet-a3-has-an-anti-tail-can-you-see-it/">
+       anti-tail
+      </a>
+      pointing in nearly the opposite direction.  The
+      <a href="https://science.nasa.gov/universe/star-clusters-inside-the-universes-stellar-collections/">
+       globular star
+      </a>
+      cluster
+      <a href="ap190509.html">
+       M5
+      </a>
+      can be seen on the right, far in the distance.   As it approached, it was unclear if this
+      <a href="ap150203.html">
+       crumbling iceberg
+      </a>
+      would
+      <a href="ap230903.html">
+       disintegrate
+      </a>
+      completely  as it warmed in the bright sunlight.  In reality, the comet survived to become brighter than
+      <a href="https://en.wikipedia.org/wiki/List_of_brightest_stars">
+       any star
+      </a>
+      in the night (
+      <a href="https://en.wikipedia.org/wiki/Apparent_magnitude#List_of_apparent_magnitudes">
+       magnitude
+      </a>
+      -4.9), but unfortunately was then so
+      <a href="https://i0.wp.com/picjumbo.com/wp-content/uploads/dog-with-sunglasses-on-a-paddleboard-free-photo.jpg?w=2210&amp;quality=70">
+       nearly in front of the Sun
+      </a>
+      that it was hard for many  casual observers to locate.  Whether
+      <a href="https://www.facebook.com/media/set/?vanity=APOD.Sky&amp;set=a.516503464411569">
+       Comet Tsuchinshan-Atlas
+      </a>
+      becomes known as the
+      <a href="ap220408.html">
+       Great Comet
+      </a>
+      of 2024 now depends,  in part, on how impressive
+      <a href="http://www.cbat.eps.harvard.edu/iau/cbet/005400/CBET005453.txt">
+       incoming
+      </a>
+      comet
+      <a href="https://en.wikipedia.org/wiki/C/2024_S1_(ATLAS)">
+       C/2024 S1 (ATLAS)
+      </a>
+      becomes over the next two weeks.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/20
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241020.html">
+      https://apod.nasa.gov/apod/ap241020.html
      </a>
     </td>
    </tr>
