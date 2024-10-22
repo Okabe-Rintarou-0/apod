@@ -5,6 +5,125 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_6500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      These dark pillars may look destructive, but they are creating stars.
+      <a href="https://www.flickr.com/photos/151824007@N06/53989685257/">
+       This pillar-capturing picture
+      </a>
+      of the
+      <a href="ap230515.html">
+       Eagle Nebula
+      </a>
+      combines
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      exposures taken with the
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble Space Telescope
+      </a>
+      with
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      images taken with the
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      to highlight
+      <a href="https://hubblesite.org/contents/news-releases/1995/news-1995-44.html">
+       evaporating gaseous globules
+      </a>
+      (EGGs)  emerging from
+      <a href="https://science.nasa.gov/missions/hubble/new-hubble-webb-pillars-of-creation-visualization/">
+       pillars
+      </a>
+      of molecular
+      <a href="ap010113.html">
+       hydrogen gas
+      </a>
+      and
+      <a href="ap030706.html">
+       dust
+      </a>
+      .   The
+      <a href="ap150107.html">
+       giant pillars
+      </a>
+      are
+      <a href="https://chandra.harvard.edu/photo/cosmic_distance.html">
+       light years
+      </a>
+      in length  and are so dense that interior gas
+      <a href=" http://hyperphysics.phy-astr.gsu.edu/hbase/astro/gravc.html">
+       contracts gravitationally
+      </a>
+      to form
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      .   At each
+      <a href="ap220314.html">
+       pillar's end
+      </a>
+      ,  the intense radiation of
+      <a href="https://img.goodfon.com/wallpaper/big/d/3c/white-smart-cat-kitten-kitty.webp">
+       bright young
+      </a>
+      stars  causes low density material to boil away, leaving
+      <a href="stellar_nurseries.html">
+       stellar nurseries
+      </a>
+      of dense
+      <a href="https://en.wikipedia.org/wiki/Egg_%28biology%29">
+       EGGs
+      </a>
+      exposed.    The
+      <a href="https://en.wikipedia.org/wiki/Eagle_Nebula">
+       Eagle Nebula
+      </a>
+      , associated with the
+      <a href="open_clusters.html">
+       open star cluster
+      </a>
+      <a href="ap030921.html">
+       M16
+      </a>
+      , lies about 7000
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light years
+      </a>
+      away.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/21
   </summary>
   <table>
@@ -18,8 +137,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241021.html">
+      https://apod.nasa.gov/apod/ap241021.html
      </a>
     </td>
    </tr>
