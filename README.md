@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/NGC7293_preview.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/NGC7293_preview1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A mere seven hundred light years from Earth toward the constellation
+      <a href="http://hawastsoc.org/deepsky/aqr/index.html">
+       Aquarius
+      </a>
+      , a star is dying.  The once sun-like star's last few thousand years have produced the
+      <a href="https://en.wikipedia.org/wiki/Helix_Nebula">
+       Helix Nebula
+      </a>
+      .  Also known as NGC 7293, the cosmic Helix is a well studied and nearby example of a
+      <a href="http://en.wikipedia.org/wiki/Planetary_nebula">
+       Planetary Nebula
+      </a>
+      , typical of this final phase of stellar evolution.   Combining narrow band data from emission lines of hydrogen atoms in red and oxygen atoms in blue-green hues, this deep image shows tantalizing
+      <a href="https://stsci-opo.org/STScI-01EVT8HWJ754VADGE57NY9VWXP.jpg">
+       details
+      </a>
+      of the Helix, including its bright
+      <a href="ap030510.html">
+       inner region
+      </a>
+      about 3 light-years across.  The white dot at the Helix's center is this Planetary Nebula's hot, dying
+      <a href="https://hubblesite.org/contents/media/images/2003/11/1317-Image.html">
+       central star
+      </a>
+      .  A simple looking nebula at first glance, the Helix is now understood to have a surprisingly
+      <a href="https://hubblesite.org/contents/news-releases/2004/news-2004-32.html">
+       complex geometry
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/22
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241023.html">
+      https://apod.nasa.gov/apod/ap241023.html
      </a>
     </td>
    </tr>
