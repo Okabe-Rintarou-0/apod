@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Some 13,000 light-years away toward the southern constellation Pavo, the globular star cluster NGC 6752 roams the halo of our Milky Way galaxy.  Over 10 billion years old,
+      <a href="http://spider.seds.org/spider/MWGC/n6752.html">
+       NGC 6752
+      </a>
+      follows clusters
+      <a href="ap190824.html">
+       Omega Centauri
+      </a>
+      ,
+      <a href="ap121206.html">
+       47 Tucanae
+      </a>
+      , and
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-22">
+       Messier 22
+      </a>
+      as the fourth brightest globular in planet Earth's night sky.  It holds over 100 thousand
+      <a href="http://astroanarchy.blogspot.com/2010/07/ ngc-6752-as-stereo-pair-3d.html">
+       stars in a sphere
+      </a>
+      about 100 light-years in diameter.  Telescopic
+      <a href="http://adsabs.harvard.edu/abs/1997ApJ...474..701R">
+       explorations
+      </a>
+      of NGC 6752 have found that a remarkable fraction of the stars near the cluster's core, are multiple star systems.  They also reveal the presence of blue straggle stars, stars which appear to be too young and massive to exist in a cluster whose stars are all expected to be at least twice as old as the Sun.  The blue stragglers are
+      <a href="http://arxiv.org/abs/astro-ph/0409001">
+       thought to be
+      </a>
+      formed by star mergers and collisions in the dense stellar environment at the cluster's
+      <a href="ap120210.html">
+       core
+      </a>
+      .  This
+      <a href="https://www.astrobin.com/4aavmk/C/">
+       sharp color composite
+      </a>
+      also features the cluster's ancient red giant stars in yellowish hues.  (
+      <i>
+       Note:
+      </i>
+      The bright, spiky blue star about 8 o'clock from the cluster center is a foreground star along the line-of-sight to NGC 6752)
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/24
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241024.html">
+      https://apod.nasa.gov/apod/ap241024.html
      </a>
     </td>
    </tr>
