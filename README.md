@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/IC63.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/IC63_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      These brightly outlined flowing shapes look ghostly on a cosmic scale.
+      <a href="https://www.astrobin.com/18dwm3/">
+       A telescopic view
+      </a>
+      toward the constellation
+      <a href="ap160318.html">
+       Cassiopeia
+      </a>
+      , the colorful skyscape features the swept-back, comet-shaped clouds IC 59 (left) and IC 63.  About 600 light-years distant,
+      <a href="http://iopscience.iop.org/1538-3881/129/2/954">
+       the clouds
+      </a>
+      aren't actually ghosts.  They are slowly disappearing though, under the influence of
+      <a href="https://arxiv.org/abs/1809.01419">
+       energetic radiation
+      </a>
+      from hot, luminous star gamma Cas.
+      <a href="https://www.aavso.org/vsots_gammacas">
+       Gamma Cas
+      </a>
+      is physically located only 3 to 4 light-years from the nebulae and lies just above the right edge of the frame.  Slightly closer to gamma Cas, IC 63 is dominated by
+      <a href="ap111013.html">
+       red H-alpha light emitted
+      </a>
+      as hydrogen atoms ionized by the hot star's ultraviolet radiation recombine with electrons.  Farther from the star, IC 59 shows less H-alpha emission but more of the characteristic blue tint of dust
+      <a href="ap091126.html">
+       reflected star light
+      </a>
+      .  The field of view spans over 1 degree or 10 light-years at the estimated distance of
+      <a href="https://arxiv.org/abs/1705.04313">
+       the interstellar apparitions
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/25
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241025.html">
+      https://apod.nasa.gov/apod/ap241025.html
      </a>
     </td>
    </tr>
