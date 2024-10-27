@@ -5,6 +5,92 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/LDN43_SelbyHanson_3993.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/LDN43_SelbyHanson_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What is the most spook-tacular nebula in the galaxy?     One contender is LDN 43, which bears an astonishing resemblance to a vast cosmic
+      <a href="https://en.wikipedia.org/wiki/Bat">
+       bat
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Bat#/media/File:Big-eared-townsend-fledermaus.jpg">
+       flying
+      </a>
+      amongst the stars on a dark
+      <a href="ap211024.html">
+       Halloween
+      </a>
+      night.    Located about 1400
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light years
+      </a>
+      away in the constellation
+      <a href="https://chandra.harvard.edu/photo/constellations/ophiuchus.html">
+       Ophiuchus
+      </a>
+      , this
+      <a href="https://en.wikipedia.org/wiki/Molecular_cloud">
+       molecular
+      </a>
+      cloud is dense enough to
+      <a href="ap230129.html">
+       block light
+      </a>
+      not only from background stars,  but from wisps of gas lit up by the nearby
+      <a href="https://astronomy.swin.edu.au/cosmos/r/Reflection+Nebula">
+       reflection nebula
+      </a>
+      <a href="http://www.jthommes.com/Astro/LBN7_LDN43.htm">
+       LBN 7
+      </a>
+      .   Far from being a harbinger of death, this  12-light year-long filament of gas and
+      <a href="ap030706.html">
+       dust
+      </a>
+      is actually a
+      <a href="https://science.nasa.gov/universe/stars/">
+       stellar nursery
+      </a>
+      .    Glowing with
+      <a href="https://i.pinimg.com/550x/81/21/c0/8121c0291fa14d1fe52b9eb007741cac.jpg">
+       eerie
+      </a>
+      light, the bat is lit up from inside by
+      <a href="ap080413.html">
+       dense gaseous knots
+      </a>
+      that have just formed
+      <a href="ap220512.html">
+       young stars
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/26
   </summary>
   <table>
@@ -18,8 +104,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241026.html">
+      https://apod.nasa.gov/apod/ap241026.html
      </a>
     </td>
    </tr>
