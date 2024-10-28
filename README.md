@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/SteveFrance_leroux_2160.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/SteveFrance_leroux_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Sometimes a river of hot gas flows over your head.  In this case the river created a  Strong Thermal Emission Velocity Enhancement  (
+      <a href="https://en.wikipedia.org/wiki/STEVE">
+       STEVE
+      </a>
+      )  that glowed bright red, white, and pink.  Details of
+      <a href="https://ui.adsabs.harvard.edu/abs/2018GeoRL..45.7968G/abstract">
+       how STEVEs work
+      </a>
+      remain a topic of research, but recent evidence holds that their glow results from a
+      <a href="https://en.wikipedia.org/wiki/STEVE#Research_into_cause">
+       fast-moving river of hot ions
+      </a>
+      flowing over a hundred kilometers up in the
+      <a href="https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      : the
+      <a href="https://science.nasa.gov/earth/10-things-to-know-about-the-ionosphere/">
+       ionosphere
+      </a>
+      .  The more expansive dull red glow might be related to the flowing
+      <a href="ap210505.html">
+       STEVE
+      </a>
+      , but alternatively might be a
+      <a href="https://spaceweatherarchive.com/2021/11/22/3308/">
+       Stable Auroral Red
+      </a>
+      (SAR) arc, a
+      <a href="ap240103.html">
+       more
+      </a>
+      general heat-related glow.  The
+      <a href="https://www.instagram.com/p/DBKEFJlMLPo/">
+       featured picture
+      </a>
+      , taken earlier this month in
+      <a href="https://youtu.be/66ATFjFDjoY?t=129">
+       Côte d'Opale
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/France">
+       France
+      </a>
+      ,  is a wide-angle digital composite made as the
+      <a href="ap171014.html">
+       STEVE arc
+      </a>
+      formed nearly overhead.   Although the
+      <a href="ap231022.html">
+       apparition
+      </a>
+      lasted only a few minutes,  this was long enough for the
+      <a href="https://static2.bigstockphoto.com/0/7/4/large1500/470325001.jpg">
+       quick-thinking
+      </a>
+      astrophotographer to get in the picture --  can you find him?
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/27
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241027.html">
+      https://apod.nasa.gov/apod/ap241027.html
      </a>
     </td>
    </tr>
