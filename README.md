@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/NGC602_Webb_5863.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/NGC602_Webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The stars are destroying the pillars.  More specifically, some of the newly formed
+      <a href="https://science.nasa.gov/universe/stars/types/">
+       stars
+      </a>
+      in the image center are emitting light so energetic that is
+      <a href="ap231206.html">
+       evaporating
+      </a>
+      the gas and dust in the surrounding
+      <a href="ap201206.html">
+       pillars
+      </a>
+      .  Simultaneously, the
+      <a href="ap230110.html">
+       pillar
+      </a>
+      s themselves are still trying to
+      <a href="https://en.wikipedia.org/wiki/Star_formation">
+       form new stars
+      </a>
+      .  The whole setting is the star cluster
+      <a href="https://en.wikipedia.org/wiki/NGC_602">
+       NGC 602
+      </a>
+      ,  and this new vista was taken by the
+      <a href="https://science.nasa.gov/mission/webb/">
+       Webb Space Telescope
+      </a>
+      in multiple
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      colors.  In comparison, a roll-over image shows the same star cluster in
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      , taken previously by the
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble Space Telescope
+      </a>
+      .  NGC 602 is located near the perimeter of the
+      <a href="https://en.wikipedia.org/wiki/Small_Magellanic_Cloud">
+       Small Magellanic Cloud
+      </a>
+      (SMC),  a small satellite galaxy of our Milky Way galaxy.   At the estimated distance of the SMC, the
+      <a href="https://esawebb.org/images/weic2425c/">
+       featured picture
+      </a>
+      spans about 200 light-years.  A
+      <a href="https://cdn.animalchannel.co/wp-content/uploads/2020/07/06062531/concerned_dog_featured-1.png">
+       tantalizing
+      </a>
+      assortment of
+      <a href="ap210802.html">
+       background galaxies
+      </a>
+      are also visible -- mostly around the edges -- that are at least hundreds of millions of
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-year
+      </a>
+      s beyond.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/28
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241028.html">
+      https://apod.nasa.gov/apod/ap241028.html
      </a>
     </td>
    </tr>
