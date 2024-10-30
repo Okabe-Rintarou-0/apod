@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/BubbleRed_Leader_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/BubbleRed_Leader_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What created this huge space bubble?  Blown by the wind from a star, this
+      <a href="http://www.exploratorium.edu/ronh/bubbles/bubbles.html">
+       tantalizing
+      </a>
+      , head-like apparition is cataloged as NGC 7635, but known simply as the
+      <a href="https://en.wikipedia.org/wiki/Bubble_Nebula">
+       Bubble Nebula
+      </a>
+      .  The featured striking view utilizes a long exposure  to reveal the intricate details of
+      <a href="ap030617.html">
+       this cosmic bubble
+      </a>
+      and its environment.  Although it looks delicate, the 10
+      <a href="http://chandra.harvard.edu/photo/cosmic_distance.html">
+       light-year
+      </a>
+      diameter bubble offers evidence of
+      <a href="ap240109.html">
+       violent processes
+      </a>
+      at work.  Seen here above and right of
+      <a href="ap170531.html">
+       the Bubble
+      </a>
+      's center, a bright hot star is embedded in the nebula's
+      <a href="https://en.wikipedia.org/wiki/Reflection_nebula">
+       reflecting
+      </a>
+      dust.  A fierce
+      <a href="http://en.wikipedia.org/wiki/Stellar_wind">
+       stellar wind
+      </a>
+      and intense radiation from the
+      <a href="https://science.nasa.gov/universe/stars/">
+       star
+      </a>
+      ,  which likely has a mass 10 to 20 times that of the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      , has blasted out the
+      <a href="https://ui.adsabs.harvard.edu/abs/1995A%26A...295..509C/abstract">
+       structure of glowing gas
+      </a>
+      against denser material in a surrounding
+      <a href="ap230129.html">
+       molecular cloud
+      </a>
+      .  The intriguing
+      <a href="https://science.nasa.gov/image-detail/37893980612-307324af83-o/">
+       Bubble Nebula
+      </a>
+      lies a mere 11,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-year
+      </a>
+      s  away toward the
+      <a href="https://media.istockphoto.com/id/159176199/photo/cat.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=U34AGa5EN0xuBbrzpSygVHcR7RHuwWAivyH7hpHw_m0=">
+       boastful
+      </a>
+      constellation
+      <a href="http://en.wikipedia.org/wiki/Cassiopeia_%28constellation%29">
+       Cassiopeia
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/29
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241029.html">
+      https://apod.nasa.gov/apod/ap241029.html
      </a>
     </td>
    </tr>
