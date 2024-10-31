@@ -5,6 +5,73 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/10/31
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2410/Strega_apod_3.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2410/Strega_apod_1024r.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      By starlight, this eerie visage shines in the dark with a crooked profile evoking its popular name, the
+      <a href="ap061211.html">
+       Witch Head Nebula
+      </a>
+      .  In fact, this entrancing
+      <a href="https://www.flickr.com/photos/197697877@N05/53527999667/">
+       telescopic portrait
+      </a>
+      gives the impression that a witch has fixed her gaze on Orion's bright supergiant
+      <a href="https://en.wikipedia.org/wiki/Rigel">
+       star Rigel
+      </a>
+      .  More formally known as
+      <a href="https://en.wikipedia.org/wiki/IC_2118">
+       IC 2118
+      </a>
+      , the Witch Head Nebula spans about 50 light-years and is composed of interstellar dust grains reflecting
+      <a href="https://ui.adsabs.harvard.edu/abs/1997MNRAS.290..521I/abstract">
+       Rigel's starlight
+      </a>
+      .  The color of the Witch Head Nebula is caused not only by Rigel's  intense blue light, but because the
+      <a href="https://astronomy.swin.edu.au/cosmos/d/Dust+Grain">
+       dust grains scatter blue light
+      </a>
+      more efficiently than red.  The same
+      <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/atmos/blusky.html">
+       physical process
+      </a>
+      causes
+      <a href="https://spaceplace.nasa.gov/blue-sky/en/">
+       Earth's daytime sky
+      </a>
+      to appear blue, although the scatterers in Earth's atmosphere are molecules of nitrogen and oxygen.  Rigel and this dusty cosmic crone are about 800 light-years away.  You may still see a few witches in your neighborhood tonight though, so have a safe and
+      <a href="https://science.nasa.gov/exoplanets/immersive/galaxy-of-horrors/">
+       Happy Halloween!
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/30
   </summary>
   <table>
@@ -18,8 +85,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241030.html">
+      https://apod.nasa.gov/apod/ap241030.html
      </a>
     </td>
    </tr>
