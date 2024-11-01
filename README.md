@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/NGC6744_V2_8_sm.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/NGC6744_V2_8_sm1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Big,
+      <a href="http://www.nasa.gov/mission_pages/galex/big-brother-milky-way.html">
+       beautiful spiral galaxy NGC 6744
+      </a>
+      is nearly 175,000 light-years across, larger than
+      <a href="ap080606.html">
+       our own Milky Way
+      </a>
+      .  It lies some 30 million light-years distant in the southern constellation Pavo but appears as only a faint smudge in the eyepiece of a small telescope.  We see the disk of the nearby island universe tilted towards our line of sight in this remarkably deep and detailed galaxy portrait, a telescopic image that spans an area about the angular size
+      <a href="ap130801.html">
+       of a full moon
+      </a>
+      .  In it, the giant galaxy's
+      <a href="https://esahubble.org/images/potw1830a/">
+       elongated yellowish core
+      </a>
+      is dominated by the light from old, cool stars.  Beyond the core, grand spiral arms are filled with young blue star clusters and speckled with pinkish star forming regions.  An extended arm sweeps past smaller satellite galaxy NGC 6744A at the upper left.  NGC 6744's galactic companion is reminiscent of the Milky Way's satellite galaxy the
+      <a href="ap150827.html">
+       Large Magellanic Cloud
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/10/31
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241031.html">
+      https://apod.nasa.gov/apod/ap241031.html
      </a>
     </td>
    </tr>
