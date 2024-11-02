@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/LastRingPortrait_Cassini_4472.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/LastRingPortrait_Cassini_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/">
+       Saturn is bright
+      </a>
+      in Earth's night skies.  Telescopic views of the outer gas giant planet and its beautiful rings often make it a star at
+      <a href="https://nightsky.jpl.nasa.gov/clubs-and-events.cfm">
+       star parties
+      </a>
+      .  But this stunning view of Saturn's rings and night side just isn't possible from telescopes in the vicinity of planet Earth.  Peering out from the inner Solar System they can only bring
+      <a href="https://spacetelescope.org/news/heic1917/">
+       Saturn's day side into view.
+      </a>
+      In fact, this image of Saturn's slender sunlit crescent with night's shadow cast across its broad and complex ring system was captured by the Cassini spacecraft.  A robot spacecraft from planet Earth, Cassini called Saturn orbit home for 13 years before it was directed to dive into the atmosphere of the gas giant on September 15, 2017.
+      <a href="https://www.flickr.com/photos/m_macijauskas/23826951188/">
+       This magnificent mosaic
+      </a>
+      is composed of frames recorded
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA17218">
+       by Cassini's
+      </a>
+      wide-angle camera only two days before its
+      <a href="https://solarsystem.nasa.gov/missions/cassini/the-journey/the-grand-finale/">
+       grand final plunge
+      </a>
+      .  Saturn's night will not be seen again until
+      <a href="https://www.nasa.gov/dragonfly">
+       another spaceship
+      </a>
+      from Earth calls.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/01
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241101.html">
+      https://apod.nasa.gov/apod/ap241101.html
      </a>
     </td>
    </tr>
