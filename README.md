@@ -5,6 +5,101 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/JupiterAbyss_JunoEichstadt_1080.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/JupiterAbyss_JunoEichstadt_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's that black spot on Jupiter?  No one is sure.   During one pass of NASA's
+      <a href="https://www.jpl.nasa.gov/missions/juno/">
+       Juno
+      </a>
+      over
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      ,  the robotic spacecraft imaged an
+      <a href="ap171008.html">
+       usually dark cloud
+      </a>
+      feature informally dubbed
+      <a href="https://www.jpl.nasa.gov/images/pia22948-jupiter-abyss/">
+       the Abyss
+      </a>
+      .  Surrounding cloud patterns show
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA22948">
+       the Abyss
+      </a>
+      to be at the center of
+      <a href="https://www.youtube.com/watch?v=-XMd8AnEJBA">
+       a vortex
+      </a>
+      .  Since dark features on
+      <a href="https://en.wikipedia.org/wiki/Atmosphere_of_Jupiter">
+       Jupiter's atmosphere
+      </a>
+      tend to run deeper than light features,  the Abyss may really be the
+      <a href="https://www.popularmechanics.com/technology/infrastructure/g2919/7-of-the-deepest-manmade-holes/">
+       deep hole
+      </a>
+      that it appears --  but without more evidence that remains conjecture.    The
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F1h6ozh8wsu501.jpg">
+       Abyss
+      </a>
+      is surrounded by a complex of
+      <a href="ap181121.html">
+       meandering clouds
+      </a>
+      and other
+      <a href="ap180521.html">
+       swirling
+      </a>
+      <a href="ap170228.html">
+       storm systems
+      </a>
+      ,  some of which are topped by light colored, high-altitude clouds.   The
+      <a href="https://www.missionjuno.swri.edu/junocam/processing?id=6906">
+       featured image
+      </a>
+      was captured in 2019 while
+      <a href="ap190205.html">
+       Juno passed
+      </a>
+      only about 15,000 kilometers above
+      <a href="https://www.reddit.com/r/spaceporn/comments/10b94mk/jupiters_abyss_the_dark_center_of_a_massive/">
+       Jupiter's cloud tops
+      </a>
+      .   The
+      <a href="https://en.wikipedia.org/wiki/Juno_(spacecraft)#Timeline">
+       next close pass
+      </a>
+      of Juno near Jupiter will be in about three weeks.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/02
   </summary>
   <table>
@@ -18,8 +113,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241102.html">
+      https://apod.nasa.gov/apod/ap241102.html
      </a>
     </td>
    </tr>
