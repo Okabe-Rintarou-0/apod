@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_2831.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why were the statues on Easter Island built?   No one is sure.   What is sure is that over 900 large stone statues called
+      <a href="https://en.wikipedia.org/wiki/Moai">
+       moai
+      </a>
+      s exist there.   The
+      <a href="https://en.wikipedia.org/wiki/Easter_Island">
+       Rapa Nui (Easter Island)
+      </a>
+      moais stand, on average,  over twice as tall as a person and have over 200 times as much mass.   It is thought that the
+      <a href="https://youtu.be/luv9B2fJIEM">
+       unusual statues
+      </a>
+      were created about 600 years ago  in the images of local leaders of a vibrant and ancient civilization.   Rapa Nui has been declared by
+      <a href="https://www.unesco.org/">
+       UNESCO
+      </a>
+      to a
+      <a href="https://en.wikipedia.org/wiki/World_Heritage_Site">
+       World Heritage Site
+      </a>
+      .
+      <a href="https://www.instagram.com/p/DA6GNhAslfT/">
+       Pictured here
+      </a>
+      ,  some of the
+      <a href="https://www.pbs.org/wgbh/nova/easter/civilization/giants.html">
+       stone giants
+      </a>
+      were imaged last month under the
+      <a href="ap110710.html">
+       central band
+      </a>
+      of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way
+      </a>
+      galaxy.
+      <a href="https://www.theguardian.com/world/2023/mar/02/new-easter-island-moai-statue-discovered-in-volcano-crater">
+       Previously unknown moais
+      </a>
+      are
+      <a href="https://www.shutterstock.com/image-photo/close-scottish-fold-cat-head-600nw-1276621966.jpg">
+       still being discovered
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/04
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241104.html">
+      https://apod.nasa.gov/apod/ap241104.html
      </a>
     </td>
    </tr>
