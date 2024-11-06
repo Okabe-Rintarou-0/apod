@@ -5,6 +5,101 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Comet Tsuchinshan-Atlas is now headed back to the outer
+      <a href="https://science.nasa.gov/solar-system/solar-system-facts/">
+       Solar System
+      </a>
+      .   The massive dusty snowball put on
+      <a href="https://www.facebook.com/media/set/?set=a.516503464411569&amp;type=3">
+       quite a show
+      </a>
+      during its trip near the Sun,  resulting in many impressive pictures from
+      <a href="ap220206.html">
+       planet Earth
+      </a>
+      during October.   The
+      <a href="https://www.instagram.com/p/DBe4x2DorjW/">
+       featured image
+      </a>
+      was taken in mid-October and shows a  defining visual feature of the comet -- its impressive
+      <a href="https://en.wikipedia.org/wiki/Anti-tail">
+       anti-tail
+      </a>
+      .  The image captures Comet
+      <a href="https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)">
+       C/2023 A3 (Tsuchinshan–ATLAS)
+      </a>
+      with
+      <a href="ap241007.html">
+       impressively long
+      </a>
+      <a href="https://astronomy.swin.edu.au/cosmos/*/Cometary+Dust+Tail">
+       dust
+      </a>
+      and
+      <a href="https://astronomy.swin.edu.au/cosmos/C/Cometary+Gas+Tail">
+       ion
+      </a>
+      tails pointing up and away from the Sun, while the
+      <a href="ap241015.html">
+       strong anti-tail
+      </a>
+      --  composed of more massive dust particles --  trails the comet and points down and (nearly) toward the recently-set
+      <a href="https://spaceplace.nasa.gov/menu/sun/">
+       Sun
+      </a>
+      .  In the foreground is village of
+      <a href="https://youtu.be/HktA997YN0Y">
+       Tai di Cadore
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italy
+      </a>
+      ,  with the tremendous
+      <a href="https://en.wikipedia.org/wiki/Dolomites">
+       Dolomite Mountains
+      </a>
+      in the background.   Another comet,
+      <a href="https://en.wikipedia.org/wiki/C/2024_S1_(ATLAS)">
+       C/2024 S1 (ATLAS)
+      </a>
+      , once a candidate to  rival Comet Tsuchinshan-Atlas in brightness,
+      <a href="https://iheartdogs.com/wp-content/uploads/2018/02/8522382948_8c6de304a5_z.jpg">
+       broke up
+      </a>
+      last week during its close approach to our Sun.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/05
   </summary>
   <table>
@@ -18,8 +113,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241105.html">
+      https://apod.nasa.gov/apod/ap241105.html
      </a>
     </td>
    </tr>
