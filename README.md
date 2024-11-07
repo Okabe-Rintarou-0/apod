@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.astrobin.com/huresx/">
+       This spectacular
+      </a>
+      intergalactic skyscape features Arp 227, a curious system of galaxies from the 1966
+      <a href="http://ned.ipac.caltech.edu/level5/Arp/Arp_contents.html">
+       Atlas of Peculiar Galaxies
+      </a>
+      .  Some 100 million light-years distant within the boundaries of the constellation Pisces, Arp 227 consists of the two galaxies prominent above and left of center, the
+      <a href="ap180206.html">
+       shell galaxy NGC 474
+      </a>
+      and its blue, spiral-armed neighbor NGC 470.  The readily apparent shells and star streams of
+      <a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...660A..28B/abstract">
+       NGC 474 are likely tidal features
+      </a>
+      originating from the accretion of another smaller galaxy during close gravitational encounters that began over a billion years ago.  The large galaxy on the bottom righthand side of the deep image, NGC 467, appears to be surrounded by faint shells and streams too, evidence of another
+      <a href="https://svs.gsfc.nasa.gov/30955">
+       merging galaxy system
+      </a>
+      .  Intriguing background galaxies are scattered around the field that also includes spiky foreground stars.  Of course, those stars lie well within our own
+      <a href="ap080104.html">
+       Milky Way Galaxy
+      </a>
+      .  The telescopic field of view spans 25 arc minutes or just under 1/2 degree
+      <a href="http://chandra.harvard.edu/photo/scale.html">
+       on the sky
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/06
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241106.html">
+      https://apod.nasa.gov/apod/ap241106.html
      </a>
     </td>
    </tr>
