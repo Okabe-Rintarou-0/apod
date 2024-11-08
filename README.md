@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/Ldn1355HelpingHandFR2048.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/Ldn1355HelpingHandFR1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/universe/decoding-nebulae/">
+       Drifting near
+      </a>
+      the plane of our Milky Way galaxy these dusty molecular clouds seem to extend a helping hand on a cosmic scale.  Part of a
+      <a href="https://ui.adsabs.harvard.edu/abs/2020Natur.578..237A/abstract">
+       local complex
+      </a>
+      of star-forming interstellar clouds they include LDN 1358, 1357, and 1355 from American astronomer Beverly Lynds' 1962
+      <a href="https://ui.adsabs.harvard.edu/abs/1962ApJS....7....1L/abstract">
+       Catalog of Dark Nebulae
+      </a>
+      .  Presenting a
+      <a href="https://www.flickr.com/photos/185905403@N06/54113254362/">
+       challenging target
+      </a>
+      for astro-imagers, the obscuring dark nebulae are nearly 3,000 light-years away, toward rich starfields in the northern constellation
+      <a href="ap160318.html">
+       Cassiopeia
+      </a>
+      .  At that distance, this deep, telescopic field of view would span about 80 light-years.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/07
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241107.html">
+      https://apod.nasa.gov/apod/ap241107.html
      </a>
     </td>
    </tr>
