@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/neptune/">
+       Ice giant Neptune
+      </a>
+      is faint in Earth's night sky.  Some 30 times farther from the Sun than our fair planet, telescopes are needed to
+      <a href="https://earthsky.org/astronomy-essentials/neptune-at-opposition-closest-brightest-best/">
+       catch a glimpse
+      </a>
+      of the dim and distant world.  This dramatic view of
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA02215">
+       Neptune's night
+      </a>
+      just isn't possible for telescopes in the vicinity of planet Earth though.  Peering out from the inner Solar System they can only bring
+      <a href="https://hubblesite.org/contents/media/images/2021/047/01FM0QHCQC5XT0EXZCSB9PE2PZ">
+       Neptune's day
+      </a>
+      side into view.   In fact this night side image with Neptune's slender crescent next to the crescent of its large moon Triton was captured by Voyager 2.  Launched from planet Earth in 1977 the
+      <a href="https://www.jpl.nasa.gov/missions/voyager-2/">
+       Voyager 2 spacecraft
+      </a>
+      made a close fly by of the Solar System's outermost planet in 1989, looking back on Neptune as the robotic spacecraft continued its
+      <a href="https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/">
+       voyage to interstellar space
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/08
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241108.html">
+      https://apod.nasa.gov/apod/ap241108.html
      </a>
     </td>
    </tr>
