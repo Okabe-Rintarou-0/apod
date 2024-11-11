@@ -5,6 +5,113 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/CometDarkTail_Falls_5122.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/CometDarkTail_Falls_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What created an unusual dark streak in Comet Tsuchinshan-Atlas's tail?  Some images of the
+      <a href="https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)">
+       bright comet
+      </a>
+      during mid-October not only caught its
+      <a href="ap241007.html">
+       impressively long tail
+      </a>
+      and its
+      <a href="ap241021.html">
+       thin anti-tail
+      </a>
+      ,  but a rather unexpected feature: a
+      <a href="https://www.facebook.com/photo.php?fbid=539576478770934">
+       dark
+      </a>
+      <a href="https://www.facebook.com/photo/?fbid=535555052506410">
+       streak
+      </a>
+      <a href="https://spaceweathergallery2.com/indiv_upload.php?upload_id=216720">
+       in
+      </a>
+      <a href="https://spaceweathergallery2.com/indiv_upload.php?upload_id=216512">
+       the
+      </a>
+      <a href="https://spaceweathergallery2.com/indiv_upload.php?upload_id=216118">
+       long tail
+      </a>
+      .  The reason for the dark streak is currently unclear and a topic of some debate.   Possible reasons include a
+      <a href="ap170416.html">
+       plume
+      </a>
+      of dark
+      <a href="https://en.wikipedia.org/wiki/Comet_dust">
+       dust
+      </a>
+      ,  different parts of the
+      <a href="ap220112.html">
+       bright tail
+      </a>
+      being unusually superposed, and a
+      <a href="ap240211.html">
+       shadow
+      </a>
+      of a dense part of the
+      <a href="https://en.wikipedia.org/wiki/Coma_(comet)">
+       coma
+      </a>
+      on smaller dust particles.  The streak is visible in the
+      <a href="https://www.astrobin.com/znqqs1/">
+       featured
+      </a>
+      <a hrf="https://www.instagram.com/p/DBJr0r3v4WI/">
+       image
+      </a>
+      taken on October 14 from Texas, USA.  To help future analyses, if you have taken a good image of the comet that clearly shows this dark streak, please
+      <a href="https://apod.nasa.gov/apod/lib/apsubmit2015.html">
+       send it in
+      </a>
+      to
+      <a href="https://apod.nasa.gov/apod/lib/about_apod.html">
+       APOD
+      </a>
+      .  Comet
+      <a href="https://theskylive.com/how-bright-is-c2023a3">
+       Tsuchinshan–ATLAS
+      </a>
+      has now
+      <a href="https://cdn.mos.cms.futurecdn.net/JzqhuEDTRfCZKMKHUxPySB-1200-80.jpg">
+       faded considerably
+      </a>
+      and is returning to the outer
+      <a href="https://science.nasa.gov/solar-system/solar-system-facts/">
+       Solar System
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/10
   </summary>
   <table>
@@ -18,8 +125,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241110.html">
+      https://apod.nasa.gov/apod/ap241110.html
      </a>
     </td>
    </tr>
