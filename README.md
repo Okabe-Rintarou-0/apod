@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_2466.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How was the Crescent Nebula created?   Looking like an emerging space
+      <a href="ap231224.html">
+       cocoon
+      </a>
+      , the Crescent Nebula,  visible in the center of the
+      <a href="https://astroaro.fr/en/en_ngc-6888/">
+       featured image
+      </a>
+      , was created by the brightest star in its center.    A leading progenitor hypothesis has the
+      <a href="ap230904.html">
+       Crescent Nebula
+      </a>
+      beginning to form about 250,000 years ago.    At that time, the massive central star had evolved to become a
+      <a href="ap200308.html">
+       Wolf-Rayet star
+      </a>
+      (WR 136),  shedding its outer envelope in a strong
+      <a href="https://en.wikipedia.org/wiki/Stellar_wind">
+       stellar wind
+      </a>
+      , ejecting the equivalent of our  Sun's mass every 10,000 years.   This wind impacted surrounding gas left over from a
+      <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/astro/redsup.html">
+       previous phase
+      </a>
+      , compacting it into a series of
+      <a href="ap240107.html">
+       complex shells
+      </a>
+      , and
+      <a href="https://delavanlakesvet.com/wp-content/uploads/sites/195/2022/03/smiling-cat-for-web.jpg">
+       lighting it up
+      </a>
+      .   The
+      <a href="https://ui.adsabs.harvard.edu/abs/2000AJ....119.2991M/abstract">
+       Crescent Nebula
+      </a>
+      , also known as NGC 6888, lies about 4,700
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-year
+      </a>
+      s away in the
+      <a href="https://spaceplace.nasa.gov/constellations/en/">
+       constellation
+      </a>
+      of
+      <a href="https://en.wikipedia.org/wiki/Cygnus_(constellation)">
+       Cygnus
+      </a>
+      .   Star
+      <a href="https://astronomy.swin.edu.au/cosmos/w/wolf-rayet+star">
+       WR
+      </a>
+      136  will probably undergo a
+      <a href="https://youtu.be/wymMn-SmALY">
+       supernova
+      </a>
+      explosion sometime in the next million years.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/11
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241111.html">
+      https://apod.nasa.gov/apod/ap241111.html
      </a>
     </td>
    </tr>
