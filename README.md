@@ -5,6 +5,77 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/JWSTMIRI_ngc1365.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/JWSTMIRI_ngc1365_1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap221222.html">
+       A mere
+      </a>
+      56 million light-years distant toward the southern constellation Fornax,
+      <a href="https://ned.ipac.caltech.edu/level5/Lindblad/Lind_contents.html">
+       NGC 1365 is an enormous
+      </a>
+      barred spiral galaxy about 200,000 light-years in diameter.  That's twice the size of our own barred spiral Milky Way.
+      <a href="https://webbtelescope.org/contents/media/images/2023/104/01GS812G7AGRG6D1WCXPS3EYZ5">
+       This sharp image
+      </a>
+      from the
+      <a href="https://webbtelescope.org/home">
+       James Webb Space Telescope
+      </a>
+      's Mid-Infrared Instrument (MIRI)
+      <a href="https://noirlab.edu/public/blog/stellar-nurseries-nearby-galaxies/">
+       reveals stunning details
+      </a>
+      of this magnificent spiral
+      <a href="https://webbtelescope.org/webb-science/the-observatory/infrared-astronomy">
+       in infrared light
+      </a>
+      .  Webb's
+      <a href="https://webbtelescope.org/contents/media/images/2023/104/01GS81DRATN70PTZKK42BS2JXG">
+       field of view
+      </a>
+      stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters.  The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar.
+      <a href="https://arxiv.org/abs/0907.2602">
+       Astronomers suspect
+      </a>
+      the gravity field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a
+      <a href="https://www.nasa.gov/image-feature/goddard/2020/hubble-sees-swirls-of-forming-stars">
+       star-forming maelstrom
+      </a>
+      and ultimately feeding material into the active galaxy's central,
+      <a href="ap130312.html">
+       supermassive black hole
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/12
   </summary>
   <table>
@@ -18,8 +89,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241112.html">
+      https://apod.nasa.gov/apod/ap241112.html
      </a>
     </td>
    </tr>
