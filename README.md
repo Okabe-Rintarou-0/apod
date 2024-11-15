@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/KF-ApAn48-7133-4.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/KF-ApAn48-7133-4_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Put on your
+      <a href="https://en.wikipedia.org/wiki/Anaglyph_3D#/media/File:Anaglyph_glasses.png">
+       red/blue glasses
+      </a>
+      and gaze across the western
+      <a href="https://www.alanbeangallery.com/tiptoeing-on-the-ocean-of-storms">
+       Ocean of Storms
+      </a>
+      on the surface of the Moon.
+      <a href="https://www.nasa.gov/history/alsj/a12/A12-Anaglyphs.html">
+       The 3D anaglyph features
+      </a>
+      Apollo 12 astronaut Pete Conrad
+      <a href="ap181022.html">
+       visiting the Surveyor 3
+      </a>
+      spacecraft in November of 1969.
+      <a href="ap990408.html">
+       Surveyor 3 had landed
+      </a>
+      at the site on the inside slope of a small crater about 2 1/2 years earlier in April of 1967.  Visible on the horizon beyond the far crater wall, Apollo 12's
+      <a href="https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-099C">
+       Lunar Module Intrepid
+      </a>
+      touched down less than 200 meters (650 feet) away, easy moonwalking distance from the robotic Surveyor spacecraft.  This stereo image was carefully created from two separate pictures
+      <a href="https://www.hq.nasa.gov/alsj/a12/images12.html#7133">
+       (AS12-48-7133, AS12-48-7134)
+      </a>
+      captured on the
+      <a href="https://www.hq.nasa.gov/alsj/a12/a12.html">
+       lunar surface
+      </a>
+      .  They depict the scene from only slightly different viewpoints, approximating the separation between human eyes.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/14
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241114.html">
+      https://apod.nasa.gov/apod/ap241114.html
      </a>
     </td>
    </tr>
