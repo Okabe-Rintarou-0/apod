@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/PIA20727PlutoNight.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/PIA20727PlutoNight1024c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The night side of Pluto spans
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA20727">
+       this shadowy scene
+      </a>
+      .  In the stunning spacebased perspective the Sun is 4.9 billion kilometers (almost 4.5 light-hours) behind the dim and distant world.  It was captured by far flung
+      <a href="http://www.nasa.gov/feature/new-horizons-best-close-up-of-plutos-surface">
+       New Horizons in July of 2015
+      </a>
+      when the spacecraft was at a range of some 21,000 kilometers from Pluto, about 19 minutes after its closest approach.  A denizen
+      <a href="https://solarsystem.nasa.gov/solar-system/kuiper-belt/overview/">
+       of the Kuiper Belt
+      </a>
+      in dramatic silhouette, the image also reveals Pluto's tenuous, surprisingly
+      <a href="https://arxiv.org/abs/1604.05356">
+       complex layers
+      </a>
+      of hazy atmosphere.  Near the top of the frame the crescent
+      <a href="ap210115.html">
+       twilight landscape
+      </a>
+      includes  southern areas of nitrogen ice plains now formally known as
+      <a href="https://en.wikipedia.org/wiki/Sputnik_Planitia">
+       Sputnik Planitia
+      </a>
+      and
+      <a href="ap150718.html">
+       rugged mountains
+      </a>
+      of water-ice in the Norgay Montes.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/15
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241115.html">
+      https://apod.nasa.gov/apod/ap241115.html
      </a>
     </td>
    </tr>
