@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_1024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What is the cause of this unusual parabolic structure?   This illuminated cavity, known as
+      <a href="https://heasarc.gsfc.nasa.gov/W3Browse/nebula-catalog/ldn.html">
+       LDN 1471
+      </a>
+      , was created by a newly forming
+      <a href="https://science.nasa.gov/universe/stars/">
+       star
+      </a>
+      ,  seen as the bright source at the peak of the
+      <a href="https://en.wikipedia.org/wiki/Parabola">
+       parabola
+      </a>
+      .   This
+      <a href="https://en.wikipedia.org/wiki/Protostar">
+       protostar
+      </a>
+      is experiencing a
+      <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-081915-023341">
+       stellar outflow
+      </a>
+      which is then interacting with the surrounding material in the
+      <a href="https://en.wikipedia.org/wiki/Perseus_molecular_cloud">
+       Perseus Molecular Cloud
+      </a>
+      ,  causing it to brighten.   We see only one side of the cavity -- the other side is hidden by dark
+      <a href="https://coolcosmos.ipac.caltech.edu/images/173">
+       dust
+      </a>
+      .   The
+      <a href="https://www.mathwarehouse.com/quadratic/parabola/interactive-parabola.php">
+       parabolic shape
+      </a>
+      is caused by the widening of the
+      <a href="ap200308.html">
+       stellar-wind
+      </a>
+      blown cavity over time.  Two additional structures can also be seen either side of the
+      <a href="ap130904.html">
+       protostar
+      </a>
+      ; these are known as
+      <a href="https://en.wikipedia.org/wiki/Herbig%E2%80%93Haro_object">
+       Herbig-Haro object
+      </a>
+      s,  again caused by the interaction of the outflow with the surrounding material.   What causes the
+      <a href="https://en.wiktionary.org/wiki/striation#/media/File:Striation_II_(3770181363).jpg">
+       striations
+      </a>
+      on the cavity walls, though,
+      <a href="https://static01.nyt.com/images/2019/05/19/world/17grumpycat-1/17grumpycat-1-videoSixteenByNine3000.jpg">
+       remains unknown
+      </a>
+      .   The
+      <a href="https://www.flickr.com/photos/geckzilla/48507562636/in/dateposted/">
+       featured image
+      </a>
+      was taken by NASA and ESA’s
+      <a href="https://science.nasa.gov/mission/hubble">
+       Hubble Space Telescope
+      </a>
+      after an original detection by the
+      <a href="https://science.nasa.gov/mission/spitzer/">
+       Spitzer Space Telescope
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/16
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241116.html">
+      https://apod.nasa.gov/apod/ap241116.html
      </a>
     </td>
    </tr>
