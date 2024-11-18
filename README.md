@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/BokMan_Loro_1311.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/BokMan_Loro_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Stars can create huge and intricate
+      <a href="ap220925.html">
+       dust sculptures
+      </a>
+      from the dense and dark
+      <a href="ap230129.html">
+       molecular cloud
+      </a>
+      s from which they are born.    The tools the stars use to carve their detailed works are
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       high energy light
+      </a>
+      and fast
+      <a href="ap000318.html">
+       stellar winds
+      </a>
+      .    The heat they generate evaporates the dark molecular
+      <a href="https://en.wikipedia.org/wiki/Interstellar_dust">
+       dust
+      </a>
+      as well as causing ambient
+      <a href="https://periodic.lanl.gov/1.shtml">
+       hydrogen
+      </a>
+      gas to disperse and
+      <a href="emission_nebulae.html">
+       glow
+      </a>
+      .
+      <a href="https://www.astrobin.com/z1ex5r/">
+       Pictured here
+      </a>
+      ,  a new open cluster of stars designated
+      <a href="https://en.wikipedia.org/wiki/IC_1590">
+       IC 1590
+      </a>
+      is  nearing completion around the intricate
+      <a href="ap210307.html">
+       interstellar dust structures
+      </a>
+      in the  emission nebula
+      <a href="https://en.wikipedia.org/wiki/NGC_281">
+       NGC 281
+      </a>
+      , dubbed the
+      <a href="http://en.wikipedia.org/wiki/Pac-man">
+       Pac-man
+      </a>
+      Nebula because of its
+      <a href="ap181122.html">
+       overall shape
+      </a>
+      .    The
+      <a href="https://insidenanabreadshead.com/wp-content/uploads/2011/12/dust-bunny.jpg">
+       dust cloud
+      </a>
+      just above center is classified as a
+      <a href="ap030127.html">
+       Bok Globule
+      </a>
+      as it may
+      <a href="https://youtu.be/YbdwTwB8jtc">
+       gravitationally collapse
+      </a>
+      and form a star -- or stars.  The Pacman Nebula lies about 10,000
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light years
+      </a>
+      away toward the
+      <a href="https://www.constellation-guide.com/constellation-list/cassiopeia-constellation/">
+       constellation of Cassiopeia
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/17
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241117.html">
+      https://apod.nasa.gov/apod/ap241117.html
      </a>
     </td>
    </tr>
