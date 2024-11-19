@@ -5,6 +5,111 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/ParallelClouds_Beletsky_1400.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/ParallelClouds_Beletsky_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening with these clouds?    While it may seem that these
+      <a href="ap130602.html">
+       long
+      </a>
+      and thin clouds  are pointing toward the top of a hill, and that maybe a
+      <a href="https://en.wikipedia.org/wiki/List_of_astronomical_observatories">
+       world-famous observatory
+      </a>
+      is located there, only part of that is true.  In terms of
+      <a href="https://gpm.nasa.gov/education/videos/nasa-our-world-what-cloud">
+       cloud
+      </a>
+      s, the formation is a  chance superposition of impressively
+      <a href="https://en.wikipedia.org/wiki/Periodic_function">
+       periodic
+      </a>
+      undulating air currents in
+      <a href="https://www.nasa.gov/general/what-is-earths-atmosphere/">
+       Earth's lower
+      </a>
+      atmosphere.
+      <a href="https://cloudappreciationsociety.org/cloud-library/undulatus/">
+       Undulatus
+      </a>
+      , a type of
+      <a href="https://en.wikipedia.org/wiki/Asperitas_(cloud)">
+       Asper
+      </a>
+      <a href="ap180819.html">
+       it
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Asperitas_(cloud)">
+       as
+      </a>
+      cloud, form at the peaks where the air is cool enough to
+      <a href="https://climatekids.nasa.gov/cloud-formation/">
+       cause
+      </a>
+      the condensation of opaque water droplets.   The
+      <a href="ap230702.html">
+       wide-angle
+      </a>
+      nature of the panorama  creates the illusion that the clouds converge over the hill.   In terms of land, there really is a world-famous observatory at the top of that peak: the
+      <a href="https://carnegiescience.edu/">
+       Carnegie Science
+      </a>
+      's
+      <a href="https://www.lco.cl/">
+       Las Campanas
+      </a>
+      <a href="https://youtu.be/99US2V3xuLw">
+       Observatory
+      </a>
+      in the
+      <a href="https://youtu.be/o5JfmFSBDgE">
+       Atacama Desert
+      </a>
+      of
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .   The two telescope
+      <a href="ap240127.html">
+       domes visible
+      </a>
+      are the 6.5-meter
+      <a href="https://en.wikipedia.org/wiki/Magellan_Telescopes">
+       Magellan Telescopes
+      </a>
+      .   The featured coincidental vista was a
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F2oy3au68a8511.jpg">
+       surprise
+      </a>
+      but was  captured by the phone of a quick-thinking photographer in late September.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/18
   </summary>
   <table>
@@ -18,8 +123,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241118.html">
+      https://apod.nasa.gov/apod/ap241118.html
      </a>
     </td>
    </tr>
