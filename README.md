@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/LDN1105ElephantTrunk2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/LDN1105ElephantTrunk1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Like an illustration in a galactic
+      <a href="http://www.boop.org/jan/justso/elephant.htm">
+       Just So Story
+      </a>
+      , the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation
+      <a href="http://www.hawastsoc.org/deepsky/cep/">
+       of Cepheus
+      </a>
+      .  Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long.  The detailed telescopic view features the bright swept-back ridges and pockets of cool
+      <a href="http://www-ssg.sr.unh.edu/ism/what1.html">
+       interstellar
+      </a>
+      dust and gas that abound in the region.  But the
+      <a href="https://www.spitzer.caltech.edu/image/ssc2003-06b-dark-globule-in-ic-1396">
+       dark, tendril-shaped clouds
+      </a>
+      contain the raw material for star formation and hide
+      <a href="https://arxiv.org/abs/0808.3013">
+       protostars within
+      </a>
+      .  Nearly 3,000 light-years distant, the relatively faint
+      <a href="ap170720.html">
+       IC 1396 complex
+      </a>
+      covers a large region on the sky, spanning over 5 degrees.
+      <a href="https://www.astrobin.com/ueepl9/">
+       This rendition
+      </a>
+      spans a 1 degree wide field of view though, about the angular size of 2 full moons.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/20
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241120.html">
+      https://apod.nasa.gov/apod/ap241120.html
      </a>
     </td>
    </tr>
