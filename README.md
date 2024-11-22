@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/MEDUSA_NEBULA_FINAL_BRS_SIGNED.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/MEDUSA_NEBULA_FINAL_BRS_SIGNED1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Braided and serpentine filaments of glowing gas suggest this nebula's popular name,
+      <a href="https://www.astrobin.com/vaayr7/">
+       The Medusa Nebula
+      </a>
+      .  Also known as Abell 21, this Medusa is an old planetary nebula some 1,500 light-years away in the constellation Gemini.  Like its
+      <a href="http://en.wikipedia.org/wiki/Medusa">
+       mythological
+      </a>
+      namesake, the nebula is associated with a dramatic transformation.  The
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      phase represents a final stage in
+      <a href="http://casswww.ucsd.edu/public/tutorial/StevI.html">
+       the evolution
+      </a>
+      of low mass stars like the sun as they transform themselves from
+      <a href="http://en.wikipedia.org/wiki/Red_giant">
+       red giants
+      </a>
+      to hot white dwarf stars and in the process shrug off their outer layers.  Ultraviolet
+      <a href="https://science.nasa.gov/ems/01_intro">
+       radiation
+      </a>
+      from the hot star powers the nebular glow.  The Medusa's transforming star is the faint one near the center of the overall bright crescent shape.  In this deep telescopic view, fainter filaments clearly extend below and to the left.  The Medusa Nebula is estimated to be over
+      <a href="https://www.nasa.gov/content/discoveries-hubbles-nebulae">
+       4 light-years across
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/21
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241121.html">
+      https://apod.nasa.gov/apod/ap241121.html
      </a>
     </td>
    </tr>
