@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/earth_cassinimessenger_1799.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/earth_cassinimessenger_1024c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn.
+      <a href="http://photojournal.jpl.nasa.gov/catalog/PIA17038">
+       Pictured
+      </a>
+      on the left, Earth is the
+      <a href="http://en.wikipedia.org/wiki/Pale_blue_dot">
+       pale blue dot
+      </a>
+      just below the rings of Saturn, as captured by the robotic
+      <a href="http://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens">
+       Cassini spacecraft
+      </a>
+      then orbiting the
+      <a href="https://en.wikipedia.org/wiki/Gas_giant">
+       outermost
+      </a>
+      gas giant.  On that same day people across
+      <a href="ap100713.html">
+       planet Earth
+      </a>
+      snapped many
+      <a href="http://www.flickr.com/groups/wave_at_saturn/pool/">
+       of their own
+      </a>
+      pictures of Saturn.  On the right, the
+      <a href="ap130722.html">
+       Earth-Moon system
+      </a>
+      is seen against the dark background of space as captured by the sunward
+      <a href="http://en.wikipedia.org/wiki/MESSENGER">
+       MESSENGER spacecraft
+      </a>
+      , then in Mercury orbit.  MESSENGER took its image as part of a search for small natural satellites of Mercury, moons that would be expected to be quite dim.  In the
+      <a href="ap100901.html">
+       MESSENGER image
+      </a>
+      , the brighter Earth and Moon are both overexposed and shine brightly with reflected sunlight.  Destined not to return to their home world, both
+      <a href="https://www.nasa.gov/mission_pages/cassini/main/index.html">
+       Cassini
+      </a>
+      and
+      <a href="https://science.nasa.gov/mission/messenger">
+       MESSENGER
+      </a>
+      have since retired from their missions of Solar System exploration.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/22
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241122.html">
+      https://apod.nasa.gov/apod/ap241122.html
      </a>
     </td>
    </tr>
