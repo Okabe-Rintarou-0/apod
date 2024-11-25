@@ -5,6 +5,122 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/Horsehead_Lin_2596.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/Horsehead_Lin_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      One of the most identifiable nebulas in the sky, the
+      <a href="http://en.wikipedia.org/wiki/Horsehead_Nebula">
+       Horsehead Nebula
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Orion_(constellation)">
+       Orion
+      </a>
+      , is part of a large, dark,
+      <a href="ap230129.html">
+       molecular cloud
+      </a>
+      .    Also known as
+      <a href="http://en.wikipedia.org/wiki/Edward_Emerson_Barnard">
+       Barnard
+      </a>
+      33, the unusual shape was first
+      <a href="http://www.messier.seds.org/xtra/ngc/b33.html">
+       discovered
+      </a>
+      on a
+      <a href="https://en.wikipedia.org/wiki/Photographic_plate">
+       photographic plate
+      </a>
+      in the late 1800s.    The red glow originates from
+      <a href="http://periodic.lanl.gov/1.shtml">
+       hydrogen
+      </a>
+      gas predominantly behind the nebula, ionized by the nearby bright star
+      <a href="https://en.wikipedia.org/wiki/Sigma_Orionis">
+       Sigma Orionis
+      </a>
+      .    The darkness of the
+      <a href="ap221229.html">
+       Horsehead
+      </a>
+      is caused mostly by thick
+      <a href="ap030706.html">
+       dust
+      </a>
+      , although the lower part of the
+      <a href="ap081126.html">
+       Horsehead
+      </a>
+      's neck casts a
+      <a href="https://www.boredpanda.com/blog/wp-content/uploads/2014/06/funny-shadow-fails-illusions-1.jpg">
+       shadow
+      </a>
+      to the left.    Streams of gas leaving
+      <a href="http://www.youtube.com/watch?v=hgTrLozRj40">
+       the nebula
+      </a>
+      are funneled by a strong
+      <a href="https://pwg.gsfc.nasa.gov/Education/Imagnet.html">
+       magnetic field
+      </a>
+      .    Bright spots in the
+      <a href="https://ui.adsabs.harvard.edu/abs/1987AJ.....93.1514Z/abstract">
+       Horsehead Nebula
+      </a>
+      's base are young stars just in the
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/">
+       process of forming
+      </a>
+      .    Light takes about 1,500 years to reach us from the
+      <a href="ap090224.html">
+       Horsehead Nebula
+      </a>
+      .    The
+      <a href="https://www.astrobin.com/h2afic/">
+       featured image
+      </a>
+      was taken from the
+      <a href="https://en.wikipedia.org/wiki/CHILESCOPE">
+       Chilescope
+      </a>
+      Observatory in the
+      <a href="https://youtu.be/tCZ9jz5pc9E">
+       mountains
+      </a>
+      of
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/23
   </summary>
   <table>
@@ -18,8 +134,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241124.html">
+      https://apod.nasa.gov/apod/ap241124.html
      </a>
     </td>
    </tr>
