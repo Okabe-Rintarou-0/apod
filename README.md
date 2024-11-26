@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/Sombrero_WebbHubble_2290.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/Sombrero_WebbHubble_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This floating ring is the size of a galaxy.   In fact, it is a galaxy -- or at least part of one: the photogenic
+      <a href="http://messier.seds.org/m/m104.html">
+       Sombrero Galaxy
+      </a>
+      is one of the largest galaxies in the nearby
+      <a href="ap050213.html">
+       Virgo Cluster of Galaxies
+      </a>
+      .    The dark band of
+      <a href="ap030706.html">
+       dust
+      </a>
+      that obscures the mid-section of the
+      <a href="https://en.wikipedia.org/wiki/Sombrero_galaxy">
+       Sombrero Galaxy
+      </a>
+      in visible light (bottom panel) actually
+      <a href="https://www.reddit.com/r/pics/comments/15muzu/set_up_a_security_cam_to_check_up_on_the_cats/#lightbox">
+       glows brightly
+      </a>
+      in infrared light (top panel).    The
+      <a href="https://webbtelescope.org/contents/media/images/2024/137/01JCGMPWZ9NE1M4RHXSAQ36DH6">
+       featured image
+      </a>
+      shows the
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared
+      </a>
+      glow in false blue, recorded recently by the space-based
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      (JWST) and released yesterday,   pictured above an
+      <a href="ap220423.html">
+       archival
+      </a>
+      image taken by NASA's
+      <a href="https://www.nasa.gov/mission_pages/hubble/about">
+       Hubble Space Telescope
+      </a>
+      in
+      <a href="https://science.nasa.gov/ems/09_visiblelight">
+       visible
+      </a>
+      light.  The
+      <a href="https://en.wikipedia.org/wiki/Sombrero">
+       Sombrero
+      </a>
+      Galaxy, also known as
+      <a href="http://www.youtube.com/watch?v=GBB2xQe8nMw">
+       M104
+      </a>
+      , spans about 50,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      and lies 28 million light years away.
+      <a href="ap070505.html">
+       M104
+      </a>
+      can be seen with a small telescope in the direction of the constellation
+      <a href="https://en.wikipedia.org/wiki/Virgo_(constellation)">
+       Virgo
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/25
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241125.html">
+      https://apod.nasa.gov/apod/ap241125.html
      </a>
     </td>
    </tr>
