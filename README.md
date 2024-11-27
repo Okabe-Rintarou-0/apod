@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/MeteorComet_WangHao_1959.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/MeteorComet_WangHao_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How different are these two streaks?   The streak on the upper right is
+      <a href="https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)">
+       Comet Tsuchinshan-Atlas
+      </a>
+      showing an
+      <a href="ap241111.html">
+       impressive dust tail
+      </a>
+      .  The
+      <a href="https://science.nasa.gov/solar-system/comets/">
+       comet
+      </a>
+      is a large and dirty iceberg that entered the inner
+      <a href="https://science.nasa.gov/solar-system/">
+       Solar System
+      </a>
+      and is
+      <a href="ap151118.html">
+       shedding
+      </a>
+      gas and dust  as it is warmed by the Sun's light.  The streak on the lower left is a
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/">
+       meteor
+      </a>
+      showing an impressive
+      <a href="ap240714.html">
+       evaporation trail
+      </a>
+      .   The meteor is a small and cold rock that entered the
+      <a href="https://www.nasa.gov/general/what-is-earths-atmosphere/">
+       Earth's atmosphere
+      </a>
+      and is shedding gas and dust as it is
+      <a href="https://packaged-media.redd.it/v0wnspc5dg2e1/pb/m2-res_650p.mp4?m=DASHPlaylist.mpd&amp;v=1&amp;e=1732327200&amp;s=e59e3c622e0eebc98f47bd85e214ecb24461a327">
+       warmed
+      </a>
+      by molecular collisions.   The meteor was likely once part of a comet or
+      <a href="https://science.nasa.gov/solar-system/asteroids/">
+       asteroid
+      </a>
+      -- perhaps later composing part of its tail.   The meteor was
+      <a href="ap240826.html">
+       gone in a flash
+      </a>
+      and was only caught by coincidence during a  series of exposures documenting the
+      <a href="ap241021.html">
+       comet's long tail
+      </a>
+      .  The featured image was captured just over a month ago from
+      <a href="https://youtu.be/so00OtYwHJ8">
+       Sichuan Province
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/China">
+       China
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/26
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241126.html">
+      https://apod.nasa.gov/apod/ap241126.html
      </a>
     </td>
    </tr>
