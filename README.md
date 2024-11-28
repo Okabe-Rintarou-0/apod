@@ -5,6 +5,80 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/NGC206_APOD.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/NGC206_APOD1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The large stellar association cataloged as
+      <a href="ap990402.html">
+       NGC 206
+      </a>
+      is nestled within the dusty arms of the neighboring
+      <a href="ap220119.html">
+       Andromeda galaxy
+      </a>
+      along with the galaxy's pinkish star-forming regions.  Also known as M31,
+      <a href="http://www.nasa.gov/mission_pages/hubble/science/milky-way-collide.html">
+       the spiral galaxy is a mere
+      </a>
+      2.5 million light-years away.  NGC 206 is found at the center of
+      <a href="https://www.astrobin.com/s57ghl/">
+       this sharp and detailed close-up
+      </a>
+      of the southwestern
+      <a href="ap200925.html">
+       extent
+      </a>
+      of Andromeda's disk.  The bright, blue
+      <a href="https://ui.adsabs.harvard.edu/abs/2010MNRAS.405.1531E/abstract">
+       stars of NGC 206
+      </a>
+      indicate its youth.  In fact, its youngest massive stars are less than 10 million years old.  Much larger than the open or galactic clusters of young stars
+      <a href="ap120912.html">
+       in the disk
+      </a>
+      <a>
+      </a>
+      of our Milky Way galaxy,
+      <a href="http://messier.seds.org/more/m031_n206.html">
+       NGC 206
+      </a>
+      spans about 4,000 light-years.  That's comparable in size to the giant stellar nurseries
+      <a href="ap240425.html">
+       NGC 604
+      </a>
+      in nearby spiral M33 and the
+      <a href="ap240308.html">
+       Tarantula Nebula
+      </a>
+      in the Large Magellanic Cloud.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/27
   </summary>
   <table>
@@ -18,8 +92,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241127.html">
+      https://apod.nasa.gov/apod/ap241127.html
      </a>
     </td>
    </tr>
