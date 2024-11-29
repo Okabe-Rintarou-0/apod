@@ -5,6 +5,53 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/m4_STXL16200_RC14_LRGB.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/m4_STXL16200_RC14_LRGB1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-4/">
+       Messier 4 can be found
+      </a>
+      west of bright red-giant star Antares, alpha star of the constellation Scorpius.
+      <a href="ap000523.html">
+       M4 itself
+      </a>
+      is only just visible from dark sky locations, even though the globular cluster of 100,000 stars or so is a mere 5,500 light-years away.  Still, its proximity to prying telescopic eyes makes it a prime target for astronomical explorations.  Recent studies have included Hubble observations of M4's pulsating cepheid variable stars, cooling white dwarf stars, and ancient, pulsar orbiting
+      <a href="https://science.nasa.gov/exoplanet-catalog/psr-b1620-26-b/">
+       exoplanet PSR B1620-26 b
+      </a>
+      .  This sharp image was captured with a
+      <a href="http://members.pcug.org.au/~stevec/m4_STXL16200_RC14.htm">
+       small telescope on planet Earth
+      </a>
+      .  At M4's estimated distance it spans about 50 light-years across the core of the globular star cluster.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/28
   </summary>
   <table>
@@ -18,8 +65,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241128.html">
+      https://apod.nasa.gov/apod/ap241128.html
      </a>
     </td>
    </tr>
