@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/11/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2411/LittleplanetGalibier-CamilleNIEL2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2411/LittleplanetGalibier-CamilleNIEL1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Winter and summer appear to come on a single night to this
+      <a href="https://www.instagram.com/camille.niel_photography/p/C270AVzrKcp/?img_index=1">
+       stunning little planet
+      </a>
+      .  It's planet Earth of course.  The
+      <a href="http://srcematematike.si/2014/03/09/math-behind-tiny-planets/">
+       digitally mapped
+      </a>
+      , nadir centered panorama covers 360x180 degrees and is composed of frames recorded during January and July from the
+      <a href="https://en.wikipedia.org/wiki/Col_du_Galibier">
+       Col du Galibier
+      </a>
+      in the French Alps.  Stars and nebulae of the northern winter (bottom) and summer Milky Way form the complete arcs traversing the rugged, curved horizon.  Cars driving along on the road during a summer night illuminate the 2,642 meter high mountain pass, but snow makes access difficult during winter months except by
+      <a href="https://www.youtube.com/watch?v=xDlF0VMtCZY">
+       serious ski touring
+      </a>
+      .
+      <a href="ap201002.html">
+       Cycling fans
+      </a>
+      will recognize the Col du Galibier as one of the most famous climbs in planet Earth's Tour de France.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/29
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241129.html">
+      https://apod.nasa.gov/apod/ap241129.html
      </a>
     </td>
    </tr>
