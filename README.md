@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/CosmicLatte_jhu_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/CosmicLatte_jhu_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What color is the universe?    More precisely, if the
+      <a href="ap020310.html">
+       entire sky
+      </a>
+      were smeared out, what color would the final mix be?    This whimsical
+      <a href="http://sten.astronomycafe.net/faqs/">
+       question
+      </a>
+      came up when trying to determine what stars are commonplace in nearby galaxies.  The answer, depicted here, is a
+      <a href="https://www.aao.org/eye-health/tips-prevention/how-humans-see-in-color">
+       conditionally perceived shade
+      </a>
+      of
+      <a href="http://en.wikipedia.org/wiki/Beige">
+       beige
+      </a>
+      .  In computer parlance: #
+      <a href="https://www.color-hex.com/color/fff8e7">
+       FFF8E7
+      </a>
+      .   To determine this, astronomers computationally averaged the light emitted by one of the larger samples of
+      <a href="ap071007.html">
+       galaxies
+      </a>
+      analyzed: the 200,000
+      <a href="ap010904.html">
+       galaxies
+      </a>
+      of the
+      <a href="https://en.wikipedia.org/wiki/2dF_Galaxy_Redshift_Survey">
+       2dF Galaxy Redshift Survey
+      </a>
+      .    The resulting
+      <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...569..582B/abstract">
+       cosmic spectrum
+      </a>
+      has some emission in all parts of the
+      <a href="https://science.nasa.gov/ems/01_intro">
+       electromagnetic spectrum
+      </a>
+      , but a single perceived composite color.
+      <a href="https://www.curiositybox.com/blogs/inqs-corner/cosmic-latte-the-average-color-of-the-universe">
+       This color
+      </a>
+      has become much less blue over
+      <a href="ap180508.html">
+       the past
+      </a>
+      10 billion years, indicating that redder stars are becoming
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fprm50mltnj4d1.jpeg">
+       more prevalent
+      </a>
+      .    In a
+      <a href="https://en.wikipedia.org/wiki/Cosmic_latte#Naming_the_color">
+       contest
+      </a>
+      to better name the color, notable entries included skyvory, univeige, and the winner:
+      <a href="https://en.wikipedia.org/wiki/Cosmic_latte">
+       cosmic latte
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/11/30
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241130.html">
+      https://apod.nasa.gov/apod/ap241130.html
      </a>
     </td>
    </tr>
