@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_7032.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This galaxy is unusual for how many stars it seems that you can see.
+      <a href="https://science.nasa.gov/universe/stars/">
+       Stars
+      </a>
+      are so abundantly evident in this  deep exposure of the spiral galaxy NGC 300 because so many of these stars are
+      <a href="ap221205.html">
+       bright blue and grouped
+      </a>
+      into resolvable bright star clusters.   Additionally,
+      <a href="https://en.wikipedia.org/wiki/NGC_300">
+       NGC 300
+      </a>
+      is so clear because it is one of the closest
+      <a href="https://en.wikipedia.org/wiki/Spiral_galaxy">
+       spiral galaxies
+      </a>
+      to Earth, as  light takes only about 6 million years to get here.   Of course, galaxies are composed of many more
+      <a href="https://www.reddit.com/r/askastronomy/comments/1g8ftr0/from_the_perspective_of_other_stars_in_the_milky/">
+       faint stars
+      </a>
+      than bright,  and even more of a galaxy's mass is attributed to unseen
+      <a href="https://spaceplace.nasa.gov/dark-matter/">
+       dark matter
+      </a>
+      .
+      <a href="ap020821.html">
+       NGC 300
+      </a>
+      spans nearly the same amount of sky as the
+      <a href="ap240915.html">
+       full moon
+      </a>
+      and is visible with a small telescope toward the southern constellation of the
+      <a href="https://en.wikipedia.org/wiki/Sculptor_(constellation)">
+       Sculptor
+      </a>
+      .  The
+      <a href="https://www.instagram.com/p/DChWdQOOQzR/">
+       featured image
+      </a>
+      was captured in October from
+      <a href="https://youtu.be/a5jUyVPIDAk">
+       Rio Hurtado
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      and  is a
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fwhat-do-you-call-a-pile-of-kittens-a-meowntain-our-11yo-v0-5u4lbl0trml81.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D256b968c218e77e5edd1aece91ae1182c7eb6abb">
+       composite
+      </a>
+      of over 20 hours of exposure.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/01
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241201.html">
+      https://apod.nasa.gov/apod/ap241201.html
      </a>
     </td>
    </tr>
