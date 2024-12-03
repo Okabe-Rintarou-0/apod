@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      If you could stand on Mars -- what might you see?   You might look out over a
+      <a href="ap180404.html">
+       vast orange landscape
+      </a>
+      covered with rocks under a dusty orange sky,  with a blue-tinted
+      <a href="ap200802.html">
+       Sun setting
+      </a>
+      over the horizon,  and odd-shaped water clouds hovering high overhead.  This was just
+      <a href="https://www.facebook.com/photo.php?fbid=1108810870821013">
+       the view
+      </a>
+      captured last March by NASA's rolling explorer,
+      <a href="https://science.nasa.gov/mission/mars-2020-perseverance/">
+       Perseverance
+      </a>
+      .  The
+      <a href="https://coolcosmos.ipac.caltech.edu/ask/69-Why-is-Mars-reddish">
+       orange coloring
+      </a>
+      is caused by
+      <a href="https://en.wikipedia.org/wiki/Rust">
+       rusted
+      </a>
+      iron in the Martian dirt,  some of which is small enough to be
+      <a href="ap231107.html">
+       swept up by winds
+      </a>
+      into the atmosphere.  The blue tint near the setting Sun is caused by
+      <a href="https://spaceplace.nasa.gov/blue-sky/">
+       blue light
+      </a>
+      being preferentially scattered out from the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      by the floating dust.  The light-colored clouds on the right are likely composed of
+      <a href="https://www.jpl.nasa.gov/news/mars-water-ice-clouds-are-key-to-odd-thermal-rhythm/">
+       water-ice
+      </a>
+      and appear high in the
+      <a href="https://en.wikipedia.org/wiki/Atmosphere_of_Mars">
+       Martian atmosphere
+      </a>
+      .   The shapes of some of these clouds are
+      <a href="https://bgr.com/wp-content/uploads/2016/05/scared-surprised-cat-face.jpg">
+       unusual
+      </a>
+      for Earth and remain a topic of research.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/02
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241202.html">
+      https://apod.nasa.gov/apod/ap241202.html
      </a>
     </td>
    </tr>
