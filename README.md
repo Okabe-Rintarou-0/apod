@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo1200.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Jupiter looks sharp in these two
+      <a href="https://www.astrobin.com/users/lorenzi/">
+       rooftop telescope images
+      </a>
+      .  Both were captured last year on November 17 from Singapore, planet Earth, about two weeks after
+      <a href="ap231103.html">
+       Jupiter's 2023 opposition
+      </a>
+      .  Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore.  That's about 4 astronomical units away.  Jupiter's planet girdling
+      <a href="https://en.wikipedia.org/wiki/Atmosphere_of_Jupiter#Zones,_belts_and_jets">
+       dark belts and light zones
+      </a>
+      are visible in remarkable detail, along with the giant world's
+      <a href="ap211229.html">
+       whitish oval
+      </a>
+      vortices.  Its signature
+      <a href="ap220717.html">
+       Great Red Spot
+      </a>
+      is prominent in the south.  Jupiter rotates rapidly on its axis once every 10 hours.  So, based on video frames taken only 15 minutes apart, these images form a stereo pair.  Look at the center of the pair and cross your eyes until the separate images come together to see the 3D effect.
+      <a href="https://skyandtelescope.org/astronomy-news/youre-invited-to-jupiters-big-opposition-bash/">
+       Of course Jupiter
+      </a>
+      is now not far from its 2024 opposition.  Planet Earth is set to pass between the
+      <a href="https://science.nasa.gov/jupiter/">
+       Solar System's ruling gas giant
+      </a>
+      and the Sun on December 7.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/03
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241204.html">
+      https://apod.nasa.gov/apod/ap241204.html
      </a>
     </td>
    </tr>
