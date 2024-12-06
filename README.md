@@ -5,6 +5,54 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Colorful and bright, this streaking fireball meteor was captured in a single exposure taken at
+      <a href="https://en.wikipedia.org/wiki/Purple_Mountain_Observatory">
+       Purple Mountain (Tsuchinshan)
+      </a>
+      Observatory’s Xuyi Station in 2020, during planet Earth's annual Perseid meteor shower.  The dome in the foreground houses the China Near Earth Object Survey Telescope (CNEOST), the largest multi-purpose Schmidt telescope in China.  Located in Xuyi County, Jiangsu Province, the station began its operation as an extension of China's Purple Mountain Observatory in 2006.
+      <a href="https://www.facebook.com/media/set/?vanity=APOD.Sky&amp;set=a.516503464411569">
+       Darling of planet Earth's night skies
+      </a>
+      in 2024, the bright comet designated
+      <a href="https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)">
+       Tsuchinshan-ATLAS (C/2023 A3)
+      </a>
+      was discovered in images taken there on 2023 January 9.  The discovery is jointly credited to NASA's
+      <a href="https://www.nasa.gov/solar-system/nasa-asteroid-tracking-system-now-capable-of-full-sky-search/">
+       ATLAS robotic survey telescope
+      </a>
+      at Sutherland Observatory, South Africa.  Other comet discoveries associated with the historic Purple Mountain Observatory and bearing the observatory's transliterated Mandarin name include periodic comets 60/P Tsuchinshan and 62/P Tsuchinshan.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/05
   </summary>
   <table>
@@ -18,8 +66,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241205.html">
+      https://apod.nasa.gov/apod/ap241205.html
      </a>
     </td>
    </tr>
