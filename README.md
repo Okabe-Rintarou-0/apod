@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/SaturnAurora_Hubble_2215.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/SaturnAurora_Hubble_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Are Saturn's auroras like Earth's?   To help answer this question, the
+      <a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/">
+       Hubble Space Telescope
+      </a>
+      and the
+      <a href="https://science.nasa.gov/mission/cassini/about-the-mission/">
+       Cassini spacecraft
+      </a>
+      monitored Saturn's North Pole simultaneously during
+      <a href="ap170125.html">
+       Cassini's final orbits
+      </a>
+      around the gas giant in September 2017.   During this time,
+      <a href="https://science.nasa.gov/saturn/">
+       Saturn
+      </a>
+      's tilt caused its North Pole to be
+      <a href="ap150621.html">
+       clearly visible
+      </a>
+      from Earth.  The
+      <a href="https://www.spacetelescope.org/images/heic1815a/">
+       featured image
+      </a>
+      is a composite of
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       ultraviolet images
+      </a>
+      of auroras and optical images of  Saturn's clouds and rings, all taken by Hubble.    Like on Earth, Saturn's northern auroras can make
+      <a href="ap081119.html">
+       total or partial rings
+      </a>
+      around the pole.  Unlike on Earth, however,
+      <a href="https://en.wikipedia.org/wiki/Magnetosphere_of_Saturn#Aurorae">
+       Saturn's auroras
+      </a>
+      are frequently spirals --  and more likely to
+      <a href="https://media.istockphoto.com/id/1097010202/photo/portrait-of-a-funny-cat-looking-out-of-the-box.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=xhduCYxVsageM8F5_Ot0JFFwB6edgD5pLHoc6gmj3bU=">
+       peak
+      </a>
+      in brightness just before midnight and dawn.   In contrast to
+      <a href="ap220830.html">
+       Jupiter's auroras
+      </a>
+      ,
+      <a href="https://www.spacetelescope.org/news/heic1815/">
+       Saturn's auroras
+      </a>
+      appear better related to connecting  Saturn's internal magnetic field to the nearby, variable,
+      <a href="https://en.wikipedia.org/wiki/Solar_wind">
+       solar wind
+      </a>
+      .
+      <a href="ap050219.html">
+       Saturn's southern auroras
+      </a>
+      were similarly imaged back in 2004 when the
+      <a href="ap050222.html">
+       planet's South Pole
+      </a>
+      was clearly visible to Earth.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/07
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241207.html">
+      https://apod.nasa.gov/apod/ap241207.html
      </a>
     </td>
    </tr>
