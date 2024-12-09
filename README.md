@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/Pleiades_Pelizzo_9396.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/Pleiades_Pelizzo_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Have you ever seen the Pleiades star cluster?  Even if you have, you probably have never seen it as large and clear as this.  Perhaps the most famous star cluster on the sky, the bright stars of the
+      <a href="https://en.wikipedia.org/wiki/Pleiades">
+       Pleiades
+      </a>
+      can be seen with the unaided eye even from the depths of a
+      <a href="ap200408.html">
+       light-polluted city
+      </a>
+      .    With a long exposure from a dark location, though,  the dust cloud surrounding the
+      <a href="ap210406.html">
+       Pleiades
+      </a>
+      star
+      <a href="http://asterisk.apod.com/viewtopic.php?f=24&amp;t=18009">
+       cluster
+      </a>
+      becomes very evident.  The
+      <a href="https://www.astrobin.com/o6o2nx/">
+       featured 23-hour exposure
+      </a>
+      , taken from
+      <a href="https://youtu.be/wDess8goKRA">
+       Fagagna
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italy
+      </a>
+      covers a sky area several times the size of the full
+      <a href="https://science.nasa.gov/moon/">
+       moon
+      </a>
+      .   Also known as the
+      <a href="https://theconversation.com/the-worlds-oldest-story-astronomers-say-global-myths-about-seven-sisters-stars-may-reach-back-100-000-years-151568">
+       Seven Sisters
+      </a>
+      and
+      <a href="ap131122.html">
+       M45
+      </a>
+      ,
+      <a href="https://www.skyandtelescope.com/astronomy-news/observing-news/many-pleiades-can-see10222014/">
+       the Pleiades
+      </a>
+      lies about  400
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light years
+      </a>
+      away toward the constellation of the Bull  (
+      <a href="https://en.wikipedia.org/wiki/Taurus_%28constellation%29">
+       Taurus
+      </a>
+      ).   A
+      <a href="http://arxiv.org/ftp/arxiv/papers/0810/0810.1592.pdf">
+       common legend
+      </a>
+      with a
+      <a href="http://kencroswell.com/GD50.html">
+       modern twist
+      </a>
+      is that one of the brighter stars faded since the cluster was named, leaving only
+      <a href="https://i.pinimg.com/originals/a9/b3/21/a9b321789591e2839c773669a5aa03bd.jpg">
+       six
+      </a>
+      of the sister stars visible to the unaided eye.  The actual number of
+      <a href="http://www.youtube.com/watch?v=p6prI0Zfw80">
+       Pleiades
+      </a>
+      stars visible,  however, may be more or less than seven, depending on the
+      <a href="ap010827.html">
+       darkness
+      </a>
+      of the surrounding sky and the
+      <a href="http://en.wikipedia.org/wiki/File:Snellen_chart.svg">
+       clarity
+      </a>
+      of the observer's eyesight.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/08
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241208.html">
+      https://apod.nasa.gov/apod/ap241208.html
      </a>
     </td>
    </tr>
