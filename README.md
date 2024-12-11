@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/CenAShellsJets_Olsen_6150.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/CenAShellsJets_Olsen_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's the closest
+      <a href="ap080110.html">
+       active galaxy
+      </a>
+      to planet Earth?  That would be
+      <a href="ap230503.html">
+       Centaurus A
+      </a>
+      ,  cataloged as NGC 5128, which is only 12 million
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light-year
+      </a>
+      s distant.  Forged in a collision of two otherwise normal galaxies,
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       Centaurus A
+      </a>
+      shows several distinctive features including a
+      <a href="ap220317.html">
+       dark dust lane
+      </a>
+      across its center,
+      <a href="ap120701.html">
+       outer shells
+      </a>
+      of stars and gas, and
+      <a href="ap210804.html">
+       jets of particles
+      </a>
+      shooting out from a
+      <a href="https://en.wikipedia.org/wiki/Supermassive_black_hole">
+       supermassive black hole
+      </a>
+      at its center.   The
+      <a href="https://www.astrobin.com/full/ssfh13/0/">
+       featured image
+      </a>
+      captures all of these in a
+      <a href="https://www.facebook.com/photo/?fbid=1040566871414338">
+       composite series
+      </a>
+      of
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      images totaling over  310 hours captured over the past 10 years  with a homebuilt telescope operating in
+      <a href="https://youtu.be/Jbdf-Nm3F9I">
+       Auckland
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/New_Zealand">
+       New Zealand
+      </a>
+      .  The brightness of Cen A's center from low-energy
+      <a href="https://science.nasa.gov/ems/05_radiowaves/">
+       radio waves
+      </a>
+      to high-energy
+      <a href="https://science.nasa.gov/ems/12_gammarays/">
+       gamma
+      </a>
+      rays
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Ft3tivrhnqsv61.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3De142e081803e2344e4ded9030fcc4eab90d25aad">
+       underlies
+      </a>
+      its  designation as an
+      <a href="https://en.wikipedia.org/wiki/Active_galactic_nucleus">
+       active galaxy
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/10
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241210.html">
+      https://apod.nasa.gov/apod/ap241210.html
      </a>
     </td>
    </tr>
