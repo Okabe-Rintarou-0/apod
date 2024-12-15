@@ -5,6 +5,89 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/Geminids_Kurak_5757.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/Geminids_Kurak_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Meteors have been flowing out from the
+      <a href="https://en.wikipedia.org/wiki/Gemini_(constellation)">
+       constellation Gemini
+      </a>
+      .   This was expected, as mid-December is the time of the
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/geminids/">
+       Geminid Meteor Shower
+      </a>
+      .   Pictured here, over two dozen meteors were caught in
+      <a href="https://static8.depositphotos.com/1479497/941/i/380/depositphotos_9415227-stock-photo-cat-near-calculator.jpg">
+       successively added
+      </a>
+      exposures taken over  several hours early Saturday morning from a
+      <a href="ap210206.html">
+       snowy forest
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Poland">
+       Poland
+      </a>
+      .  The
+      <a href="ap240826.html">
+       fleeting streaks
+      </a>
+      were bright enough to be seen over the din of the
+      <a href="https://spaceplace.nasa.gov/moon-phases/">
+       nearly full Moon
+      </a>
+      on the upper right.  These streaks can all be traced back to a point on the sky called the
+      <a href="https://en.wikipedia.org/wiki/Radiant_(meteor_shower)">
+       radiant
+      </a>
+      toward the bright stars
+      <a href="https://globeatnight.org/constellation/gemini/">
+       Pollux and Castor
+      </a>
+      in the image center.  The
+      <a href="ap191213.html">
+       Geminid meteors
+      </a>
+      started as sand sized bits expelled from asteroid
+      <a href="https://en.wikipedia.org/wiki/3200_Phaethon">
+       3200
+      </a>
+      <a href="ap241212.html">
+       Phaethon
+      </a>
+      during its  elliptical orbit through the
+      <a href="https://science.nasa.gov/planetary-science/focus-areas/inner-solar-system/">
+       inner Solar System
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/14
   </summary>
   <table>
@@ -18,8 +101,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241214.html">
+      https://apod.nasa.gov/apod/ap241214.html
      </a>
     </td>
    </tr>
