@@ -5,6 +5,97 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/CometCliffs_Rosetta_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/CometCliffs_Rosetta_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This kilometer high cliff occurs on the surface of a comet.   It was discovered on the dark nucleus of
+      <a href="https://en.wikipedia.org/wiki/67P/Churyumov%E2%80%93Gerasimenko">
+       Comet Churyumov - Gerasimenko
+      </a>
+      (CG) by
+      <a href="http://en.wikipedia.org/wiki/Rosetta_(spacecraft)">
+       Rosetta
+      </a>
+      ,  a robotic spacecraft
+      <a href="ap091123.html">
+       launched
+      </a>
+      by
+      <a href="http://www.esa.int/">
+       ESA
+      </a>
+      ,  which orbited the comet from 2014 to 2016.   The ragged cliff, as
+      <a href="http://www.esa.int/spaceinimages/Images/2014/12/Comet_on_10_December_2014_NavCam">
+       featured
+      </a>
+      <a href="https://cumbriansky.wordpress.com/2014/12/17/the-cliffs-of-churyumov-gerasimenko/">
+       here
+      </a>
+      , was imaged by Rosetta early in its mission.  Although towering about one kilometer high, the low surface gravity of
+      <a href="http://blogs.esa.int/rosetta/2014/12/15/cometwatch-10-december/">
+       Comet CG
+      </a>
+      would likely make a
+      <a href="ap140210.html">
+       jump
+      </a>
+      from the
+      <a href="ap110404.html">
+       cliffs
+      </a>
+      by a human survivable.   At the foot of the cliffs is relatively smooth terrain dotted with
+      <a href="http://blogs.esa.int/rosetta/2014/10/09/boulder-close-up/">
+       boulders
+      </a>
+      as large as 20 meters across.  Data from
+      <a href="https://www.jpl.nasa.gov/news/farewell-rosetta-esa-mission-to-end-on-comet-surface/">
+       Rosetta
+      </a>
+      indicates that the ice in  Comet CG has a significantly different
+      <a href="https://en.wikipedia.org/wiki/Deuterium">
+       deuterium
+      </a>
+      fraction --  and hence likely a
+      <a href="http://www.esa.int/Our_Activities/Space_Science/Rosetta/Rosetta_fuels_debate_on_origin_of_Earth_s_oceans">
+       different origin
+      </a>
+      -- than the water in Earth's oceans.   The probe was named after the
+      <a href="https://en.wikipedia.org/wiki/Rosetta_Stone">
+       Rosetta Stone
+      </a>
+      , a rock slab featuring the  same text written in three different languages  that helped humanity
+      <a href="https://i.pinimg.com/736x/00/84/ce/0084ce9d4e75ac0725816da10f42c2f8.jpg">
+       decipher
+      </a>
+      ancient Egyptian writing.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/15
   </summary>
   <table>
@@ -18,8 +109,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241215.html">
+      https://apod.nasa.gov/apod/ap241215.html
      </a>
     </td>
    </tr>
