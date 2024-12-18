@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/NGC660_Selby_1720.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/NGC660_Selby_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What kind of strange galaxy is this?  This rare structure is known as a
+      <a href="https://en.wikipedia.org/wiki/Polar-ring_galaxy">
+       polar ring galaxy
+      </a>
+      , and it seems to have two different rings of stars.   In this galaxy,
+      <a href="ap141108.html">
+       NGC 660
+      </a>
+      , one ring of bright stars,  gas, and dark dust appears nearly vertical,  while another similar but shorter ring runs diagonally from the upper left.   How polar ring galaxies
+      <a href="ap231024.html">
+       obtain
+      </a>
+      their striking appearance remains a
+      <a href="https://i.pinimg.com/1200x/68/54/15/685415485a101db87fa6023548eec83f.jpg">
+       topic of research
+      </a>
+      , but a leading theory  holds that it is usually the result of two galaxies  with different central ring planes
+      <a href="ap130514.html">
+       colliding
+      </a>
+      .   NGC 660 spans about 50,000 light years and is located about 40 million
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      away toward the constellation of the Fish  (
+      <a href="https://en.wikipedia.org/wiki/Pisces_(constellation)">
+       Pisces
+      </a>
+      ).   The
+      <a href="https://throughlightandtime.com/ngc-660-lrgb-rev-1-crop-cdk-1000-22-nov-2024-2/">
+       featured image
+      </a>
+      was captured recently from
+      <a href="https://youtu.be/S4rFdr2Qmjk">
+       Observatorio El Sauce
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/17
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241217.html">
+      https://apod.nasa.gov/apod/ap241217.html
      </a>
     </td>
    </tr>
