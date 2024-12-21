@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/SunsetYearOmar.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/SunsetYearOmar800.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap220105.html">
+       A year in
+      </a>
+      sunsets, from April 2023 to March 2024, track along the western horizon in these stacked panoramic views.  The
+      <a href="https://www.instagram.com/waelomar_astrophotography/p/C4ygIw1rIpo/">
+       well-planed sequence
+      </a>
+      is constructed of images recorded near the 21st day of the indicated month from the same location overlooking Cairo, Egypt.  But for any location
+      <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/tropical-solstice-shadows/">
+       on planet Earth
+      </a>
+      the yearly extreme northern (picture right) and southern limits of the setting Sun
+      <a href="https://earthobservatory.nasa.gov/blogs/eokids/wp-content/uploads/sites/6/2019/04/16_SunSeasons-508.pdf">
+       mark the solstice
+      </a>
+      days.  The word solstice is from Latin for "Sun" and "stand still".  On the solstice date the seasonal drift of the Sun's daily path through the sky appears to pause and reverse direction in its
+      <a href="ap190621.html">
+       annual celestial journey
+      </a>
+      .  Of course the Sun reaches a stand still on today's date.  The
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-december-solstice/">
+       21 December 2024 solstice
+      </a>
+      at 09:21 UTC is the moment of the Sun's southernmost declination, the start of astronomical winter
+      <a href="ap221221.html">
+       in the north
+      </a>
+      and summer
+      <a href="ap231223.html">
+       in the south
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/20
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241220.html">
+      https://apod.nasa.gov/apod/ap241220.html
      </a>
     </td>
    </tr>
