@@ -5,6 +5,134 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/LocalCloud_ibex_5580.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/LocalCloud_ibex_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The stars are not alone.    In the disk of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      , about 10 percent of visible matter is in the form of gas  called the
+      <a href="http://www-ssg.sr.unh.edu/ism/what1.html">
+       interstellar medium
+      </a>
+      (ISM).    The ISM is
+      <a href="https://en.wikipedia.org/wiki/Local_Bubble">
+       not uniform
+      </a>
+      and shows
+      <a href="ap990503.html">
+       patchiness
+      </a>
+      even near our
+      <a href="https://spaceplace.nasa.gov/menu/sun/">
+       Sun
+      </a>
+      .    It can be quite difficult to detect the
+      <a href="http://en.wikipedia.org/wiki/Local_Interstellar_Cloud">
+       local ISM
+      </a>
+      because it is so tenuous and emits so little light.    This mostly
+      <a href="http://periodic.lanl.gov/1.shtml">
+       hydrogen
+      </a>
+      gas, however, absorbs some very specific colors that can be detected in the light of the
+      <a href="http://www.atlasoftheuniverse.com/20lys.html">
+       nearest stars
+      </a>
+      .    A working map of the local
+      <a href="ap980225.html">
+       ISM
+      </a>
+      within 20 light-years, based on ongoing observations and particle detections  from the Earth-orbiting  Interstellar Boundary Exporer satellite   (
+      <a href="http://en.wikipedia.org/wiki/IBEX">
+       IBEX
+      </a>
+      ), is
+      <a href="https://svs.gsfc.nasa.gov/10906/">
+       shown here
+      </a>
+      .    These observations indicate that our
+      <a href="ap020217.html">
+       Sun is moving
+      </a>
+      through a
+      <a href="https://en.wikipedia.org/wiki/Local_Interstellar_Cloud">
+       Local Interstellar Cloud
+      </a>
+      as this cloud flows outwards from the
+      <a href=" https://en.wikipedia.org/wiki/Scorpius%E2%80%93Centaurus_Association">
+       Scorpius-Centaurus Association
+      </a>
+      star forming
+      <a href="http://www.youtube.com/watch?v=DB2stJnmubc#t=28">
+       region
+      </a>
+      .    Our Sun may exit the
+      <a href="http://arxiv.org/abs/0804.3798">
+       Local Cloud
+      </a>
+      , also called the Local Fluff, during the next 10,000 years.    Much remains unknown about the local
+      <a href="https://en.wikipedia.org/wiki/Interstellar_medium">
+       ISM
+      </a>
+      ,  including details of its distribution, its origin, and how it affects the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      and the
+      <a href="ap220206.html">
+       Earth
+      </a>
+      .
+      <a href="https://i.imgflip.com/eyvnj.jpg">
+       Unexpectedly
+      </a>
+      , IBEX
+      <a href="https://science.nasa.gov/mission/ibex/">
+       spacecraft
+      </a>
+      measurements indicate that the
+      <a href="http://news.uchicago.edu/article/2013/09/06/spacecraft-measures-changes-direction-solar-system-s-interstellar-winds">
+       direction
+      </a>
+      from which neutral
+      <a href="http://www.youtube.com/watch?v=9ZaGqnGn5x4">
+       interstellar particles flow
+      </a>
+      through our Solar System
+      <a href="https://www.science.org/doi/full/10.1126/science.1239925">
+       is changing
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/21
   </summary>
   <table>
@@ -18,8 +146,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241221.html">
+      https://apod.nasa.gov/apod/ap241221.html
      </a>
     </td>
    </tr>
