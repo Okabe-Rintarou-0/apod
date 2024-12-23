@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/AuroraTree_Zhang_1537.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/AuroraTree_Zhang_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It was December and the sky lit up like a Christmas tree.  Shimmering, the vivid green, blue, and purple
+      <a href="https://svs.gsfc.nasa.gov/vis/a000000/a004900/a004934/Different_Colors_of_Auroras.pdf">
+       auroral colors
+      </a>
+      that formed the  tree-like apparition were caused by high atmospheric
+      <a href="https://periodic.lanl.gov/8.shtml">
+       oxygen
+      </a>
+      and
+      <a href="https://periodic.lanl.gov/7.shtml">
+       nitrogen
+      </a>
+      reacting to a burst of incoming electrons.   Collisions caused the orbital
+      <a href="https://www.aps.org/apsnews/2000/10/discovery-of-the-electron">
+       electrons
+      </a>
+      of atoms and molecules to
+      <a href="https://www.youtube.com/shorts/m3C7Pv9u2l0">
+       jump into excited energy states
+      </a>
+      and emit
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      when returning to their normal state.  The featured image was captured in
+      <a href="https://youtu.be/nDxwPAyCXK4">
+       Djúpivogur
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Iceland">
+       Iceland
+      </a>
+      during the last month of 2023.  Our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      is currently in its
+      <a href="https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/">
+       most energetic phase
+      </a>
+      of its 11-year cycle, with its high number of
+      <a href="ap141022.html">
+       active regions and sunspots
+      </a>
+      likely to last into next year.  Of course, the Sun has been near
+      <a href="https://en.wikipedia.org/wiki/Solar_maximum">
+       solar maximum
+      </a>
+      during this entire year, with its
+      <a href="ap240818.html">
+       outbursts
+      </a>
+      sometimes resulting in
+      <a href="http://funkot.ru/wp-content/uploads/2013/12/kotik-v-shapochke.jpg">
+       spectacular
+      </a>
+      Earthly
+      <a href="ap240612.html">
+       auroras
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/22
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241222.html">
+      https://apod.nasa.gov/apod/ap241222.html
      </a>
     </td>
    </tr>
