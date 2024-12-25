@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/IceHalos_Fous_5568.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/IceHalos_Fous_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why is there a huge eye in the sky?
+      <a href="https://www.worldatlas.com/articles/what-is-diamond-dust.html">
+       Diamond dust
+      </a>
+      .  That is an
+      <a href="https://en.wikipedia.org/wiki/Diamond_dust">
+       informal term
+      </a>
+      for small
+      <a href="https://old.atoptics.co.uk/halo/platcol.htm">
+       ice crystals
+      </a>
+      that form in the air and flitter to the ground.  Because these crystals are
+      <a href="https://old.atoptics.co.uk/halo/platcol.htm">
+       geometrically shaped
+      </a>
+      , they can together  reflect light from the
+      <a href="ap231220.html">
+       Sun
+      </a>
+      or
+      <a href="ap200224.html">
+       Moon
+      </a>
+      to your eyes in a systematic way,  causing huge
+      <a href="https://communitycloudatlas.wordpress.com/2015/04/04/colorful-arcs-in-the-sky/">
+       halos and unusual arcs
+      </a>
+      to appear.  And sometimes, together the result can seem like a
+      <a href="ap201202.html">
+       giant eye
+      </a>
+      looking right back at you.  In the featured image taken in the
+      <a href="https://youtu.be/TcFp5j21HyE">
+       Ore Mountains
+      </a>
+      of the
+      <a href="https://en.wikipedia.org/wiki/Czech_Republic">
+       Czech Republic
+      </a>
+      last week, a bright Moon rising through
+      <a href="https://en.wikipedia.org/wiki/Fog#Freezing_conditions">
+       ice fog
+      </a>
+      -filled air resulted in many of these
+      <a href="https://upload.wikimedia.org/wikipedia/commons/7/79/Surprised_orange_cat.jpg">
+       magnificent sky illusions
+      </a>
+      to be visible simultaneously.   Besides
+      <a href="ap160321.html">
+       Moon dogs
+      </a>
+      ,
+      <a href="ap180914.html">
+       tangent arcs
+      </a>
+      ,
+      <a href="ap211228.html">
+       halos
+      </a>
+      , and a
+      <a href="https://en.wikipedia.org/wiki/Parhelic_circle">
+       parhelic circle
+      </a>
+      ,
+      <a href="ap240304.html">
+       light pillars
+      </a>
+      above distant lights are visible on the far left, while
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      and
+      <a href="https://science.nasa.gov/mars/">
+       Mars
+      </a>
+      can be found just inside the bottom of the
+      <a href="https://cloudatlas.wmo.int/en/22-halo.html">
+       22-degree halo
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/24
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241224.html">
+      https://apod.nasa.gov/apod/ap241224.html
      </a>
     </td>
    </tr>
