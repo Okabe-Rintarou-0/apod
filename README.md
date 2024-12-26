@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/Hubble_NGC5643_potw2450a.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/Hubble_NGC5643_potw2450a1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Viewed face-on, grand spiral galaxy NGC 5643 has a
+      <a href="https://www.youtube.com/watch?v=oYMTXZ1a2NU&amp;t=10s">
+       festive appearance
+      </a>
+      in this
+      <a href="https://esahubble.org/images/potw2450a/">
+       colorful cosmic portrait
+      </a>
+      .  Some 55 million light-years distant, the galaxy extends for over 100,000 light-years, seen within the boundaries of the southern constellation Lupus.  Its
+      <a href="https://esahubble.org/videos/potw2450a/">
+       inner 40,000 light-years
+      </a>
+      are shown in sharp detail in this composite of Hubble Space Telescope image data.  The galaxy's magnificent spiral arms wind from a yellowish central region dominated by light from old stars, while the spiral arms themselves are traced by dust lanes, young blue stars and
+      <a href="ap050930.html">
+       reddish
+      </a>
+      star forming regions.  The bright compact core of NGC 5643 is also known as a strong emitter of
+      <a href="https://science.nasa.gov/ems/05_radiowaves">
+       radio waves
+      </a>
+      and
+      <a href="http://chandra.harvard.edu/learn_light.html">
+       X-rays
+      </a>
+      .  In fact, NGC 5643 is one of the closest examples of the
+      <a href="http://www.seyfertgalaxies.com/">
+       Seyfert class
+      </a>
+      of active galaxies,  where vast amounts of dust and gas are thought  to be falling into a central massive
+      <a href="https://spaceplace.nasa.gov/black-holes/en/">
+       black hole
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/25
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241225.html">
+      https://apod.nasa.gov/apod/ap241225.html
      </a>
     </td>
    </tr>
