@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/ISS002-E-7377_2048c.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/ISS002-E-7377_1024c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      No sudden, sharp boundary marks the passage of day into night in
+      <a href="http://eol.jsc.nasa.gov/scripts/sseop/photo.pl?mission=ISS002&amp;roll=E&amp;frame=7377">
+       this gorgeous view
+      </a>
+      of ocean and clouds over
+      <a href="https://earthobservatory.nasa.gov/features/NationalParks">
+       our fair planet Earth
+      </a>
+      .  Instead, the shadow line or terminator is diffuse and shows the gradual transition to darkness we experience as twilight.  With the Sun illuminating the scene from the right, the cloud tops reflect gently reddened
+      <a href="http://www.webexhibits.org/causesofcolor/14B.html">
+       sunlight filtered
+      </a>
+      through the dusty troposphere, the lowest layer of the planet's nurturing atmosphere.  A clear high altitude layer, visible along the dayside's upper edge,
+      <a href="http://webexhibits.org/causesofcolor/14.html">
+       scatters blue
+      </a>
+      sunlight and fades into the blackness of space.  This picture was taken from the International Space Station orbiting at an altitude of 211
+      <a href="https://science.howstuffworks.com/innovation/science-questions/question79.htm">
+       nautical
+      </a>
+      miles.  Of course from home,
+      <a href="https://climate.nasa.gov/earth-now/">
+       you can check out the Earth Now.
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/26
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241226.html">
+      https://apod.nasa.gov/apod/ap241226.html
      </a>
     </td>
    </tr>
