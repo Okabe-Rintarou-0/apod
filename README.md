@@ -5,6 +5,101 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/BaikalBubbles_Makeeva_1000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/BaikalBubbles_Makeeva_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What are these bubbles frozen into Lake Baikal?
+      <a href="https://en.wikipedia.org/wiki/Methane">
+       Methane
+      </a>
+      .   Lake Baikal, a
+      <a href="https://en.wikipedia.org/wiki/UNESCO">
+       UNESCO
+      </a>
+      <a href="https://en.wikipedia.org/wiki/World_Heritage_Site">
+       World Heritage Site
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Russia">
+       Russia
+      </a>
+      ,  is the world's largest (by volume), oldest, and deepest lake,  containing over 20% of the world's fresh water.  The lake is also a vast storehouse of methane, a
+      <a href="https://en.wikipedia.org/wiki/Greenhouse_effect">
+       greenhouse gas
+      </a>
+      that, if released,  could potentially increase the amount of
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      light absorbed by
+      <a href="https://spaceplace.nasa.gov/atmosphere/">
+       Earth's atmosphere
+      </a>
+      ,  and so increase the average temperature of the
+      <a href="ap220206.html">
+       entire planet
+      </a>
+      .  Fortunately, the amount of
+      <a href="https://www.researchgate.net/publication/236143909_Sources_and_sinks_of_methane_in_Lake_Baikal_A_synthesis_of_measurements_and_modeling">
+       methane
+      </a>
+      currently
+      <a href="https://climate.nasa.gov/news/2785/unexpected-future-boost-of-methane-possible-from-arctic-permafrost/">
+       bubbling out
+      </a>
+      is not climatologically important.  It is not clear
+      <a href="http://arctic-news.blogspot.com/2016/12/lake-baikal.html">
+       what would happen
+      </a>
+      , though, were temperatures to significantly increase in
+      <a href="https://www.cnbc.com/2017/07/30/siberian-craters-big-releases-of-methane-could-pose-broad-problems.html">
+       the region
+      </a>
+      , or if the water level in
+      <a href="https://en.wikipedia.org/wiki/Lake_Baikal">
+       Lake Baikal
+      </a>
+      were to drop.
+      <a href="https://petapixel.com/2017/01/17/photographing-frozen-baikal-deepest-oldest-lake-earth/">
+       Pictured
+      </a>
+      , bubbles of rising
+      <a href="http://www.lakescientist.com/frozen-methane-gas-supports-life-lake-baikal/">
+       methane froze
+      </a>
+      during winter into the exceptionally
+      <a href="https://youtu.be/r_izDyWAid4">
+       clear ice
+      </a>
+      covering  the lake.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/28
   </summary>
   <table>
@@ -18,8 +113,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241228.html">
+      https://apod.nasa.gov/apod/ap241228.html
      </a>
     </td>
    </tr>
