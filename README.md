@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2024/12/31
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2412/NGC4753_HubbleReinartz_3900.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2412/NGC4753_HubbleReinartz_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What do you think this is?   Here’s a clue: it's bigger than a bread box.
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fbp1czz6s0tx51.jpg%3Fauto%3Dwebp%26s%3D3619b12d7db6dbc232addfd27eabeb9c866de019">
+       Much bigger
+      </a>
+      .  The answer is that pictured
+      <a href="https://en.wikipedia.org/wiki/NGC_4753">
+       NGC 4753
+      </a>
+      is a
+      <a href="ap241218.html">
+       twisted disk galaxy
+      </a>
+      , where unusual
+      <a href="ap241126.html">
+       dark dust
+      </a>
+      filaments provide clues about its history.  No one is sure what happened, but a
+      <a href="https://ui.adsabs.harvard.edu/abs/1992AJ....104.1339S/abstract">
+       leading model
+      </a>
+      holds that a relatively normal disk galaxy  gravitationally ripped apart a dusty
+      <a href="https://en.wikipedia.org/wiki/Satellite_galaxy">
+       satellite galaxy
+      </a>
+      while its
+      <a href="https://en.wikipedia.org/wiki/Precession">
+       precession
+      </a>
+      distorted the plane of the
+      <a href="ap240616.html">
+       accreted debris
+      </a>
+      as it rotated.   The
+      <a href="">
+       cosmic collision
+      </a>
+      is
+      <a href="https://ui.adsabs.harvard.edu/abs/1992AJ....104.1339S/abstract">
+       hypothesized
+      </a>
+      to have started about a billion years ago.
+      <a href="https://noirlab.edu/public/news/noirlab2403/">
+       NGC 4753
+      </a>
+      is seen from the side,  and possibly would look like a normal spiral galaxy from the top.   The bright orange
+      <a href="https://en.wikipedia.org/wiki/Stellar_halo">
+       halo
+      </a>
+      is composed of many older stars that might trace
+      <a href="https://science.nasa.gov/universe/overview/building-blocks/#dark-matter">
+       dark matter
+      </a>
+      .  The featured
+      <a href="https://esahubble.org/images/potw2420a/">
+       Hubble image
+      </a>
+      was recently reprocessed to highlight
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet
+      </a>
+      and red-light emissions.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/30
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241230.html">
+      https://apod.nasa.gov/apod/ap241230.html
      </a>
     </td>
    </tr>
