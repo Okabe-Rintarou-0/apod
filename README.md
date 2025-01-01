@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/AlphaCen_Cantrell_3429.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/AlphaCen_Cantrell_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The closest star system to the Sun is the
+      <a href="https://en.wikipedia.org/wiki/Alpha_centauri">
+       Alpha Centauri system
+      </a>
+      .  Of the three stars in the system, the dimmest -- called
+      <a href="ap160118.html">
+       Proxima Centauri
+      </a>
+      -- is actually the
+      <a href="http://www.atlasoftheuniverse.com/nearstar.html">
+       nearest star
+      </a>
+      .  The bright stars
+      <a href="http://stars.astro.illinois.edu/sow/rigil-kent.html">
+       Alpha Centauri
+      </a>
+      A and B form a close
+      <a href="ap970219.html">
+       binary
+      </a>
+      as they are separated by only 23 times the
+      <a href="https://coolcosmos.ipac.caltech.edu/ask/301-What-is-an-Astronomical-Unit-">
+       Earth- Sun distance
+      </a>
+      - slightly greater than the distance between
+      <a href="https://science.nasa.gov/uranus/">
+       Uranus
+      </a>
+      and the
+      <a href="http://asterisk.apod.com/viewtopic.php?f=24&amp;t=18012">
+       Sun
+      </a>
+      .  The
+      <a href="https://youtu.be/4uBG_Xowyp4">
+       Alpha
+      </a>
+      system is not visible in much of the northern hemisphere.  Alpha Centauri A, also known as
+      <a href="http://stars.astro.illinois.edu/sow/rigil-kent.html">
+       Rigil Kentaurus
+      </a>
+      , is the brightest star in the constellation of
+      <a href="http://chandra.harvard.edu/photo/constellations/centaurus.html">
+       Centaurus
+      </a>
+      and is the fourth brightest star in the night sky.
+      <a href="ap000611.html">
+       Sirius
+      </a>
+      is the brightest even though it is more than twice as far away.  By an
+      <a href="https://www.reddit.com/r/cats/comments/29l2wk/a_very_happy_cat/#lightbox">
+       exciting
+      </a>
+      coincidence,
+      <a href="https://en.wikipedia.org/wiki/Alpha_Centauri">
+       Alpha Centauri
+      </a>
+      A is the same type of star as our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      ,  and Proxima Centauri is now known to have a
+      <a href="ap160825.html">
+       potentially habitable exoplanet
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2024/12/31
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap241231.html">
+      https://apod.nasa.gov/apod/ap241231.html
      </a>
     </td>
    </tr>
