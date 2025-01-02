@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/solaranalemma2024-4-5BetulT.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/solaranalemma2024-4-5BetulT1024.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Recorded during 2024, this year-spanning series of images
+      <a href="ap241204.html">
+       reveals a pattern
+      </a>
+      in the seasonal drift of the Sun's daily motion through planet Earth's sky.  Known to some as
+      <a href="https://ui.adsabs.harvard.edu/abs/2013arXiv1302.0765H/abstract">
+       an analemma
+      </a>
+      , the figure-eight curve was captured in exposures taken only at 1pm local time on clear days from Kayseri, Turkiye.  Of course the Sun's position on the 2024
+      <a href="ap241221.html">
+       solstice
+      </a>
+      dates was at the top and bottom of the curve.  They correspond to the astronomical beginning of summer and winter in the north.  The points along the curve
+      <a href="https://en.wikipedia.org/wiki/Analemma#/media/File:Analemma_Earth.png">
+       half-way between
+      </a>
+      the solstices, but not the figure-eight curve crossing point, mark the 2024
+      <a href="ap190320.html">
+       equinoxes
+      </a>
+      and the start of spring and fall.  Regional peaks and dormant volcano Mount Erciyes lie along the southern horizon in the
+      <a href="https://www.instagram.com/betul_turksoy/p/DEDL4R6iA3_/?img_index=1">
+       2024 timelapse skyscape
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/01
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250101.html">
+      https://apod.nasa.gov/apod/ap250101.html
      </a>
     </td>
    </tr>
