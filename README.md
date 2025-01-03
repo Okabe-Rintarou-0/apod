@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/APODEclipsePair2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/APODEclipsePair1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/astronomy-essentials/may-june-2021-special-eclipse-season/">
+       Eclipses tend to come in pairs.
+      </a>
+      Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align.  Then the full and new
+      <a href="https://svs.gsfc.nasa.gov/4874">
+       phases of the Moon
+      </a>
+      , separated by just over 14 days, create a lunar and a solar eclipse.  But only rarely is the alignment at both new moon and full moon phases during a single eclipse season close enough to produce a pair with both total (or a total and an annular) lunar and solar eclipses.  More often, partial eclipses are part of any eclipse season.  In fact, the last eclipse season of 2024 produced this fortnight-separated eclipse pair:  a
+      <a href="ap240920.html">
+       partial lunar eclipse
+      </a>
+      on 18 September and an
+      <a href="ap241008.html">
+       annular solar eclipse
+      </a>
+      on 2 October.  The time-lapse composite images were captured from Somerset, UK (left) and
+      <a href="ap241011.html">
+       Rapa Nui
+      </a>
+      planet Earth.  The
+      <a href="https://www.timeanddate.com/eclipse/2025">
+       2025 eclipse seasons
+      </a>
+      will see a total lunar eclipse on 14 March paired with a partial solar eclipse on 29 March, and a total lunar eclipse on 8 September followed by a partial solar eclipse on 21 September.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/02
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250102.html">
+      https://apod.nasa.gov/apod/ap250102.html
      </a>
     </td>
    </tr>
