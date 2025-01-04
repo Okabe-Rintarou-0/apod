@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/20242112SolNeg.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/20242112SolNeg1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/tonight/earth-comes-closest-to-sun-every-year-in-early-january/">
+       Earth's orbit around the Sun
+      </a>
+      is not a circle, it's an ellipse.  The point along its elliptical orbit where our fair planet is closest to the Sun is called perihelion.  This year perihelion is today, January 4, at 13:28 UTC, with the Earth about 147 million kilometers from the Sun.
+      <a href="https://www.timeanddate.com/astronomy/perihelion-aphelion-solstice.html">
+       For comparison
+      </a>
+      , at aphelion on last July 3 Earth was at its farthest distance from the Sun, some 152 million kilometers away.  But distance from the Sun doesn't determine Earth's seasons.  It's only by coincidence that the beginning of southern summer (northern winter) on the December
+      <a href="ap241221.html">
+       solstice
+      </a>
+      - when this
+      <a href="https://www.atscope.com.au/BRO/gallery699.html">
+       H-alpha picture
+      </a>
+      of the active Sun was taken - is within 14 days of Earth's perihelion date.  And it's only by coincidence that Earth's perihelion date is within 11 days of the historic perihelion of NASA's
+      <a href="https://science.nasa.gov/mission/parker-solar-probe/">
+       Parker Solar Probe
+      </a>
+      .  Launched in 2018, the Parker Solar Probe flew within 6.2 million kilometers of the Sun's surface on 2024 December 24, breaking its own record for closest perihelion for a
+      <a href="https://blogs.nasa.gov/parkersolarprobe/">
+       spacecraft from planet Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/03
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250103.html">
+      https://apod.nasa.gov/apod/ap250103.html
      </a>
     </td>
    </tr>
