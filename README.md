@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1877.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Billions of years from now, only one of these two galaxies will remain.    Until then, spiral
+      <a href="http://www.seds.org/messier/galaxy.html">
+       galaxies
+      </a>
+      NGC 2207 and IC 2163 will slowly pull each other apart,  creating
+      <a href="https://en.wikipedia.org/wiki/Tide">
+       tides
+      </a>
+      of matter,  sheets of
+      <a href="ap160522.html">
+       shocked gas
+      </a>
+      , lanes of
+      <a href="ap220801.html">
+       dark dust
+      </a>
+      , bursts of
+      <a href="ap230828.html">
+       star formation
+      </a>
+      , and streams of
+      <a href="ap990327.html">
+       cast-away stars
+      </a>
+      .    The
+      <a href="https://hubblesite.org/contents/media/images/2024/136/01J9RRG5672MP4BPRFG31ARSV6">
+       featured image
+      </a>
+      in scientifically assigned colors is a composite of
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble
+      </a>
+      exposures in
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      and
+      <a href="https://science.nasa.gov/mission/webb/">
+       Webb
+      </a>
+      exposures in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      light.
+      <a href="https://ui.adsabs.harvard.edu/abs/2005MNRAS.364...69S/abstract">
+       Astronomers predict
+      </a>
+      that NGC 2207, the larger galaxy on the right, will  eventually incorporate IC 2163, the smaller galaxy on the left.    In the most
+      <a href="https://ui.adsabs.harvard.edu/abs/1995ApJ...453..139E/abstract">
+       recent encounter
+      </a>
+      that about peaked 40 million years ago,  the smaller galaxy is swinging around counter-clockwise  and is now
+      <a href="https://www.reddit.com/r/cats/comments/11mua7z/show_me_your_bonded_kitties/#lightbox">
+       slightly behind
+      </a>
+      the larger galaxy.    The space between stars is so vast that when
+      <a href="ap130514.html">
+       galaxies collide
+      </a>
+      ,  the stars in them
+      <a href="https://www.wtamu.edu/~cbaird/sq/2024/06/25/does-everything-get-smashed-to-bits-when-two-galaxies-collide/">
+       usually do not
+      </a>
+      collide.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/04
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250105.html">
+      https://apod.nasa.gov/apod/ap250105.html
      </a>
     </td>
    </tr>
