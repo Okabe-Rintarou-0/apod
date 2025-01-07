@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/AuroraSar_Masi_1280.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/AuroraSar_Masi_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It was a new year, and the sky was doubly red.   The new year meant that the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      had returned to its usual place in its orbit on January 1,  a place a few days before its
+      <a href="ap250104.html">
+       closest approach
+      </a>
+      to the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      .   The first of the two red skyglows, on the left, was a
+      <a href="https://img.apmcdn.org/7a6d073179a68e50dbf9833adb72225a76554a51/uncropped/0011cd-20241011-nws-aurora-colors-webp1000.webp">
+       red aurora
+      </a>
+      ,  complete with
+      <a href="ap061218.html">
+       vertical rays
+      </a>
+      , caused by a
+      <a href="ap240818.html">
+       blast
+      </a>
+      from the Sun  pushing charged particles into  Earth's atmosphere.    The second red glow, most prominent on the far right,  was possibly a
+      <a href="https://eos.org/research-spotlights/from-sar-arc-to-steve-an-atmospheric-evolution">
+       SAR arc
+      </a>
+      caused by a river of charged  particles flowing across
+      <a href="https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      .   Although both appear red, the
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fwhy-do-my-cats-from-the-same-litter-look-so-different-v0-gp1xxwpi7p9c1.jpeg%3Fwidth%3D320%26crop%3Dsmart%26auto%3Dwebp%26s%3D8de4979921dc03f68f8f5f58e849277569ff450e">
+       slight color difference
+      </a>
+      is likely due to the aurora being emitted by both oxygen and nitrogen, whereas the higher
+      <a href="ap231111.html">
+       SAR arc
+      </a>
+      was possibly emitted  more purely by atmospheric oxygen.  The
+      <a href="https://www.instagram.com/p/DEVPPQENcXD">
+       featured image
+      </a>
+      was taken on January 1 from near
+      <a href="https://youtu.be/HktA997YN0Y">
+       Pieve di Cadore
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italy
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/06
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250106.html">
+      https://apod.nasa.gov/apod/ap250106.html
      </a>
     </td>
    </tr>
