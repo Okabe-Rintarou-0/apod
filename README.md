@@ -5,6 +5,93 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_1653.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What happens after a star explodes?   A
+      <a href="ap171016.html">
+       huge fireball
+      </a>
+      of hot gas shoots out in all directions.   When this gas slams into the existing
+      <a href="ap190605.html">
+       interstellar medium
+      </a>
+      ,  it heats up so much it glows.  Two different
+      <a href="https://en.wikipedia.org/wiki/Supernova_remnant">
+       supernova remnant
+      </a>
+      s (SNRs)  are visible in the featured image, taken at the
+      <a href="https://en.wikipedia.org/wiki/Ouka%C3%AFmeden_Observatory">
+       Oukaïmeden
+      </a>
+      <a href="https://www.youtube.com/shorts/1ZeMqQz-U5o">
+       Observatory
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Morocco">
+       Morocco
+      </a>
+      .   The
+      <a href="https://storage.googleapis.com/pod_public/1300/174757.jpg">
+       blue soccer ball
+      </a>
+      -looking nebula toward the upper left is
+      <a href="https://www.cloudynights.com/topic/915305-snr-g179026-a-buckyball-in-auriga/">
+       SNR G179.0+02.6
+      </a>
+      , which appears to be the smaller one.
+      <a href="https://academic.oup.com/mnras/article/478/2/1987/4983130">
+       This supernova
+      </a>
+      , about 11,000 light years distant,  detonated about 50,000 years ago.  Although composed mostly of
+      <a href="https://periodic.lanl.gov/1.shtml">
+       hydrogen
+      </a>
+      gas, the blue light is emitted by a trace amount of
+      <a href="https://periodic.lanl.gov/8.shtml">
+       oxygen
+      </a>
+      .   The seemingly larger SNR, dominating the lower right of the frame, is the  Spaghetti Nebula, cataloged as
+      <a href="ap240227.html">
+       Simeis 147
+      </a>
+      and sh2-240.    This supernova, only about 3,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      away, exploded about 40,000 years ago.  Comparatively, even though they
+      <a href="https://www.blueridgehumane.org/wp-content/uploads/2021/06/cats-3971069_1280-1030x773.jpg">
+       appear different sizes
+      </a>
+      , both supernova remnants  are not only roughly the same age, but about the same size, too.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/07
   </summary>
   <table>
@@ -18,8 +105,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250107.html">
+      https://apod.nasa.gov/apod/ap250107.html
      </a>
     </td>
    </tr>
