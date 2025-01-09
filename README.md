@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/Image171a.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/Image171a.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The colorful, spiky stars are in the foreground of this image taken with a small telescope
+      <a href="https://daveandtelescope.wordpress.com/2025/01/08/a-rose-by-any-other-name/">
+       on planet Earth
+      </a>
+      .  They lie well within our own
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      .  But the two eye-catching galaxies in the frame lie far beyond the Milky Way, at a distance of over 300 million light-years.  The galaxies' twisted and distorted appearance is due to mutual gravitational tides as the pair engage in close encounters.  Cataloged as Arp 273 (also as
+      <a href="ap201018.html">
+       UGC 1810
+      </a>
+      ), these galaxies do look
+      <a href="http://nedwww.ipac.caltech.edu/level5/Arp/frames.html">
+       peculiar
+      </a>
+      , but interacting galaxies are now understood to be common in the universe.  Closer to home, the large spiral Andromeda Galaxy is known to be some 2 million light-years away and
+      <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-shows-milky-way-is-destined-for-head-on-collision/">
+       inexorably approaching
+      </a>
+      the Milky Way.    In fact the far away peculiar galaxies of Arp 273 may offer an analog of the
+      <a href="https://hubblesite.org/contents/media/images/2012/20/3028-Image.html">
+       far future encounter
+      </a>
+      of Andromeda and Milky Way.  Repeated galaxy encounters on a cosmic timescale ultimately result in a merger into a single galaxy of stars.
+      <a href="https://hubblesite.org/contents/media/images/3872-Image">
+       From our perspective
+      </a>
+      , the bright cores of the Arp 273 galaxies are separated by only a little over 100,000 light-years.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/08
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250108.html">
+      https://apod.nasa.gov/apod/ap250108.html
      </a>
     </td>
    </tr>
