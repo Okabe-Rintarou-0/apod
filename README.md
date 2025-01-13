@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/CometAtlas_Horalek_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/CometAtlas_Horalek_960_inset.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Comet ATLAS is really bright now, but also really close to the Sun.  Outside the glow of the Sun,
+      <a href="https://en.wikipedia.org/wiki/C/2024_G3_(ATLAS)">
+       Comet C/2024 G3 (ATLAS)
+      </a>
+      would be one of the more remarkable comet sights of recent years, reflecting about as much sunlight to Earth as
+      <a href="ap241019.html">
+       Comet Tsuchinshan-ATLAS
+      </a>
+      did in October,  and now
+      <a href="ap230306.html">
+       rivaling
+      </a>
+      even planet
+      <a href="https://science.nasa.gov/venus/">
+       Venus
+      </a>
+      .  But the giant snowball is now
+      <a href="https://theskylive.com/3dsolarsystem?obj=c2024g3">
+       so close to the Sun
+      </a>
+      that it can only be seen through the  light of the early morning dawn or the early evening dusk.  Today,
+      <a href="https://earthsky.org/tonight/brightest-comet-of-2025-atlas-g3-southern-hemisphere/">
+       Comet ATLAS
+      </a>
+      is at
+      <a href="https://en.wikipedia.org/wiki/Apsis#Perihelion_and_aphelion">
+       perihelion
+      </a>
+      -- its closest ever to the Sun.   Although the future brightness of comets is
+      <a href="https://t3.ftcdn.net/jpg/02/18/45/30/360_F_218453068_WRjhtH9MzO33Cb19K8acZI2VZvXueQ70.jpg">
+       notoriously hard
+      </a>
+      to predict, there is hope that
+      <a href="https://www.newscientist.com/article/2463620-comet-that-could-shine-as-bright-as-venus-set-to-be-visible-from-earth/">
+       Comet ATLAS
+      </a>
+      will survive its close pass near the Sun and
+      <a href="https://theskylive.com/c2024g3-info">
+       remain bright
+      </a>
+      enough to be seen with the unaided eye over the next few days --  and possibly a good
+      <a href="ap240131.html">
+       camera comet
+      </a>
+      for weeks.  The
+      <a href="https://www.petrhoralek.com/?p=25209">
+       featured image
+      </a>
+      was taken early yesterday morning near
+      <a href="https://en.wikipedia.org/wiki/Torna%C4%BEa">
+       Tornaľa
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Slovakia">
+       Slovakia
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/12
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250112.html">
+      https://apod.nasa.gov/apod/ap250112.html
      </a>
     </td>
    </tr>
