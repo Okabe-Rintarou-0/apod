@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/PolarisIfn_Coverta_3050.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/PolarisIfn_Coverta_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why is Polaris called the North Star?  First,
+      <a href="https://en.wikipedia.org/wiki/Polaris">
+       Polaris
+      </a>
+      is the nearest
+      <a href="ap221218.html">
+       bright star
+      </a>
+      toward the north
+      <a href="https://en.wikipedia.org/wiki/File:Planets_and_dwarf_planets%27_tilt_and_rotation_speed.webm">
+       spin axis
+      </a>
+      of the Earth.   Therefore, as the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      turns, stars appear to revolve around
+      <a href="https://youtu.be/cDhSSxmk3PQ">
+       Polaris
+      </a>
+      ,  but Polaris itself always stays in the same northerly direction --  making it the
+      <a href="https://earthsky.org/brightest-stars/polaris-the-present-day-north-star">
+       North Star
+      </a>
+      .   Since no bright star is near the
+      <a href="ap210101.html">
+       south spin axis
+      </a>
+      of the Earth, there is currently
+      <a href="https://astronomy.stackexchange.com/questions/6284/is-there-a-south-star">
+       no bright South Star
+      </a>
+      .   Thousands of years ago, Earth's spin axis pointed in a slightly different direction so that
+      <a href="https://www.space.com/21719-vega.html">
+       Vega was the North Star
+      </a>
+      .   Although
+      <a href="ap150602.html">
+       Polaris
+      </a>
+      is
+      <a href="https://meowconnectioncom.files.wordpress.com/2017/02/296622-bigthumbnail.jpg">
+       not
+      </a>
+      the brightest star on the sky,  it is easily located because it is
+      <a href="ap201116.html">
+       nearly aligned with two stars
+      </a>
+      in the cup of the
+      <a href="https://earthsky.org/favorite-star-patterns/big-and-little-dippers-highlight-northern-sky">
+       Big Dipper
+      </a>
+      .
+      <a href="https://upload.wikimedia.org/wikipedia/commons/c/cb/Ursa_Minor_IAU.svg">
+       Polaris
+      </a>
+      is near the center of the five-degree wide featured image,  a digital composite of hundreds of exposures that brings out faint gas and  dust of the
+      <a href="ap170627.html">
+       Integrated Flux Nebula
+      </a>
+      (IFN) all over the frame.  The surface of
+      <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html">
+       Cepheid
+      </a>
+      Polaris slowly
+      <a href="https://youtu.be/7ohkKiZTJOg">
+       pulsates
+      </a>
+      ,  causing the famous star to
+      <a href="https://youtu.be/q-szkabhXQQ">
+       change its brightness
+      </a>
+      by a few percent over the course of a few days.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/13
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250113.html">
+      https://apod.nasa.gov/apod/ap250113.html
      </a>
     </td>
    </tr>
