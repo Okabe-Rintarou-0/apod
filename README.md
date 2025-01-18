@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/MarsLOc_Jan13.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/MarsLOc_Jan13_1024c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/moon-phases/lunar-occultation-of-mars-on-january-13-2025/">
+       On January 13
+      </a>
+      a Full Moon and a Full Mars were close, both bright and opposite the Sun in planet Earth's sky.
+      <a href="https://solarsystem.nasa.gov/skywatching/whats-up/">
+       In fact
+      </a>
+      Mars was occulted, passing behind the Moon, when viewed from some locations in North America and northwest Africa.   As seen from Richmond, Virginia, USA, this composite image sequence follows the evening lunar occultation before, during, and after the much anticipated
+      <a href="ap250115.html">
+       celestial spectacle
+      </a>
+      .  The telescopic time series is constructed from an exposure made every two minutes while tracking the Moon over the hours encompassing the event.  As a result, the Red Planet's trajectory seems to follow a gently curved path due to the Moon's slightly different rate of apparent motion.  The next lunar occultation of bright planet Mars will be on February 9 when the moon is in a waxing gibbous phase.
+      <a href="http://www.lunar-occultations.com/iota/planets/mars.png">
+       Lunar occultations
+      </a>
+      are only ever visible from a fraction of the Earth's surface, though.
+      <a href="https://in-the-sky.org/news.php?id=20250209_16_100">
+       The February 9 occultation
+      </a>
+      of Mars will be seen from parts of Russia, China, eastern Canada, Greenland and other (mostly northern) locations, but a close conjunction of a bright Moon with Mars will be more widely visible from planet Earth.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/17
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250117.html">
+      https://apod.nasa.gov/apod/ap250117.html
      </a>
     </td>
    </tr>
