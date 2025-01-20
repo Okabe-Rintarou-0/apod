@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/CometG3Perihelion_SohoLigustri_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/CometG3Perihelion_SohoLigustri_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why does Comet ATLAS have such colorful tails?  Last week
+      <a href="https://en.wikipedia.org/wiki/C/2024_G3_(ATLAS)">
+       Comet C/2024 G3 (ATLAS)
+      </a>
+      passed its closest to the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      --  well inside the orbit of
+      <a href="ap190428.html">
+       Mercury
+      </a>
+      -- and brightened
+      <a href="https://www.reddit.com/r/pics/comments/a47jhh/this_cat_is_happy_to_see_itself/#lightbox">
+       dramatically
+      </a>
+      .   Unfortunately, the comet was then so angularly  near the Sun that it was very hard for
+      <a href="ap190818.html">
+       human
+      </a>
+      s to see.  But NASA's
+      <a href="https://soho.nascom.nasa.gov/about/about.html">
+       SOHO spacecraft
+      </a>
+      saw it.  Pictured is a SOHO  (
+      <a href="https://lasco-www.nrl.navy.mil/">
+       LASCO
+      </a>
+      C3)  image of
+      <a href="ap250113.html">
+       Comet ATLAS
+      </a>
+      that is a composite of several different color filters.  Of the several tails visible, the central white tails are likely made of
+      <a href="https://astronomy.swin.edu.au/cosmos/*/Cometary+Dust+Tail">
+       dust
+      </a>
+      and just reflecting back sunlight.  The red, blue, and green tails are likely
+      <a href="http://www2.ess.ucla.edu/~jewitt/tail.html">
+       ion tails
+      </a>
+      with their colors dominated by  light emitted by specific gases that were
+      <a href="ap151118.html">
+       ejected
+      </a>
+      from the comet and energized by the Sun.   Currently,
+      <a href="https://theskylive.com/c2024g3-info">
+       Comet ATLAS
+      </a>
+      is showing
+      <a href="https://www.facebook.com/photo.php?fbid=600057509389497">
+       long tails
+      </a>
+      in southern skies but  fading as it moves out of the
+      <a href="https://science.nasa.gov/planetary-science/focus-areas/inner-solar-system/">
+       inner Solar System
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/18
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250119.html">
+      https://apod.nasa.gov/apod/ap250119.html
      </a>
     </td>
    </tr>
