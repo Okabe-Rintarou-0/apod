@@ -5,6 +5,89 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/AtlasParanal_Kurak_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/AtlasParanal_Kurak_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why does this comet have so many tails?
+      <a href="https://en.wikipedia.org/wiki/C/2024_G3_(ATLAS)">
+       C/2024 G3 (ATLAS)
+      </a>
+      has developed several  long and intricate tails visible from  Earth's southern hemisphere over the past two weeks.  Many observers reported seeing the
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fgfkvsovdq4l21.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Dd24871a13ae2249f7681f845e63e636098a85c84">
+       impressive
+      </a>
+      comet without any
+      <a href="ap250124.html">
+       optical aid
+      </a>
+      above the western horizon just after sunset.  At least six different tails appear in the  featured image captured five days ago from the dark skies above
+      <a href="https://youtu.be/k_LwlwJWZN0">
+       Paranal Observatory
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .   One possible cause for the multiple tails is dust and gas being
+      <a href="ap151118.html">
+       expelled
+      </a>
+      from the comet's
+      <a href="ap960414.html">
+       rotating nucleus
+      </a>
+      .  The outward push of the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      's complex
+      <a href="https://science.nasa.gov/learn/heat/resource/solar-wind-across-our-solar-system-infographic/">
+       solar wind
+      </a>
+      may also play a role.  The huge iceberg-like nucleus of
+      <a href="https://science.nasa.gov/solar-system/comets/facts/">
+       Comet
+      </a>
+      <a href="https://atlas.fallingstar.com/">
+       ATLAS
+      </a>
+      appears to have
+      <a href="https://skyandtelescope.org/uncategorized/comet-atlas-caught-in-the-act-of-disintegration/">
+       broken up
+      </a>
+      near its closest approach to the Sun two weeks ago.   Unfortunately,
+      <a href="https://theskylive.com/c2024g3-info">
+       Comet ATLAS
+      </a>
+      and its tails are expected to fade significantly over the coming weeks.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/25
   </summary>
   <table>
@@ -18,8 +101,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250125.html">
+      https://apod.nasa.gov/apod/ap250125.html
      </a>
     </td>
    </tr>
