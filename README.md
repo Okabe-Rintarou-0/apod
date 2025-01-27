@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/HalfPleiades_Venkatraman_1365.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/HalfPleiades_Venkatraman_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Stars come in bunches.   The most famous bunch of stars on the sky is
+      <a href="ap241209.html">
+       the Pleiades
+      </a>
+      , a
+      <a href="https://go-astronomy.com/star-clusters.php">
+       bright cluster
+      </a>
+      that can be easily seen with the
+      <a href="https://en.wikipedia.org/wiki/Naked_eye#In_astronomy">
+       unaided eye
+      </a>
+      .   The Pleiades lies only about 450
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light years
+      </a>
+      away, formed about 100 million years ago,  and will likely last about another 250 million years.
+      <a href="https://science.nasa.gov/sun/facts/">
+       Our Sun
+      </a>
+      was likely born in a
+      <a href="https://en.wikipedia.org/wiki/Open_cluster">
+       star cluster
+      </a>
+      ,  but now, being about 4.5 billion years old, its
+      <a href="https://www.astronomy.com/observing/ask-astro-what-happened-to-the-suns-original-star-cluster/">
+       stellar birth companions
+      </a>
+      have long since dispersed.  The
+      <a href="https://en.wikipedia.org/wiki/Pleiades">
+       Pleiades star cluster
+      </a>
+      is pictured over
+      <a href="https://youtu.be/mEOkthVDha0">
+       Half Dome
+      </a>
+      ,  a famous rock structure in
+      <a href="https://en.wikipedia.org/wiki/Yosemite_National_Park">
+       Yosemite National Park
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/California">
+       California
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      .  The
+      <a href="https://dheera.net/photos/deepscapes/#&amp;gid=1&amp;pid=2">
+       featured image
+      </a>
+      is a composite of 28 foreground exposures and  174 images of the stellar background,  all taken from the same location and by the same camera  on the same night in October 2019.  After
+      <a href="https://media.istockphoto.com/photos/dog-as-financial-work-with-report-pens-and-calculater-on-table-dog-picture-id1165372431?k=20&amp;m=1165372431&amp;s=612x612&amp;w=0&amp;h=R-3PIrplLqu4k4lx6ynWNhW5b10Rt5dLL2rqfWExzxU=">
+       calculating the timing
+      </a>
+      of a future juxtaposition of the
+      <a href="ap220405.html">
+       Pleiades
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Half_Dome">
+       Half Dome
+      </a>
+      ,  the astrophotographer was unexpectedly rewarded by an
+      <a href="https://en.wikipedia.org/wiki/2019_California_power_shutoffs">
+       electrical blackout
+      </a>
+      , making the
+      <a href="ap200408.html">
+       background sky
+      </a>
+      unusually
+      <a href="https://www.darksky.org/">
+       dark
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/26
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250126.html">
+      https://apod.nasa.gov/apod/ap250126.html
      </a>
     </td>
    </tr>
