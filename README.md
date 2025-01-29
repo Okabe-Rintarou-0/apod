@@ -5,6 +5,142 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/01/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2501/Wr140Rings_Webb_960_2023.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2501/Wr140Rings_Webb_960_2023.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What are those strange rings?  Rich in dust, the rings are likely 3D shells --  but
+      <i>
+       how
+      </i>
+      they were created remains a
+      <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...979L...3L/abstract">
+       topic of research
+      </a>
+      .
+      <i>
+       Where
+      </i>
+      they were created is well known: in a
+      <a href="https://en.wikipedia.org/wiki/Binary_star">
+       binary star
+      </a>
+      system that lies about 6,000
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light years
+      </a>
+      away toward the
+      <a href="https://chandra.harvard.edu/photo/constellations/cygnus.html">
+       constellation of the Swan
+      </a>
+      (Cygnus) --  a system dominated by the Wolf-Rayet star
+      <a href="https://en.wikipedia.org/wiki/WR_140">
+       WR 140
+      </a>
+      .
+      <a href="https://en.wikipedia.org/wiki/Wolf%E2%80%93Rayet_star">
+       Wolf-Rayet stars
+      </a>
+      are massive, bright, and known for their
+      <a href="ap200308.html">
+       tumultuous winds
+      </a>
+      .  They are also known for creating and dispersing heavy
+      <a href="ap230108.html">
+       elements
+      </a>
+      such as
+      <a href="https://periodic.lanl.gov/6.shtml">
+       carbon
+      </a>
+      ,  which is a building block of interstellar
+      <a href="ap030706.html">
+       dust
+      </a>
+      .  The other star in the
+      <a href="ap970219.html">
+       binary
+      </a>
+      is also bright and massive -- but
+      <a href="https://www.purina.co.uk/sites/default/files/2020-12/How%20Long%20Do%20Cats%20SleepTEASER.jpg">
+       not as active
+      </a>
+      .   The two
+      <a href="https://www.sciencealert.com/extraordinary-phenomenon-in-space-captured-by-spellbinding-new-image">
+       great stars
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Jousting">
+       joust
+      </a>
+      in an
+      <a href="https://webbtelescope.org/contents/media/videos/2025/103/01JGPEDKQ9R00SN0G5S1Z14P1J">
+       oblong orbit
+      </a>
+      as they approach each other about every eight years.  When at closest approach, the
+      <a href="https://science.nasa.gov/ems/11_xrays">
+       X-ray
+      </a>
+      <a href="https://ui.adsabs.harvard.edu/abs/2022HEAD...1911098C/abstract">
+       emission from the system
+      </a>
+      increases, as, apparently,  does the dust expelled into space -- creating
+      <a href="https://youtu.be/ssJ_I5loCbc?list=PLTiv_XWHnOZpegG_WpYvUvvAegH7e02Aw">
+       another shell
+      </a>
+      .   The
+      <a href="https://webbtelescope.org/contents/news-releases/2025/news-2025-103">
+       featured
+      </a>
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared
+      </a>
+      <a href="https://www.nasa.gov/feature/jpl/star-duo-forms-fingerprint-in-space-nasa-s-webb-finds">
+       image
+      </a>
+      by the
+      <a href="https://www.nasa.gov/mission_pages/webb/about/index.html">
+       Webb Space Telescope
+      </a>
+      resolves
+      <a href="https://youtu.be/4lQy8v-BWNw">
+       greater details
+      </a>
+      and
+      <a href="https://commons.wikimedia.org/wiki/File:WR140.png">
+       more dust shells
+      </a>
+      than ever before.  Images taken over consecutive years show the
+      <a href="https://youtu.be/_rRRhieyxAU">
+       shells moving outward
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/01/28
   </summary>
   <table>
@@ -18,8 +154,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250128.html">
+      https://apod.nasa.gov/apod/ap250128.html
      </a>
     </td>
    </tr>
