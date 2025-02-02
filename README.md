@@ -5,6 +5,115 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/AtlasDisintegrating_Majzik_3600.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/AtlasDisintegrating_Majzik_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening to Comet G3 ATLAS?  After
+      <a href="ap250120.html">
+       passing near the Sun
+      </a>
+      in mid-January,  the head of the comet has become dimmer and dimmer.  By late January, Comet
+      <a href="https://en.wikipedia.org/wiki/C/2024_G3_(ATLAS)">
+       C/2024 G3 (ATLAS)
+      </a>
+      had become a
+      <a href="https://www.newsweek.com/comet-atlas-disintegrating-brightest-solar-system-sun-2017615">
+       headless wonder
+      </a>
+      -- even though it continued to show
+      <a href="ap250124.html">
+       impressive
+      </a>
+      <a href="ap250126.html">
+       tails
+      </a>
+      after sunset in the skies of
+      <a href="https://earthobservatory.nasa.gov/">
+       Earth
+      </a>
+      's
+      <a href="https://en.wikipedia.org/wiki/Southern_Hemisphere">
+       Southern Hemisphere
+      </a>
+      .  Pictured are images of Comet G3 ATLAS on successive January nights taken from
+      <a href="https://youtu.be/a5jUyVPIDAk">
+       Río Hurtado
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .  Clearly, the comet's head is brighter and more
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fjvtxke42851c1.jpg">
+       centrally condensed
+      </a>
+      on the earlier days (left) than on later days (right).   A key reason is likely that the
+      <a href="https://science.nasa.gov/solar-system/comets/">
+       comet's nucleus of ice and rock
+      </a>
+      , at the
+      <a href="https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg">
+       head
+      </a>
+      's center, has
+      <a href="ap230903.html">
+       fragmented
+      </a>
+      .  Comet G3 ATLAS passed
+      <a href="https://theskylive.com/c2024g3-info">
+       well inside
+      </a>
+      the orbit of
+      <a href="https://science.nasa.gov/mercury/">
+       planet Mercury
+      </a>
+      when at its solar closest, a distance that where heat
+      <a href="ap010521.html">
+       destroys
+      </a>
+      <a href="ap000808.html">
+       many
+      </a>
+      <a href="ap000913.html">
+       comets
+      </a>
+      .   Some of comet G3 ATLAS'
+      <a href="ap230903.html">
+       scattering remains
+      </a>
+      will continue to
+      <a href="ap240811.html">
+       orbit the Sun
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/01
   </summary>
   <table>
@@ -18,8 +127,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250201.html">
+      https://apod.nasa.gov/apod/ap250201.html
      </a>
     </td>
    </tr>
