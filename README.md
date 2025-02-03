@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/wr124_hubbleschmidt_1289.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/wr124_hubbleschmidt_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Some stars explode in slow motion.   Rare, massive
+      <a href="https://en.wikipedia.org/wiki/Wolf-Rayet_star">
+       Wolf-Rayet stars
+      </a>
+      are so tumultuous and hot that they are slowly disintegrating right before our telescopes.   Glowing gas globs each typically over 30 times more massive than
+      <a href="https://science.nasa.gov/earth/facts/">
+       the Earth
+      </a>
+      are being expelled by violent
+      <a href="ap000318.html">
+       stellar winds
+      </a>
+      .   Wolf-Rayet star
+      <a href="https://en.wikipedia.org/wiki/WR_124">
+       WR 124
+      </a>
+      , visible near the
+      <a href="https://www.flickr.com/photos/geckzilla/14248502065/">
+       featured image
+      </a>
+      center and spanning six
+      <a href="https://chandra.harvard.edu/photo/cosmic_distance.html">
+       light years
+      </a>
+      across,  is thus creating the surrounding nebula known as
+      <a href="https://ui.adsabs.harvard.edu/abs/1985A%26A...145L..13V/abstract">
+       M1-67
+      </a>
+      .   Details of why
+      <a href="https://www.syfy.com/syfywire/a-massive-violent-star-blooms">
+       this star
+      </a>
+      has been slowly blowing itself  apart over the past 20,000 years remains a topic of research.
+      <a href="https://en.wikipedia.org/wiki/WR_124">
+       WR 124
+      </a>
+      lies 15,000 light-years away towards the
+      <a href="https://spaceplace.nasa.gov/constellations/en/">
+       constellation
+      </a>
+      of the Arrow  (
+      <a href="http://www.hawastsoc.org/deepsky/sge/">
+       Sagitta
+      </a>
+      ).   The fate of any given
+      <a href="http://www.universetoday.com/24736/wolf-rayet-star/">
+       Wolf-Rayet star
+      </a>
+      likely depends on how massive it is,  but many are thought to end their lives with
+      <a href="https://img.huffingtonpost.com/asset/5bad12683c000032000b0e42.jpeg?ops=scalefit_630_noupscale">
+       spectacular
+      </a>
+      explosions such as
+      <a href="https://www.youtube.com/watch?v=aysiMbgml5g">
+       supernovas
+      </a>
+      or
+      <a href="https://science.nasa.gov/universe/gamma-ray-bursts-harvesting-knowledge-from-the-universes-most-powerful-explosions/">
+       gamma-ray bursts
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/02
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250202.html">
+      https://apod.nasa.gov/apod/ap250202.html
      </a>
     </td>
    </tr>
