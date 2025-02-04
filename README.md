@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/RainbowFan_Eiguren_3228.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/RainbowFan_Eiguren_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Yes, but can your rainbow do this?  Late in the day, the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      set as usual toward the west.  However, on this day, the more interesting display was
+      <a href="https://byjus.com/maths/180-degree-angle/">
+       180 degrees
+      </a>
+      around -- toward the east.  There, not only was a
+      <a href="ap221127.html">
+       rainbow
+      </a>
+      visible,  but an impressive display of
+      <a href="ap101128.html">
+       anticrepuscular rays
+      </a>
+      from the rainbow's center.  In the featured image from
+      <a href="https://youtu.be/XuEXupOjC8A">
+       Lekeitio
+      </a>
+      in northern
+      <a href="https://en.wikipedia.org/wiki/Spain">
+       Spain
+      </a>
+      ,  the Sun is behind the camera.  The
+      <a href="https://en.wikipedia.org/wiki/Rainbow">
+       rainbow
+      </a>
+      resulted from sunlight reflecting back from falling rain.
+      <a href="https://en.wikipedia.org/wiki/Anticrepuscular_rays">
+       Anticrepuscular rays
+      </a>
+      result from sunlight, blocked by some clouds,  going all the way
+      <a href="ap190624.html">
+       around the sky
+      </a>
+      , overhead,  and appearing to converge on the opposite horizon -- an optical illusion.
+      <a href="ap221227.html">
+       Rainbows
+      </a>
+      by themselves can be exciting to see, and
+      <a href="ap200318.html">
+       anticrepuscular rays
+      </a>
+      a
+      <a href="https://i.pinimg.com/550x/81/21/c0/8121c0291fa14d1fe52b9eb007741cac.jpg">
+       rare treat
+      </a>
+      , but capturing them both together is even more unusual --  and can look both serene and surreal.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/03
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250203.html">
+      https://apod.nasa.gov/apod/ap250203.html
      </a>
     </td>
    </tr>
