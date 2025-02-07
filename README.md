@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/Hubble_LEDA1313424_STScI-01.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/Hubble_LEDA1313424_STScI-01_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ad9f5c">
+       The giant galaxy
+      </a>
+      cataloged as LEDA 1313424 is about two and a half times the size of our own Milky Way.  Its remarkable appearance in this
+      <a href="https://hubblesite.org/contents/news-releases/2025/news-2025-006">
+       recently released Hubble
+      </a>
+      Space Telescope image strongly suggests its nickname "The Bullseye Galaxy".  Known as a collisional ring galaxy it has
+      <a href="https://hubblesite.org/contents/media/images/2025/006/01JH3M8FV7QTE0NTS9YEP6722W">
+       nine rings
+      </a>
+      confirmed by telescopic observations,
+      <a href="ap220824.html">
+       rippling
+      </a>
+      from its center like waves from a pebble dropped into a pond.  Of course, the pebble dropped into the Bullseye galaxy was a galaxy itself.  Telescopic observations identify the blue dwarf galaxy at center-left as the likely collider, passing through the giant galaxy's center and forming concentric rings in the wake of their gravitational interaction.  The Bullseye Galaxy lies some 567 million light-years away toward the constellation Pisces.
+      <a href="https://hubblesite.org/contents/media/images/2025/006/01JJADPV8HK2BGG1T12HDSVKT5">
+       At that distance
+      </a>
+      , this stunning Hubble image would span about 530,000 light-years.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/06
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250206.html">
+      https://apod.nasa.gov/apod/ap250206.html
      </a>
     </td>
    </tr>
