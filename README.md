@@ -5,6 +5,53 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/IMG_3775M.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/IMG_3775M_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A waxing crescent Moon and a waning crescent Venus are found at opposite corners of this twilight
+      <a href="https://www.flickr.com/photos/akleiman/54301840864/">
+       telephoto field of view
+      </a>
+      .  The close conjunction of the two brightest celestial beacons
+      <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-february-2025-skywatching-tips-from-nasa/">
+       in planet Earth's
+      </a>
+      western evening sky was captured on February 1 from Rosario, Argentina.  On that date, the slender crescent Moon was about 3 days old.  But the Moon's visible sunlit crescent will grow to a bright Full Moon by February 14.  Like the Moon,
+      <a href="https://earthsky.org/astronomy-essentials/venus-brightest-greatest-brilliancy-greatest-illuminated-extent-2/">
+       Venus cycles through
+      </a>
+      phases as it orbits the Sun.  And while its visible sunlit crescent narrows, the inner planet's apparent size increases as it gets closer to Earth.  In a Valentine from the Solar System, Venus, named for the Roman goddess of Love, will also reach its peak brightness in planet Earth's evening skies around
+      <a href="https://earthsky.org/astronomy-essentials/venus-brightest-greatest-brilliancy-greatest-illuminated-extent-2/">
+       February 14.
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/07
   </summary>
   <table>
@@ -18,8 +65,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250207.html">
+      https://apod.nasa.gov/apod/ap250207.html
      </a>
     </td>
    </tr>
