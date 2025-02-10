@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/BirdAurora_Coulon_2581.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/BirdAurora_Coulon_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is this the largest hummingbird ever?   Although it may look like a popular fluttering
+      <a href="https://en.wikipedia.org/wiki/Nectarivore">
+       nectarivore
+      </a>
+      ,  what is pictured is actually a beautifully detailed and colorful
+      <a href="https://spaceplace.nasa.gov/aurora/">
+       aurora
+      </a>
+      ,  complete with rays reminiscent of feathers.  This
+      <a href="ap241223.html">
+       aurora
+      </a>
+      was so bright that  it was visible to the unaided eye during
+      <a href="https://en.wikipedia.org/wiki/Blue_hour">
+       blue hour
+      </a>
+      -- just after sunset when the
+      <a href="ap210826.html">
+       sky appears
+      </a>
+      a darkening blue.   However, the
+      <a href="https://www.aurorasaurus.org/">
+       aurora
+      </a>
+      only looked like a
+      <a href="https://www.hummingbirdcentral.com/hummingbird-faqs.htm">
+       hummingbird
+      </a>
+      through a sensitive camera able to pick up faint glows.  As
+      <a href="https://img.apmcdn.org/7a6d073179a68e50dbf9833adb72225a76554a51/uncropped/0011cd-20241011-nws-aurora-colors-webp1000.webp">
+       reds
+      </a>
+      typically occurring higher in the
+      <a href="https://www.nasa.gov/general/what-is-earths-atmosphere/">
+       Earth's atmosphere
+      </a>
+      than the greens, the real
+      <a href="ap230624.html">
+       3D
+      </a>
+      shape of  this aurora would likely appear unfamiliar.
+      <a href="https://science.nasa.gov/sun/auroras/">
+       Auroras
+      </a>
+      are created when an
+      <a href="ap240818.html">
+       explosion on the Sun
+      </a>
+      causes high energy particles to flow into the Earth's atmosphere and
+      <a href="https://www.reddit.com/r/Eyebleach/comments/hwt0yz/happy_kitty/#lightbox">
+       excite
+      </a>
+      atoms and molecules of nitrogen and oxygen.   The
+      <a href="https://www.instagram.com/p/DFhlId7M9TP/">
+       featured image
+      </a>
+      was captured about two weeks ago above
+      <a href="https://youtu.be/gbkRxvcsQqQ">
+       Lyngseidt
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Norway">
+       Norway
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/09
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250209.html">
+      https://apod.nasa.gov/apod/ap250209.html
      </a>
     </td>
    </tr>
