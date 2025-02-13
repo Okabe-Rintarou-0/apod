@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Riding high in the constellation of Auriga, beautiful, blue VdB 31 is the 31st
+      <a href="ap121026.html">
+       object
+      </a>
+      in Sidney van den Bergh's 1966
+      <a href="http://adsabs.harvard.edu/abs/1966AJ.....71..990V">
+       catalog of reflection nebulae
+      </a>
+      .  It shares this well-composed celestial still life with dark, obscuring clouds B26, B27, and B28, recorded in Edward E. Barnard's 1919
+      <a href="http://adsabs.harvard.edu/cgi-bin/ bib_query?1919ApJ....49....1B">
+       catalog of dark markings
+      </a>
+      in the sky.  All are these nebulae are interstellar dust clouds.  Barnard's
+      <a href="ap161225.html">
+       dark nebulae
+      </a>
+      block the light from background stars.  For VdB 31 the dust preferentially reflects bluish starlight from embedded, hot, variable star AB Aurigae.  Exploring the
+      <a href="https://hubblesite.org/contents/news-releases/2022/news-2022-016">
+       environs of AB Aurigae
+      </a>
+      with the Hubble Space Telescope has revealed the several million year young star is itself surrounded by a flattened
+      <a href="ap141110.html">
+       dusty disk
+      </a>
+      with
+      <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241203923S/abstract">
+       evidence
+      </a>
+      for the ongoing formation of a planetary system.  AB Aurigae is about 470 light-years away.  At that distance
+      <a href="https://www.astrobin.com/ezjp1j/">
+       this cosmic canvas
+      </a>
+      would span about eight light-years.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/11
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250212.html">
+      https://apod.nasa.gov/apod/ap250212.html
      </a>
     </td>
    </tr>
