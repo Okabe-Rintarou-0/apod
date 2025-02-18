@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/SeagullThor_Martino_5149.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/SeagullThor_Martino_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Seen as a seagull and a duck,  these nebulae are not the only
+      <a href="ap080719.html">
+       cosmic clouds
+      </a>
+      to
+      <a href="ap221121.html">
+       evoke images
+      </a>
+      of flight.  But both are winging their way across this broad celestial landscape, spanning almost 7 degrees across
+      <a href="https://science.nasa.gov/earth/facts/">
+       planet Earth
+      </a>
+      's  night sky toward the constellation of the Big Dog  (
+      <a href="http://chandra.harvard.edu/photo/constellations/ canismajor.html">
+       Canis Major
+      </a>
+      ).  The
+      <a href="ap090327.html">
+       expansive Seagull
+      </a>
+      (top center)
+      <a href="https://www.flickr.com/photos/113243238@N08/38742044570/">
+       is itself composed of
+      </a>
+      two major cataloged
+      <a href="https://en.wikipedia.org/wiki/Emission_nebula">
+       emission nebulas
+      </a>
+      .  Brighter NGC 2327 forms the head with the more diffuse IC 2177 as the wings and body.  Impressively, the Seagull's wingspan would correspond to about 250
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-year
+      </a>
+      s at the nebula's estimated distance of 3,800 light-years.  At the lower right, the Duck appears much more compact and would span only about 50 light-years given its 15,000 light-year distance estimate.  Blown by
+      <a href="ap250203.html">
+       energetic winds
+      </a>
+      from an extremely massive, hot star near its center, the Duck nebula is cataloged as NGC 2359.  Of course, the Duck's thick body and winged appendages also lend it the slightly more
+      <a href="https://i.ytimg.com/vi/3M2YKeaTXIY/hq720.jpg">
+       dramatic
+      </a>
+      popular moniker,
+      <a href="ap240109.html">
+       Thor's Helmet
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/17
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250217.html">
+      https://apod.nasa.gov/apod/ap250217.html
      </a>
     </td>
    </tr>
