@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/HH30_Webb_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/HH30_Webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How do stars and planets form?  New clues have been found in the protoplanetary system
+      <a href="https://en.wikipedia.org/wiki/HH_30">
+       Herbig-Haro 30
+      </a>
+      by the
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      in concert with
+      <a href="ap090525.html">
+       Hubble
+      </a>
+      and the Earth-bound
+      <a href="https://public.nrao.edu/telescopes/alma/#what-is-alma">
+       ALMA
+      </a>
+      .   The
+      <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...980...49T/abstract">
+       observations show
+      </a>
+      , among other things, that large
+      <a href="ap030706.html">
+       dust
+      </a>
+      grains are more  concentrated into a central disk where they can form planets.  The
+      <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/HH_30_MIRI_NIRCam_image">
+       featured image
+      </a>
+      from Webb shows many attributes of the active HH-30 system.
+      <a href="ap230919.html">
+       Jets
+      </a>
+      of particles are being expelled vertically,  shown in red, while a dark
+      <a href="ap230511.html">
+       dust-rich disk
+      </a>
+      is seen across the center,  blocking the light from the star or stars still forming there.  Blue-reflecting dust is seen in a
+      <a href="https://www.geogebra.org/m/yT5YjWDt">
+       parabolic arc
+      </a>
+      above and below the central disk,  although why a tail appears on the lower left is currently unknown.
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FdNVVXSoLqNrWLIwCdFQXnh64EN06q51x5PgWyVK0aO0.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D7c1f6961b485f508f309e0dc4415455e02564ca6">
+       Studying
+      </a>
+      how planets form in
+      <a href="https://esawebb.org/images/potm2501b/">
+       HH 30
+      </a>
+      can help astronomers better understand how planets in our own
+      <a href="https://science.nasa.gov/solar-system/solar-system-facts/">
+       Solar System
+      </a>
+      once formed, including
+      <a href="https://earthobservatory.nasa.gov/collection/1461/astronaut-photography">
+       our Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/18
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250218.html">
+      https://apod.nasa.gov/apod/ap250218.html
      </a>
     </td>
    </tr>
