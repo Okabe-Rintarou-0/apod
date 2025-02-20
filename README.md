@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/m87-full.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/m87-full_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Enormous elliptical galaxy
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-87/">
+       Messier 87
+      </a>
+      is about 50 million light-years away.  Also known as NGC 4486, the giant galaxy holds trillions of stars compared to the mere billions of stars in our large spiral Milky Way.  M87 reigns as the large central elliptical galaxy in the
+      <a href="ap230526.html">
+       Virgo galaxy cluster
+      </a>
+      .  An energetic jet from the giant galaxy's core is seen to stretch outward for about 5,000 light-years in this sharp optical and near-infrared
+      <a href="https://hubblesite.org/contents/media/images/2000/20/968-Image">
+       view from the Hubble
+      </a>
+      Space Telescope.  In fact, the cosmic blow torch is seen across the electromagnetic spectrum from
+      <a href="https://eventhorizontelescope.org/blog/m87s-powerful-jet-unleashes-rare-gamma-ray-outburst">
+       gamma-rays to radio wavelengths
+      </a>
+      .  Its
+      <a href="ap240509.html">
+       ultimate power source
+      </a>
+      is M87's central, supermassive black hole.  An image of this monster in the middle of M87 has been captured by
+      <a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...875L...1E/abstract">
+       planet Earth's
+      </a>
+      Event Horizon Telescope.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/19
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250219.html">
+      https://apod.nasa.gov/apod/ap250219.html
      </a>
     </td>
    </tr>
