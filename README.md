@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/M31_HubbleMosaic1024H.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/M31_HubbleMosaicCrop.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The largest photomosaic ever assembled from Hubble Space Telescope image data is a panoramic view of our neighboring spiral Andromeda Galaxy.  With 600 overlapping frames assembled from observations made from July 2010 to December 2022, the full
+      <a href="https://hubblesite.org/contents/media/images/2025/005/01JGY8JKWBHBWJ71V3QQTKM382">
+       Hubble Andromeda Galaxy mosaic
+      </a>
+      spans almost six full moons across
+      <a href="ap200925.html">
+       planet Earth's sky
+      </a>
+      .  A cropped version shown above is nearly two full moons across and partially covers Andromeda's core and inner spiral arms.  Also known as M31, the
+      <a href="https://en.wikipedia.org/wiki/Andromeda_Galaxy">
+       Andromeda Galaxy is
+      </a>
+      2.5 million light-years away.  That makes it the closest large spiral galaxy to our own Milky Way.  Our perspective on the spiral Milky Way is
+      <a href="ap110520.html">
+       anchored to the view
+      </a>
+      from the
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       location of the Sun
+      </a>
+      , a star found within the Milky Way's galactic disk.  But Hubble's magnificent Andromeda mosaic offers an expansive view of a large spiral galaxy from the outside looking in.  Hubble's comprehensive,
+      <a href="https://ui.adsabs.harvard.edu/abs/2012ApJ...755..131R/abstract">
+       detailed
+      </a>
+      <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...979...35C/abstract">
+       data set
+      </a>
+      extending
+      <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-traces-hidden-history-of-andromeda-galaxy/">
+       across the Andromeda Galaxy
+      </a>
+      will allow astronomers to make an unprecedented holistic exploration of the mysteries of spiral galaxy structure and evolution.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/20
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250220.html">
+      https://apod.nasa.gov/apod/ap250220.html
      </a>
     </td>
    </tr>
