@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/20250205_rima_hyginus_mirabella_1500px.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/20250205_rima_hyginus_mirabella_1024px.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Rima Hyginus is a
+      <a href="https://www.flickr.com/photos/nasa2explore/9349493673">
+       spectacular fissure
+      </a>
+      , some 220 kilometers long, found near the center of the
+      <a href="https://science.nasa.gov/resource/lunar-near-side-2/">
+       lunar near side
+      </a>
+      .  Easy to spot in telescopic views of the Moon, it stretches top left to bottom right across this
+      <a href="https://telescopius.com/spa/pictures/view/215248/moon/rima-hyginus-lrgb/by-vincenzo-mirabella?gallery_user_id=37672&amp;gallery_order=is_featured&amp;gallery_order_asc=false&amp;gallery_page=1">
+       lunar closeup
+      </a>
+      .  The image was made with
+      <a href="ap171111.html">
+       exaggerated colors
+      </a>
+      that reflect the mineral composition of the lunar soil.
+      <a href="http://lroc.sese.asu.edu/images/542">
+       Hyginus crater
+      </a>
+      lies near the center of the narrow lunar surface groove.  About 10 kilometers in diameter, the low-walled crater is a volcanic caldera, one of the larger non-impact craters on the lunar surface.  Dotted with small pits formed by surface collapse, Hyginus rima itself was likely created by stresses due to internal
+      <a href="https://ui.adsabs.harvard.edu/abs/2011Icar..215..584W/abstract">
+       magma upwelling
+      </a>
+      and collapse along a long surface fault.  The intriguing region was a candidate landing site for the canceled Apollo 19 mission.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/21
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250221.html">
+      https://apod.nasa.gov/apod/ap250221.html
      </a>
     </td>
    </tr>
