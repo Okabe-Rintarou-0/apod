@@ -5,6 +5,100 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/LightPillarVolcano_Calio_1333.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/LightPillarVolcano_Calio_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Can a lava flow extend into the sky?  No, but light from the lava flow can.  One effect is something quite unusual -- a volcanic
+      <a href="https://en.wikipedia.org/wiki/Light_pillar">
+       light pillar
+      </a>
+      .  More typically, light pillars are caused by  sunlight and so appear as a bright column that  extends upward above a rising or setting
+      <a href="https://science.nasa.gov/sun/facts/">
+       Sun
+      </a>
+      .  Alternatively, other light pillars --
+      <a href="ap181024.html">
+       some
+      </a>
+      <a href="ap160208.html">
+       quite
+      </a>
+      <a href="ap131218.html">
+       colorful
+      </a>
+      -- have been recorded above street and house lights.  This light
+      <a href="https://www.atoptics.co.uk/halo/pillar.htm">
+       pillar
+      </a>
+      , though, was illuminated by the  red light emitted by the glowing magma of an
+      <a href="https://youtu.be/z01KTFhA34o">
+       erupting volcano
+      </a>
+      .  The volcano is
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italy
+      </a>
+      's
+      <a href="https://youtu.be/gbRdvpTdQdI">
+       Mount Etna
+      </a>
+      , and the
+      <a href="https://youtu.be/YqbNdDxa_i4">
+       featured image
+      </a>
+      was captured with a single shot during an early morning in mid-February.  Freezing temperatures above the volcano's
+      <a href="ap190512.html">
+       lava flow
+      </a>
+      created
+      <a href="https://www.atoptics.co.uk/halo/platcol.htm">
+       ice-crystals
+      </a>
+      either in the air above the volcano  or in condensed water vapor expelled by
+      <a href="ap030416.html">
+       Mount Etna
+      </a>
+      .  These
+      <a href="https://static01.nyt.com/images/2017/01/07/science/07tb-lightpillars-diagram/07tb-lightpillars-jumbo.jpg">
+       ice crystals
+      </a>
+      -- mostly
+      <a href="https://mrbosscat.com/wp-content/uploads/2021/03/Cat-lying-flat-on-stomach-1536x864.jpg">
+       flat toward the ground
+      </a>
+      but fluttering --  then reflected away light from the
+      <a href="https://youtu.be/gbRdvpTdQdI">
+       volcano's caldera
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/23
   </summary>
   <table>
@@ -18,8 +112,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250223.html">
+      https://apod.nasa.gov/apod/ap250223.html
      </a>
     </td>
    </tr>
