@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/M41_Li_4000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/M41_Li_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why are there so many bright blue stars?   Stars are usually born in
+      <a href="https://science.nasa.gov/universe/star-clusters-inside-the-universes-stellar-collections/">
+       clusters
+      </a>
+      , and the brightest and  most massive of these stars typically glow blue.  Less-bright, non-blue stars like our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      surely also exist in this
+      <a href="https://en.wikipedia.org/wiki/Messier_41">
+       M41
+      </a>
+      star cluster but are harder to see.  A few bright orange-appearing
+      <a href="https://en.wikipedia.org/wiki/Red_giant">
+       red giant stars
+      </a>
+      are visible.  The red-light filaments are emitted by diffuse hydrogen gas, a
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       color
+      </a>
+      that was specifically filtered and enhanced in this image.    In a hundred million years or so, the bright blue stars will have exploded in
+      <a href="https://youtu.be/wymMn-SmALY">
+       supernova
+      </a>
+      s and disappeared,  while the slightly different trajectories of the fainter stars will cause
+      <a href="https://app.astrobin.com/u/Flying_Dutchman?i=wdu704#gallery">
+       this picturesque
+      </a>
+      open cluster to disperse.  Similarly, billions of years ago, our own Sun was likely born into a
+      <a href="https://en.wikipedia.org/wiki/Open_cluster">
+       star cluster
+      </a>
+      like M41, but it has long since
+      <a href="https://c8.alamy.com/comp/2BC0K5D/two-cats-sitting-in-safe-social-distance-separated-by-an-open-drainage-channel-in-the-street-with-natural-stone-paving-in-a-greek-village-cyclades-2BC0K5D.jpg">
+       drifted apart
+      </a>
+      from its
+      <a href="ap241209.html">
+       sister stars
+      </a>
+      .  The
+      <a href="https://www.instagram.com/astrobin_com/p/DFVAtOqNm2Y/">
+       featured image
+      </a>
+      was captured over four hours with
+      <a href="https://en.wikipedia.org/wiki/CHILESCOPE">
+       Chilescope
+      </a>
+      T2 in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/24
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250224.html">
+      https://apod.nasa.gov/apod/ap250224.html
      </a>
     </td>
    </tr>
