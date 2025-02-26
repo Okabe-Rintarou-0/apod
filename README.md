@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/ClusterRing_Euclid_2665.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/ClusterRing_Euclid_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Do you see the ring?   If you look very closely at the center of the featured galaxy
+      <a href="https://en.wikipedia.org/wiki/NGC_6505">
+       NGC 6505
+      </a>
+      ,  a ring becomes evident.  It is the gravity of
+      <a href="https://www.euclid-ec.org/einstein-ring-in-ngc-6505/">
+       NGC 6505
+      </a>
+      , the nearby  (
+      <a href="https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/">
+       z
+      </a>
+      = 0.042)
+      <a href="https://en.wikipedia.org/wiki/Elliptical_galaxy">
+       elliptical galaxy
+      </a>
+      that you can easily see,  that is
+      <a href="https://www.reddit.com/r/photoshopbattles/comments/spff2s/psbattle_this_dog_staring_at_the_camera/#lightbox">
+       magnifying and distorting
+      </a>
+      the image of a
+      <a href="ap210802.html">
+       distant galaxy
+      </a>
+      into a complete circle.  To create a complete
+      <a href="ap111221.html">
+       Einstein ring
+      </a>
+      there must be  perfect alignment of the nearby galaxy's center  and part of the background galaxy.
+      <a href="https://arxiv.org/abs/2502.06505">
+       Analysis
+      </a>
+      of this ring and the multiple images of the background galaxy help to determine the mass and fraction of
+      <a href="https://science.nasa.gov/universe/dark-matter-dark-energy/">
+       dark matter
+      </a>
+      in NGC 6505's center,  as well as uncover previously
+      <a href="ap220705.html">
+       unseen details
+      </a>
+      in the distorted galaxy.   The
+      <a href="https://www.jpl.nasa.gov/news/euclid-discovers-einstein-ring-in-our-cosmic-backyard/">
+       featured image
+      </a>
+      was captured by
+      <a href="https://www.esa.int/">
+       ESA
+      </a>
+      's Earth-orbiting
+      <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid_overview">
+       Euclid telescope
+      </a>
+      in 2023 and released earlier this month.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/25
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250225.html">
+      https://apod.nasa.gov/apod/ap250225.html
      </a>
     </td>
    </tr>
