@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/02/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2502/M35_NGC2158_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2502/M35_NGC2158_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.astrobin.com/m2fh5u/">
+       Framed in this
+      </a>
+      single, starry, telescopic field of view are two open star clusters, M35 and NGC 2158.  Located within the boundaries of the constellation Gemini, they do appear to be side by side.  Its stars concentrated toward the upper right, M35 is relatively nearby, though.
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-35/">
+       M35 (also cataloged
+      </a>
+      as NGC 2168) is a mere 2800 light-years distant, with 400 or so stars spread out over a volume about 30 light-years across.  Bright blue stars frequently distinguish younger open clusters like
+      <a href="http://arxiv.org/abs/astro-ph/0011136">
+       M35
+      </a>
+      , whose age is estimated at 150 million years.  At lower left,
+      <a href="https://en.wikipedia.org/wiki/NGC_2158">
+       NGC 2158
+      </a>
+      is about four times more distant than M35 and much more compact, shining with the more yellowish light  of a population
+      <a href="https://arxiv.org/abs/astro-ph/0202018">
+       of stars
+      </a>
+      over 10 times older.  In general, open star clusters are found along the plane of our
+      <a href="http://www.atlasoftheuniverse.com/galaxy.html">
+       Milky Way Galaxy
+      </a>
+      .  Loosely gravitationally bound, their member stars
+      <a href="https://en.wikipedia.org/wiki/Open_cluster#Eventual_fate">
+       tend to be dispersed
+      </a>
+      over billions of years as the open star clusters orbit the galactic center.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/26
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250226.html">
+      https://apod.nasa.gov/apod/ap250226.html
      </a>
     </td>
    </tr>
