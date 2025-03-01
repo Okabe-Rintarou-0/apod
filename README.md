@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      With spacecraft thrusters at top center, the rugged surface of the Moon lies below the
+      <a href="https://fireflyspace.com/blue-ghost/">
+       Blue Ghost
+      </a>
+      lander in this space age
+      <a href="https://www.youtube.com/@FireflySpace/videos">
+       video
+      </a>
+      frame.  The view of the lunar far side was captured by the Firefly Aerospace lunar lander on February 24, following a maneuver to circularize its orbit about 100 kilometers above the lunar surface.  The robotic lunar lander is
+      <a href="https://blogs.nasa.gov/artemis/">
+       scheduled to
+      </a>
+      touch down
+      <a href="https://www.youtube.com/@FireflySpace/streams">
+       tomorrow, Sunday, March 2
+      </a>
+      , at 3:34am Eastern Time in the
+      <a href="https://www.lroc.asu.edu/images/1400">
+       Mare Crisium impact basin
+      </a>
+      on the lunar near side.  In support of the
+      <a href="https://www.nasa.gov/blogs/artemis/">
+       Artemis campaign
+      </a>
+      , Blue Ghost is set to deliver science and technology experiments to the Moon, part of NASA's Commercial Lunar Payload Services program.
+      <a href="https://fireflyspace.com/news/blue-ghost-mission-1-live-updates/">
+       Blue Ghost's mission
+      </a>
+      on the surface is planned to operate during the lunar daylight hours at the landing site, about 14 Earth days.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/02/28
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250228.html">
+      https://apod.nasa.gov/apod/ap250228.html
      </a>
     </td>
    </tr>
