@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/BlueGhostShadow_Firefly_4096.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/BlueGhostShadow_Firefly_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      There's a new lander on the Moon.  Yesterday
+      <a href="https://fireflyspace.com/">
+       Firefly Aerospace
+      </a>
+      's
+      <a href="https://fireflyspace.com/missions/blue-ghost-mission-1/">
+       Blue Ghost
+      </a>
+      executed the first-ever successful commercial lunar landing.  During its planned 60-day mission,
+      <a href="ap250301.html">
+       Blue Ghost
+      </a>
+      will deploy several
+      <a href="https://www.nasa.gov/blogs/missions/2025/03/02/nasa-science-touches-down-on-moon-aboard-firefly-aerospace-lander/">
+       NASA-commissioned
+      </a>
+      scientific instruments, including
+      <a href="https://www.nasa.gov/missions/artemis/clps/nasa-lander-to-test-vacuum-cleaner-on-moon-for-sample-collection/">
+       PlanetVac
+      </a>
+      which captures
+      <a href="ap221214.html">
+       lunar dust
+      </a>
+      after creating a small whirlwind of gas.
+      <a href="https://en.wikipedia.org/wiki/Blue_Ghost_Mission_1">
+       Blue Ghost
+      </a>
+      will also host the
+      <a href="https://science.nasa.gov/science-research/heliophysics/nasas-lexi-will-provide-x-ray-vision-of-earths-magnetosphere/">
+       telescope LEXI
+      </a>
+      that captures X-ray images of the
+      <a href="https://svs.gsfc.nasa.gov/4141">
+       Earth's magnetosphere
+      </a>
+      .
+      <a href="https://pubmed.ncbi.nlm.nih.gov/38756703/">
+       LEXI
+      </a>
+      data should enable a
+      <a href="https://img.freepik.com/premium-photo/dog-using-computer-nerd-glasses-laptop-keyboard_67473-1841.jpg">
+       better understanding
+      </a>
+      of how Earth's magnetic field protects the Earth from the
+      <a href="ap000318.html">
+       Sun's wind
+      </a>
+      and
+      <a href="ap180902.html">
+       flare
+      </a>
+      s.
+      <a href="https://www.flickr.com/photos/fireflyspace/54359866846/in/datetaken/">
+       Pictured
+      </a>
+      , the shadow of the
+      <a href="https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=BLUEGHOST">
+       Blue Ghost lander
+      </a>
+      is visible on the cratered
+      <a href="ap031109.html">
+       lunar surface
+      </a>
+      ,  while the glowing orb of the
+      <a href="ap220227.html">
+       planet Earth hovers
+      </a>
+      just over the horizon.  Goals for
+      <a href="https://fireflyspace.com/missions/blue-ghost-mission-2/">
+       future robotic Blue Ghost landers
+      </a>
+      include  supporting lunar astronauts in NASA's
+      <a href="https://www.nasa.gov/humans-in-space/artemis/">
+       Artemis program
+      </a>
+      ,  with
+      <a href="https://www.nasa.gov/mission/artemis-iii/">
+       Artemis III
+      </a>
+      currently scheduled to land humans back on the Moon in 2027.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/01
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250302.html">
+      https://apod.nasa.gov/apod/ap250302.html
      </a>
     </td>
    </tr>
