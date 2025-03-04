@@ -5,6 +5,101 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/QuadMoon_Minato_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/QuadMoon_Minato_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why does this Moon look so unusual?   A key reason is its vivid
+      <a href="https://preview.colorkit.co/color/FF0000.png">
+       red
+      </a>
+      color.  The color is
+      <a href="https://www.metoffice.gov.uk/weather/learn-about/weather/optical-effects/why-is-the-sunset-red">
+       caused
+      </a>
+      by the deflection of blue light by
+      <a href="https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      -- the same reason that the
+      <a href="https://spaceplace.nasa.gov/blue-sky/en/">
+       daytime sky appears blue
+      </a>
+      .   The Moon also appears unusually
+      <a href="ap231009.html">
+       distorted
+      </a>
+      .   Its
+      <a href="ap170120.html">
+       strange structuring
+      </a>
+      is an optical effect arising from layers in the Earth's atmosphere that
+      <a href="https://en.wikipedia.org/wiki/Atmospheric_refraction">
+       refract
+      </a>
+      light differently due to sudden differences in temperature or pressure.    A third reason the Moon looks so unusual is that there is, by chance, an
+      <a href="ap190212.html">
+       airplane flying in front
+      </a>
+      .  The
+      <a href="https://www.instagram.com/reel/DGS3o0JtoBA/">
+       featured
+      </a>
+      picturesque
+      <a href="ap231112.html">
+       gibbous
+      </a>
+      <a href="https://science.nasa.gov/moon/moon-phases/">
+       Moon
+      </a>
+      was captured about two weeks ago above
+      <a href="https://youtu.be/5KIl4bpaDBM">
+       Turin
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italy
+      </a>
+      .  Our familiar hovering sky orb was part of an unusual
+      <a href="https://i.pinimg.com/474x/c1/df/9e/c1df9e537650977b9474b103f380094b.jpg">
+       quadruple alignment
+      </a>
+      that included two historic ground structures: the
+      <a href="https://en.wikipedia.org/wiki/Sacra_di_San_Michele">
+       Sacra di San Michele
+      </a>
+      on the near hill and
+      <a href="ap231225.html">
+       Basilica of Superga
+      </a>
+      just beyond.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/03
   </summary>
   <table>
@@ -18,8 +113,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250303.html">
+      https://apod.nasa.gov/apod/ap250303.html
      </a>
     </td>
    </tr>
