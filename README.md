@@ -5,6 +5,131 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/California2Pleiades_Anderson_9953.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/California2Pleiades_Anderson_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      On the right, dressed in blue, is the
+      <a href="ap950620.html">
+       Pleiades
+      </a>
+      .    Also known as the
+      <a href="https://www.rmg.co.uk/stories/topics/what-are-pleiades">
+       Seven Sisters
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Pleiades">
+       M45
+      </a>
+      ,
+      <a href="ap211124.html">
+       the Pleiades
+      </a>
+      is one of the brightest and
+      <a href="ap170314.html">
+       most easily visible
+      </a>
+      <a href="open_clusters.html">
+       open clusters
+      </a>
+      on the sky.
+      <a href="https://earthsky.org/favorite-star-patterns/pleiades-star-cluster-enjoys-worldwide-renown/">
+       The Pleiades
+      </a>
+      contains over 3,000 stars, is about 400 light years away,  and only 13 light years across.
+      <a href="ap200323.html">
+       Surrounding the stars
+      </a>
+      is a spectacular blue
+      <a href="https://en.wikipedia.org/wiki/Reflection_nebula">
+       reflection nebula
+      </a>
+      made of fine
+      <a href="lib/glossary.html#dust">
+       dust
+      </a>
+      .
+      <a href="https://arxiv.org/pdf/0810.1592">
+       A common legend
+      </a>
+      is that one of the brighter stars faded since the cluster was named.  On the left, shining in red, is the
+      <a href="ap060924.html">
+       California Nebula
+      </a>
+      .    Named for its shape, the
+      <a href="https://en.wikipedia.org/wiki/California">
+       California
+      </a>
+      Nebula is much dimmer and hence harder to see than
+      <a href="https://youtu.be/V0qMKgeVR5M">
+       the Pleiades
+      </a>
+      .    Also known as
+      <a href="https://en.wikipedia.org/wiki/California_Nebula">
+       NGC 1499
+      </a>
+      , this mass of red glowing hydrogen gas is about 1,500
+      <a href="https://chandra.harvard.edu/photo/cosmic_distance.html">
+       light years
+      </a>
+      away.  Although about 25 full moons could fit
+      <a href="ap090411.html">
+       between them
+      </a>
+      , the
+      <a href="https://www.instagram.com/p/DGREz_SpZIL/">
+       featured wide angle, deep field image composite
+      </a>
+      has captured
+      <a href="ap960618.html">
+       them
+      </a>
+      <a href="ap090212.html">
+       both
+      </a>
+      .    A
+      <a href="https://i.dailymail.co.uk/1s/2022/03/30/20/56019439-10669595-This_adorable_tiny_kitten_who_is_entranced_by_the_computer_scree-m-73_1648669189326.jpg">
+       careful inspection
+      </a>
+      of the deep image will also reveal the star forming region
+      <a href="ap151010.html">
+       IC 348
+      </a>
+      and  the
+      <a href="https://en.wikipedia.org/wiki/Molecular_cloud">
+       molecular cloud
+      </a>
+      <a href="https://noirlab.edu/public/images/noao-lbn777/">
+       LBN 777
+      </a>
+      (the Baby Eagle Nebula).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/04
   </summary>
   <table>
@@ -18,8 +143,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250304.html">
+      https://apod.nasa.gov/apod/ap250304.html
      </a>
     </td>
    </tr>
