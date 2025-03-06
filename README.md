@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/M94_hst1542a_1280.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/M94_hst1542a.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Beautiful island universe
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-94/">
+       Messier 94 lies
+      </a>
+      a mere 15 million light-years distant in the northern constellation of the hunting dogs,
+      <a href="http://en.wikipedia.org/wiki/Canes_Venatici">
+       Canes Venatici
+      </a>
+      .  A popular target for earth-based astronomers, the face-on spiral galaxy is about 30,000 light-years across, with spiral arms sweeping through the
+      <a href="ap100114.html">
+       outskirts of its
+      </a>
+      broad disk.  But this
+      <a href="http://www.spacetelescope.org/images/potw1542a">
+       Hubble Space Telescope field of view
+      </a>
+      spans about 7,000 light-years or so across M94's central region.  The sharp close-up examines the galaxy's compact, bright nucleus and prominent inner dust lanes, surrounded by a remarkable bluish ring of young, massive stars.  The massive stars in the ring
+      <a href="https://chandra.harvard.edu/photo/cosmic_lookback.html">
+       appear
+      </a>
+      to be less than about 10 million  years old, indicating the galaxy experienced a corresponding well-defined era of rapid star formation.  As a result, while the small, bright nucleus is typical of the
+      <a href="http://spider.seds.org/spider/ScholarX/seyferts.html">
+       Seyfert
+      </a>
+      class of active galaxies, M94 is also known as a
+      <a href="http://chandra.harvard.edu/xray_sources/starburst.html">
+       starburst galaxy
+      </a>
+      .  Because M94 is relatively nearby, astronomers can explore
+      <a href="http://arxiv.org/abs/astro-ph/0011101">
+       in detail
+      </a>
+      reasons for the galaxy's burst of star formation.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/05
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250305.html">
+      https://apod.nasa.gov/apod/ap250305.html
      </a>
     </td>
    </tr>
