@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/Abell7_VChander4096.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/Abell7_VChander1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Very faint planetary nebula Abell 7 is about 1,800 light-years distant.  It lies just south of Orion in planet Earth's skies toward the constellation
+      <a href="http://www.allthesky.com/constellations/big/lepus28vm-b.jpg">
+       Lepus, The Hare
+      </a>
+      .  Surrounded by Milky Way stars and near the line-of-sight to distant background galaxies its
+      <a href="http://arxiv.org/abs/1210.6226">
+       generally
+      </a>
+      simple spherical shape, about 8 light-years in diameter, is revealed in this deep telescopic image.  Within the cosmic cloud are beautiful and complex structures though, enhanced by the use of long exposures and
+      <a href="ap111013.html">
+       narrowband
+      </a>
+      filters that capture emission from hydrogen, sulfur, and oxygen atoms.  Otherwise Abell 7 would be much too faint to be appreciated
+      <a href="ap100506.html">
+       by eye
+      </a>
+      .  A
+      <a href="http://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion
+      <a href="http://www.futuretimeline.net/beyond.htm">
+       years hence
+      </a>
+      , as the nebula's central, once sun-like star shrugs off its outer layers.  Abell 7 itself is estimated to be 20,000 years old.  But its central star, seen here as a
+      <a href="https://www.nasa.gov/feature/goddard/2019/citizen-scientist-finds-ancient-white-dwarf-star-encircled-by-puzzling-rings">
+       fading white dwarf
+      </a>
+      , is some 10 billion years old.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/06
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250306.html">
+      https://apod.nasa.gov/apod/ap250306.html
      </a>
     </td>
    </tr>
