@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/iss072e574593_DonPetit2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/iss072e574593_DonPetit1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The plane of our Milky Way
+      <a href="ap151107.html">
+       galaxy extends beyond
+      </a>
+      the limb of planet Earth in this
+      <a href="https://www.nasa.gov/blogs/spacestation/2025/03/05/crew-works-vein-scans-and-muscle-stimulation-prior-to-upcoming-departure/">
+       space age exposure
+      </a>
+      captured by astronaut Don Pettit.
+      <a href="https://earthsky.org/todays-image/earth-and-the-milky-way-don-pettit-photo/">
+       His camera
+      </a>
+      , with low light and long duration settings, was pointed
+      <a href="https://www.flickr.com/photos/nasa2explore/54342367145/in/album-72177720312887519/">
+       out the window
+      </a>
+      of a Dragon crew spacecraft docked with the International Space Station on January 29.  The orbital outpost was at an altitude of about 400 kilometers above the Pacific Ocean at the time.  Motion blurs the Earth below, while the gorgeous view from low Earth orbit includes the Milky Way's prominent satellite galaxies, known as the Large and Small Magellanic Clouds, near the upper left in the frame.  Fans of
+      <a href="ap211001.html">
+       southern skies
+      </a>
+      can also spot the Southern Cross.  The
+      <a href="ap080707.html">
+       four brightest stars
+      </a>
+      of the famous southern constellation Crux are near picture center, just beyond the edge of the bright horizon and shining through Earth's orange tinted atmospheric glow.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/07
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250307.html">
+      https://apod.nasa.gov/apod/ap250307.html
      </a>
     </td>
    </tr>
