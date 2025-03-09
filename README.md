@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/JupiterCyclones_Juno_2362.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/JupiterCyclones_Juno_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why are there so many cyclones around the north pole of Jupiter?
+      <a href="https://solarsystem.nasa.gov/news/347/nasa-juno-findings-jupiters-jet-streams-are-unearthly/">
+       The topic
+      </a>
+      is still being researched.   NASA's robotic
+      <a href="https://science.nasa.gov/mission/juno/">
+       Juno mission
+      </a>
+      orbiting Jupiter  took data in 2018 that was used to construct
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA22335">
+       this stunning view
+      </a>
+      of the curious cyclones at Jupiter's north pole.  Measuring the
+      <a href="https://www.reddit.com/r/cats/comments/lj1x1o/thermal_cat/#lightbox">
+       thermal emission
+      </a>
+      from Jovian cloud tops, the
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      observations are not restricted to the
+      <a href="ap160914.html">
+       hemisphere illuminated
+      </a>
+      by sunlight.
+      <a href="https://www.nature.com/articles/nature25491">
+       They reveal
+      </a>
+      eight cyclonic features that surround a cyclone about 4,000 kilometers in diameter, just offset from the giant planet's geographic north pole.  Similar data show a cyclone at the
+      <a href="ap161025.html">
+       Jovian south pole
+      </a>
+      with five circumpolar cyclones.  The south pole cyclones are slightly larger than their northern cousins.
+      <a href="https://i.imgur.com/mYiRh.png">
+       Oddly
+      </a>
+      ,  data from the once Saturn-orbiting
+      <a href="https://science.nasa.gov/mission/cassini/about-the-mission/">
+       Cassini mission
+      </a>
+      has shown that Saturn's
+      <a href="ap250223.html">
+       north
+      </a>
+      and
+      <a href="ap081027.html">
+       south pole
+      </a>
+      s each have only a single cyclonic
+      <a href="ap130502.html">
+       storm system
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/08
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250308.html">
+      https://apod.nasa.gov/apod/ap250308.html
      </a>
     </td>
    </tr>
