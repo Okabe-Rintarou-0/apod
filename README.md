@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_4000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Many spiral galaxies have bars across their centers.    Even our own
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      is thought to have a
+      <a href="ap050825.html">
+       modest central bar
+      </a>
+      .  Prominently barred spiral galaxy NGC 1672,
+      <a href="https://esahubble.org/images/potw2445a/">
+       featured here
+      </a>
+      ,  was captured in spectacular detail in an image taken by the orbiting
+      <a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/">
+       Hubble Space Telescope
+      </a>
+      .  Visible are dark filamentary
+      <a href="ap060219.html">
+       dust lanes
+      </a>
+      , young
+      <a href="open_clusters.html">
+       clusters
+      </a>
+      of bright blue stars, red
+      <a href="emission_nebulae.html">
+       emission nebulas
+      </a>
+      of glowing hydrogen gas, a long bright bar of
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      across the center, and a bright
+      <a href="https://en.wikipedia.org/wiki/Active_galactic_nucleus">
+       active nucleus
+      </a>
+      that likely houses a supermassive
+      <a href="http://antwrp.gsfc.nasa.gov/htmltest/rjn_bht.html">
+       black hole
+      </a>
+      .    Light takes about 60 million years to reach us from
+      <a href="https://en.wikipedia.org/wiki/NGC_1672">
+       NGC 1672
+      </a>
+      ,  which spans about 75,000
+      <a href="https://chandra.harvard.edu/photo/cosmic_distance.html">
+       light years
+      </a>
+      across.
+      <a href="http://www.youtube.com/watch?v=hGuct0CGHiA">
+       NGC 1672
+      </a>
+      ,  which appears toward the constellation of the Dolphinfish (
+      <a href="https://en.wikipedia.org/wiki/Dorado">
+       Dorado
+      </a>
+      ), has
+      <a href="https://ui.adsabs.harvard.edu/abs/2011ApJ...734...33J/abstract">
+       been studied
+      </a>
+      to find out how a spiral bar  contributes to star formation in a galaxy's central regions.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/10
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250310.html">
+      https://apod.nasa.gov/apod/ap250310.html
      </a>
     </td>
    </tr>
