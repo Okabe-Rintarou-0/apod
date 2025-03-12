@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/NGC772Comet_Bax_4724.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/NGC772Comet_Bax_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why does this galaxy look like a
+      <a href="https://en.wikipedia.org/wiki/Fiddlehead">
+       curly vegetable
+      </a>
+      ?   The
+      <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-curious-spiral/">
+       Fiddlehead spiral galaxy
+      </a>
+      likely gets its distorted spiral appearance from a
+      <a href="ap201203.html">
+       gravitational interaction
+      </a>
+      with its close-by elliptical companion
+      <a href="https://en.wikipedia.org/wiki/NGC_770#/media/File:NGC_0770_SDSS.jpg">
+       NGC 770
+      </a>
+      , seen just below.   Cataloged as NGC 772 and Arp 78,  the Fiddlehead spans over 200,000 light years,  is a nearby 100 million light years beyond  the stars of our Milky Way galaxy, and is visible toward the
+      <a href="https://www.britannica.com/place/Aries">
+       constellation of the Ram
+      </a>
+      (Aries).   But in the
+      <a href="https://www.astrobin.com/gcz15v/0/">
+       featured image
+      </a>
+      ,  the Fiddlehead appears to have another companion --  one with a long and fuzzy tail:
+      <a href="https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=43P%2FWolf-Harrington">
+       Comet 43P/Wolf-Harrington
+      </a>
+      .   Though the comet appears to be aimed straight at the massive galaxy, it is actually much closer to us, residing only
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light minutes
+      </a>
+      away -- well within our Solar System.   The comet will never reach the distant spiral galaxy,  nor is it
+      <a href="https://www.reddit.com/r/aww/comments/cztlvz/precious_gang_of_two_real_cats_and_a_fake_one/#lightbox">
+       physically related
+      </a>
+      to it.   By a fortunate trick of perspective, though, these two cosmic wonders briefly share the same frame taken late last year from
+      <a href="https://youtu.be/bnQzW7TEtPQ">
+       Calern
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/France">
+       France
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/11
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250311.html">
+      https://apod.nasa.gov/apod/ap250311.html
      </a>
     </td>
    </tr>
