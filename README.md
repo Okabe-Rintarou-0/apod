@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/MoonriseShadowDLopez_1.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/MoonriseShadowDLopez_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.jpl.nasa.gov/edu/resources/collection/pi-day-activities-for-the-classroom/">
+       What phase of the Moon is 3.14 radians
+      </a>
+      from the Sun?  The Full Moon, of course.  Even though the
+      <a href="https://earthsky.org/moon-phases/full-moon">
+       Moon might look full
+      </a>
+      for several days, the Moon is truly at its full phase when it is
+      <a href="https://www.mathsisfun.com/geometry/radians.html">
+       Pi radians
+      </a>
+      (aka 180 degrees) from the Sun in
+      <a href="https://en.wikipedia.org/wiki/Ecliptic_coordinate_system">
+       ecliptic
+      </a>
+      longitude.  That's opposite the Sun in planet Earth's sky.  Rising as the Sun set on March 9, 2020, only an hour or so after the moment of its full phase, this orange tinted and
+      <a href="ap161118.html">
+       slightly flattened
+      </a>
+      Moon still looked full.  It was photographed opposite the setting Sun from Teide National Park on the Canary Island of Tenerife.  Also opposite the setting Sun, seen from near the Teide volcano peak about 3,500 meters above sea level, is the mountain's rising
+      <a href="ap161021.html">
+       triangular shadow
+      </a>
+      extending into Earth's dense atmosphere.  Below the distant ridge line on the left are the white telescope domes of
+      <a href="https://www.iac.es/en/observatorios-de-canarias/teide-observatory">
+       Teide Observatory
+      </a>
+      .  Today, March 14 2025, the moon is Pi radians from the Sun at exactly 06:55 UTC.  That's about three minutes before the midpoint of the March Full Moon's
+      <a href="https://earthsky.org/astronomy-essentials/total-lunar-eclipse-march-13-14-2025/">
+       total lunar eclipse
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/13
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250313.html">
+      https://apod.nasa.gov/apod/ap250313.html
      </a>
     </td>
    </tr>
