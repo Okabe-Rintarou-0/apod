@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/2025_03_14_ZM_Tololo_Totalita_Fin_1500py.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/2025_03_14_ZM_Tololo_Totalita_Fin_1024py.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap250314.html">
+       On March 14 the Moon was Full
+      </a>
+      .  In an appropriate celebration of Pi day, that put the Moon 3.14 radians (180 degrees) in ecliptic longitude from the Sun in planet Earth's sky.  As a bonus for
+      <a href="https://www.jpl.nasa.gov/edu/resources/project/18-ways-nasa-uses-pi/">
+       fans of Pi
+      </a>
+      and
+      <a href="https://science.nasa.gov/skywatching/night-sky-network/">
+       the night sky
+      </a>
+      , on that date the Moon also passed directly through Earth's umbral shadow in a
+      <a href="https://science.nasa.gov/solar-system/moon/what-you-need-to-know-about-the-march-2025-total-lunar-eclipse/">
+       total lunar eclipse
+      </a>
+      .  In clear skies, the colors of an eclipsed Moon can be vivid.  Reflecting the deeply reddened sunlight scattered into Earth's shadow, the darkened lunar disk was recorded in this time series composite image from Cerro Tololo Observatory, Chile.  The lunar triptych captures the start, middle, and end of the total eclipse phase that lasted about an hour.  A faint
+      <a href="ap151003.html">
+       bluish tint
+      </a>
+      seen just along the brighter lunar limb at the shadow's edge is due to sunlight filtered through Earth's stratospheric ozone layer.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/14
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250314.html">
+      https://apod.nasa.gov/apod/ap250314.html
      </a>
     </td>
    </tr>
