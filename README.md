@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/SunVenusUv3_SdoDove_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/SunVenusUv3_SdoDove_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This was a very unusual type of solar eclipse.    Typically, it is the
+      <a href="http://en.wikipedia.org/wiki/Moon">
+       Earth's Moon
+      </a>
+      that
+      <a href="http://xjubier.free.fr/en/site_pages/SolarEclipsesGoogleMaps.html">
+       eclipses
+      </a>
+      the Sun.    In 2012, though, the planet
+      <a href="https://solarsystem.nasa.gov/planets/venus/in-depth/">
+       Venus
+      </a>
+      took a turn.    Like a
+      <a href="ap121117.html">
+       solar eclipse
+      </a>
+      by the Moon, the
+      <a href="ap240108.html">
+       phase of Venus
+      </a>
+      became a continually thinner
+      <a href="ap210725.html">
+       crescent
+      </a>
+      as Venus became increasingly better
+      <a href="https://www.lifewithcats.tv/wp-content/uploads/2015/02/yhkjnmkjhgfdge.jpg">
+       aligned
+      </a>
+      with the Sun.    Eventually the alignment became perfect and the
+      <a href="https://science.nasa.gov/moon/moon-phases/">
+       phase
+      </a>
+      of Venus dropped to zero.    The
+      <a href="ap120611.html">
+       dark spot
+      </a>
+      of Venus crossed our parent star.    The situation could technically be labeled a Venusian
+      <a href="https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-an-eclipse-58">
+       annular eclipse
+      </a>
+      with an extraordinarily large
+      <a href="ap200615.html">
+       ring of fire
+      </a>
+      .
+      <a href="http://www.flickr.com/photos/pldove/7344307970/in/photostream/">
+       Pictured here
+      </a>
+      during the occultation, the Sun was imaged in three colors of
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       ultraviolet light
+      </a>
+      by the Earth-orbiting
+      <a href="https://sdo.gsfc.nasa.gov/">
+       Solar Dynamics Observatory
+      </a>
+      ,  with the dark region toward the right corresponding to a
+      <a href="ap100828.html">
+       coronal hole
+      </a>
+      .  Hours later, as Venus continued in its orbit, a
+      <a href="ap130814.html">
+       slight crescent phase
+      </a>
+      appeared again.   The next
+      <a href="https://en.wikipedia.org/wiki/Transit_of_Venus#Past_and_future_transits">
+       Venusian transit across the Sun
+      </a>
+      will occur in
+      <a href="https://en.wikipedia.org/wiki/22nd_century#Transits_and_occultations">
+       2117
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/15
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250315.html">
+      https://apod.nasa.gov/apod/ap250315.html
      </a>
     </td>
    </tr>
