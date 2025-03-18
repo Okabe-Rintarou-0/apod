@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/Shark_Martin_5441.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/Shark_Martin_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      There is no sea on Earth large enough to contain the Shark nebula.  This
+      <a href="https://oceantoday.noaa.gov/endoceansharks/">
+       predator
+      </a>
+      apparition poses us no danger as it is composed only of interstellar gas and
+      <a href="http://apod.nasa.gov/apod/ap030706.html">
+       dust
+      </a>
+      .  Dark dust like that
+      <a href="https://www.astrobin.com/6ekkcw/">
+       featured here
+      </a>
+      is somewhat like cigarette smoke and
+      <a href="https://en.wikipedia.org/wiki/Cosmic_dust#Dust_grain_formation">
+       created
+      </a>
+      in the cool atmospheres of giant
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      .  After expelling gas and
+      <a href="https://www.youtube.com/watch?v=YbdwTwB8jtc">
+       gravitationally recondensing
+      </a>
+      , massive stars may
+      <a href="ap221020.html">
+       carve intricate structures
+      </a>
+      into their birth cloud using their high energy light and fast
+      <a href="ap000318.html">
+       stellar wind
+      </a>
+      s as sculpting tools.   The heat they generate evaporates the murky
+      <a href="ap230129.html">
+       molecular cloud
+      </a>
+      as well as  causing ambient hydrogen gas to disperse and glow red.   During disintegration, we
+      <a href="ap190818.html">
+       humans
+      </a>
+      can enjoy
+      <a href="ap120124.html">
+       imagining
+      </a>
+      these
+      <a href="ap141008.html">
+       great clouds
+      </a>
+      as
+      <a href="https://en.wikipedia.org/wiki/Pareidolia">
+       common icons
+      </a>
+      , like we do for
+      <a href="https://cloudappreciationsociety.org/">
+       water clouds
+      </a>
+      on Earth.  Including
+      <a href="https://apod.nasa.gov/apod/image/1509/shark_toet_1000_anno.jpg">
+       smaller dust nebulae
+      </a>
+      such as Van den Bergh 149 &amp; 150, the
+      <a href="https://www.galactic-hunter.com/post/the-shark-nebula">
+       Shark nebula
+      </a>
+      , sometimes cataloged as LDN 1235,   spans about 15 light years and lies about 650
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      away toward the constellation of the King of Aethiopia  (
+      <a href="https://en.wikipedia.org/wiki/Cepheus_(constellation)">
+       Cepheus
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/17
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250317.html">
+      https://apod.nasa.gov/apod/ap250317.html
      </a>
     </td>
    </tr>
