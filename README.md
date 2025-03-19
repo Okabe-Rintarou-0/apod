@@ -5,6 +5,77 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/eclipse-shot-from-blue-ghost-mission-1.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/eclipse-shot-from-blue-ghost-crop1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap250315.html">
+       On March 14 the Full Moon
+      </a>
+      slid through Earth's dark umbral shadow and denizens of planet Earth were treated to a total lunar
+      <a href="https://science.nasa.gov/moon/eclipses/">
+       eclipse
+      </a>
+      .  Of course, from the Moon's near side that same astronomical
+      <a href="https://en.wikipedia.org/wiki/Syzygy_(astronomy)">
+       syzygy
+      </a>
+      was seen as a
+      <i>
+       solar
+      </i>
+      eclipse.  Operating in the Mare Crisium on
+      <a href="ap250303.html">
+       the lunar surface
+      </a>
+      , the
+      <a href="https://www.nasa.gov/blogs/missions/2025/03/14/nasa-science-data-received-blue-ghost-captures-eclipse-from-moon/">
+       Blue Ghost lander captured
+      </a>
+      this video frame of Earth in silhouette around 3:30am CDT, just as the Sun was emerging from behind the terrestrial disk.
+      <a href="https://fireflyspace.com/news/blue-ghost-mission-1-live-updates/">
+       From Blue Ghost's
+      </a>
+      lunar perspective the beautiful
+      <a href="ap240420.html">
+       diamond ring
+      </a>
+      effect, familiar to earthbound solar eclipse watchers, is striking.  Since Earth appears about four times the apparent size of the Sun from the lunar surface the inner
+      <a href="ap230516.html">
+       solar corona
+      </a>
+      , the atmosphere of the Sun most easily seen from Earth during a total solar eclipse, is hidden from view.  Still, scattering in Earth's dense atmosphere creates the glowing band of sunlight embracing
+      <a href="ap070302.html">
+       our fair planet
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/18
   </summary>
   <table>
@@ -18,8 +89,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250318.html">
+      https://apod.nasa.gov/apod/ap250318.html
      </a>
     </td>
    </tr>
