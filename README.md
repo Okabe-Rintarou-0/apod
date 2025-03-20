@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/HunterWells_submission3-3.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/HunterWells_submission3-3labelled1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Recorded from 2024 March 10, to 2025 March 1, this composited series of images
+      <a href="ap241204.html">
+       reveals a pattern
+      </a>
+      in the seasonal drift of the Sun's daily motion through planet Earth's sky.  Known to some as
+      <a href="https://ui.adsabs.harvard.edu/abs/2013arXiv1302.0765H/abstract">
+       an analemma
+      </a>
+      , the figure-eight curve was captured in exposures taken on the indicated dates only at 18:38 UTC from the exact same
+      <a href="https://www.youtube.com/watch?v=0tGkLhf2XGo">
+       location south of Stephenville, Texas
+      </a>
+      .  The Sun's position on the 2024
+      <a href="ap241221.html">
+       solstice
+      </a>
+      dates of June 20 and December 21 would be at the top and bottom of the curve and correspond to the astronomical beginning of summer and winter in the north.  Points that lie along the curve
+      <a href="https://en.wikipedia.org/wiki/Analemma#/media/File:Analemma_Earth.png">
+       half-way between
+      </a>
+      the solstices would mark the equinoxes.  The 2024 equinox on September 22, and in 2025 the
+      <a href="ap190320.html">
+       equinox
+      </a>
+      on March 20 (today) are the start of northern fall and spring.  And since one of the exposures was made on 2024 April 8 from the Stephenville location at 18:38:40 UTC, this analemma project also reveals the solar corona in planet Earth's sky during a
+      <a href="https://science.nasa.gov/solar-system/skywatching/april-8-total-solar-eclipse-through-the-eyes-of-nasa/">
+       total solar eclipse
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/19
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250319.html">
+      https://apod.nasa.gov/apod/ap250319.html
      </a>
     </td>
    </tr>
