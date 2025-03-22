@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's the sound of
+      <a href="https://www.nasa.gov/feature/jpl/perseverance-rover-s-supercam-science-instrument-delivers-first-results">
+       one laser zapping?
+      </a>
+      There's no need to consult a Zen master to find out, just listen to the first
+      <a href="https://mars.nasa.gov/resources/25715/first-acoustic-recording-of-laser-shots-on-mars/">
+       acoustic recording of laser shots on Mars
+      </a>
+      .  On
+      <a href="https://science.nasa.gov/mission/mars-2020-perseverance/">
+       Mars Rover Perseverance
+      </a>
+      mission sol 12 (March 2, 2021) the SuperCam instrument atop the rover's mast zapped a rock dubbed Ma'az 30 times from a range of about 3.1 meters.
+      <a href="https://mars.nasa.gov/mars2020/spacecraft/rover/microphones/#SuperCam-Microphone">
+       Its microphone
+      </a>
+      recorded the soft staccato popping sounds of the rapid series of SuperCam laser zaps.  Shockwaves created in the thin Martian atmosphere as bits of rock are vaporized by the laser shots make the popping sounds, sounds that offer clues to the physical structure of the target.
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA24493">
+       This SuperCam close-up
+      </a>
+      of the Ma'az target region is 6 centimeters (2.3 inches) across.  Ma'az means Mars in
+      <a href="https://www.nasa.gov/feature/jpl/nasa-s-perseverance-mars-rover-mission-honors-navajo-language">
+       the Navajo language
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/21
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250321.html">
+      https://apod.nasa.gov/apod/ap250321.html
      </a>
     </td>
    </tr>
