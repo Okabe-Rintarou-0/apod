@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/OgunquitBeach_Curiosity_8776.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/OgunquitBeach_Curiosity_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This was once a beach -- on ancient
+      <a href="https://science.nasa.gov/mars/">
+       Mars
+      </a>
+      .  The
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA11241">
+       featured 360-degree panorama
+      </a>
+      ,
+      <a href="https://s-media-cache-ak0.pinimg.com/originals/62/f1/fe/62f1fe59e5e8ed26d724f701adc5be0b.jpg">
+       horizontally compressed
+      </a>
+      , was taken in 2017 by the robotic
+      <a href="https://mars.nasa.gov/msl/mission/rover/">
+       Curiosity rover
+      </a>
+      that explored the
+      <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-new-study-on-why-mars-is-red-supports-potentially-habitable-past/">
+       red planet
+      </a>
+      .  Named Ogunquit Beach after its
+      <a href="https://www.youtube.com/watch?v=9NUOfTyFumg">
+       terrestrial counterpart
+      </a>
+      ,  evidence shows that at times long ago the area was underwater,  while at other times it was at the edge of an
+      <a href="https://www.jpl.nasa.gov/news/nasas-curiosity-rover-team-confirms-ancient-lakes-on-mars/">
+       ancient lake
+      </a>
+      .   The light peak in the central background is the top of
+      <a href="ap120827.html">
+       Mount Sharp
+      </a>
+      , the central feature in
+      <a href="ap110729.html">
+       Gale Crater
+      </a>
+      where Curiosity explored.  Portions of the
+      <a href="ap160119.html">
+       dark sands
+      </a>
+      in the foreground were
+      <a href="http://redplanet.asu.edu/?p=23396">
+       scooped up
+      </a>
+      for analysis.   The light colored
+      <a href="ap040127.html">
+       bedrock
+      </a>
+      is composed of
+      <a href="https://en.wikipedia.org/wiki/Sediment">
+       sediment
+      </a>
+      that likely settled at the bottom of the now-dried lakebed.   The
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA11241">
+       featured
+      </a>
+      panorama  (
+      <a href="https://youtu.be/V3qr9AqZyEI">
+       interactive version here
+      </a>
+      ) was created from over 100 images and seemingly signed by the rover on the lower left.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/22
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250322.html">
+      https://apod.nasa.gov/apod/ap250322.html
      </a>
     </td>
    </tr>
