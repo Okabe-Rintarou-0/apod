@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_2700.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What causes a blue band to cross the Moon during a lunar eclipse?  The blue band is real but usually quite hard to see.  The featured
+      <a href="https://en.wikipedia.org/wiki/High_dynamic_range">
+       HDR
+      </a>
+      image of last week's lunar eclipse, however -- taken from
+      <a href="https://youtu.be/l4ep9I3XVog">
+       Norman
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Oklahoma">
+       Oklahoma
+      </a>
+      (USA)  -- has been digitally processed to exaggerate
+      <a href="ap220515.html">
+       the colors
+      </a>
+      .   The gray color on the upper right of the top lunar image is
+      <a href="https://science.nasa.gov/moon/facts/">
+       the Moon
+      </a>
+      's  natural color, directly illuminated by sunlight.  The lower parts of the Moon on all three images  are not directly lit by the Sun since it is
+      <a href="ap210525.html">
+       being eclipsed
+      </a>
+      -- it is in the
+      <a href="ap211125.html">
+       Earth's shadow
+      </a>
+      .  It is faintly lit, though, by sunlight that has passed deep through
+      <a href="https://www.nasa.gov/mission_pages/sunearth/science/atmosphere-layers2.html">
+       Earth's atmosphere
+      </a>
+      .  This part of the Moon is red -- and called a
+      <a href="https://www.timeanddate.com/eclipse/blood-moon.html">
+       blood Moon
+      </a>
+      -- for the same reason that Earth's sunsets are red:  because air scatters away
+      <a href="https://spaceplace.nasa.gov/blue-sky/">
+       more blue
+      </a>
+      light than red.  The
+      <a href="https://www.reddit.com/r/aww/comments/sf84rb/does_anyone_elses_dog_tilt_their_head_when_they/#lightbox">
+       unusual
+      </a>
+      purple-blue band visible on the upper right of  the top and middle images is different -- its color is augmented  by sunlight that has passed high through Earth's atmosphere, where
+      <a href="https://earthsky.org/space/why-does-the-moon-look-red-during-a-total-lunar-eclipse/">
+       red light
+      </a>
+      is better absorbed by
+      <a href="https://ozonewatch.gsfc.nasa.gov/facts/SH.html">
+       ozone
+      </a>
+      than blue.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/23
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250324.html">
+      https://apod.nasa.gov/apod/ap250324.html
      </a>
     </td>
    </tr>
