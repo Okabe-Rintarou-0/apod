@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/03/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_3453.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What if the Sun and Moon rose together?  That
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/mar-29-2025-eclipse/">
+       happened yesterday
+      </a>
+      over some northern parts of
+      <a href="https://science.nasa.gov/earth/facts/">
+       planet Earth
+      </a>
+      as a
+      <a href="https://science.nasa.gov/eclipses/types/">
+       partial solar eclipse
+      </a>
+      occurred shortly after sunrise.  Regions that experienced the Moon blocking part of the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      included northeastern parts of
+      <a href="https://en.wikipedia.org/wiki/North_America">
+       North America
+      </a>
+      and northwestern parts of
+      <a href="https://en.wikipedia.org/wiki/Europe">
+       Europe
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Asia">
+       Asia
+      </a>
+      , and
+      <a href="https://en.wikipedia.org/wiki/Africa">
+       Africa
+      </a>
+      .   The featured image was captured yesterday over the
+      <a href="https://youtu.be/ZxIPyR6-bko">
+       Grábrók
+      </a>
+      volcanic crater in
+      <a href="https://en.wikipedia.org/wiki/Iceland">
+       Iceland
+      </a>
+      where much of the Sun became momentarily hidden behind the Moon.  The image was taken through a cloudy sky but
+      <a href="https://catastic.pet/wp-content/uploads/2022/12/fluffy-kitten-with-glasses-book-blue-background-cat-scientist-school-concept.jpg">
+       so well planned
+      </a>
+      that the photographer's friend  appeared to be pulling the Sun out from behind the Moon.  No part of the Earth experienced a
+      <a href="ap240310.html">
+       total solar eclipse
+      </a>
+      this time.  In the distant past, some of humanity was  so surprised when an eclipse occurred that ongoing
+      <a href="https://en.wikipedia.org/wiki/Eclipse_of_Thales">
+       battles suddenly stopped
+      </a>
+      .   Today, eclipses are not a surprise and are
+      <a href="https://www.timeanddate.com/eclipse/accuracy.html">
+       predicted with an accuracy
+      </a>
+      of seconds.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/29
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250329.html">
+      https://apod.nasa.gov/apod/ap250329.html
      </a>
     </td>
    </tr>
