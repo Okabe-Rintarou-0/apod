@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2503/JupiterRing_WebbSchmidt_2429.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2503/JupiterRing_WebbSchmidt_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why does Jupiter have rings?
+      <a href="https://en.wikipedia.org/wiki/Rings_of_Jupiter#Main_ring">
+       Jupiter's main ring
+      </a>
+      was discovered in 1979 by NASA's passing
+      <a href="https://science.nasa.gov/mission/voyager/">
+       Voyager
+      </a>
+      1 spacecraft,  but its origin was then a mystery.   Data from NASA's
+      <a href="https://science.nasa.gov/mission/galileo/">
+       Galileo
+      </a>
+      spacecraft that orbited Jupiter from 1995 to 2003,  however, confirmed the hypothesis that
+      <a href="ap120617.html">
+       this ring
+      </a>
+      was created by meteoroid impacts on small nearby moons.   As a small meteoroid strikes tiny
+      <a href="https://www.jpl.nasa.gov/images/pia02531-best-images-yet-of-thebe-amalthea-and-metis/">
+       Metis
+      </a>
+      , for example, it will bore into the moon,  vaporize, and explode dirt and dust off into a
+      <a href="ap180221.html">
+       Jovian
+      </a>
+      orbit.  The
+      <a href="https://www.flickr.com/photos/geckzilla/52219195378/">
+       featured image
+      </a>
+      of Jupiter in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared light
+      </a>
+      by the
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      shows not only
+      <a href="https://blogs.nasa.gov/webb/2022/07/14/webb-images-of-jupiter-and-more-now-available-in-commissioning-data/">
+       Jupiter and its clouds
+      </a>
+      ,  but this ring as well.  Jupiter's
+      <a href="ap201019.html">
+       Great Red Spot
+      </a>
+      (GRS) -- in comparatively light color on the right, Jupiter's large moon
+      <a href="https://science.nasa.gov/jupiter/jupiter-moons/europa/">
+       Europa
+      </a>
+      -- in the center of
+      <a href="https://en.wikipedia.org/wiki/Diffraction_spike">
+       diffraction spikes
+      </a>
+      on the left, and
+      <a href="ap220717.html">
+       Europa's shadow
+      </a>
+      -- next to the
+      <a href="https://en.wikipedia.org/wiki/Great_Red_Spot">
+       GRS
+      </a>
+      -- are also visible.  Several features in the image are
+      <a href="https://media.istockphoto.com/photos/surprised-cat-picture-id154887818?k=20&amp;m=154887818&amp;s=612x612&amp;w=0&amp;h=hChPEVbyuR9J9ASBnZ0LX0RBnUuVEcBAjqKB2o3Gx-E=">
+       not yet well understood
+      </a>
+      , including the
+      <a href="https://twitter.com/SpaceGeck/status/1547855880061722624">
+       seemingly separated
+      </a>
+      cloud layer on Jupiter's right limb.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/03/30
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250401.html">
+      https://apod.nasa.gov/apod/ap250401.html
      </a>
     </td>
    </tr>
