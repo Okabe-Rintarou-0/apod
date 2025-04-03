@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/GHR5997Luna1giornofirmapicc.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/GHR5997Luna1giornofirmapicc1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://svs.gsfc.nasa.gov/5415/">
+       A 26 hour old Moon
+      </a>
+      poses behind the craggy outline of the Italian Dolomites in this twilight mountain and skyscape.  The one second long exposure was captured near moonset on March 30.  And while only a
+      <a href="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS028&amp;roll=E&amp;frame=20073">
+       a sliver
+      </a>
+      of its sunlit surface is visible, most of the Moon's disk can be seen by
+      <a href="https://en.wikipedia.org/wiki/Earthlight_(astronomy)">
+       earthshine as light
+      </a>
+      reflected from a bright planet Earth illuminates the lunar nearside.  Also known as the Moon's ashen glow, a description of earthshine in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface was written over 500 years ago by
+      <a href="https://www.mos.org/leonardo/">
+       Leonardo da Vinci
+      </a>
+      .  Of course earthshine is just the most familiar example of
+      <a href="https://en.wikipedia.org/wiki/Planetshine">
+       planetshine
+      </a>
+      , the faint illumination of the dark portion of a moon by light reflected
+      <a href="ap210730.html">
+       from its planet
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/02
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250402.html">
+      https://apod.nasa.gov/apod/ap250402.html
      </a>
     </td>
    </tr>
