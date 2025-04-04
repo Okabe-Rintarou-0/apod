@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/ARP316.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/ARP316_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues identified some 100 compact
+      <a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1989ApJS...70..687H&amp;db_key=AST&amp;high=39d9fcfee518892">
+       groups of galaxies
+      </a>
+      , now appropriately called
+      <a href="http://www.deep-sky.co.uk/observing/galaxies/hickson.htm">
+       Hickson Compact Groups
+      </a>
+      .  The four prominent galaxies seen in this intriguing
+      <a href="https://app.astrobin.com/u/175892800@qq.com?i=47pbiv#gallery">
+       telescopic skyscape
+      </a>
+      are one such group, Hickson 44.  The galaxy group is about 100 million light-years distant, far beyond the spiky foreground Milky Way stars, toward the constellation Leo.  The two spiral galaxies in the center of the image are edge-on NGC 3190 with its distinctive, warped dust lanes, and S-shaped NGC 3187.  Along with the bright elliptical, NGC 3193 (above and left) they are also known as Arp 316.  The spiral toward the lower right corner is NGC 3185, the 4th member of the Hickson group.  Like other galaxies in
+      <a href="https://asterisk.apod.com/viewtopic.php?f=29&amp;t=25085">
+       Hickson groups
+      </a>
+      , these show signs of distortion and
+      <a href="ap061024.html">
+       enhanced star formation
+      </a>
+      , evidence of a gravitational tug of war that will eventually result in galaxy mergers on a cosmic timescale.  The merger process is now understood to be a normal part of the evolution of galaxies, including
+      <a href="ap220606.html">
+       our own Milky Way
+      </a>
+      .  For scale,
+      <a href="ap100503.html">
+       NGC 3190
+      </a>
+      is about 75,000 light-years across at the estimated distance of Hickson 44.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/03
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250403.html">
+      https://apod.nasa.gov/apod/ap250403.html
      </a>
     </td>
    </tr>
