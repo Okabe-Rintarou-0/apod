@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/NDGargoylesEclipse_kulik.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/NDGargoylesEclipse_kulik.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In dramatic silhouette against a cloudy daytime sky over Paris, France, gargoyles cast their monstrous gaze outward from the
+      <a href="https://www.friendsofnotredamedeparis.org/cathedral/artifacts/west-facade/">
+       west facade
+      </a>
+      of Notre Dame Cathedral.
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/mar-29-2025-eclipse/">
+       Taken on March 29
+      </a>
+      , this telephoto snapshot also captures the
+      <a href="ap250330.html">
+       dramatic
+      </a>
+      silhouette of a New Moon against the bright solar disk in a partial solar eclipse.  Happening high in Parisian skies, the partial eclipse was close to its maximum phase of about 23 percent.  Occurring near the end of the first
+      <a href="https://en.wikipedia.org/wiki/Eclipse_season">
+       eclipse season
+      </a>
+      of 2025, this partial solar eclipse followed the total eclipse of the
+      <a href="ap250315.html">
+       Full Moon
+      </a>
+      on March 13/14.
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/">
+       The upcoming
+      </a>
+      second eclipse season of 2025 will see a total lunar eclipse on September 7/8 and partial solar eclipse on September 21.  The partial solar eclipse will be seen only from locations in planet Earth's southern hemisphere.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/04
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250404.html">
+      https://apod.nasa.gov/apod/ap250404.html
      </a>
     </td>
    </tr>
