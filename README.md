@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/Ngc4414B_Hubble_1280.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/Ngc4414B_Hubble_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How much mass do flocculent spirals hide?    The
+      <a href="https://esahubble.org/images/potw2444a/">
+       featured image
+      </a>
+      of
+      <a href="https://en.wikipedia.org/wiki/Flocculent_spiral_galaxy">
+       flocculent spiral galaxy
+      </a>
+      NGC 4414 was taken with the
+      <a href="ap010806.html">
+       Hubble Space Telescope
+      </a>
+      to help answer this question.
+      <a href="https://en.wiktionary.org/wiki/flocculent">
+       Flocculent
+      </a>
+      spirals -- galaxies without well-defined spiral arms --  are a quite common form of galaxy, and
+      <a href="https://en.wikipedia.org/wiki/NGC_4414">
+       NGC 4414
+      </a>
+      is one of the closest.
+      <a href="ap130606.html">
+       Stars
+      </a>
+      and gas near the visible edge of
+      <a href="https://en.wikipedia.org/wiki/Spiral_galaxy">
+       spiral galaxies
+      </a>
+      orbit the center so fast that the gravity from a large amount of unseen
+      <a href="https://www.nasa.gov/audience/forstudents/9-12/features/what-is-dark-matter.html">
+       dark matter
+      </a>
+      must be present to hold them together.
+      <a href="http://66.media.tumblr.com/tumblr_m5hfctHc7i1rrgr1no1_1280.jpg">
+       Understanding
+      </a>
+      the matter and
+      <a href="https://science.nasa.gov/dark-matter/">
+       dark matter
+      </a>
+      distribution of NGC 4414  helps humanity calibrate the rest of the galaxy and, by deduction,
+      <a href="https://astronomy.swin.edu.au/cms/astro/cosmos/F/Flocculent+Spiral">
+       flocculent spirals
+      </a>
+      in general.    Further, calibrating the
+      <a href="https://en.wikipedia.org/wiki/Cosmic_distance_ladder">
+       distance
+      </a>
+      to
+      <a href="http://adsabs.harvard.edu/abs/2014A%26A...566A..80D">
+       NGC 4414
+      </a>
+      helps   humanity calibrate the cosmological distance
+      <a href="http://antwrp.gsfc.nasa.gov/debate/debate96.html">
+       scale
+      </a>
+      of the entire
+      <a href="https://ui.adsabs.harvard.edu/abs/1998ApJ...509...80S/abstract">
+       visible universe
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/06
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250406.html">
+      https://apod.nasa.gov/apod/ap250406.html
      </a>
     </td>
    </tr>
