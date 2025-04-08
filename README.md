@@ -5,6 +5,96 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/PleiadesMoon_Saiz_6000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/PleiadesMoon_Saiz_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Sometimes, the Moon visits the Pleiades.  Technically, this means that the orbit of
+      <a href="https://science.nasa.gov/moon/">
+       our Moon
+      </a>
+      takes it directly in front of the famous
+      <a href="ap241209.html">
+       Pleiades star cluster
+      </a>
+      , which is far in the distance.   The technical term for the event is an
+      <a href="https://en.wikipedia.org/wiki/Occultation">
+       occultation
+      </a>
+      ,  and the Moon is famous for its rare occultations
+      <a href="ap200621.html">
+       of
+      </a>
+      <a href="ap190409.html">
+       all
+      </a>
+      <a href="ap250115.html">
+       planets
+      </a>
+      and several well-known
+      <a href="ap170505.html">
+       bright star
+      </a>
+      s.  The Moon's tilted and
+      <a href="https://en.wikipedia.org/wiki/Lunar_precession">
+       precessing orbit
+      </a>
+      makes its occultations of the
+      <a href="ap240929.html">
+       Seven Sisters star cluster
+      </a>
+      bunchy,  with the current epoch
+      <a href="https://skyandtelescope.org/astronomy-news/observing-news/watch-the-moon-occult-the-pleiades-spica-too/">
+       starting in 2023
+      </a>
+      continuing monthly until 2029.  After that, though, the next occultation
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Flonely-sad-cat-v0-gbl9nva813ne1.jpeg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D79d816671a1bb09699263c4c3e83ba9f5df9f133">
+       won't occur
+      </a>
+      until 2042.   Taken from
+      <a href="https://youtu.be/LH3qwMH22bo">
+       Cantabria
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Spain">
+       Spain
+      </a>
+      on April 1, the
+      <a href="https://www.instagram.com/p/DH_ptItogQl/">
+       featured image
+      </a>
+      is a composite where previous exposures of the  Pleiades from the same camera and location were  digitally added to the last image to bring up the star cluster's
+      <a href="ap210406.html">
+       iconic blue glow
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/07
   </summary>
   <table>
@@ -18,8 +108,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250407.html">
+      https://apod.nasa.gov/apod/ap250407.html
      </a>
     </td>
    </tr>
