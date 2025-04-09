@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/HH49_Webb_4152.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/HH49_Webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's at the tip of this interstellar jet?   First let's consider the jet: it is being expelled by a
+      <a href="https://ui.adsabs.harvard.edu/abs/2006AJ....132.1923B/abstract">
+       star system
+      </a>
+      just forming and is cataloged as
+      <a href="https://en.wikipedia.org/wiki/Herbig%E2%80%93Haro_object">
+       Herbig-Haro
+      </a>
+      49 (HH 49).   The
+      <a href="https://www.thebrighterside.news/post/nasas-webb-telescope-reveals-cosmic-tornado-in-action/">
+       star system
+      </a>
+      expelling this jet is
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fh21s6uzy9qi11.jpg">
+       not visible
+      </a>
+      -- it is off to the lower right.   The complex conical structure
+      <a href="https://webbtelescope.org/contents/media/images/2025/112/01JNGTQ49XY0NHG1Y31RAGYH1Y">
+       featured
+      </a>
+      in this infrared image by the
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      also includes another jet cataloged as HH 50.   The fast jet particles impact the
+      <a href="https://youtu.be/J7tPEOVGKkw">
+       surrounding
+      </a>
+      interstellar gas and form shock waves that glow prominently in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      light --  shown here as reddish-brown ridges.   This
+      <a href="https://youtu.be/U_GviglW954">
+       JWST image
+      </a>
+      also resolved the mystery of the unusual object at
+      <a href="ap070811.html">
+       HH 49
+      </a>
+      's tip: it is a
+      <a href="ap240101.html">
+       spiral galaxy
+      </a>
+      far in the distance.    The blue center is therefore not one star but many,  and the surrounding circular rings are actually
+      <a href="https://en.wikipedia.org/wiki/Spiral_arm">
+       spiral arm
+      </a>
+      s.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/08
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250408.html">
+      https://apod.nasa.gov/apod/ap250408.html
      </a>
     </td>
    </tr>
