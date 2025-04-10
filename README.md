@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/38h_M81-group_Jpeg.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/38h_M81-group_1024.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      From a garden on planet Earth, 38 hours of exposure with a camera and small telescope produced
+      <a href="https://app.astrobin.com/u/Daniel_Yang_K.?i=ldzdz7#gallery">
+       this cosmic photo
+      </a>
+      of the M81 galaxy group.  In fact, the group's dominant galaxy M81 is near the center of the frame sporting grand spiral arms and a bright yellow core.  Also known as Bode's galaxy, M81 itself spans some 100,000 light-years.  Near the top is cigar-shaped
+      <a href="ap190723.html">
+       irregular galaxy M82
+      </a>
+      .    The pair have been locked in gravitational combat for a billion years.
+      <a href="https://phys.org/news/2019-11-astronomers-stellar-halo.html">
+       Gravity from each galaxy
+      </a>
+      has profoundly affected the other during a series of cosmic close encounters.    Their last go-round lasted about 100 million years and likely raised density waves rippling around M81, resulting in massive star forming regions arrayed along
+      <a href="ap250327.html">
+       M81
+      </a>
+      's spiral arms.
+      <a href="https://hubblesite.org/contents/news-releases/2001/news-2001-08.html">
+       M82
+      </a>
+      was left  with violent star forming regions too, and  colliding gas clouds so energetic that the galaxy
+      <a href="https://chandra.harvard.edu/photo/2006/m82/">
+       glows in X-rays
+      </a>
+      .    In the next few billion years, their continuing gravitational encounters will result in a merger, and a
+      <a href="https://science.nasa.gov/asset/hubble/collision-scenario-for-milky-way-and-andromeda-galaxy-encounter/">
+       single galaxy will remain
+      </a>
+      .  Another group member, NGC 3077 is below and left of the large spiral M81.  Far far away, about 12 million light-years distant the M81 group galaxies are seen toward the northern constellation Ursa Major (the Great Bear).  But in the closer foreground the wide-field image is filled with integrated flux nebulae whose faint,
+      <a href="ap160428.html">
+       dusty interstellar clouds
+      </a>
+      reflect starlight above the plane of our own Milky Way galaxy.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/09
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250409.html">
+      https://apod.nasa.gov/apod/ap250409.html
      </a>
     </td>
    </tr>
