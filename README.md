@@ -5,6 +5,54 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/Venus-ISSsingleframe.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/Venus-ISSsingleframe1100c.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Made with a telescope shaded from bright sunlight by an umbrella, on April 5 a
+      <a href="https://www.instagram.com/aj.smadi/p/DIIERE2y23f/?img_index=1">
+       well-planned video
+      </a>
+      captured a crescent Venus shining in clear daytime skies from Shoreline, Washington, USA at 11:57AM Pacific Time.  It also caught the
+      <a href="https://www.nasa.gov/international-space-station/">
+       International Space Station
+      </a>
+      in this single
+      <a href="https://www.reddit.com/r/Astronomy/comments/1jsdrrs/i_captured_the_iss_passing_venus_in_broad/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button&amp;rdt=34311">
+       video frame
+      </a>
+      .  In close conjunction with the bright planet, the faint outline of the orbital outpost seen at a range of about 400 kilometers appears to be similar in size to the slender planetary crescent.  Of course the ISS is much smaller than Venus.
+      <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-april-2025-skywatching-tips-from-nasa/">
+       Now appearing
+      </a>
+      as planet Earth's brilliant morning star and climbing above the eastern horizon in predawn skies, inner planet Venus was nearly 45 million kilometers from Shoreline.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/10
   </summary>
   <table>
@@ -18,8 +66,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250410.html">
+      https://apod.nasa.gov/apod/ap250410.html
      </a>
     </td>
    </tr>
