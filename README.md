@@ -5,6 +5,53 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/PlataformaRecorteHorizontalRedes.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/PlataformaRecorteHorizontalRedes1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.nasa.gov/solar-system/why-can-you-see-the-moon-during-the-day-we-asked-a-nasa-scientist-episode-19/">
+       Most of us watch
+      </a>
+      the Moon at night.  But the Moon spends nearly as many daylight hours above our horizon, though in bright daytime skies the lunar disk looks pale and can be a little harder to see.  Of course in daytime skies the Moon also appears to cycle
+      <a href="https://science.nasa.gov/moon/moon-phases/">
+       through its phases
+      </a>
+      , shining by reflected sunlight as it orbits our fair planet.  For daytime moonwatchers, the Moon is probably easier to spot when the visible sunlit portion of the lunar disk is large and waxing following first quarter or waning approaching its third quarter phase.  And though it might look unusual,
+      <a href="https://science.nasa.gov/moon/moon-phases/#h-daytime-moons">
+       a daytime moon
+      </a>
+      is often seen even in urban skies.  Captured here in a
+      <a href="https://www.instagram.com/astrocoy_/p/DIHPUxfMXNW/?img_index=3">
+       telephoto snapshot
+      </a>
+      taken on March 12, a waxing daytime Moon is aligned near the edge of a popular observation deck that overlooks New York City's borough of Manahattan.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/11
   </summary>
   <table>
@@ -18,8 +65,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250411.html">
+      https://apod.nasa.gov/apod/ap250411.html
      </a>
     </td>
    </tr>
