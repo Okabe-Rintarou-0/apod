@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/MarsPit_mro_2628.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/MarsPit_mro_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What created this unusual hole in Mars?  Actually, there are numerous holes pictured in this
+      <a href="ap010327.html">
+       Swiss cheese-like landscape
+      </a>
+      ,  with all-but-one of them showing a dusty, dark, Martian terrain beneath
+      <a href="https://www.youtube.com/watch?v=WABthlGTy74">
+       evaporating, light, carbon dioxide ice
+      </a>
+      .   The most
+      <a href="ap200301.html">
+       unusual hole
+      </a>
+      is on the upper right,  spans about 100 meters, and seems to punch through to a lower level.  Why
+      <a href="https://www.nasa.gov/image-feature/jpl/pia21636/a-south-polar-pit-or-an-impact-crater">
+       this hole
+      </a>
+      exists and why it is surrounded by a circular crater remains a topic of
+      <a href="http://www.lifeinthedoglane.com/wp-content/uploads/2013/03/puppy-head-tilt.jpg">
+       speculation
+      </a>
+      , although a leading hypothesis is that it was created by a meteor impact.
+      <a href="ap070528.html">
+       Holes
+      </a>
+      such as
+      <a href="ap070928.html">
+       this
+      </a>
+      are of particular interest because they might be portals to lower levels that extend into expansive
+      <a href="https://2015.spaceappschallenge.org/project/lavamatic/">
+       underground caves
+      </a>
+      .  If so, these naturally occurring tunnels are relatively protected from the harsh surface of Mars, making them relatively good candidates to
+      <a href="https://phys.org/news/2024-11-volcanic-caves-advances-life-mars.html">
+       contain Martian life
+      </a>
+      .  These pits are therefore also prime targets for
+      <a href="https://science.nasa.gov/planetary-science/programs/mars-exploration/">
+       possible future spacecraft, robots
+      </a>
+      , and even
+      <a href="http://en.wikipedia.org/wiki/The_Martian_Chronicles">
+       human interplanetary explorers
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/12
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250412.html">
+      https://apod.nasa.gov/apod/ap250412.html
      </a>
     </td>
    </tr>
