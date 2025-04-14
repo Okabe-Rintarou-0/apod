@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/GCenter_MeerKatWebb_7642.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/GCenter_MeerKatWebb_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening at the center of our galaxy?  It's hard to tell with optical telescopes since
+      <a href="https://science.nasa.gov/ems/09_visiblelight">
+       visible light
+      </a>
+      is blocked by intervening interstellar dust.  In other bands of light, though, such as
+      <a href="https://science.nasa.gov/ems/05_radiowaves">
+       radio
+      </a>
+      , the
+      <a href="ap241124.html">
+       galactic center
+      </a>
+      can be imaged and shows itself to be quite an
+      <a href="https://www.sarao.ac.za/media-releases/new-meerkat-radio-image-reveals-complex-heart-of-the-milky-way/">
+       interesting and active place
+      </a>
+      .   The
+      <a href="https://webbtelescope.org/contents/media/images/2025/115/01JQ7CMZNPQSCT4TD0Q1M1F66M">
+       featured picture
+      </a>
+      shows an image of our Milky Way's center by the
+      <a href="https://www.sarao.ac.za/gallery/meerkat/">
+       MeerKAT array
+      </a>
+      of 64 radio dishes in
+      <a href="https://en.wikipedia.org/wiki/South_Africa">
+       South Africa
+      </a>
+      .  Spanning four times the angular size of
+      <a href="https://science.nasa.gov/moon/">
+       the Moon
+      </a>
+      (2
+      <a href="https://www.mathsisfun.com/geometry/degrees.html">
+       degrees
+      </a>
+      ),  the image is impressively vast, deep, and detailed.
+      <a href="ap020803.html">
+       Many known sources
+      </a>
+      are shown in clear detail, including many with a prefix of Sgr,  since the
+      <a href="https://www.youtube.com/watch?v=dXAU0gzsPOw">
+       galactic center
+      </a>
+      is in the direction of the
+      <a href="https://en.wikipedia.org/wiki/Sagittarius_(constellation)">
+       constellation Sagittarius
+      </a>
+      .   In our galaxy's center lies
+      <a href="https://en.wikipedia.org/wiki/Sagittarius_A">
+       Sgr A
+      </a>
+      ,  found here in the image center, which houses the
+      <a href="ap220513.html">
+       Milky Way's central supermassive black hole
+      </a>
+      .   Other sources in the image are not as well understood, including
+      <a href="ap020521.html">
+       the Arc
+      </a>
+      , just to the left of
+      <a href="ap180122.html">
+       Sgr A
+      </a>
+      , and numerous filamentary threads.  The
+      <a href="https://webbtelescope.org/contents/media/images/2025/115/01JQ7CMZNPQSCT4TD0Q1M1F66M">
+       inset image
+      </a>
+      shows a small patch recently imaged in
+      <a href="https://webbtelescope.org/science/the-observatory/infrared-astronomy">
+       infrared light
+      </a>
+      with the
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      to
+      <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsgYmFcVdx1JScI0IMUjsBrVQqJtvNAB7xQw&amp;s">
+       investigate
+      </a>
+      the effects of magnetic fields on star formation.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/13
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250413.html">
+      https://apod.nasa.gov/apod/ap250413.html
      </a>
     </td>
    </tr>
