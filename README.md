@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/NGC1514_WebbSchmidt_1983.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/NGC1514_WebbSchmidt_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What happens when a star runs out of
+      <a href="https://en.wikipedia.org/wiki/Nuclear_fusion">
+       nuclear fuel
+      </a>
+      ?   For stars like
+      <a href="https://science.nasa.gov/sun/">
+       our Sun
+      </a>
+      , the center condenses into a
+      <a href="ap000910.html">
+       white dwarf
+      </a>
+      while the outer atmosphere is expelled into space to appear as a
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      .   The expelled outer atmosphere of planetary nebula
+      <a href="https://en.wikipedia.org/wiki/NGC_1514">
+       NGC 1514
+      </a>
+      appears to be a
+      <a href="https://en.wikipedia.org/wiki/NGC_1514#/media/File:NGC_1514_by_Goran_Nilsson_&amp;_The_Liverpool_Telescope.jpg">
+       jumble of bubbles
+      </a>
+      -- when seen in
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      .   But the view from the
+      <a href="ap211226.html">
+       James Webb Space Telescope
+      </a>
+      in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      , as
+      <a href="https://www.flickr.com/photos/geckzilla/54206737999/in/datetaken/">
+       featured here
+      </a>
+      , confirms a different story:
+      <a href="https://ui.adsabs.harvard.edu/abs/2010AJ....140.1882R/abstract">
+       in this light
+      </a>
+      the nebula shows a distinct
+      <a href="ap190929.html">
+       hourglass shape
+      </a>
+      ,  which is
+      <a href="https://content.cld.iop.org/journals/1538-3881/140/6/1882/revision1/aj370110f9_lr.gif">
+       interpreted
+      </a>
+      as a
+      <a href="https://www.geogebra.org/m/sdFGxeYM">
+       cylinder
+      </a>
+      seen along a diagonal.   If you look closely at the center of the nebula, you can also see a
+      <a href="https://ui.adsabs.harvard.edu/abs/2016ApJ...829...73M/abstract">
+       bright central star
+      </a>
+      that is part of a
+      <a href="ap970219.html">
+       binary system
+      </a>
+      .   More observations might better reveal  how this nebula is evolving and how the central stars are
+      <a href="https://www.medivetgroup.com/globalassets/assets/advice-articles/multi-cat/two-cats-cleaning.jpg">
+       working together
+      </a>
+      to produce the interesting cylinder and bubbles observed.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/14
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250414.html">
+      https://apod.nasa.gov/apod/ap250414.html
      </a>
     </td>
    </tr>
