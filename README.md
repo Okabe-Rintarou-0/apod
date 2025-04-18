@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/C2025_F2SWAN_20250414_DEBartlett.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/C2025_F2SWAN_20250414_DEBartlett1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In late March, the comet now designated
+      <a href="https://earthsky.org/space/new-comet-swan25f-april-2025-how-to-see-it/">
+       C/2025 F2 SWAN
+      </a>
+      was found independently by
+      <a href="https://science.nasa.gov/citizen-science/">
+       citizen scientists
+      </a>
+      Vladimir Bezugly, Michael Mattiazzo, and Rob Matson while examining publicly available image data from the Solar Wind ANisotropies (SWAN) camera on the sun-staring
+      <a href="https://science.nasa.gov/mission/soho/">
+       SOHO spacecraft
+      </a>
+      .  Comet SWAN's coma, its greenish color a signature of diatomic carbon molecules fluorescing in sunlight, is at lower left in
+      <a href="https://app.astrobin.com/i/geb0ha?r=D">
+       this telescopic image
+      </a>
+      .  SWAN's faint ion tail extends nearly two degrees toward the upper right across the field of view.  The interplanetary scene was captured in clear but moonlit skies from June Lake, California on April 14.  Seen against background of stars toward the constellation Andromeda, the comet was then some 10 light-minutes from our fair planet.
+      <a href="https://skyandtelescope.org/astronomy-news/new-comet-swan-now-visible-in-small-scopes/">
+       Now a target
+      </a>
+      for binoculars and small telescopes in northern hemisphere morning skies
+      <a href="https://theskylive.com/c2025f2-info">
+       this comet SWAN
+      </a>
+      is headed for a perihelion, its closest approach to the Sun, on May 1.
+      <a href="https://en.wikipedia.org/wiki/C/2025_F2_(SWAN)">
+       That will bring
+      </a>
+      this visitor from the distant
+      <a href="https://science.nasa.gov/solar-system/oort-cloud/">
+       Oort cloud
+      </a>
+      almost as close to the Sun as the orbit of inner planet Mercury.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/17
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250417.html">
+      https://apod.nasa.gov/apod/ap250417.html
      </a>
     </td>
    </tr>
