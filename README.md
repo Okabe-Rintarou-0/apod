@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In digital
+      <a href="https://www.missionjuno.swri.edu/junocam/processing?id=4140">
+       brush strokes, Jupiter's
+      </a>
+      signature atmospheric bands and vortices were used to form this interplanetary
+      <a href="https://www.google.com/search?bih=872&amp;tbm=isch&amp;sa=1&amp;q=Post-Impressionism&amp;oq=Post-Impressionism">
+       post-impressionist
+      </a>
+      work of art.
+      <a href="https://www.nasa.gov/image-feature/jpl/pia21983/abstract-jupiter-atmosphere">
+       The creative image
+      </a>
+      from
+      <a href="https://science.nasa.gov/citizen-science/">
+       citizen scientist
+      </a>
+      Rick Lundh uses data from the Juno spacecraft's JunoCam.  To paint on the digital canvas, a JunoCam image with contrasting light and dark tones was chosen for processing and an oil-painting software filter applied.  The image data was captured during
+      <a href="ap181214.html">
+       perijove
+      </a>
+      10.  That was Juno's December 16, 2017 close encounter with the solar system's ruling gas giant.  At the time the spacecraft was cruising about 13,000 kilometers above
+      <a href="ap170804.html">
+       northern Jovian cloud tops
+      </a>
+      .  Now in an extended mission,
+      <a href="https://www.jpl.nasa.gov/missions/juno/">
+       Juno has explored
+      </a>
+      Jupiter and its moons since entering orbit around Jupiter in July of 2016.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/18
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250418.html">
+      https://apod.nasa.gov/apod/ap250418.html
      </a>
     </td>
    </tr>
