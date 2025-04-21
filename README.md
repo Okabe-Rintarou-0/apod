@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/GalaxiesLens_Webb_1146.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/GalaxiesLens_Webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is this one galaxy or two?  Although it looks like one, the answer is two.  One path to this happening is when a small
+      <a href="https://spaceplace.nasa.gov/galaxy/en/">
+       galaxy
+      </a>
+      collides with a larger galaxy and
+      <a href="ap201018.html">
+       ends up in the center
+      </a>
+      .  But in the
+      <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Webb_spies_a_spiral_through_a_cosmic_lens">
+       featured image
+      </a>
+      , something
+      <a href="https://www.reddit.com/r/aww/comments/2jqsdk/the_omg_cat/#lightbox">
+       more rare
+      </a>
+      is going on.  Here, the central light-colored
+      <a href="https://science.nasa.gov/universe/galaxies/types/#elliptical-galaxies">
+       elliptical galaxy
+      </a>
+      is much closer than the blue and red-colored
+      <a href="https://science.nasa.gov/universe/galaxies/types/#spiral-galaxies">
+       spiral galaxy
+      </a>
+      that surrounds it.  This can happen when near and far galaxies are
+      <a href="https://science.nasa.gov/wp-content/uploads/2023/04/stsci-h-p2005b-f-4096x2160-1-jpg.webp">
+       exactly aligned
+      </a>
+      , causing the gravity of the  near galaxy to pull the light from the far galaxy around it in an effect called
+      <a href="https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/">
+       gravitational lensing
+      </a>
+      .  The
+      <a href="https://esawebb.org/images/potm2503a/">
+       featured galaxy double
+      </a>
+      was taken by the
+      <a href="https://webbtelescope.org/home">
+       Webb Space Telescope
+      </a>
+      and shows a complete
+      <a href="ap160420.html">
+       Einstein ring
+      </a>
+      , with great detail visible for both galaxies.   Galaxy
+      <a href="ap220705.html">
+       lenses like this
+      </a>
+      can reveal  new information about the
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/shining-a-light-on-dark-matter/">
+       mass distribution
+      </a>
+      of the foreground lens and the
+      <a href="https://www.ucdavis.edu/news/newly-discovered-gravitational-lenses-could-reveal-ancient-galaxies-and-nature-dark-matter">
+       light distribution
+      </a>
+      of the background source.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/20
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250420.html">
+      https://apod.nasa.gov/apod/ap250420.html
      </a>
     </td>
    </tr>
