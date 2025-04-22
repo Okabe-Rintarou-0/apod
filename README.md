@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/TerminatorMoon_Addis_3558.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/TerminatorMoon_Addis_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's different about this Moon?  It's the
+      <a href="https://en.wikipedia.org/wiki/Terminator_(solar)">
+       terminator
+      </a>
+      s.  In the featured image, you can't directly see any
+      <a href="ap180522.html">
+       terminator
+      </a>
+      --  the line that divides the light of day from the dark of night.  That's because the
+      <a href="https://www.instagram.com/p/DIcPVpbsRO4/">
+       featured image
+      </a>
+      is a digital composite of many  near-terminator lunar strips over a full
+      <a href="https://science.nasa.gov/moon/">
+       Moon
+      </a>
+      .   Terminator regions show the longest and most
+      <a href="https://i.pinimg.com/736x/1e/c4/a9/1ec4a9503ab9fdfaede7f3a6b93e5ba0--light-and-shadow-cat-silhouette.jpg">
+       prominent shadow
+      </a>
+      s -- shadows which,  by their contrast and length, allow a flat photograph to appear
+      <a href="https://solarsystem.nasa.gov/gltf_embed/2366/">
+       three-dimensional
+      </a>
+      .  The overlay images were taken over two weeks in early April.   Many of the Moon's
+      <a href="https://spaceplace.nasa.gov/impact-crater/">
+       craters
+      </a>
+      stand out because of the
+      <a href="ap211125.html">
+       shadow
+      </a>
+      s they all cast to the right.  The image shows in graphic detail that the
+      <a href="https://en.wikipedia.org/wiki/Lunar_mare#/media/File:Moon_names.svg">
+       darker regions known as maria
+      </a>
+      are not just darker than the rest of the
+      <a href="https://moon.nasa.gov/observe-the-moon-night/resources/moon-map/">
+       Moon
+      </a>
+      -- they are also
+      <a href="https://cache.desktopnexus.com/thumbseg/154/154798-bigthumbnail.jpg">
+       flatter
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/21
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250421.html">
+      https://apod.nasa.gov/apod/ap250421.html
      </a>
     </td>
    </tr>
