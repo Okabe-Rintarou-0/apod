@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/EverythingSky_Koen_3504.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/EverythingSky_Koen_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This surprising sky has almost everything.   First, slanting down from the upper left and far in the distance is the
+      <a href="ap220313.html">
+       central band
+      </a>
+      of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      .   More modestly, slanting down from the upper right and high in
+      <a href="https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      is a
+      <a href="ap110123.html">
+       bright meteor
+      </a>
+      .  The dim band of light across the central diagonal is
+      <a href="https://en.wikipedia.org/wiki/Zodiacal_light">
+       zodiacal light
+      </a>
+      :  sunlight reflected from
+      <a href="https://en.wikipedia.org/wiki/Cosmic_dust">
+       dust
+      </a>
+      in the inner
+      <a href="https://eyes.nasa.gov/apps/solar-system/">
+       Solar System
+      </a>
+      .  The green glow on the far right is
+      <a href="ap240612.html">
+       aurora
+      </a>
+      high in
+      <a href="https://www.nasa.gov/general/what-is-earths-atmosphere/">
+       Earth's atmosphere
+      </a>
+      .   The bright zigzagging bright line near the bottom  is just a light that was held by the scene-planning
+      <a href="https://www.astronomy.com/observing/capturing-the-cosmos-how-to-be-an-astrophotographer/">
+       astrophotographer
+      </a>
+      .  This "
+      <a href="ap201021.html">
+       almost everything
+      </a>
+      "  sky was captured over rocks on
+      <a href="https://youtu.be/6NM2c15BHBM">
+       Castle Hill
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/New_Zealand">
+       New Zealand
+      </a>
+      late last month.   The featured
+      <a href="https://www.instagram.com/p/DHse6P6uKZj/">
+       finished frame
+      </a>
+      is a combination of 10 exposures all  taken with the same camera and from the same location.   But what about the astrophotographer himself?    He's pictured too -- can you
+      <a href="https://www.mediastorehouse.co.uk/p/617/tabby-kitten-looking-pot-plant-9446207.jpg">
+       find him
+      </a>
+      ?
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/22
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250422.html">
+      https://apod.nasa.gov/apod/ap250422.html
      </a>
     </td>
    </tr>
