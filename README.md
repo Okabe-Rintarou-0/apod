@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Beautiful emission nebula NGC 6164 was created by a rare, hot, luminous
+      <a href="http://www.atlasoftheuniverse.com/startype.html">
+       O-type
+      </a>
+      star, some 40 times as massive as the Sun.  Seen at the center of the cosmic cloud, the star is a mere 3 to 4 million years old.  In another three to four million years the massive star will end its life in a
+      <a href="ap250108.html">
+       supernova explosion
+      </a>
+      .  Spanning around 4 light-years,
+      <a href="http://www.gemini.edu/node/188">
+       the nebula itself
+      </a>
+      has a bipolar symmetry.  That makes it similar in appearance to more common and familiar
+      <a href="http://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebulae
+      </a>
+      - the gaseous shrouds
+      <a href="ap120831.html">
+       surrounding
+      </a>
+      dying sun-like stars.  Also like many planetary nebulae, NGC 6164 has been found to have an extensive,
+      <a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1985PASP...97..780F&amp;">
+       faint halo
+      </a>
+      , revealed in this deep image of the region.  Expanding into the surrounding
+      <a href="http://www-ssg.sr.unh.edu/ism/what1.html">
+       interstellar medium
+      </a>
+      , the material in the halo is likely from an earlier active phase of the O star.
+      <a href="https://app.astrobin.com/u/dstern?i=rj65f5#gallery">
+       This gorgeous telescopic view
+      </a>
+      is a composite of extensive narrow-band image data, highlighting glowing atomic hydrogen gas in red and oxygen in greenish hues, with broad-band data for the surrounding starfield.  Also known as the
+      <a href="ap220607.html">
+       Dragon's Egg nebula
+      </a>
+      , NGC 6164 is 4,200 light-years away in the right-angled southern constellation
+      <a href="http://www.hawastsoc.org/deepsky/nor/index.html">
+       of Norma
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/23
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250423.html">
+      https://apod.nasa.gov/apod/ap250423.html
      </a>
     </td>
    </tr>
