@@ -5,6 +5,64 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/solar-system/asteroids/">
+       Main belt asteroid
+      </a>
+      <a href="https://minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&amp;object_id=donaldjohanson">
+       52246 Donaldjohanson
+      </a>
+      is about 8 kilometers long and 3.5 kilometers across.
+      <a href="https://science.nasa.gov/image-article/nasas-lucy-spacecraft-images-asteroid-donaldjohanson/">
+       On April 20, this sharp close-up
+      </a>
+      of the asteroid was captured at a distance of about 1100 kilometers by the Lucy spacecraft's long range camera during its second asteroid encounter.
+      <a href="https://en.wikipedia.org/wiki/52246_Donaldjohanson">
+       Named after
+      </a>
+      American paleoanthropologist Donald Johanson, discoverer of the Lucy hominid fossil, the elongated asteroid was likely formed about 150 million years ago from a gentle collision of two smaller bodies creating its characteristic contact binary shape.  Launched in October of 2021,
+      <a href="https://science.nasa.gov/mission/lucy/spacecraft/">
+       the Lucy spacecraft
+      </a>
+      will continue its travels through the main asteroid belt in 2025, but is on its way to explore Jupiter's swarm of
+      <a href="https://en.wikipedia.org/wiki/Jupiter_trojan">
+       Trojan asteroids
+      </a>
+      .  Lucy is expected to encounter its first Trojan asteroid target,
+      <a href="https://minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&amp;object_id=eurybates">
+       3548 Eurybates
+      </a>
+      , in August 2027.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/24
   </summary>
   <table>
@@ -18,8 +76,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250424.html">
+      https://apod.nasa.gov/apod/ap250424.html
      </a>
     </td>
    </tr>
