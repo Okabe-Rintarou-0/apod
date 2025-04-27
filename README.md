@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_2119.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What is creating the strange texture of IC 418?    Dubbed the
+      <a href="https://science.nasa.gov/missions/hubble/hubbles-spirograph/">
+       Spirograph Nebula
+      </a>
+      for its resemblance to drawings from a
+      <a href="http://www.wordsmith.org/~anu/java/spirograph.html">
+       cyclical drawing tool
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      IC 418 shows
+      <a href="http://en.wikipedia.org/wiki/Spirograph">
+       patterns
+      </a>
+      that are not well understood.  Perhaps they are related to chaotic
+      <a href="https://en.wikipedia.org/wiki/Stellar_wind">
+       winds
+      </a>
+      from the variable central star, which
+      <a href="https://ui.adsabs.harvard.edu/abs/1997A%26A...320..125H/abstract">
+       changes brightness unpredictably
+      </a>
+      in just a few hours.    By contrast, evidence indicates that only a few million years ago,
+      <a href="http://observing.skyhound.com/archives/jan/IC_418.html">
+       IC 418
+      </a>
+      was probably a well-understood star similar to our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      .    Only a few thousand years ago,
+      <a href="http://en.wikipedia.org/wiki/IC_418">
+       IC 418
+      </a>
+      was probably a common
+      <a href="http://www.historyoftheuniverse.com/starold.html">
+       red giant
+      </a>
+      star.    Since running out of
+      <a href="https://www.youtube.com/watch?v=7E-0j90Cwpk">
+       nuclear fuel
+      </a>
+      , though, the outer envelope has begun expanding outward leaving a
+      <a href="ap100221.html">
+       hot remnant core
+      </a>
+      destined to become a
+      <a href="ap000910.html">
+       white-dwarf star
+      </a>
+      , visible in the image center.  The light from the central core excites surrounding
+      <a href="http://www.pbs.org/wgbh/aso/tryit/atom/">
+       atoms
+      </a>
+      in the
+      <a href="planetary_nebulae.html">
+       nebula
+      </a>
+      causing them to glow.
+      <a href="https://ui.adsabs.harvard.edu/abs/2009A%26A...507.1517M/abstract">
+       IC 418
+      </a>
+      lies about 2000
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light-years
+      </a>
+      away and spans 0.3 light-years across.
+      <a href="https://science.nasa.gov/asset/hubble/the-spirograph-nebula-ic-418/">
+       This false-color image
+      </a>
+      taken from the
+      <a href="https://www.stsci.edu/hst">
+       Hubble Space Telescope
+      </a>
+      reveals the
+      <a href="https://www.reddit.com/r/cats/comments/8smej7/surprised_cat/#lightbox">
+       unusual details
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/26
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250426.html">
+      https://apod.nasa.gov/apod/ap250426.html
      </a>
     </td>
    </tr>
