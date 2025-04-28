@@ -5,6 +5,85 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/Gum37Hoo_Bozon_4863.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/Gum37Hoo_Bozon_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://astroaro.fr/fr_gum_37/">
+       This cosmic skyscape
+      </a>
+      features glowing gas and dark dust clouds alongside the young stars of
+      <a href="ap220506.html">
+       NGC 3572
+      </a>
+      .   A beautiful emission nebula and star cluster, it sails
+      <a href="https://science.nasa.gov/asset/hubble/ground-based-image-of-carina-constellation-2/">
+       far southern skies
+      </a>
+      within the
+      <a href="https://en.wikipedia.org/wiki/Carina_(constellation)">
+       nautical constellation Carina
+      </a>
+      .   Stars from NGC 3572 are toward top center  in the telescopic frame that would measure about 100
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-years
+      </a>
+      across at the cluster's estimated distance of 9,000 light-years.   The visible interstellar gas and dust, shown in
+      <a href="https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/wavelengths/">
+       colors
+      </a>
+      of the
+      <a href="https://delsaert.com/deep-sky/nebulae/h-alpha/">
+       Hubble palette
+      </a>
+      ,  is part of the star cluster's natal
+      <a href="https://en.wikipedia.org/wiki/Molecular_cloud">
+       molecular cloud
+      </a>
+      ,  itself cataloged as
+      <a href="http://galaxymap.org/cat/view/gum/37">
+       Gum 37
+      </a>
+      .  Dense streamers of material within the nebula, eroded by stellar winds and radiation, clearly trail away from the energetic young stars.   They are likely sites of ongoing star formation with shapes reminiscent of the
+      <a href="ap180124.html">
+       Tadpoles of IC 410
+      </a>
+      -- better known to northern skygazers.   In the coming tens to hundreds of millions of years, gas and stars in the cluster will be dispersed though, by
+      <a href="https://oceanservice.noaa.gov/education/tutorial_tides/tides02_cause.html">
+       gravitational tides
+      </a>
+      and by violent
+      <a href="https://science.nasa.gov/asset/hubble/supernova-explosion/">
+       supernova explosion
+      </a>
+      s that end the short lives of the massive cluster stars.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/27
   </summary>
   <table>
@@ -18,8 +97,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250427.html">
+      https://apod.nasa.gov/apod/ap250427.html
      </a>
     </td>
    </tr>
