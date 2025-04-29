@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/SaturnSeasons_Fontes_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/SaturnSeasons_Fontes_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Where are Saturn's ears?
+      <a href="https://en.wikipedia.org/wiki/Galileo_Galilei">
+       Galileo
+      </a>
+      is credited, in 1610, as the first person to see
+      <a href="https://science.nasa.gov/resource/saturns-rings-2/">
+       Saturn's rings
+      </a>
+      .  Testing out
+      <a href="https://en.wikipedia.org/wiki/Hans_Lipperhey">
+       Lipperhey
+      </a>
+      's recently
+      <a href="https://en.wikipedia.org/wiki/History_of_the_telescope">
+       co-invented telescope
+      </a>
+      , Galileo did not know what they were and so called them  "
+      <a href="https://en.wikipedia.org/wiki/Rings_of_Saturn#History">
+       ears
+      </a>
+      ".   The mystery deepened in 1612, when Saturn's ears
+      <a href="https://www.petsonme.com.au/blog/wp-content/uploads/2022/01/Why-Do-Dogs-tilt-their-head-scaled.jpeg">
+       mysteriously disappeared
+      </a>
+      .  Today we know exactly what happened: from the perspective of the
+      <a href="https://earthobservatory.nasa.gov/">
+       Earth
+      </a>
+      ,  Saturn's rings had become
+      <a href="ap100215.html">
+       too thin
+      </a>
+      to see.   The same drama
+      <a href="ap150621.html">
+       plays out
+      </a>
+      every 15 years because Saturn,  like Earth, undergoes
+      <a href="https://spaceplace.nasa.gov/seasons/en/">
+       tilt-driven seasons
+      </a>
+      .  This means that as Saturn goes around the Sun, its
+      <a href="https://www.nasa.gov/wp-content/uploads/2015/06/equator_.png">
+       equator
+      </a>
+      and
+      <a href="ap180424.html">
+       rings
+      </a>
+      can tilt noticeably toward the Sun and inner
+      <a href="https://eyes.nasa.gov/apps/solar-system/#/home">
+       Solar System
+      </a>
+      , making them easily visible,  but from other orbital locations will appear almost not at all.   The
+      <a href="https://telescopius.com/pictures/view/224831/planet/by-natan_fontes">
+       featured picture
+      </a>
+      from
+      <a href="https://youtu.be/m8fZeZTN0TE">
+       Brasilia
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Brazil">
+       Brazil
+      </a>
+      shows a modern version of this sequence: the top ring-dominated image was taken in 2020, while the bottom ring-obscure image taken earlier in 2025.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/28
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250428.html">
+      https://apod.nasa.gov/apod/ap250428.html
      </a>
     </td>
    </tr>
