@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/04/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2504/HappySkyMexico_Korona_1358.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2504/HappySkyMexico_Korona_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Sometimes, the sky itself seems to smile.   A few days ago, visible over much of the world,  an unusual superposition of our Moon with the planets
+      <a href="https://science.nasa.gov/venus/">
+       Venus
+      </a>
+      and
+      <a href="https://science.nasa.gov/saturn/facts/">
+       Saturn
+      </a>
+      created just such an
+      <a href="https://en.wikipedia.org/wiki/Smiley">
+       iconic facial expression
+      </a>
+      .  Specifically, a crescent Moon appeared to make a
+      <a href="ap171112.html">
+       happy face on the night sky
+      </a>
+      when paired with seemingly nearby planets.   Pictured is the scene as it appeared over
+      <a href="https://youtu.be/GvCIXH1AKoE">
+       Zacatecas
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Mexico">
+       México
+      </a>
+      , with distinctive
+      <a href="https://youtu.be/0zHHG4RpfYM?t=56">
+       Bufa Hill
+      </a>
+      in the foreground.    On the far right and farthest in the distance is the
+      <a href="ap200419.html">
+       planet Saturn
+      </a>
+      .   Significantly closer and visible to Saturn's upper left is
+      <a href="ap210317.html">
+       Venus
+      </a>
+      , the brightest planet on the sky.   Just above the central horizon is
+      <a href="ap190717.html">
+       Earth's Moon
+      </a>
+      in a
+      <a href="https://moon.nasa.gov/resources/54/phases-of-the-moon/">
+       waning crescent
+      </a>
+      phase.  To create this gigantic icon,  the crescent moon phase must be
+      <a href="https://media.tenor.com/5Wox2TQlBowAAAAM/cat-smiley-cat.gif">
+       smiling
+      </a>
+      in the correct direction.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/04/29
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250429.html">
+      https://apod.nasa.gov/apod/ap250429.html
      </a>
     </td>
    </tr>
