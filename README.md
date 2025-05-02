@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/jwst-ngc346.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/jwst-ngc346-800.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The most massive young star cluster in the
+      <a href="ap210105.html">
+       Small Magellanic Cloud
+      </a>
+      is NGC 346, embedded in our small satellite galaxy's largest star forming region some 210,000 light-years distant.
+      <a href="ap991130.html">
+       Of course
+      </a>
+      the massive stars of NGC 346 are short lived, but very
+      <a href="https://chandra.harvard.edu/photo/2003/ngc346/index.html">
+       energetic
+      </a>
+      .   Their winds and radiation
+      <a href="https://hubblesite.org/contents/media/images/2005/35/1818-Image.html">
+       sculpt the edges
+      </a>
+      of the region's dusty molecular cloud triggering star-formation within.  The star forming region also appears to contain a large population of
+      <a href="ap221118.html">
+       infant stars
+      </a>
+      .  A mere 3 to 5 million years old and not yet
+      <a href="https://solarsystem.nasa.gov/genesismission/science/module1/index.html">
+       burning hydrogen
+      </a>
+      in their cores, the
+      <a href="https://chandra.harvard.edu/edu/formal/stellar_ev/story/index2.html">
+       infant stars
+      </a>
+      are strewn about the embedded star cluster.
+      <a href="https://webbtelescope.org/contents/news-releases/2023/news-2023-101">
+       This spectacular infrared view
+      </a>
+      of NGC 346 is from the James Webb Space Telescope's
+      <a href="https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP">
+       NIRcam
+      </a>
+      .  Emission from atomic hydrogen ionized by the massive stars' energetic radiation as well as molecular hydrogen and dust in the star-forming molecular cloud is detailed in pink and orange hues.
+      <a href="https://webbtelescope.org/contents/media/images/2023/101/01GNYMNTMKSZ98TE3YD5PQY2VD">
+       Webb's sharp image
+      </a>
+      of the young star-forming region spans 240 light-years at the distance of the Small Magellanic Cloud.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/01
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250501.html">
+      https://apod.nasa.gov/apod/ap250501.html
      </a>
     </td>
    </tr>
