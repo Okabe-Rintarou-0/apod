@@ -5,6 +5,121 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/blackholedisk_cfa_1080.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/blackholedisk_cfa_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How fast can a black hole spin?   If any object made of regular matter spins too fast -- it breaks apart.  But a
+      <a href="https://science.nasa.gov/universe/black-holes/">
+       black hole
+      </a>
+      might not be able to break apart --  and its maximum spin rate is really unknown.  Theorists usually model rapidly rotating black holes with the
+      <a href="http://en.wikipedia.org/wiki/Kerr_black_hole">
+       Kerr solution
+      </a>
+      to Einstein's
+      <a href="http://en.wikipedia.org/wiki/General_relativity">
+       General Theory of Relativity
+      </a>
+      , which predicts several
+      <a href="http://en.wikipedia.org/wiki/Penrose_process">
+       amazing
+      </a>
+      and
+      <a href="http://www.youtube.com/watch?v=T_TU6T4-0LU">
+       unusual
+      </a>
+      things.   Perhaps its most easily testable prediction, though, is that matter entering a
+      <a href="http://www.eftaylor.com/pub/SpinNEW.pdf">
+       maximally rotating black hole
+      </a>
+      should be last seen  orbiting at near the speed of light, as seen from far away.
+      <a href="https://www.jpl.nasa.gov/news/nasas-nustar-helps-solve-riddle-of-black-hole-spin/">
+       This prediction
+      </a>
+      was tested by NASA's
+      <a href="https://nustar.caltech.edu/">
+       NuSTAR
+      </a>
+      and ESA's
+      <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton">
+       XMM
+      </a>
+      satellites by observing the supermassive
+      <a href="https://spaceplace.nasa.gov/black-holes/">
+       black hole
+      </a>
+      at the center of
+      <a href="ap241113.html">
+       spiral galaxy NGC 1365
+      </a>
+      .  The near
+      <a href="ap111018.html">
+       light-speed limit
+      </a>
+      was
+      <a href="https://ui.adsabs.harvard.edu/abs/2013Natur.494..449R/abstract">
+       confirmed by measuring
+      </a>
+      the heating and
+      <a href="https://physicsopenlab.org/2017/09/07/spectral-lines-broadening/">
+       spectral line broadening
+      </a>
+      of nuclear emissions at the inner edge of the surrounding
+      <a href="ap140323.html">
+       accretion disk
+      </a>
+      .
+      <a href="https://www.jpl.nasa.gov/images/pia16695-black-holes-monsters-in-space-artists-concept/">
+       Pictured here
+      </a>
+      is an artist's illustration  depicting an accretion disk of normal
+      <a href="http://www.slate.com/blogs/bad_astronomy/2013/02/27/spinning_black_hole_scientists_measure_supermassive_black_hole_rotating.html">
+       matter swirling
+      </a>
+      around a black hole, with a
+      <a href="ap110828.html">
+       jet
+      </a>
+      emanating from the top.  Since matter randomly falling
+      <a href="https://apod.nasa.gov/htmltest/rjn_bht.html">
+       into the black hol
+      </a>
+      <a href="http://asterisk.apod.com/viewtopic.php?f=39&amp;t=21666">
+       e
+      </a>
+      should not spin up a black hole this much,  the NuSTAR and XMM measurements also validate the existence of the
+      <a href="ap080811.html">
+       surrounding accretion disk
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/03
   </summary>
   <table>
@@ -18,8 +133,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250503.html">
+      https://apod.nasa.gov/apod/ap250503.html
      </a>
     </td>
    </tr>
