@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_2603.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What’s causing those lines?  Objects in the sky sometimes appear
+      <a href="https://en.wikipedia.org/wiki/Reflection_(physics)">
+       reflected
+      </a>
+      as lines across water — but why?  If the water’s surface is smooth, then reflected objects would
+      <a href="ap191022.html">
+       appear similarly
+      </a>
+      -- as spots.  But if the
+      <a href="https://gpm.nasa.gov/education/water-cycle">
+       water
+      </a>
+      is choppy, then there are many places where light from the object can reflect off the water and still come to you -- and so together form, typically, a line.  The same effect is frequently seen for the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      just
+      <a href="ap090924.html">
+       before sunset
+      </a>
+      and just
+      <a href="ap220924.html">
+       after sunrise
+      </a>
+      .
+      <a href="https://www.instagram.com/p/DI3Aq4OI_Fs/">
+       Pictured
+      </a>
+      about 10 days ago in
+      <a href="https://youtu.be/yDYCMdbaFdQ">
+       Ibiza
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Spain">
+       Spain
+      </a>
+      ,  images of the
+      <a href="ap150929.html">
+       setting Moon
+      </a>
+      ,
+      <a href="https://spaceplace.nasa.gov/all-about-venus/">
+       Venus
+      </a>
+      (top), and
+      <a href="https://science.nasa.gov/saturn/">
+       Saturn
+      </a>
+      (right, faint) were captured both directly and in line-reflected forms from the
+      <a href="https://en.wikipedia.org/wiki/Mediterranean_Sea">
+       Mediterranean Sea
+      </a>
+      .  The other bright object on the right with a water-reflected line is a
+      <a href="ap191119.html">
+       beacon
+      </a>
+      on a rock to warn passing boats.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/04
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250504.html">
+      https://apod.nasa.gov/apod/ap250504.html
      </a>
     </td>
    </tr>
