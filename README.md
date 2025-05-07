@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/M81M82_CAT_3780.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/M81M82_CAT_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In the upper left corner, surrounded by blue arms and  dotted with red nebulas, is spiral galaxy
+      <a href="ap250327.html">
+       M81
+      </a>
+      .   In the lower right corner, marked by a light central line and surrounded by  red glowing gas, is irregular galaxy
+      <a href="ap230802.html">
+       M82
+      </a>
+      .    This
+      <a href="https://www.astrobin.com/m6cjk0/">
+       stunning vista
+      </a>
+      shows these two mammoth galaxies locked in
+      <a href="https://svs.gsfc.nasa.gov/30468/">
+       gravitational combat
+      </a>
+      ,  as they have been for the past billion years.     The gravity from each galaxy
+      <a href="https://en.wikipedia.org/wiki/Galaxy_merger">
+       dramatically affects
+      </a>
+      the  other during each hundred-million-year pass.    Last go-round,
+      <a href="ap060414.html">
+       M82
+      </a>
+      's gravity likely raised density waves rippling around
+      <a href="https://en.wikipedia.org/wiki/Messier_81">
+       M81
+      </a>
+      ,  resulting in the richness of
+      <a href="https://www.youtube.com/watch?v=39Sw0axqIBM">
+       M81
+      </a>
+      's spiral arms.    But M81 left
+      <a href="http://messier.seds.org/m/m082.html">
+       M82
+      </a>
+      with violent star forming regions and colliding gas clouds so energetic the galaxy
+      <a href="http://chandra.harvard.edu/photo/2000/0094/index.html">
+       glows in X-rays
+      </a>
+      .    This big battle is
+      <a href="http://www.iqtrivia.com.au/wp-content/uploads/2015/02/animals-looking-through-the-window-201.jpg">
+       seen from Earth
+      </a>
+      through the faint glow of an
+      <a href="https://www.spacetelescope.org/projects/fits_liberator/fitsimages/rogelio_bernal_andreo_1/">
+       Integrated Flux Nebula
+      </a>
+      ,  a little studied complex of diffuse gas and dust clouds in our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      .  In a few billion years, only one galaxy
+      <a href="ap041121.html">
+       will remain
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/05
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250506.html">
+      https://apod.nasa.gov/apod/ap250506.html
      </a>
     </td>
    </tr>
