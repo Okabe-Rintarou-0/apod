@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/Crab_Webb_998.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/Crab_Webb_998.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Cataloged as M1, the Crab Nebula is the first on
+      <a href="http://messier.seds.org/xtra/history/m-cat71.html">
+       Charles Messier's
+      </a>
+      famous list of things which are
+      <a href="ap110901.html">
+       not comets
+      </a>
+      .  In fact,
+      <a href="ap010602.html">
+       the Crab Nebula is
+      </a>
+      now known to be a supernova remnant, an expanding cloud of debris from the death explosion of a massive star.  The violent birth of the Crab was
+      <a href="http://messier.seds.org/more/m001_sn.html">
+       witnessed by astronomers
+      </a>
+      in the year 1054.  Roughly
+      <a href="https://webbtelescope.org/contents/media/images/2023/137/01HBBNDST58J87YXWKXFR2DSPX">
+       10 light-years across
+      </a>
+      , the nebula is still expanding
+      <a href="https://cds.unistra.fr/twikiAIDA/pub/EuroVOAIDA/WP5WorkProgrammeUsecases/m1_en.pdf">
+       at a rate
+      </a>
+      of about 1,500 kilometers per second.
+      <a href="ap230320.html">
+       You can see
+      </a>
+      the expansion by
+      <a href="https://webbtelescope.org/contents/media/images/2023/137/01HBVBFT0VVMN8EP3TQVFMSPEQ">
+       comparing these sharp images
+      </a>
+      from the Hubble Space Telescope and James Webb Space Telescope.  The Crab's dynamic, fragmented filaments were captured in visible light by Hubble in 2005 and Webb in infrared light in 2023.
+      <a href="https://webbtelescope.org/contents/media/videos/2023/137/01HDS5S3XBRCK1KNRH67WW2HPW">
+       This cosmic crustacean
+      </a>
+      lies about 6,500 light-years away in the
+      <a href="ap121224.html">
+       constellation Taurus
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/07
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250507.html">
+      https://apod.nasa.gov/apod/ap250507.html
      </a>
     </td>
    </tr>
