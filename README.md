@@ -5,6 +5,117 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/BLlac_NasaGarcia_4580.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/BLlac_NasaGarcia_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How do black holes create X-rays?  Answering this long-standing question was significantly
+      <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250501832A/abstract">
+       advanced recently
+      </a>
+      with data taken by NASA’s
+      <a href="https://www.nasa.gov/mission/imaging-x-ray-polarimetry-explorer-ixpe/">
+       IXPE
+      </a>
+      satellite.  X-rays cannot exit a
+      <a href="https://science.nasa.gov/universe/black-holes/">
+       black hole
+      </a>
+      ,  but they can be created in the
+      <a href="ap031128.html">
+       energetic environment nearby
+      </a>
+      ,  in particular by a
+      <a href="ap240507.html">
+       jet
+      </a>
+      of particles moving outward.  By observing
+      <a href="https://science.nasa.gov/ems/11_xrays/">
+       X-ray light
+      </a>
+      arriving from near the
+      <a href="ap250504.html">
+       supermassive black hole
+      </a>
+      at the center of galaxy
+      <a href="https://en.wikipedia.org/wiki/BL_Lacertae">
+       BL Lac
+      </a>
+      , called a
+      <a href="https://en.wikipedia.org/wiki/Blazar">
+       blazar
+      </a>
+      ,  it was discovered that these X-rays lacked significant
+      <a :="" href="https://en.wikipedia.org/wiki/Polarization_(waves)">
+       polarization
+      </a>
+      , which is expected when created more by energetic
+      <a href="https://pwg.gsfc.nasa.gov/Education/whelect.html">
+       electrons
+      </a>
+      than
+      <a href="https://home.cern/news/news/physics/proton-century">
+       protons
+      </a>
+      .  In the
+      <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/">
+       featured artistic illustration
+      </a>
+      , a powerful
+      <a href="ap210622.html">
+       jet
+      </a>
+      is depicted emanating from an orange-colored
+      <a href="ap190820.html">
+       accretion disk
+      </a>
+      circling the black hole.
+      <a href="https://thestatetimes.com/wp-content/uploads/2017/10/Cuteness-640x381.jpg">
+       Understanding
+      </a>
+      highly
+      <a href="https://chandra.si.edu/art/xray/">
+       energetic processes
+      </a>
+      across the universe helps humanity to understand
+      <a href="https://spaceplace.nasa.gov/aurora/en/">
+       similar
+      </a>
+      <a href="https://home.cern/science/physics">
+       processes
+      </a>
+      that occur on or near
+      <a href="https://science.nasa.gov/earth/facts/">
+       our Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/08
   </summary>
   <table>
@@ -18,8 +129,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250508.html">
+      https://apod.nasa.gov/apod/ap250508.html
      </a>
     </td>
    </tr>
