@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/mission/mars-pathfinder/">
+       This picture
+      </a>
+      from July 1997  shows a ramp from the Pathfinder lander, the Sojourner robot rover, deflated landing airbags, a couch, Barnacle Bill and
+      <a href="https://mars.nasa.gov/resources/8447/soil-and-rock-yogi/">
+       Yogi Rock appear together
+      </a>
+      in this 3D stereo view of the surface of Mars.  Barnacle Bill is the rock just left of the house cat-sized, solar-paneled Sojourner.  Yogi is the big friendly-looking boulder at top right.  The "couch" is the angular rock shape visible near center
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA01153">
+       on the horizon
+      </a>
+      .  Look at the image with red/blue glasses (or just hold a piece of clear red plastic over your left eye and blue or green over your right) to get the dramatic 3D perspective.  The stereo view was recorded by the remarkable Imager for Mars Pathfinder (IMP) camera.  The IMP had two optical paths for stereo imaging and ranging and was  equipped with an array of color filters for spectral analysis.   Operating as the first astronomical
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA07453">
+       observatory on Mars
+      </a>
+      , the IMP also recorded images of the Sun and Deimos, the smallest of Mars' two
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA00996">
+       tiny moons
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/09
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250509.html">
+      https://apod.nasa.gov/apod/ap250509.html
      </a>
     </td>
    </tr>
