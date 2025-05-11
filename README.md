@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/Venus_Venera14_1705.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/Venus_Venera14_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      If you could stand on
+      <a href="https://science.nasa.gov/venus/">
+       Venus
+      </a>
+      -- what would you see?   Pictured is the view from Venera 14, a robotic
+      <a href="http://mentallandscape.com/V_Venus.htm">
+       Soviet lander
+      </a>
+      which parachuted and
+      <a href="https://en.wikipedia.org/wiki/Air_brake_(aeronautics)">
+       air-brake
+      </a>
+      d down through the thick Venusian atmosphere in March of 1982.  The desolate landscape it saw included flat rocks,  vast empty terrain, and a featureless sky above
+      <a href="https://en.wikipedia.org/wiki/Phoebe_Regio">
+       Phoebe Regio
+      </a>
+      near
+      <a href="https://en.wikipedia.org/wiki/Venera#/media/File:VenusLanderTopo.jpg">
+       Venus' equator
+      </a>
+      .  On the lower left is the spacecraft's
+      <a href="https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=1981-110D-10">
+       penetrometer
+      </a>
+      used to make scientific measurements,  while the light piece on the right is part of an ejected lens-cap.   Enduring
+      <a href="https://science.nasa.gov/resource/solar-system-temperatures/">
+       temperatures
+      </a>
+      near 450 degrees
+      <a href="https://en.wikipedia.org/wiki/Celsius">
+       Celsius
+      </a>
+      and
+      <a href="https://www.jpl.nasa.gov/news/venus-air-pressure">
+       pressure
+      </a>
+      s  75 times that on Earth, the hardened
+      <a href="https://nssdc.gsfc.nasa.gov/planetary/venera.html">
+       Venera spacecraft
+      </a>
+      lasted only about an hour.  Although data from
+      <a href="https://en.wikipedia.org/wiki/Venera_14">
+       Venera 14
+      </a>
+      was beamed across the inner
+      <a href="https://eyes.nasa.gov/apps/orrery/#/home">
+       Solar System
+      </a>
+      over 40 years ago, digital processing and merging of
+      <a href="http://mentallandscape.com/V_DigitalImages.htm">
+       Venera's unusual images
+      </a>
+      continues even today.   Recent analyses of
+      <a href="ap200114.html">
+       infrared measurements
+      </a>
+      taken by
+      <a href="http://www.esa.int/">
+       ESA
+      </a>
+      's orbiting
+      <a href="http://www.esa.int/Science_Exploration/Space_Science/Venus_Express">
+       Venus Express
+      </a>
+      spacecraft indicate that active
+      <a href="ap201027.html">
+       volcanoes may currently exist
+      </a>
+      on Venus.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/10
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250510.html">
+      https://apod.nasa.gov/apod/ap250510.html
      </a>
     </td>
    </tr>
