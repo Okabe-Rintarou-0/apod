@@ -5,6 +5,95 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_5000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What does our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      look like from the side?  Because we are on the inside, humanity can’t get an actual picture.  Recently, however, just such a map has  been made using location data for over a billion stars from ESA’s
+      <a href="https://en.wikipedia.org/wiki/Gaia_(spacecraft)">
+       Gaia
+      </a>
+      mission.  The resulting
+      <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/The_best_Milky_Way_map_by_Gaia_edge-on">
+       featured illustration
+      </a>
+      shows that just like
+      <a href="ap240606.html">
+       many
+      </a>
+      <a href="ap220423.html">
+       other
+      </a>
+      <a href="ap170112.html">
+       spiral
+      </a>
+      <a href="ap141105.html">
+       galaxies
+      </a>
+      ,  our Milky Way has a very thin central disk.
+      <a href="https://science.nasa.gov/sun/">
+       Our Sun
+      </a>
+      and all the stars we see at night are in this disk.  Although
+      <a href="https://www.science.org/content/article/milky-way-more-warped-astronomers-thought">
+       hypothesized before
+      </a>
+      , perhaps
+      <a href="https://www.reddit.com/r/Eyebleach/comments/1cfcrpk/my_dog_is_very_surprised/#lightbox">
+       more surprising
+      </a>
+      is that the disk appears curved at the outer edges.  The colors of our Galaxy's
+      <a href="ap120304.html">
+       warped
+      </a>
+      central band derive mostly from dark
+      <a href="ap100322.html">
+       dust
+      </a>
+      ,
+      <a href="ap241209.html">
+       bright blue stars
+      </a>
+      , and
+      <a href="ap241104.html">
+       red emission nebulas
+      </a>
+      .  Although data analysis is ongoing,
+      <a href="https://www.esa.int/Enabling_Support/Operations/Farewell_Gaia!_Spacecraft_operations_come_to_an_end">
+       Gaia was deactivated
+      </a>
+      in March after a successful mission.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/11
   </summary>
   <table>
@@ -18,8 +107,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250511.html">
+      https://apod.nasa.gov/apod/ap250511.html
      </a>
     </td>
    </tr>
