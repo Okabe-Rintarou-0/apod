@@ -5,6 +5,107 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_2100.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What does our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      look like from the top?  Because we are on the
+      <a href="https://www.reddit.com/r/aww/comments/104vf2/so_my_cat_likes_to_look_out_the_window/#lightbox">
+       inside
+      </a>
+      , humanity can’t get an actual picture.  Recently, however, just such a map has  been made using location data for over a billion stars from ESA’s
+      <a href="https://en.wikipedia.org/wiki/Gaia_(spacecraft)">
+       Gaia
+      </a>
+      mission.  The resulting
+      <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/The_best_Milky_Way_map_by_Gaia_edge-on">
+       featured illustration
+      </a>
+      shows that just like
+      <a href="ap241226.html">
+       many
+      </a>
+      <a href="ap240206.html">
+       other
+      </a>
+      <a href="ap240101.html">
+       spiral
+      </a>
+      <a href="ap011004.html">
+       galaxies
+      </a>
+      ,  our Milky Way has distinct spiral arms.
+      <a href="https://science.nasa.gov/sun/">
+       Our Sun
+      </a>
+      and most of the bright stars we see at night are in just one arm:
+      <a href="https://en.wikipedia.org/wiki/Orion_Arm">
+       Orion
+      </a>
+      .  Gaia data bolsters previous indications  that our Milky Way has more than two
+      <a href="https://en.wikipedia.org/wiki/Milky_Way#Spiral_arms">
+       spiral arms
+      </a>
+      .  Our
+      <a href="ap241124.html">
+       Galaxy's center
+      </a>
+      sports a
+      <a href="ap050825.html">
+       prominent bar
+      </a>
+      .   The colors of our Galaxy's
+      <a href="ap250512.html">
+       thin
+      </a>
+      disk derive mostly from dark
+      <a href="ap100322.html">
+       dust
+      </a>
+      ,
+      <a href="ap241209.html">
+       bright blue stars
+      </a>
+      , and
+      <a href="ap241104.html">
+       red emission nebula
+      </a>
+      .  Although data analysis is ongoing,
+      <a href="https://www.esa.int/Enabling_Support/Operations/Farewell_Gaia!_Spacecraft_operations_come_to_an_end">
+       Gaia was deactivated
+      </a>
+      in March after a succession mission.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/12
   </summary>
   <table>
@@ -18,8 +119,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250512.html">
+      https://apod.nasa.gov/apod/ap250512.html
      </a>
     </td>
    </tr>
