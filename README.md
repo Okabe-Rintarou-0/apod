@@ -5,6 +5,101 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_4310.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.instagram.com/p/DE-YG3CouEd/">
+       This pretty nebula
+      </a>
+      lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a
+      <a href="https://en.wikipedia.org/wiki/Robin_egg_blue#/media/File:American_Robin_Eggs_in_Nest.jpg">
+       robin's egg
+      </a>
+      .  The cosmic cloud spans about 3
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-year
+      </a>
+      s, nestled securely within the boundaries of the southern constellation of the Furnace  (
+      <a href="https://chandra.harvard.edu/photo/constellations/fornax.html">
+       Fornax
+      </a>
+      ).  Recognized as a
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      , egg-shaped
+      <a href="https://en.wikipedia.org/wiki/NGC_1360">
+       NGC 1360
+      </a>
+      doesn't represent a beginning,
+      <a href="https://www.reddit.com/r/cats/comments/1h4ato/thinking_cat_is_thinking/#lightbox">
+       though
+      </a>
+      .  Instead, it corresponds to a brief and final phase in the evolution of an
+      <a href="https://en.wikipedia.org/wiki/Stellar_evolution#Mature_stars">
+       aging star
+      </a>
+      .
+      <a href="https://arxiv.org/abs/1703.10891">
+       In fact
+      </a>
+      , visible at the center of the nebula, the central star of NGC 1360 is known to be a
+      <a href="ap970219.html">
+       binary star system
+      </a>
+      likely consisting of two evolved
+      <a href="ap000910.html">
+       white dwarf stars
+      </a>
+      , less massive but much hotter than
+      <a href="ap221106.html">
+       the Sun
+      </a>
+      .   Their intense and otherwise invisible
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet radiation
+      </a>
+      has stripped away
+      <a href="https://en.wikipedia.org/wiki/Electron">
+       electron
+      </a>
+      s  from the atoms in their mutually surrounding gaseous shroud.  The
+      <a href="https://en.wikipedia.org/wiki/Robin_egg_blue">
+       blue-green hue
+      </a>
+      inside of NGC 1360 seen here is the strong emission produced as electrons recombine with
+      <a href="https://en.wikipedia.org/wiki/Nebulium">
+       doubly ionized oxygen atoms
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/13
   </summary>
   <table>
@@ -18,8 +113,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250513.html">
+      https://apod.nasa.gov/apod/ap250513.html
      </a>
     </td>
    </tr>
