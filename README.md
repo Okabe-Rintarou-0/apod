@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/PIA19363.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/PIA19363_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="http://www.uahirise.org/ESP_040776_2115">
+       This close-up from
+      </a>
+      the Mars Reconnaissance Orbiter's HiRISE camera shows weathered craters and windblown deposits in southern
+      <a href="http://en.wikipedia.org/wiki/List_of_plains_on_Mars">
+       Acidalia Planitia
+      </a>
+      .  A striking shade of blue in standard HiRISE image colors, to the human eye the area would probably look grey or a little reddish.  But human eyes have not gazed across this terrain, unless you count the eyes of NASA astronauts in the sci-fi novel, "
+      <a href="http://en.wikipedia.org/wiki/The_Martian_%28Weir_novel%29">
+       The Martian
+      </a>
+      ," by Andy Weir.  The novel chronicles the adventures of Mark Watney, an astronaut stranded at the fictional Mars mission Ares 3 landing site, corresponding to the coordinates of this cropped HiRISE frame.  For scale, Watney's 6-meter-diameter habitat at the site would be about 1/10th the diameter of the large crater.
+      <a href="https://www.nasa.gov/image-article/nasas-journey-mars/">
+       Of course
+      </a>
+      , the Ares 3 landing coordinates are only about 800 kilometers north of the (real life) Carl
+      <a href="https://www.jpl.nasa.gov/news/nasa-renames-mars-lander-in-honor-of-late-carl-sagan">
+       Sagan Memorial Station
+      </a>
+      , the 1997
+      <a href="ap250510.html">
+       Pathfinder landing site
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/16
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250516.html">
+      https://apod.nasa.gov/apod/ap250516.html
      </a>
     </td>
    </tr>
