@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/NGC6366_3500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/NGC6366_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Most
+      <a href="https://science.nasa.gov/universe/star-clusters-inside-the-universes-stellar-collections/#hds-sidebar-nav-1">
+       globular star clusters
+      </a>
+      roam the halo of our Milky Way galaxy, but globular cluster NGC 6366 lies close to the
+      <a href="ap250512.html">
+       galactic plane
+      </a>
+      .  About 12,000 light-years away toward the constellation Ophiuchus, the cluster's starlight is dimmed and reddened by the Milky Way's interstellar dust when viewed from planet Earth.  As a result, the
+      <a href="https://ui.adsabs.harvard.edu/abs/2015A%26A...584A..59S/abstract">
+       stars of NGC 6366
+      </a>
+      look almost golden in
+      <a href="https://app.astrobin.com/i/j2ukh3">
+       this telescopic scene
+      </a>
+      , especially when seen next to relatively bright, bluish, and nearby star 47 Ophiuchi.  Compared to the hundred thousand stars or so gravitationally bound in distant NGC 6366, 47 Oph itself is a binary star system   a mere 100 light-years away.  Still, the
+      <a href="https://ui.adsabs.harvard.edu/abs/2015AJ....149..110W/abstract">
+       co-orbiting stars
+      </a>
+      of 47 Oph are too close together to be individually distinguished in the image.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/22
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250522.html">
+      https://apod.nasa.gov/apod/ap250522.html
      </a>
     </td>
    </tr>
