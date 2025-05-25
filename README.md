@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/BeneathJupiter_Juno_vertical960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/BeneathJupiter_Juno_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Jupiter is stranger than we knew.  NASA's
+      <a href="https://www.jpl.nasa.gov/missions/juno/">
+       Juno spacecraft
+      </a>
+      has now completed over 70 swoops past
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      as it moves around its highly
+      <a href="http://www.intmath.com/plane-analytic-geometry/ellipse-interactive.php">
+       elliptical
+      </a>
+      orbit.
+      <a href="https://astrobiology.nasa.gov/news/how-many-habitable-zone-planets-can-orbit-a-host-star/">
+       Pictured
+      </a>
+      from 2017,
+      <a href="ap170523.html">
+       Jupiter is seen
+      </a>
+      from below where, surprisingly, the horizontal
+      <a href="ap160626.html">
+       bands
+      </a>
+      that cover most of the planet disappear into
+      <a href="ap170213.html">
+       swirls
+      </a>
+      and complex patterns.   A line of
+      <a href="ap170228.html">
+       white oval
+      </a>
+      clouds is visible nearer to the equator.
+      <a href="http://www.swri.org/press-release/swri-led-juno-mission-jupiter-delivers-first-science-results">
+       Impressive results
+      </a>
+      from
+      <a href="http://science.sciencemag.org/content/356/6340/821">
+       Juno
+      </a>
+      show that
+      <a href="https://www.youtube.com/watch?v=6o9FiTf1vZE">
+       Jupiter
+      </a>
+      's  weather phenomena can extend deep below its cloud tops,  that Jupiter's center has a core that is
+      <a href="https://www.astronomy.com/science/what-has-the-juno-spacecraft-taught-us-about-jupiter/">
+       unexpectedly large and soft
+      </a>
+      ,  and that
+      <a href="http://science.sciencemag.org/content/356/6340/826">
+       Jupiter's magnetic field
+      </a>
+      varies greatly with location.   Although
+      <a href="https://en.wikipedia.org/wiki/Juno_(spacecraft)">
+       Juno
+      </a>
+      is scheduled to keep orbiting Jupiter further
+      <a href="https://www.jpl.nasa.gov/news/nasas-juno-mission-expands-into-the-future/">
+       into 2025
+      </a>
+      , at some time the robotic spacecraft will be
+      <a href="https://www.jpl.nasa.gov/news/press_kits/juno/overview/#:~:text=The%20final%20mission%20phase%20is,atmosphere%20and%20will%20burn%20up.">
+       maneuvered to plunge
+      </a>
+      into the giant planet.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/24
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250524.html">
+      https://apod.nasa.gov/apod/ap250524.html
      </a>
     </td>
    </tr>
