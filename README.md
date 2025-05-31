@@ -5,6 +5,50 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/05/31
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2505/Afterimageorizontal.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2505/Afterimageorizontalcrop.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      On May 7, the Sun setting behind a church bell tower was captured in this filtered and manipulated digital skyscape from Ragusa, Sicily, planet Earth.  In this version of the image the colors look bizarre.  Still, an intriguing optical illusion known as
+      <a href="https://en.wikipedia.org/wiki/Afterimage">
+       an afterimage
+      </a>
+      can help you experience the same scene with a more natural looking appearance.  To try it,
+      <a href="https://science.nasa.gov/sun/sunspots/">
+       find the sunspots
+      </a>
+      of active region
+      <a href="https://skyandtelescope.org/online-gallery/ar4079-giant-sunspot-with-eyes/">
+       AR4079
+      </a>
+      grouped near the bottom of the blue solar disk.  Relax and stare at the dark sunspot group for about 30 seconds, then close your eyes or shift your gaze to a plain white surface.  In a moment an afterimage of the sunset should faintly appear.  But the afterimage sunset will have this image's complementary colors and a more normal yellow Sun against a familiar blue sky.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/30
   </summary>
   <table>
@@ -18,8 +62,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250530.html">
+      https://apod.nasa.gov/apod/ap250530.html
      </a>
     </td>
    </tr>
