@@ -5,6 +5,115 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/Arp273Main_HubblePestana_3079.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/Arp273Main_HubblePestana_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening to this spiral galaxy?  Although details remain uncertain,  it surely has to do with an ongoing battle with its smaller galactic neighbor.  The
+      <a href="https://esahubble.org/news/heic1107/">
+       featured galaxy
+      </a>
+      is labelled UGC 1810 by itself, but together with its
+      <a href="colliding_galaxies.html">
+       collisional partner
+      </a>
+      is known as
+      <a href="https://en.wikipedia.org/wiki/Arp_273">
+       Arp 273
+      </a>
+      .  The overall shape of UGC 1810 -- in particular its
+      <a href="ap161218.html">
+       blue outer ring
+      </a>
+      --  is likely a result of wild and
+      <a href="https://phys.org/news/2016-10-galaxies-collide.html">
+       violent
+      </a>
+      <a href="http://burro.astr.cwru.edu/Academics/Astr221/Gravity/tides.html">
+       gravitational
+      </a>
+      <a href="ap130514.html">
+       interactions
+      </a>
+      .  This ring's blue color is caused by massive stars that are
+      <a href="http://www.webexhibits.org/causesofcolor/3.html">
+       blue hot
+      </a>
+      and have formed only in the past few million years.   The
+      <a href="ap150211.html">
+       inner galaxy
+      </a>
+      appears  older, redder, and threaded with
+      <a href="https://i.ebayimg.com/images/g/qwwAAOSwa8dkBTlP/s-l1200.jpg">
+       cool
+      </a>
+      <a href="ap151023.html">
+       filamentary dust
+      </a>
+      .   A few bright
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      appear well in the foreground, unrelated to
+      <a href="https://heasarc.gsfc.nasa.gov/w3browse/galaxy-catalog/ugc.html">
+       UGC
+      </a>
+      1810, while several
+      <a href="https://science.nasa.gov/universe/galaxies/">
+       galaxies
+      </a>
+      are visible well in the background.
+      <a href="ap110421.html">
+       Arp 273
+      </a>
+      lies about 300 million
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light year
+      </a>
+      s away
+      <a href="https://esahubble.org/videos/heic1107a/">
+       toward
+      </a>
+      the constellation of Andromeda.   Quite likely, UGC 1810 will
+      <a href="http://www.space.com/19964-milky-way-galaxy-cannibalism-hubble.html">
+       devour
+      </a>
+      its
+      <a href="https://en.wikipedia.org/wiki/Satellite_galaxies_of_the_Milky_Way">
+       galactic sidekick
+      </a>
+      over the next billion years and settle into a classic
+      <a href="ap120107.html">
+       spiral form
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/05/31
   </summary>
   <table>
@@ -18,8 +127,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250531.html">
+      https://apod.nasa.gov/apod/ap250531.html
      </a>
     </td>
    </tr>
