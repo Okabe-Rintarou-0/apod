@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/VeilWide_Alharbi_5169.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/VeilWide_Alharbi_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Wisps like this are all that remain visible of a Milky Way star.   About 7,000 years ago that star exploded in a
+      <a href="https://spaceplace.nasa.gov/supernova/">
+       supernova
+      </a>
+      , leaving the
+      <a href="https://en.wikipedia.org/wiki/Veil_Nebula">
+       Veil Nebula
+      </a>
+      .   At the time, the expanding cloud was likely as bright as a crescent
+      <a href="ap210405.html">
+       Moon
+      </a>
+      , remaining visible  for weeks to people living at the
+      <a href="http://news.bbc.co.uk/2/hi/science/nature/334517.stm">
+       dawn of recorded history
+      </a>
+      .   Today, the resulting
+      <a href="supernova_remnants.html">
+       supernova remnant
+      </a>
+      ,  also known as the
+      <a href="ap200928.html">
+       Cygnus Loop
+      </a>
+      , has faded and is
+      <a href="https://youtu.be/_O7l9m2pFXM">
+       now visible
+      </a>
+      only through a small
+      <a href="https://youtu.be/3qOmu-5Uanc">
+       telescope
+      </a>
+      directed toward the
+      <a href="https://en.wikipedia.org/wiki/Constellation">
+       constellation
+      </a>
+      of the Swan  (
+      <a href="https://en.wikipedia.org/wiki/Cygnus_(constellation)">
+       Cygnus
+      </a>
+      ).   The remaining Veil Nebula is physically huge, however,  and even though it lies about 1,400
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-year
+      </a>
+      s distant, it covers over five times the size of the
+      <a href="ap240915.html">
+       full Moon
+      </a>
+      .   The
+      <a href="https://www.flickr.com/photos/194569375@N06/53908601291/">
+       featured picture
+      </a>
+      was taken in
+      <a href="https://en.wikipedia.org/wiki/Kuwait">
+       Kuwait
+      </a>
+      in mid-2024 and features light emitted by
+      <a href="https://www.eia.gov/energyexplained/hydrogen/use-of-hydrogen.php">
+       hydrogen
+      </a>
+      in red and
+      <a href="https://science.nasa.gov/universe/exoplanets/oxygen-on-exoplanets-isnt-proof-of-life/">
+       oxygen
+      </a>
+      in blue.   In deep images of the
+      <a href="ap191031.html">
+       complete Veil Nebula
+      </a>
+      like this, even
+      <a href="https://previews.123rf.com/images/duben/duben1907/duben190700009/128483090-dog-reading-book-with-eyeglasses-professor-behind-the-book.jpg">
+       studious readers
+      </a>
+      might not be able to identify the
+      <a href="image/2506/VeilWide_Alharbi_960_annotated.jpg">
+       iconic filaments
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/01
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250601.html">
+      https://apod.nasa.gov/apod/ap250601.html
      </a>
     </td>
    </tr>
