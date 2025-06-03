@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/GravityWaves_Claro_1486.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/GravityWaves_Claro_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why would the sky glow like a giant repeating rainbow?
+      <a href="https://svs.gsfc.nasa.gov/12963">
+       Airglow
+      </a>
+      .   Now, air glows all of the time, but it is usually hard to see.  A disturbance however -- like an approaching storm -- may cause noticeable rippling in the
+      <a href="https://www.nasa.gov/image-article/earths-atmospheric-layers-3/">
+       Earth's atmosphere
+      </a>
+      .  These
+      <a href="https://en.wikipedia.org/wiki/Gravity_wave">
+       gravity waves
+      </a>
+      are
+      <a href="http://www.atoptics.co.uk/blog/atmospheric-gravity-waves/">
+       oscillations in air
+      </a>
+      analogous to those created when a
+      <a href="https://www.youtube.com/watch?v=T9QwiBFN9gI">
+       rock is thrown in calm water
+      </a>
+      .   The long-duration exposure nearly along the vertical walls of
+      <a href="ap150904.html">
+       airglow
+      </a>
+      likely made the undulating structure particularly visible.   OK, but where do the colors originate?   The deep red glow likely originates from
+      <a href="https://en.wikipedia.org/wiki/Hydroxyl">
+       OH molecules
+      </a>
+      about 87 kilometers high, excited by
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       ultraviolet light
+      </a>
+      from the Sun.  The orange and green
+      <a href="http://www.pnas.org/content/112/49/E6728.abstract">
+       airglow
+      </a>
+      is likely caused by
+      <a href="https://periodic.lanl.gov/11.shtml">
+       sodium
+      </a>
+      and
+      <a href="https://periodic.lanl.gov/8.shtml">
+       oxygen
+      </a>
+      atoms slightly higher up.   The
+      <a href="http://www.miguelclaro.com/wp/?portfolio=rainbow-bands-of-airglow-in-gravity-waves-above-pico-island">
+       featured image
+      </a>
+      was captured during a
+      <a href="https://www.youtube.com/watch?v=-GlioVTgjuI">
+       climb
+      </a>
+      up
+      <a href="https://en.wikipedia.org/wiki/Mount_Pico">
+       Mount Pico
+      </a>
+      in the
+      <a href="https://en.wikipedia.org/wiki/Azores">
+       Azores
+      </a>
+      of
+      <a href="https://en.wikipedia.org/wiki/Portugal">
+       Portugal
+      </a>
+      .   Ground lights originate from the island of
+      <a href="https://youtu.be/jPg7KFv2a-s">
+       Faial
+      </a>
+      in the
+      <a href="https://en.wikipedia.org/wiki/Atlantic_Ocean">
+       Atlantic Ocean
+      </a>
+      .   A spectacular sky is visible through this banded airglow, with the central band of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      running up the image center, and M31, the
+      <a href="ap181217.html">
+       Andromeda Galaxy
+      </a>
+      , visible near the top left.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/02
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250602.html">
+      https://apod.nasa.gov/apod/ap250602.html
      </a>
     </td>
    </tr>
