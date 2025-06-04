@@ -5,6 +5,130 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/RubinMw_assuncao_1460.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/RubinMw_assuncao_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is the sky the same every night?  No -- the night sky changes every night in many ways.  To better explore how the night sky changes, the
+      <a href="https://www.cia.gov/the-world-factbook/countries/united-states/">
+       USA
+      </a>
+      's
+      <a href="https://www.nsf.gov/">
+       NSF
+      </a>
+      and
+      <a href="https://www.energy.gov/">
+       DOE
+      </a>
+      commissioned the
+      <a href="https://rubinobservatory.org/">
+       Vera C. Rubin Observatory
+      </a>
+      in
+      <a href="https://youtu.be/clMsIDxUlmA">
+       Cerro Pachón
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .  In final testing before routine operations,
+      <a href="https://rubinobservatory.org/about/vera-rubin">
+       Rubin
+      </a>
+      will begin to explore these
+      <a href="https://ui.adsabs.harvard.edu/abs/2003AJ....125.2740N/abstract">
+       nightly changes
+      </a>
+      --  slight differences that can tell us much about our
+      <a href="ap220316.html">
+       amazing universe
+      </a>
+      and its surprising
+      <a href="https://www.zooniverse.org/">
+       zoo
+      </a>
+      of objects.  With a mirror over 8 meters across, Rubin will
+      <a href="https://ui.adsabs.harvard.edu/abs/1999PASP..111..886N/abstract">
+       continually reimage
+      </a>
+      the entire
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible
+      </a>
+      sky every few nights to discover new
+      <a href="ap150531.html">
+       supernovas
+      </a>
+      , potentially
+      <a href="https://cneos.jpl.nasa.gov/about/neo_groups.html">
+       dangerous asteroids
+      </a>
+      , faint comets, and
+      <a href="https://www.aavso.org/visionmission">
+       variable stars
+      </a>
+      -- as well as
+      <a href="ap230705.html">
+       mapping out
+      </a>
+      the visible universe's
+      <a href="https://science.nasa.gov/universe/galaxies/large-scale-structures/">
+       large-scale structure
+      </a>
+      .   Pictured, the distant
+      <a href="ap221023.html">
+       central band
+      </a>
+      of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      appears to flow out from the
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fyhojundchqd21.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Deca3b221dfd81fabe3eb7165f16bd29a35f225d4">
+       newly operational
+      </a>
+      observatory.  Taken last month, the
+      <a href="https://www.instagram.com/p/DKH0GYLRC1i/">
+       featured picture
+      </a>
+      is a composite of 21 images across the night sky, capturing
+      <a href="https://en.wikipedia.org/wiki/Airglow">
+       airglow
+      </a>
+      on the horizon and the
+      <a href="ap210105.html">
+       Small Magellanic Cloud galaxy
+      </a>
+      on the lower left.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/03
   </summary>
   <table>
@@ -18,8 +142,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250603.html">
+      https://apod.nasa.gov/apod/ap250603.html
      </a>
     </td>
    </tr>
