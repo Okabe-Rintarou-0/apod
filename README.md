@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://en.wikipedia.org/wiki/Savudrija_Lighthouse">
+       Savudrija lighthouse
+      </a>
+      shines along the coast near the northern end of the Istrian peninsula in this well-composed
+      <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-june-2025-skywatching-tips-from-nasa/">
+       night skyscape
+      </a>
+      .  A navigational aid for sailors on the Adriatic Sea, the historic lighthouse was constructed in the early 19th century.  But an even older aid to navigation shines in the sky above,
+      <a href="ap110514.html">
+       Polaris
+      </a>
+      , alpha star of the constellation Ursa Minor and also known as the North Star.  In this scene Polaris forms the shortest bright arc near the
+      <a href="ap220728.html">
+       North Celestial
+      </a>
+      Pole, the extension of Earth's axis of rotation into space.  Of course, the North Celestial Pole lies exactly at the center of all the concentric startrails.
+      <a href="https://www.instagram.com/bnastro000/p/DKJjsZdNOQJ/?img_index=1">
+       The composite image
+      </a>
+      is a digital stack of 400 exposures, each 30 seconds long, taken with camera and tripod fixed to a rotating planet.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/04
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250604.html">
+      https://apod.nasa.gov/apod/ap250604.html
      </a>
     </td>
    </tr>
