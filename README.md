@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The bright clusters and nebulae of planet Earth's night sky are often given the names of
+      <a href="ap160506.html">
+       flowers
+      </a>
+      or
+      <a href="ap100425.html">
+       insects
+      </a>
+      , and its whopping 3 light-year wingspan,
+      <a href="https://science.nasa.gov/asset/hubble/planetary-nebula-ngc-6302/">
+       NGC 6302
+      </a>
+      is no exception.  With an estimated surface temperature of about 250,000 degrees
+      <a href="https://en.wikipedia.org/wiki/Celsius">
+       C
+      </a>
+      , the central star of the
+      <a href="https://chandra.harvard.edu/photo/2021/pne/animations.html">
+       planetary nebula
+      </a>
+      is transforming into a white dwarf star, becoming exceptionally hot, and shining brightly in ultraviolet light.  The central star is hidden from direct view by a torus of dust, but its energetic ultraviolet light ionizes atoms in the nebula.
+      <a href="https://throughlightandtime.com/ngc-6302-lrgb-ha-oii-rev-3-crop-cdk-1000-1-june-2025/">
+       In this sharp, telescopic
+      </a>
+      view composed with narrowband image data, the ionized hydrogen and doubly ionized oxygen atoms are shown in their characteristic red and blue-green hues to reveal a stunning complex of
+      <a href="https://esahubble.org/news/heic0407/">
+       knots and filaments
+      </a>
+      within the nebula's wing-like bipolar outflows.
+      <a href="https://arxiv.org/abs/0711.4359">
+       NGC 6302
+      </a>
+      lies about 4,000 light-years away in the arachnologically correct constellation of the Scorpion  (
+      <a href="http://hawastsoc.org/deepsky/sco/index.html">
+       Scorpius
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/05
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250605.html">
+      https://apod.nasa.gov/apod/ap250605.html
      </a>
     </td>
    </tr>
