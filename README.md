@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/PIA24542_fig2.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/PIA24542_fig2_1100c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      On the Mars rover's mission Sol 46 or Earth date April 6, 2021, Perseverance held out a robotic arm to take
+      <a href="https://www.jpl.nasa.gov/images/perseverances-selfie-with-ingenuity">
+       its first selfie on Mars
+      </a>
+      .  The WATSON camera at the end of the arm was designed to take close-ups of Martian rocks and surface details though, and not a quick snap shot of friends and smiling faces.  In the end,
+      <a href="https://www.nasa.gov/feature/jpl/watch-and-hear-how-nasa-s-perseverance-rover-took-its-first-selfie">
+       teamwork and weeks of planning on Mars time
+      </a>
+      was required to program a complex series of exposures and camera motions to include Perseverance and its surroundings.  The resulting 62 frames were composed into a detailed mosaic, one of the most complicated Mars rover selfies ever taken.  In this version of the
+      <a href="https://mars.nasa.gov/mars2020/">
+       selfie, the rover's
+      </a>
+      Mastcam-Z and SuperCam instruments are looking toward WATSON and the end of the rover's outstretched arm.  About 4 meters (13 feet) from Perseverance is a robotic companion,
+      <a href="https://mars.nasa.gov/technology/helicopter/">
+       the Mars Ingenuity helicopter
+      </a>
+      .  Perseverance has now spent over 1,500 sols
+      <a href="https://www.jpl.nasa.gov/news/devils-in-details-in-selfie-taken-by-nasas-mars-perseverance-rover/">
+       exploring the surface
+      </a>
+      of the Red Planet.  On Earth date January 18, 2024, Ingenuity made its 72nd and
+      <a href="ap240210.html">
+       final flight
+      </a>
+      through the thin Martian atmosphere.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/06
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250606.html">
+      https://apod.nasa.gov/apod/ap250606.html
      </a>
     </td>
    </tr>
