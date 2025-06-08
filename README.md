@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/NGC3344_hst1024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/NGC3344_hst2048.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      From our vantage point in the
+      <a href="ap250513.html">
+       Milky Way Galaxy
+      </a>
+      , we see NGC 3344 face-on.  Nearly 40,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-year
+      </a>
+      s across, the big, beautiful
+      <a href="https://science.nasa.gov/universe/galaxies/types/">
+       spiral galaxy
+      </a>
+      is located just 20 million light-years away in the constellation of Leo Minor.  This multi-color
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble
+      </a>
+      Space Telescope
+      <a href="https://www.spacetelescope.org/images/heic1803a/">
+       close-up of NGC 3344
+      </a>
+      includes remarkable details from near
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      to
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet
+      </a>
+      wavelengths.  The frame extends some 15,000 light-years across the spiral's central regions.  From the core outward,
+      <a href="https://www.spacetelescope.org/videos/heic1803a/">
+       the galaxy's colors change
+      </a>
+      from the yellowish light of old stars in the center to young blue star clusters and reddish
+      <a href="ap220920.html">
+       star forming region
+      </a>
+      s along the loose,  fragmented spiral arms.  Of course, the bright stars with a spiky appearance are in front of NGC 3344 and
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F6uvotrlg6ta91.jpg">
+       lie well
+      </a>
+      within our own Milky Way.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/07
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250607.html">
+      https://apod.nasa.gov/apod/ap250607.html
      </a>
     </td>
    </tr>
