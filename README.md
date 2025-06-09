@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_2094.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Can you identify this celestial object?   Likely not — because this is a
+      <a href="https://www.astrobin.com/280z5s/">
+       discovery image
+      </a>
+      .    Massive stars forge heavy elements in their cores and,  after a few million years, end their lives in powerful
+      <a href="ap250508.html">
+       supernova explosions
+      </a>
+      .  These
+      <a href="ap250117.html">
+       remnants
+      </a>
+      cool relatively quickly and fade,  making them difficult to detect.   To uncover such faint, previously unknown supernova remnants,  a dedicated group of amateur astrophotographers searched through
+      <a href="https://archive.eso.org/dss/dss">
+       sky surveys
+      </a>
+      for possible supernova remnant candidates.   The result: the first-ever image of supernova remnant G115.5+9.1 —  named Scylla by its discoverers—glowing faintly  in the constellation of the mythological King of Aethiopia:
+      <a hef="https://en.wikipedia.org/wiki/Cepheus_(constellation)">
+       Cepheus
+      </a>
+      .   Emission from
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       hydrogen
+      </a>
+      atoms in the remnant is shown in red,  and faint
+      <a href="https://en.wikipedia.org/wiki/Doubly_ionized_oxygen">
+       emission from oxygen
+      </a>
+      is shown in hues of blue.   Surprisingly, another discovery lurked to  the upper right: a faint, previously unknown
+      <a href="https://planetarynebulae.net/EN/">
+       planetary nebula
+      </a>
+      candidate.  In keeping with mythological tradition,  it was named Charybdis (Sai 2) — a nod to the ancient Greek expression  "caught
+      <a href="https://en.wikipedia.org/wiki/Between_Scylla_and_Charybdis">
+       between Scylla and Charybdis
+      </a>
+      " from
+      <a href="https://en.wikipedia.org/wiki/Odyssey">
+       Homer’s Odyssey
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/08
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250608.html">
+      https://apod.nasa.gov/apod/ap250608.html
      </a>
     </td>
    </tr>
