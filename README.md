@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_1500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Do you know the names of some of the brightest stars?  It's likely that you do, even though  some bright
+      <a href="https://en.wikipedia.org/wiki/Star">
+       star
+      </a>
+      s  have names so old they date back to near the beginning of
+      <a href="https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts">
+       written language
+      </a>
+      .  Many world cultures have
+      <a href="ap210112.html">
+       their own names
+      </a>
+      for the
+      <a href="https://en.wikipedia.org/wiki/List_of_brightest_stars#Main_table">
+       brightest stars
+      </a>
+      , and it is
+      <a href="https://whc.unesco.org/en/about/">
+       culturally and historically important
+      </a>
+      to remember them.   In the interest of clear global communication, however, the
+      <a href="https://www.iau.org/">
+       International Astronomical Union
+      </a>
+      (IAU) has begun to designate
+      <a href="https://en.wikipedia.org/wiki/IAU_Working_Group_on_Star_Names">
+       standardized star names
+      </a>
+      .    Featured
+      <a href="https://www.instagram.com/p/BzIRSbpFO4x/">
+       here
+      </a>
+      in true color are the 25 brightest
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      in the night sky,  currently as seen by
+      <a href="ap190818.html">
+       humans
+      </a>
+      , coupled with their
+      <a href="https://en.wikipedia.org/wiki/List_of_proper_names_of_stars">
+       IAU-recognized names
+      </a>
+      .  Some star names have
+      <a href="https://www.shutterstock.com/image-photo/close-scottish-fold-cat-head-600nw-1276621966.jpg">
+       interesting meanings
+      </a>
+      , including
+      <a href="ap000611.html">
+       Sirius
+      </a>
+      ("the scorcher" in
+      <a href="https://en.wikipedia.org/wiki/Latin">
+       Latin
+      </a>
+      ),  Vega ("falling" in
+      <a href="https://en.wikipedia.org/wiki/List_of_Arabic_star_names">
+       Arabic
+      </a>
+      ),  and Antares ("rival to Mars" in
+      <a href="https://en.wikipedia.org/wiki/Proto-Greek_language">
+       Greek
+      </a>
+      ).  You are likely even familiar with the name of at least one star too dim to make this list:
+      <a href="https://science.nasa.gov/solar-system/what-is-the-north-star-and-how-do-you-find-it/">
+       Polaris
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/10
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250610.html">
+      https://apod.nasa.gov/apod/ap250610.html
      </a>
     </td>
    </tr>
