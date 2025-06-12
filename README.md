@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/TSE2023-Comp48-2a.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/TSE2023-Comp48-2a1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      On April 20, 2023 the shadow of a
+      <a href="https://moon.nasa.gov/moon-in-motion/eclipses/">
+       New Moon raced
+      </a>
+      across planet Earth's southern hemisphere.  When viewed
+      <a href="https://earthsky.org/astronomy-essentials/hybrid-solar-eclipse-april-20-2023/">
+       along a narrow path
+      </a>
+      that mostly avoided landfall, the Moon in silhouette created a
+      <a href="ap131103.html">
+       hybrid solar eclipse
+      </a>
+      .  Hybrid eclipses are rare and can be seen as a total eclipse or an annular "
+      <a href="ap241011.html">
+       ring of fire
+      </a>
+      " eclipse depending on the observer's position.  Viewers of this much anticipated hybrid event were able to witness a total solar eclipse while anchored in the Indian Ocean near the centerline of the eclipse track off the coast of western Australia.  This ship-borne image from
+      <a href="https://skyandtelescope.org/astronomy-news/fred-espenak-1953-2025/">
+       renowned eclipse chaser
+      </a>
+      Fred Espenak captured the active Sun's magnificent outer atmosphere, or
+      <a href="https://scied.ucar.edu/learning-zone/sun-space-weather/corona">
+       solar corona, streaming into space
+      </a>
+      .  The composite of 11 exposures ranging from 1/2000 to 1/2 second, taken during the 62 seconds of totality, records an extended range of brightness to follow alluring details of the corona not quite visible to the eye.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/11
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250611.html">
+      https://apod.nasa.gov/apod/ap250611.html
      </a>
     </td>
    </tr>
