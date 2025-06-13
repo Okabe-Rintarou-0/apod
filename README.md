@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://hubblesite.org/contents/media/images/2020/01/4615-Image">
+       In this Hubble Space Telescope image
+      </a>
+      the bright, spiky stars lie in the foreground toward the heroic northern constellation Perseus and well within our own Milky Way galaxy.  In sharp focus beyond is
+      <a href="https://ui.adsabs.harvard.edu/abs/1980ApJ...238..471R/abstract">
+       UGC 2885
+      </a>
+      , a giant spiral galaxy about 232 million light-years distant.  Some 800,000 light-years across compared to the Milky Way's diameter of 100,000 light-years or so, it has around 1 trillion stars.  That's about 10 times as many stars as the Milky Way.
+      <a href="https://ui.adsabs.harvard.edu/abs/2017hst..prop15107H/abstract">
+       Part of an investigation
+      </a>
+      to understand how galaxies can grow to such enormous sizes, UGC 2885 was also part of
+      <a href="https://www.annualreviews.org/doi/full/10.1146/annurev-astro-081710-102545">
+       An Interesting Voyage
+      </a>
+      and American astronomer Vera Rubin's pioneering study of the rotation of spiral galaxies.  Her work was the first to convincingly demonstrate the dominating presence of
+      <a href="https://www.space.com/vera-rubin.html">
+       dark matter in our universe
+      </a>
+      .  A
+      <a href="https://skyandtelescope.org/astronomy-news/new-u-s-coin-honors-astronomer-vera-rubin/">
+       new U.S. coin
+      </a>
+      has been issured to honor Vera Rubin, while the
+      <a href="https://rubinobservatory.org/about">
+       Vera C. Rubin Observatory
+      </a>
+      is scheduled to unveil images from its first look at the
+      <a href="https://rubinobservatory.org/news/rubin-first-look">
+       cosmos on June 23
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/12
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250612.html">
+      https://apod.nasa.gov/apod/ap250612.html
      </a>
     </td>
    </tr>
