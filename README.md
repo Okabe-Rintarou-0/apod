@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_6512.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What are all those streaks in the sky?  A galaxy, many satellite trails, and a few meteors.   First, far in the distance, the majestic band of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      runs down the left.  Mirroring it on the right are several parallel trails of Earth-orbiting
+      <a href="https://www.starlink.com/us/technology">
+       Starlink satellites
+      </a>
+      .  Many fainter satellite trails also
+      <a href="ap191014.html">
+       crisscross the image
+      </a>
+      .  The two short and bright streaks are meteors — likely members of the annual
+      <a href="https://en.wikipedia.org/wiki/Eta_Aquariids">
+       Eta Aquariids
+      </a>
+      meteor shower.   The
+      <a href="https://science.nasa.gov/venus/">
+       planet Venus
+      </a>
+      shines on the lower right.   Venus and the satellites shine by reflected sunlight.  The
+      <a href="https://www.instagram.com/p/DJxV5ZnRDiL/">
+       featured picture
+      </a>
+      is a composite of exposures  all taken in a few hours on May 4 over the
+      <a href="https://youtu.be/snGme5Zia4Y">
+       Limay River
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Argentina">
+       Argentina
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/13
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250613.html">
+      https://apod.nasa.gov/apod/ap250613.html
      </a>
     </td>
    </tr>
