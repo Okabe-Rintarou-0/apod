@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_2683.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How different does sunset appear from Mars than from Earth?  For comparison, two images of our common star were taken at
+      <a href="ap140302.html">
+       sunset
+      </a>
+      , one from Earth and one from Mars.  These images were scaled to have the same angular width and are
+      <a href="http://www.db-prods.net/blog/2015/05/06/coucher-de-soleil-sur-mars/">
+       featured here
+      </a>
+      side-by-side.  A quick inspection will reveal that the
+      <a href="http://hudsonvalleygeologist.blogspot.com/2012/04/size-of-sun.html">
+       Sun appears
+      </a>
+      slightly smaller from
+      <a href="https://science.nasa.gov/mars/facts/">
+       Mars
+      </a>
+      than from
+      <a href="ap220206.html">
+       Earth
+      </a>
+      .  This makes sense since
+      <a href="https://en.wikipedia.org/wiki/Mars">
+       Mars
+      </a>
+      is 50% further from the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      than
+      <a href="https://science.nasa.gov/earth/">
+       Earth
+      </a>
+      .  More striking, perhaps, is that the
+      <a href="https://www.planetary.org/articles/0506-sunset-on-mars">
+       Martian sunset
+      </a>
+      is noticeably bluer near the Sun than the
+      <a href="ap980526.html">
+       typically
+      </a>
+      orange
+      <a href="https://www.physicsclassroom.com/class/light/Lesson-2/Blue-Skies-and-Red-Sunsets">
+       colors
+      </a>
+      near the setting Sun from Earth.  The reason for the
+      <a href="http://en.wikipedia.org/wiki/Astronomy_on_Mars#The_color_of_the_sky">
+       blue hues from Mars
+      </a>
+      is
+      <a href="http://www.dogtreatkitchen.com/image-files/dog_treat_ingredients.jpg">
+       not fully understood
+      </a>
+      , but thought to be related to  forward scattering properties of
+      <a href="https://en.wikipedia.org/wiki/Martian_soil#Atmospheric_dust">
+       Martian dust
+      </a>
+      .  The terrestrial sunset was taken in 2012 March from
+      <a href="https://youtu.be/G87bG7XzaPk">
+       Marseille
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/France">
+       France
+      </a>
+      , while the Martian sunset was captured in 2015 by
+      <a href="https://www.nasa.gov/">
+       NASA
+      </a>
+      's robotic
+      <a href="https://science.nasa.gov/mission/msl-curiosity/">
+       Curiosity rover
+      </a>
+      from
+      <a href="https://en.wikipedia.org/wiki/Gale_%28crater%29">
+       Gale crater
+      </a>
+      on
+      <a href="https://www.youtube.com/watch?v=IXSIZcj8WgA">
+       Mars
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/14
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250614.html">
+      https://apod.nasa.gov/apod/ap250614.html
      </a>
     </td>
    </tr>
