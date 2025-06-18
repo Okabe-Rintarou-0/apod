@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_1063.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's that unusual spot on the Moon?  It's the
+      <a href="https://www.nasa.gov/international-space-station/">
+       International Space Station
+      </a>
+      .  Using precise timing, the
+      <a href="ap110309.html">
+       Earth-orbiting space platform
+      </a>
+      was photographed in front of a partially lit
+      <a href="ap181119.html">
+       gibbous Moon
+      </a>
+      in 2019.  The
+      <a href="https://www.instagram.com/p/BvI1A3IgCw6/">
+       featured image
+      </a>
+      was taken from
+      <a href="https://www.youtube.com/watch?v=VCcQe10byzo">
+       Palo Alto
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/California">
+       California
+      </a>
+      ,
+      <a href="https://www.cia.gov/the-world-factbook/countries/united-states/">
+       USA
+      </a>
+      with an exposure time of only
+      <a href="https://www.youtube.com/watch?v=RtWbpyjJqrU">
+       1/667 of a second
+      </a>
+      .  In contrast, the duration of the transit of the
+      <a href="ap161114.html">
+       ISS across the entire Moon
+      </a>
+      was about  half a second.   A
+      <a href="https://c8.alamy.com/comp/AHF8DP/kitten-looking-into-fishbowl-AHF8DP.jpg">
+       close inspection
+      </a>
+      of this unusually
+      <a href="ap230612.html">
+       crisp ISS silhouette
+      </a>
+      will reveal the outlines of  numerous solar panels and trusses.   The bright
+      <a href="ap180507.html">
+       crater Tycho
+      </a>
+      is visible on the lower left,  as well as comparatively rough,  light colored terrain known as
+      <a href="https://en.wikipedia.org/wiki/Geology_of_the_Moon#Highlands">
+       highlands
+      </a>
+      and relatively smooth, dark colored areas known as
+      <a href="http://en.wikipedia.org/wiki/Lunar_mare">
+       maria
+      </a>
+      .   Downloadable
+      <a href="https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation">
+       apps can tell you when
+      </a>
+      the
+      <a href="ap151109.html">
+       International Space Station
+      </a>
+      will be visible from your area.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/17
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250617.html">
+      https://apod.nasa.gov/apod/ap250617.html
      </a>
     </td>
    </tr>
