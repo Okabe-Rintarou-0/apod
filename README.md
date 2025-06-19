@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/NGC3521-2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/NGC3521-1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.nasa.gov/image-feature/goddard/hubble-shears-a-woolly-galaxy">
+       Gorgeous spiral galaxy NGC 3521
+      </a>
+      is a mere 35 million light-years away, toward the northern
+      <a href="https://earthsky.org/favorite-star-patterns/spring-triangle-regulus-arcturus-spica/">
+       springtime constellation Leo
+      </a>
+      .  Relatively bright in planet Earth's sky, NGC 3521 is easily visible in small telescopes but often overlooked by amateur imagers in favor of other Leo spiral galaxies, like
+      <a href="ap210320.html">
+       M66 and M65
+      </a>
+      .  It's hard to overlook in this colorful cosmic portrait though.  Spanning some 50,000 light-years the galaxy sports
+      <a href="https://arxiv.org/abs/1803.03653">
+       characteristic
+      </a>
+      patchy, irregular spiral arms laced with dust, pink star forming regions,
+      <a href="https://arxiv.org/abs/1312.2399">
+       and
+      </a>
+      clusters of young, blue stars.  The deep image also finds NGC 3521 embedded in fainter, gigantic, bubble-like shells.  The shells are likely tidal debris, streams of stars torn from satellite galaxies that have
+      <a href="http://www.cosmotography.com/images/galaxy_formation_and_evolution.html">
+       undergone mergers
+      </a>
+      with NGC 3521 in the distant past.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/18
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250618.html">
+      https://apod.nasa.gov/apod/ap250618.html
      </a>
     </td>
    </tr>
