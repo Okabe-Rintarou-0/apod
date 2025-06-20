@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD_1200.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap160922.html">
+       Edmonton
+      </a>
+      , Alberta, Canada, planet Earth lies on the horizon. in this stack of panoramic composite images.  In a monthly time series arranged vertically top to bottom
+      <a href="https://www.flickr.com/photos/53851348@N05/54585073867/">
+       the ambitious photographic project
+      </a>
+      follows the annual north-south swing of sunrise points, from
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-june-solstice/">
+       June solstice
+      </a>
+      to December solstice and back again.  It also follows the corresponding, but definitely harder to track, Full Moon rise.  Of course, the north-south swing of moonrise runs opposite sunrise along the horizon.  But these rising Full Moons also span a wider range on the horizon than the sunrises.  That's because the well-planned project (
+      <a href="https://www.youtube.com/watch?v=u1tkLRdaFNk">
+       as shown in this video
+      </a>
+      ) covers the period June 2024 to
+      <a href="https://earthsky.org/tonight/june-full-moon/">
+       June 2025
+      </a>
+      , centered on a major lunar standstill.
+      <a href="https://griffithobservatory.org/extreme-moon-the-major-lunar-standstills-of-2024-2025/">
+       Major lunar standstills
+      </a>
+      represent extremes in the north-south range of moonrise driven by the
+      <a href="https://en.wikipedia.org/wiki/Lunar_standstill">
+       18.6 year precession
+      </a>
+      period of the lunar orbit.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/19
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250619.html">
+      https://apod.nasa.gov/apod/ap250619.html
      </a>
     </td>
    </tr>
