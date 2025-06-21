@@ -5,6 +5,72 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars1200.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap250320.html">
+       Sure, that figure-8
+      </a>
+      shaped curve you get when you
+      <a href="ap241204.html">
+       mark
+      </a>
+      the position of the Sun in Earth's sky at the same time each day over one year is called an analemma.
+      <a href="ap131014.html">
+       On the left
+      </a>
+      , Earth's figure-8 analemma was traced by combining wide-angle digital images recorded during the year from December 2011 through December 2012.
+      <a href="https://analemma.com/other-analemmas.html">
+       But the shape
+      </a>
+      of an analemma depends on the eccentricity of a planet's orbit and the tilt of its axis of rotation, so analemma curves
+      <a href="https://en.wikipedia.org/wiki/Analemma#Seen_from_other_planets">
+       can look different
+      </a>
+      for different worlds.
+      <a href="https://www.planetary.org/articles/a-martian-analemma">
+       Take Mars for example
+      </a>
+      .  The Red Planet's axial tilt is similar to Earth's, but its orbit around
+      <a href="ap250615.html">
+       the same sun
+      </a>
+      is more eccentric (less circular) than Earth's orbit.  As seen from the Martian surface, the analemma traced in the right hand panel is shaped more like a tear drop.  The Mars rover Opportunity captured the images used over the Martian year corresponding to Earth dates July 2006 to June 2008.  Of course, each world's solstice dates still lie at the top and bottom of their different analemma curves.
+      <a href="https://www.planetary.org/articles/mars-calendar">
+       The last Mars
+      </a>
+      northern summer solstice was May 29, 2025.  Our fair planet's 2025 northern summer solstice is at
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-june-solstice/">
+       June 21, 2:42 UTC.
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/20
   </summary>
   <table>
@@ -18,8 +84,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250620.html">
+      https://apod.nasa.gov/apod/ap250620.html
      </a>
     </td>
    </tr>
