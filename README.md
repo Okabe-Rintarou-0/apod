@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/berrybowl_opportunity_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/berrybowl_opportunity_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How were these unusual Martian spherules created?   Thousands of
+      <a href="ap040210.html">
+       unusual gray spherules
+      </a>
+      made of
+      <a href="https://periodic.lanl.gov/26.shtml">
+       iron
+      </a>
+      and rock and dubbed
+      <a href="https://www.wildblueberries.net/bluehistory.html">
+       blueberries
+      </a>
+      were found embedded in and
+      <a href="ap040204.html">
+       surrounding rocks
+      </a>
+      near the
+      <a href="https://science.nasa.gov/mission/msl-curiosity/location-map/">
+       landing site
+      </a>
+      of the robot
+      <a href="https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/">
+       Opportunity rover
+      </a>
+      on
+      <a href="https://science.nasa.gov/mars/">
+       Mars
+      </a>
+      in 2004.   To help investigate their origin, Opportunity found a  surface dubbed the Berry Bowl with an indentation that was
+      <a href="ap040216.html">
+       rich in the Martian orbs
+      </a>
+      .   The Berry Bowl is
+      <a href="https://photojournal.jpl.nasa.gov/catalog/PIA05634">
+       pictured here
+      </a>
+      , imaged during rover's 48th
+      <a href="https://en.wikipedia.org/wiki/Mars_sol">
+       Martian day
+      </a>
+      .   The average size of a Martian blueberry rock  is only about 4 millimeters across.   By
+      <a href="https://ui.adsabs.harvard.edu/abs/2017Icar..289..144W/abstract">
+       analyzing
+      </a>
+      a circular patch in the rock surface  to the left of the densest patch of
+      <a href="https://en.wikipedia.org/wiki/Martian_spherules">
+       spherules
+      </a>
+      ,  Opportunity obtained data showing that the  underlying rock has a much different composition than the
+      <a href="https://en.wikipedia.org/wiki/Hematite">
+       hematite
+      </a>
+      rich
+      <a href="https://science.nasa.gov/resource/martian-blueberries-2/">
+       blueberries
+      </a>
+      .   This information contributes to the  growing consensus that these small, strange,  gray orbs were slowly deposited from a bath of
+      <a href="ap040303.html">
+       dirty water
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/21
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250621.html">
+      https://apod.nasa.gov/apod/ap250621.html
      </a>
     </td>
    </tr>
