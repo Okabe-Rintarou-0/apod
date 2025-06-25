@@ -5,6 +5,73 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin1100.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://rubinobservatory.org/news/rubin-first-look/trifid-lagoon">
+       This interstellar skyscape
+      </a>
+      spans over 4 degrees across crowded starfields toward the constellation Sagittarius and the central Milky Way.  A First Look image captured at the new NSF–DOE Vera C. Rubin Observatory, the bright nebulae and star clusters featured include famous stops on
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/">
+       telescopic tours
+      </a>
+      of the cosmos:
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-8/">
+       Messier 8
+      </a>
+      and
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-20/">
+       Messier 20
+      </a>
+      .  An expansive star-forming region over a hundred light-years across, Messier 8 is also known as the Lagoon Nebula.  About 4,000 light-years away the Lagoon Nebula harbors a remarkable cluster of young, massive stars.  Their intense radiation and stellar winds energize and agitate this cosmic lagoon's
+      <a href="ap230928.html">
+       turbulent depths
+      </a>
+      .  Messier 20's popular moniker is the Trifid.  Divided into three parts by dark interstellar dust lanes, the
+      <a href="ap240704.html">
+       Trifid Nebula's
+      </a>
+      glowing hydrogen gas creates its dominant red color.  But contrasting blue hues in the colorful Trifid are due to dust
+      <a href="ap011228.html">
+       reflected starlight
+      </a>
+      .
+      <a href="https://rubinobservatory.org/">
+       The Rubin Observatory
+      </a>
+      visited the Trifid-Lagoon field to acquire all the image data during parts of four nights (May 1-4).  At full resolution, Rubin's magnificent
+      <a href="https://rubinobservatory.org/gallery/collections/first-look-gallery/n4kvj0cemd5pbdqgtjdgp2jg2t">
+       Sagittarius skyscape
+      </a>
+      is 84,000 pixels wide and 51,500 pixels tall.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/24
   </summary>
   <table>
@@ -18,8 +85,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250624.html">
+      https://apod.nasa.gov/apod/ap250624.html
      </a>
     </td>
    </tr>
