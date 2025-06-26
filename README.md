@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      An interstellar expanse of glowing gas and obscuring dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker, the
+      <a href="https://astrobackyard.com/seagull-nebula/">
+       Seagull Nebula
+      </a>
+      .  This
+      <a href="https://app.astrobin.com/u/AccidentalAstronomers?i=mnrp5s&amp;r=E">
+       broadband portrait
+      </a>
+      of the cosmic bird covers a 3.5-degree wide swath across the plane of the Milky Way, in the
+      <a href="ap161215.html">
+       direction of Sirius
+      </a>
+      ,  alpha star of the constellation of the Big Dog  (
+      <a href="https://en.wikipedia.org/wiki/Canis_Major">
+       Canis Major
+      </a>
+      ).  The bright head of the Seagull Nebula is cataloged as IC 2177, a compact, dusty emission and reflection nebula with embedded massive star HD 53367.  The larger
+      <a href="http://www.youtube.com/watch?v=SLW7uPs7hS0">
+       emission region
+      </a>
+      , encompassing objects with other catalog designations, is
+      <a href="https://ui.adsabs.harvard.edu/abs/2019A%26A...628A..44F/abstract">
+       Likely part of an extensive shell structure
+      </a>
+      swept up by successive supernova explosions.  The notable bluish arc below and right of center is a bow shock from runaway star
+      <a href="https://en.wikipedia.org/wiki/FN_Canis_Majoris">
+       FN Canis Majoris
+      </a>
+      .  Dominated by the reddish glow of atomic hydrogen, this complex of interstellar gas and dust clouds with other stars of the
+      <a href="https://ui.adsabs.harvard.edu/abs/2019A%26A...628A..44F/abstract">
+       Canis Majoris OB1
+      </a>
+      association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/25
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250625.html">
+      https://apod.nasa.gov/apod/ap250625.html
      </a>
     </td>
    </tr>
