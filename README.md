@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Big beautiful barred spiral
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-109/">
+       galaxy Messier 109
+      </a>
+      is the 109th entry in Charles Messier's famous catalog of bright
+      <a href="http://messier.seds.org/xtra/history/m-cat.html">
+       Nebulae and Star Clusters
+      </a>
+      .  You can find it  just below the Big Dipper's bowl in the northern constellation Ursa Major.  In fact,
+      <a href="ap110624.html">
+       bright dipper star
+      </a>
+      Phecda, Gamma Ursa Majoris, produces the glare at the upper right corner of
+      <a href="https://app.astrobin.com/u/Robsi?i=albk8c#gallery">
+       this telescopic frame.
+      </a>
+      M109's prominent central bar gives the galaxy the appearance of the Greek letter "theta", θ, a common mathematical symbol representing an angle.  M109 spans a very small
+      <a href="http://chandra.harvard.edu/photo/scale.html">
+       angle in planet Earth's sky
+      </a>
+      though, about 7 arcminutes or 0.12 degrees.  But that small
+      <a href="http://chandra.harvard.edu/photo/scale_distance.html">
+       angle corresponds to
+      </a>
+      an enormous 120,000 light-year diameter at the galaxy's estimated 60 million light-year distance.  The brightest member of the now
+      <a href="http://arxiv.org/abs/astro-ph/9608124">
+       recognized
+      </a>
+      Ursa Major galaxy cluster, M109 (aka NGC 3992) is joined by
+      <a href="ap121013.html">
+       spiky
+      </a>
+      foreground stars.  Three small, fuzzy bluish galaxies also on the scene, identified (top to bottom) as UGC 6969, UGC 6940 and UGC 6923, are possibly satellite galaxies of the larger barred spiral galaxy Messier 109.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/26
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250626.html">
+      https://apod.nasa.gov/apod/ap250626.html
      </a>
     </td>
    </tr>
