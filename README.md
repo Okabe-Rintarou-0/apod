@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/farside_lro1600.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/farside_lro800.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Tidally locked in
+      <a href="http://geosteph-adventuresinearthandspace.blogspot.com/2008/02/other-side-of-moon-synchronous-rotation.html">
+       synchronous rotation
+      </a>
+      , the
+      <a href="https://lroc.im-ldi.com/educators/history">
+       Moon always presents
+      </a>
+      its familiar
+      <a href="ap110303.html">
+       nearside
+      </a>
+      to
+      <a href="https://www.artchive.com/artwork/a-sunday-afternoon-on-the-island-of-la-grande-jatte-georges-seurat-1884-1886/">
+       denizens of planet Earth
+      </a>
+      .  From lunar orbit, the Moon's farside can become familiar, though.  In fact
+      <a href="https://lroc.im-ldi.com/images/298">
+       this sharp picture
+      </a>
+      , a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lunar farside.  Part of a
+      <a href="https://data.lroc.im-ldi.com/lroc/view_rdr/WAC_GLOBAL">
+       global mosaic
+      </a>
+      of over 15,000 images acquired between November 2009 and February 2011, the highest resolution version shows features at a scale of 100 meters per pixel.  Surprisingly, the rough and battered surface of the farside  looks very different from the nearside covered with smooth dark lunar maria.   A likely explanation is that the
+      <a href="https://www.planetary.org/articles/the-two-faced-moon">
+       farside crust is thicker
+      </a>
+      , making it harder for molten material from the interior to flow to the surface and form dark,
+      <a href="ap080208.html">
+       smooth maria
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/27
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250627.html">
+      https://apod.nasa.gov/apod/ap250627.html
      </a>
     </td>
    </tr>
