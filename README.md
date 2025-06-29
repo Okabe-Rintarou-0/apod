@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/almosttrees_mro_2560.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/almosttrees_mro_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Are these trees growing on Mars?  No.   Groups of dark brown streaks have been photographed by the
+      <a href="http://en.wikipedia.org/wiki/Mars_Reconnaissance_Orbiter">
+       Mars Reconnaissance Orbiter
+      </a>
+      on melting pinkish sand dunes covered with light frost.  The
+      <a href="http://hirise.lpl.arizona.edu/PSP_007962_2635">
+       featured image
+      </a>
+      was taken in 2008 April near the
+      <a href="ap021224.html">
+       North Pole
+      </a>
+      of Mars.  At that time,
+      <a href="ap060823.html">
+       dark sand
+      </a>
+      on the interior of Martian sand
+      <a href="http://en.wikipedia.org/wiki/Sand_dune">
+       dunes
+      </a>
+      became more and more  visible as the spring Sun melted the lighter
+      <a href="http://www.youtube.com/watch?v=76CNkxizQuc">
+       carbon dioxide ice
+      </a>
+      .    When occurring near the top of a dune,
+      <a href="ap070805.html">
+       dark sand may cascade
+      </a>
+      down the dune leaving
+      <a href="https://www.jpl.nasa.gov/news/recurring-martian-streaks-flowing-sand-not-water/">
+       dark surface streaks
+      </a>
+      -- streaks that might appear at first to be
+      <a href="http://en.wikipedia.org/wiki/Methuselah_(tree)">
+       tree
+      </a>
+      s standing in front of the lighter regions but cast no shadows.  Objects about 25 centimeters across are resolved on
+      <a href="http://hirise.lpl.arizona.edu/PSP_007962_2635">
+       this image
+      </a>
+      spanning about one kilometer.  Close ups of some parts of this image show
+      <a href="ap080311.html">
+       billowing plume
+      </a>
+      s indicating that the
+      <a href="https://www.nasa.gov/image-article/martian-sand-dunes-spring/">
+       sand slides
+      </a>
+      were occurring even while the image was being taken.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/28
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250628.html">
+      https://apod.nasa.gov/apod/ap250628.html
      </a>
     </td>
    </tr>
