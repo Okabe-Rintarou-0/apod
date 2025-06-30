@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/06/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2506/UmbrellaGal_Alkuwari_3843.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2506/UmbrellaGal_Alkuwari_960.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It's raining stars.   What appears to be a giant cosmic umbrella  is now known to be a tidal stream of stars  stripped from a small
+      <a href="https://en.wikipedia.org/wiki/Satellite_galaxy">
+       satellite galaxy
+      </a>
+      .  The main galaxy, spiral galaxy
+      <a href="https://en.wikipedia.org/wiki/NGC_4651">
+       NGC 4651
+      </a>
+      ,  is about the size of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way
+      </a>
+      , while its stellar parasol appears to extend some 100 thousand light-years above this galaxy's bright disk.  A small galaxy was likely torn apart by
+      <a href="ap130514.html">
+       repeated encounters
+      </a>
+      as it swept back and forth on
+      <a href="https://en.wikipedia.org/wiki/Orbital_eccentricity#/media/File:Animation_of_Orbital_eccentricity.gif">
+       eccentric orbits
+      </a>
+      through NGC 4651.  The remaining stars will surely fall back and become part of a
+      <a href="ap120604.html">
+       combined larger galaxy
+      </a>
+      over the next few million years.  The
+      <a href="https://www.instagram.com/p/DJ3wrYQMF7Q/">
+       featured deep image
+      </a>
+      was
+      <a href="https://youtu.be/NAuycMXDM4U">
+       captured
+      </a>
+      in long exposures from
+      <a href="https://en.wikipedia.org/wiki/Saudi_Arabia">
+       Saudi Arabia
+      </a>
+      .  The Umbrella Galaxy lies about 50 million
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-year
+      </a>
+      s  distant toward the
+      <a href="https://www.preventivevet.com/hubfs/how%20to%20brush%20your%20cat.png">
+       well-groomed
+      </a>
+      northern constellation of Berenice's Hair  (
+      <a href="https://en.wikipedia.org/wiki/Coma_Berenices">
+       Coma Berenices
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/29
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250629.html">
+      https://apod.nasa.gov/apod/ap250629.html
      </a>
     </td>
    </tr>
