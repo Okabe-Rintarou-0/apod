@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/EyeDragonSky_Komlev_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/EyeDragonSky_Komlev_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What do you see when you look into this sky?  In the center, in the dark, do you see a
+      <a href="ap190516.html">
+       night sky
+      </a>
+      filled with stars?  Do you see a
+      <a href="ap170120.html">
+       sunset
+      </a>
+      to the left? Clouds all around?  Do you see the central band of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      running down the middle?  Do you see the
+      <a href="https://www.youtube.com/watch?v=KZS7b-u41Ks">
+       ruins
+      </a>
+      of an
+      <a href="https://www.rbth.com/arts/travel/2013/09/27/islands_of_riches_off_vladivostok_29725">
+       abandoned outpost
+      </a>
+      on a hill?  (The outpost is on
+      <a href="https://www.youtube.com/watch?v=MBRMXR8y9Nc">
+       Askold Island
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Russia">
+       Russia
+      </a>
+      .)   Do you see a photographer with a headlamp contemplating
+      <a href="ap170110.html">
+       surreal surroundings
+      </a>
+      ?  (The
+      <a href="https://www.instagram.com/p/B1r5mYWIi9k/">
+       featured image
+      </a>
+      is a panorama of 38 images taken last month and compiled into a
+      <a href="https://www.photographymad.com/pages/view/little-planet-photos-5-simple-steps-to-making-panorama-worlds">
+       Little Planet projection
+      </a>
+      .)   Do you see a rugged path lined with
+      <a href="https://upload.wikimedia.org/wikipedia/en/a/a3/Escher%27s_Relativity.jpg">
+       steps
+      </a>
+      ?  Or do you see the
+      <a href="http://getwallpapers.com/collection/dragon-eye-wallpaper">
+       eye of a dragon
+      </a>
+      ?
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/06/30
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250630.html">
+      https://apod.nasa.gov/apod/ap250630.html
      </a>
     </td>
    </tr>
