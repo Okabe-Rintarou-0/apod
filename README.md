@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_1874.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Does the Milky Way always rise between these two rocks?  No.  Capturing this stunning alignment took careful planning:  being in the right place at the right time.  In the featured image taken in June 2024 from
+      <a href="https://youtu.be/6Ps7dcKcqS8">
+       Otago
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/New_Zealand">
+       New Zealand
+      </a>
+      , the bright
+      <a href="ap231201.html">
+       central core
+      </a>
+      of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      , home to the many of our  Galaxy's 400 billion stars, can be seen between two picturesque rocks spires.   For observers in
+      <a href="https://science.nasa.gov/earth/">
+       Earth
+      </a>
+      's
+      <a href="https://en.wikipedia.org/wiki/Northern_Hemisphere">
+       Northern Hemisphere
+      </a>
+      , the core is only visible throughout the summer.  As Earth orbits the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      ,  different parts of the Milky Way  become visible at different angles at different times of the
+      <a href="ap240228.html">
+       night
+      </a>
+      .  As Earth rotates, the orientation of the  Milky Way in the sky also shifts -- sometimes
+      <a href="ap190112.html">
+       standing vertically
+      </a>
+      as seen in the
+      <a href="https://www.instagram.com/p/C8qW2gMJcaF/">
+       featured image
+      </a>
+      , and other times
+      <a href="ap241105.html">
+       stretching parallel
+      </a>
+      to the horizon,  making it harder to see.  In early June,
+      <a href="https://c8.alamy.com/comp/2G61P84/curious-dog-funny-pug-looking-through-binoculars-up-in-the-sky-high-angle-owner-holding-a-tool-moon-reflecting-in-lenses-2G61P84.jpg">
+       observers can watch
+      </a>
+      it emerge  low on the horizon after sunset and gradually  arc upward to reveal its full grandeur.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/01
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250701.html">
+      https://apod.nasa.gov/apod/ap250701.html
      </a>
     </td>
    </tr>
