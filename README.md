@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/V462Lupi_Pon_1689.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/V462Lupi_Pon_960_annotated.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      If you know where to look, you can see a thermonuclear explosion from a white dwarf star.  Possibly two.   Such explosions are known as
+      <a href="https://science.nasa.gov/universe/whats-a-nova-inside-the-chaos-of-erupting-and-exploding-stars/">
+       novas
+      </a>
+      and the detonations  are currently faintly visible with the unaided eye in
+      <a href="https://en.wikipedia.org/wiki/Southern_Hemisphere">
+       Earth's southern hemisphere
+      </a>
+      -- but are more easily seen with binoculars.
+      <a href="https://www.facebook.com/photo?fbid=1300777402055129&amp;set=a.596070423868752">
+       Pictured
+      </a>
+      , Nova Lupi 2025 (V462 Lupi) was captured  toward the southern constellation of the Wolf  (
+      <a href="https://en.wikipedia.org/wiki/Lupus_(constellation)">
+       Lupus
+      </a>
+      )  last week near the central plane of our Milky Way galaxy.
+      <a href="https://en.wikipedia.org/wiki/V462_Lupi">
+       Nova Lupi 2025
+      </a>
+      was originally discovered on June 12 and peaked in brightness about a week later.  Similarly,
+      <a href="https://en.wikipedia.org/wiki/V572_Velorum">
+       Nova Velorum 2025
+      </a>
+      ,  toward the southern constellation of the Ship Sails  (
+      <a href="https://en.wikipedia.org/wiki/Vela_(constellation)">
+       Vela
+      </a>
+      ),  was discovered on June 25 and peaked a few days later.   A
+      <a href="ap240430.html">
+       nova
+      </a>
+      somewhere in our Galaxy  becomes briefly visible to the unaided eye only every year or two,  so it is quite unusual to have
+      <a href="https://spaceweather.com/archive.php?view=1&amp;day=30&amp;month=06&amp;year=2025">
+       two novas visible
+      </a>
+      simultaneously.   Meanwhile,
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fb1321qw5yzr61.jpg">
+       humanity awaits
+      </a>
+      even a different nova:
+      <a href="https://svs.gsfc.nasa.gov/20393/">
+       T Coronae Borealis
+      </a>
+      ,  which should become visible in northern skies and is expected to become even brighter.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/02
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250702.html">
+      https://apod.nasa.gov/apod/ap250702.html
      </a>
     </td>
    </tr>
