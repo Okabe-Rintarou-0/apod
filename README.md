@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/N6946N6939pisabarro.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/N6946N6939pisabarro1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Face-on spiral galaxy NGC 6946 and open star cluster NGC 6939 share
+      <a href="https://www.loscoloresinvisibles.com/galeria?pgid=jze435g7-3da3d0a5-12a2-492f-ac8e-9aad9c85c01d">
+       this cosmic snapshot,
+      </a>
+      composed with over 68 hours of image data captured with a small telescope on planet Earth.  The field of view spans spans about 1 degree or 2 full moons on the sky toward the northern constellation
+      <a href="http://www.hawastsoc.org/deepsky/cep/">
+       Cepheus
+      </a>
+      .  Seen through faint interstellar dust couds near the plane of our Milky Way galaxy, the stars of
+      <a href="https://ui.adsabs.harvard.edu/abs/2022AJ....163..191K/abstract">
+       open cluster NGC 6939
+      </a>
+      are 5,600 light-years in the distance, near bottom right in the frame.  Face-on spiral
+      <a href="ap240726.html">
+       galaxy NGC 6946
+      </a>
+      is at top left, but lies some 22 million light-years away.  In the last 100 years, 10 supernovae have been discovered
+      <a href="https://rochesterastronomy.org/sn2017/sn2017eaw.html">
+       in NGC 6946
+      </a>
+      , the latest one seen
+      <a href="https://skyandtelescope.org/astronomy-news/observing-news/possible-bright-supernova-discovered-in-fireworks-galaxy-ngc-6946/">
+       in 2017
+      </a>
+      .  By comparison, the average rate of supernovae in our Milky Way is about 1
+      <a href="https://www.nasa.gov/mission_pages/chandra/ trigger-for-milky-way-s-youngest-supernova-identified.html">
+       every 100 years or so
+      </a>
+      .  Of course, NGC 6946 is also known as
+      <a href="https://www.nasa.gov/mission_pages/chandra/multimedia/fireworks-galaxy-ngc6946.html">
+       The Fireworks Galaxy
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/03
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250703.html">
+      https://apod.nasa.gov/apod/ap250703.html
      </a>
     </td>
    </tr>
