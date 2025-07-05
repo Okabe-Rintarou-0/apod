@@ -5,6 +5,77 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/Ou4_difusco.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/Ou4_difusco1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://app.astrobin.com/i/hmtykv">
+       Difficult to capture
+      </a>
+      , this mysterious, squid-shaped interstellar cloud spans nearly three full moons in planet Earth's sky.
+      <a href="https://ui.adsabs.harvard.edu/abs/2012RMxAA..48..223A/abstract">
+       Discovered in 2011 by
+      </a>
+      French astro-imager
+      <a href="http://outters.fr/wp/?page_id=50">
+       Nicolas Outters
+      </a>
+      , the Squid Nebula's
+      <a href="ap230416.html">
+       bipolar shape
+      </a>
+      is distinguished  here by the telltale blue
+      <a href="https://en.wikipedia.org/wiki/Nebulium">
+       emission from
+      </a>
+      doubly ionized oxygen atoms.  Though apparently
+      <a href="ap230817.html">
+       surrounded by
+      </a>
+      the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine.  Still, one
+      <a href="https://ui.adsabs.harvard.edu/abs/2014A%26A...570A.105C/abstract">
+       investigation
+      </a>
+      suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away.  Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a
+      <a href="http://www.atlasoftheuniverse.com/orbits.html">
+       triple system
+      </a>
+      of hot, massive stars, cataloged as
+      <a href="https://in-the-sky.org/data/object.php?id=TYC3965-880-1#google_vignette">
+       HR8119
+      </a>
+      , seen near the center of the nebula.  If so, this truly giant squid nebula would physically be over 50
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-year
+      </a>
+      s across.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/04
   </summary>
   <table>
@@ -18,8 +89,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250704.html">
+      https://apod.nasa.gov/apod/ap250704.html
      </a>
     </td>
    </tr>
