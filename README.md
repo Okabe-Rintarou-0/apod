@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why is there a spiral around the North Pole of Mars?   Each winter
+      <a href="ap981216.html">
+       this pole
+      </a>
+      develops a new outer layer about one meter thick composed of
+      <a href="https://science.nasa.gov/resource/dry-ice-on-mars/">
+       carbon dioxide frozen
+      </a>
+      out of the thin Martian atmosphere.   This
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fafter-weeks-of-introduction-my-two-cats-are-sleeping-just-a-v0-dmmx64eawrgc1.jpeg%3Fwidth%3D4032%26format%3Dpjpg%26auto%3Dwebp%26s%3D0daba0c545383f1db06d3eec762ec9ba42cc8caa">
+       fresh layer
+      </a>
+      is deposited on a water-ice layer that exists year round.   Strong
+      <a href="https://en.wikipedia.org/wiki/Katabatic_wind">
+       winds blow down
+      </a>
+      from above the cap's center and swirl due to the spin of
+      <a href="https://science.nasa.gov/mars/">
+       the red planet
+      </a>
+      --  contributing to
+      <a href="https://en.wikipedia.org/wiki/Planum_Boreum">
+       Planum Boreum
+      </a>
+      's spiral structure.   The
+      <a href="http://www.esa.int/spaceinimages/Images/2017/02/Perspective_view_of_Mars_north_polar_ice_cap">
+       featured image
+      </a>
+      is a perspective mosaic  generated in 2017 from numerous images taken by ESA's
+      <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_Express_science_highlights">
+       Mars Express
+      </a>
+      and elevations extracted from the
+      <a href="https://ilrs.gsfc.nasa.gov/lw16/docs/presentations/sci_6_Smith.pdf">
+       laser altimeter
+      </a>
+      aboard NASA's
+      <a href="https://science.nasa.gov/mission/mars-global-surveyor/">
+       Mars Global Surveyor
+      </a>
+      mission.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/05
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250705.html">
+      https://apod.nasa.gov/apod/ap250705.html
      </a>
     </td>
    </tr>
