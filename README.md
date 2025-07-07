@@ -5,6 +5,97 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/Interstellar3I_nasa_2913.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/Interstellar3I_nasa_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It came from outer space.   An object from outside
+      <a href="https://science.nasa.gov/solar-system/">
+       our Solar System
+      </a>
+      is now passing through at high speed.  Classified as a comet because of its gaseous coma,
+      <a href="https://en.wikipedia.org/wiki/3I/ATLAS">
+       3I/ATLAS
+      </a>
+      is
+      <a href="ap171122.html">
+       only
+      </a>
+      <a href="ap191018.html">
+       the
+      </a>
+      third identified  macroscopic object as being
+      <a href="https://www.swri.org/newsroom/press-releases/ibex-spacecraft-measures-alien-particles-outside-solar-system-reveals-interactions-surrounding-regions">
+       so alien
+      </a>
+      .  The comet's trajectory is shown in white on the
+      <a href="https://commons.wikimedia.org/wiki/File:3I-ATLAS_trajectory_Jul_2025.jpg">
+       featured map
+      </a>
+      , where the orbits of
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      ,
+      <a href="ap240909.html">
+       Mars
+      </a>
+      , and
+      <a href="ap130331.html">
+       Earth
+      </a>
+      are shown in gold, red, and blue.  Currently
+      <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_tracks_rare_interstellar_comet">
+       Comet 3I/ATLAS
+      </a>
+      is about the distance of Jupiter from the Sun --  but closing, with its closest approach to our Sun  expected to be within the orbit of
+      <a href="https://science.nasa.gov/mars/">
+       Mars
+      </a>
+      in late October.  Expected to pass near both Mars and Jupiter,
+      <a href="https://science.nasa.gov/solar-system/comets/3i-atlas/">
+       3I/ATLAS
+      </a>
+      is not expected to pass close to the Earth.   The origin of Comet 3I/ATLAS
+      <a href="https://cdn.pixabay.com/photo/2019/09/04/08/24/cat-4451003_1280.jpg">
+       remains unknown
+      </a>
+      .  Although initial activity indicates a
+      <a href="ap250128.html">
+       relatively normal comet
+      </a>
+      ,  future observations about
+      <a href="https://youtu.be/-vzafaw0t08">
+       3I/ATLAS
+      </a>
+      '  composition and nature will surely continue.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/06
   </summary>
   <table>
@@ -18,8 +109,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250706.html">
+      https://apod.nasa.gov/apod/ap250706.html
      </a>
     </td>
    </tr>
