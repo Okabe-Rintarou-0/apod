@@ -5,6 +5,89 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_2560.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      If you have looked at the sky and seen a group of  stars about the size of the full Moon, that's the
+      <a href="ap241209.html">
+       Pleiades (M45)
+      </a>
+      .  Perhaps the most famous
+      <a href="https://science.nasa.gov/universe/star-clusters-inside-the-universes-stellar-collections/">
+       star cluster
+      </a>
+      in the sky, its brightest stars can be seen even from the
+      <a href="ap200408.html">
+       light-polluted cities
+      </a>
+      .  But your unaided eye can also see its nebulosity --  the gas and dust surrounding it --
+      <a href="ap230308.html">
+       under dark skies
+      </a>
+      .  However, telescopes can catch even more.  The bright blue stars of the Pleiades, also known as the
+      <a href="https://en.wikipedia.org/wiki/Pleiades#Origin_of_name">
+       Seven Sisters
+      </a>
+      , light up their surrounding dust,  causing it to appear a diffuse blue that can only be seen under long exposures.  But that's not all.  The
+      <a href="https://herscheltelescope.org.uk/science/infrared/dust/">
+       cosmic dust
+      </a>
+      appears to stretch upward like
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Four-cat-lies-like-this-on-us-with-her-arms-stretched-out-v0-b7rxaush7vub1.jpeg%3Fwidth%3D4032%26format%3Dpjpg%26auto%3Dwebp%26s%3D5cfd7f613fb481e89a980efa704e7fca9382f83a">
+       ethereal arms
+      </a>
+      .  And the entire structure is surrounded by a
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       reddish glow
+      </a>
+      from the most abundant
+      <a href="ap230108.html">
+       element
+      </a>
+      in the universe: hydrogen.  The
+      <a href="https://www.astrobin.com/zcwwdj/">
+       featured image
+      </a>
+      is composed of nearly 25 hours of exposure  and was captured last year from
+      <a href="https://starfront.space/">
+       Starfront Observatory
+      </a>
+      , in
+      <a href="https://en.wikipedia.org/wiki/Texas">
+       Texas
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/07
   </summary>
   <table>
@@ -18,8 +101,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250707.html">
+      https://apod.nasa.gov/apod/ap250707.html
      </a>
     </td>
    </tr>
