@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/Trifid2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/Trifid1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.flickr.com/photos/astrobares/53936303451/in/album-72177720319791096">
+       The beautiful Trifid Nebula
+      </a>
+      is a cosmic study in contrasts.
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-20/">
+       Also known as M20
+      </a>
+      , it lies about 5,000 light-years away toward the
+      <a href="ap250625.html">
+       nebula rich
+      </a>
+      constellation Sagittarius.  A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red
+      <a href="ap080424.html">
+       emission nebulae
+      </a>
+      dominated by light from hydrogen atoms, blue
+      <a href="ap090521.html">
+       reflection nebulae
+      </a>
+      produced by dust reflecting starlight, and
+      <a href="ap090522.html">
+       dark nebulae
+      </a>
+      where dense dust clouds appear in silhouette.  But, the red emission region roughly separated into three parts by obscuring dust lanes is what lends the Trifid its
+      <a href="http://en.wikipedia.org/wiki/Trifid_Nebula">
+       popular name
+      </a>
+      .  Pillars and jets sculpted by newborn stars, above and right of the emission nebula's center, appear in famous Hubble Space Telescope
+      <a href="https://hubblesite.org/contents/media/images/1999/42/915-Image.html">
+       close-up images
+      </a>
+      of the region.  The Trifid Nebula is about 40 light-years across.  Too faint to be seen by the unaided eye, in this deep telescopic view it almost covers the area of a full moon on planet Earth's sky.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/08
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250708.html">
+      https://apod.nasa.gov/apod/ap250708.html
      </a>
     </td>
    </tr>
