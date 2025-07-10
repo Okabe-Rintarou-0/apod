@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/LDN1251gualco2048.JPG">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/LDN1251gualco1024.JPG"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Stars are forming in Lynds Dark Nebula (
+      <a href="http://adsabs.harvard.edu/abs/1962ApJS....7....1L">
+       LDN
+      </a>
+      ) 1251.  About 1,000 light-years away and drifting above the plane of our Milky Way galaxy, LDN 1251 is also less appetizingly known as "The Rotten Fish Nebula."  The dusty molecular cloud is part of a complex of dark nebulae mapped toward the
+      <a href="https://arxiv.org/abs/0809.4761">
+       Cepheus flare
+      </a>
+      region.
+      <a href="https://arxiv.org/abs/1503.02934">
+       Across the spectrum
+      </a>
+      , astronomical explorations of the obscuring interstellar clouds reveal energetic shocks and outflows associated with newborn stars, including the telltale reddish glow from scattered
+      <a href="https://www.nasa.gov/image-feature/awakening-newborn-stars">
+       Herbig-Haro
+      </a>
+      objects hiding in the image.  Distant background galaxies also lurk in the scene, almost buried behind the dusty expanse.  This
+      <a href="https://app.astrobin.com/u/CristianoGualco?i=qyrq8r#gallery">
+       alluring telescopic frame
+      </a>
+      spans almost three full moons on the sky.  That
+      <a href="https://chandra.harvard.edu/photo/scale_distance.html">
+       corresponds
+      </a>
+      to over 25 light-years at the estimated distance of LDN 1251.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/09
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250709.html">
+      https://apod.nasa.gov/apod/ap250709.html
      </a>
     </td>
    </tr>
