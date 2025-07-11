@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/NLCreflectionsHeden.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/NLCreflectionsHeden.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://vimeo.com/101077253">
+       Transfusing sunlight
+      </a>
+      as the sky grew darker, this exceptional display of noctilucent clouds was captured
+      <a href="https://twanight.org/gallery/reflections-of-noctilucent-clouds/">
+       on July 10
+      </a>
+      , reflected in the calm waters of Vallentuna Lake near Stockholm, Sweden.  From the edge of space, about 80 kilometers above Earth's surface, the
+      <a href="https://science.nasa.gov/get-involved/citizen-science/space-cloud-watch-needs-your-photos-of-night-shining-clouds/">
+       icy clouds themselves
+      </a>
+      still reflect sunlight, even though the Sun is below the horizon as seen from the ground.
+      <a href="https://earthobservatory.nasa.gov/IOTD/view.php?id=48892">
+       Usually spotted
+      </a>
+      at high latitudes in summer months, the night shining clouds have made a strong showing so far during the short northern summer nights.  Also known as polar mesopheric clouds they
+      <a href="http://science.nasa.gov/science-news/science-at-nasa/2013/23dec_antarctica/">
+       are understood to form
+      </a>
+      as water vapor driven into the cold upper atmosphere condenses on the fine dust particles supplied by disintegrating meteors or volcanic ash.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/10
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250710.html">
+      https://apod.nasa.gov/apod/ap250710.html
      </a>
     </td>
    </tr>
