@@ -5,6 +5,54 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/LUA_JULHO_25_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/LUA_JULHO_25_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      As the Sun set, a bright Full Moon rose on July 10.  Its golden light illuminates clouds drifting through southern hemisphere skies in this
+      <a href="https://www.instagram.com/alexsandromota805/p/DL8VjPIy8Ed/">
+       well-composed telephoto image
+      </a>
+      from Conceição do Coité, Bahia, Brazil.  The brightest
+      <a href="https://science.nasa.gov/moon/moon-phases/">
+       lunar phase
+      </a>
+      is captured here with both a short and long exposure.  The two exposures were combined to reveal details of the
+      <a href="https://moon.nasa.gov/moon-observation/daily-moon-guide/?intent=021">
+       lunar surface in bright moonlight
+      </a>
+      and a subtle iridescence along the dramatically backlit cloudscape.  Of course, July's Full Moon is a winter moon in the southern hemisphere.   But in the north it's
+      <a href="https://earthsky.org/astronomy-essentials/full-moon-names/">
+       known to some
+      </a>
+      as the Thunder Moon, likely a nod to the sounds of this northern summer month's typically stormy weather.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/11
   </summary>
   <table>
@@ -18,8 +66,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250711.html">
+      https://apod.nasa.gov/apod/ap250711.html
      </a>
     </td>
    </tr>
