@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why isn't this ant a big sphere?
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       Planetary nebula
+      </a>
+      Mz3 is being cast off by a star similar to our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      that is, surely, round.    Why then would the gas that is
+      <a href="https://www.youtube.com/watch?v=hKoB0MHVBvM">
+       streaming away
+      </a>
+      create an
+      <a href="https://en.wikipedia.org/wiki/Ant">
+       ant
+      </a>
+      -shaped nebula that is distinctly not round?
+      <a href="https://esahubble.org/news/heic0101/">
+       Clues might include
+      </a>
+      the high 1000-kilometer per second speed of the expelled gas, the
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light-year
+      </a>
+      long length of the structure, and the
+      <a href="https://pwg.gsfc.nasa.gov/Education/Imagnet.html">
+       magnetism
+      </a>
+      of the star
+      <a href="https://science.nasa.gov/missions/hubble/astro-entomology-ant-like-space-structure-previews-death-of-our-sun/">
+       featured here
+      </a>
+      at the nebula's center.    One possible answer is that
+      <a href="https://en.wikipedia.org/wiki/Mz_3">
+       Mz3
+      </a>
+      is hiding a second, dimmer star that
+      <a href="ap991219.html">
+       orbits close
+      </a>
+      in to the bright star.    A competing
+      <a href="https://ui.adsabs.harvard.edu/abs/2004AJ....128.1694G/abstract">
+       hypothesis holds
+      </a>
+      that the central star's own spin and
+      <a href="ap971106.html">
+       magnetic field
+      </a>
+      are channeling the gas.    Since the central star
+      <a href="https://en.wikipedia.org/wiki/Mz_3">
+       appears
+      </a>
+      to be so similar to our own Sun,
+      <a href="https://aas.org/careers/career-in-astronomy">
+       astronomers
+      </a>
+      hope that
+      <a href="https://64.media.tumblr.com/tumblr_m5hfctHc7i1rrgr1no1_1280.jpg">
+       increased understanding
+      </a>
+      of the history of  this giant space
+      <a href="https://www.youtube.com/watch?v=IGJ2jMZ-gaI">
+       ant
+      </a>
+      can provide useful insight into the likely future of our own
+      <a href="sun.html">
+       Sun
+      </a>
+      and
+      <a href="ap100713.html">
+       Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/12
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250712.html">
+      https://apod.nasa.gov/apod/ap250712.html
      </a>
     </td>
    </tr>
