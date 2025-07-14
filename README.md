@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What is going on with this galaxy?
+      <a href="https://en.wikipedia.org/wiki/NGC_2685">
+       NGC 2685 is
+      </a>
+      a confirmed polar ring galaxy - a rare
+      <a href="https://science.nasa.gov/universe/galaxies/types/">
+       type of galaxy
+      </a>
+      with stars, gas and dust orbiting in rings perpendicular to the plane of a flat galactic disk.  The
+      <a href="ap121110.html">
+       bizarre configuration
+      </a>
+      could be caused by the chance
+      <a href="ap190325.html">
+       capture of material
+      </a>
+      from another galaxy by a disk galaxy, with the captured debris strung out in a rotating ring.  Still, observed
+      <a href="https://ui.adsabs.harvard.edu/abs/2009A%26A...494..489J/abstract">
+       properties of NGC 2685
+      </a>
+      suggest that the rotating
+      <a href="https://mathinsight.org/applet/parametrized_helix">
+       helix
+      </a>
+      structure is remarkably old and stable.
+      <a href="https://www.astrobin.com/3a3kzg/B/">
+       In this sharp
+      </a>
+      view of the peculiar system also known as
+      <a href="http://nedwww.ipac.caltech.edu/level5/Arp/frames.html">
+       Arp
+      </a>
+      336 or the Helix galaxy, the strange, perpendicular rings are easy to trace as they pass in front of the galactic disk, along with other
+      <a href="https://www.meowingtons.com/cdn/shop/articles/Screen_Shot_2019-04-18_at_4.13.33_PM.png">
+       disturbed
+      </a>
+      outer structures.  NGC 2685 is about 50,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-year
+      </a>
+      s  across and 40 million light-years away in the constellation of the Great Bear  (
+      <a href="https://en.wikipedia.org/wiki/Ursa_Major">
+       Ursa Major
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/13
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250713.html">
+      https://apod.nasa.gov/apod/ap250713.html
      </a>
     </td>
    </tr>
