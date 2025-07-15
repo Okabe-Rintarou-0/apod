@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happened in Hebes Chasma on Mars?  Hebes Chasma is a depression just north of the enormous
+      <a href="ap241110.html">
+       Valles Marineris
+      </a>
+      canyon.   Since the depression is unconnected to other surface features, it is
+      <a href="http://1funny.com/wp-content/uploads/2011/02/confused-dog.jpg">
+       unclear where
+      </a>
+      the internal material went.  Inside
+      <a href="http://en.wikipedia.org/wiki/Hebes_Chasma">
+       Hebes Chasma
+      </a>
+      is
+      <a href="http://www.uahirise.org/ESP_016818_1785">
+       Hebes Mensa
+      </a>
+      ,  a 5 kilometer high mesa that appears to have undergone an unusual partial collapse --  a collapse that might be providing clues.  The
+      <a href="http://www.esa.int/spaceinimages/Images/2013/10/Hebes_Chasma_mesa">
+       featured image
+      </a>
+      , taken by ESA's robotic
+      <a href="http://en.wikipedia.org/wiki/Mars_Express">
+       Mars Express
+      </a>
+      spacecraft currently orbiting
+      <a href="https://science.nasa.gov/mars/">
+       Mars
+      </a>
+      ,  shows great details of the chasm and the unusual
+      <a href="ap170522.html">
+       horseshoe
+      </a>
+      shaped indentation in the central mesa.  Material from the mesa appears to have flowed onto the floor of
+      <a href="http://www.esa.int/spaceinvideos/Videos/2013/06/Fly-through_movie_of_Hebes_Chasma">
+       the chasm
+      </a>
+      ,  while a possible dark layer appears to have pooled like ink on a downslope landing.   One
+      <a href="http://geomorphology.sese.asu.edu/Papers/Adams_etal_hebes_chasma_salt_tectonics_geol.pdf">
+       hypothesis holds
+      </a>
+      that salty rock composes some lower layers in
+      <a href="https://www.google.com/mars/#lat=-1&amp;lon=-76&amp;zoom=8">
+       Hebes Chasma
+      </a>
+      ,  with the salt dissolving in melted ice flows that drained through holes into an underground
+      <a href="http://en.wikipedia.org/wiki/Aquafer">
+       aquifer
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/14
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250714.html">
+      https://apod.nasa.gov/apod/ap250714.html
      </a>
     </td>
    </tr>
