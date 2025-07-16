@@ -5,6 +5,137 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/Rosette_Decam_4000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/Rosette_Decam_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Would the
+      <a href="https://en.wikipedia.org/wiki/Rosette_Nebula">
+       Rosette Nebula
+      </a>
+      by any other
+      <a href="http://www.bartleby.com/100/138.28.22.html">
+       name
+      </a>
+      <i>
+       look
+      </i>
+      as sweet?  The bland
+      <a href="http://en.wikipedia.org/wiki/New_General_Catalogue">
+       New General Catalog
+      </a>
+      designation of
+      <a href="http://www.google.com/images?hl=en&amp;biw=1024&amp;bih=974&amp;gbv=2&amp;tbs=isch%3A1&amp;sa=1&amp;q=%2Bsite%3Aapod.nasa.gov+Rosette&amp;aq=f&amp;aqi=&amp;aql=&amp;oq=">
+       NGC 2237
+      </a>
+      doesn't appear to diminish the appearance of
+      <a href="https://noirlab.edu/public/images/noirlab2424a/">
+       this
+      </a>
+      flowery
+      <a href="emission_nebulae.html">
+       emission nebula
+      </a>
+      ,  as captured by the
+      <a href="https://noirlab.edu/public/programs/ctio/victor-blanco-4m-telescope/decam/">
+       Dark Energy Camera
+      </a>
+      (DECam) on the
+      <a href="https://noirlab.edu/public/programs/ctio/victor-blanco-4m-telescope/">
+       Blanco 4-meter telescope
+      </a>
+      at the
+      <a href="https://noirlab.edu/public/">
+       NSF
+      </a>
+      's
+      <a href="https://noirlab.edu/public/programs/ctio/">
+       Cerro Tololo Inter-American Observatory
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .   Inside the nebula lies an
+      <a href="open_clusters.html">
+       open cluster
+      </a>
+      of bright young stars designated
+      <a href="ap000822.html">
+       NGC 2244
+      </a>
+      .  These stars
+      <a href="https://ui.adsabs.harvard.edu/abs/1993ApJ...414..664K/abstract">
+       formed about four million years ago
+      </a>
+      from the nebular material and their
+      <a href="ap000318.html">
+       stellar winds
+      </a>
+      are
+      <a href="https://youtu.be/Cn2g_8n1AsM">
+       clearing a hole
+      </a>
+      in the nebula's center, insulated by a layer of
+      <a href="ap030706.html">
+       dust
+      </a>
+      and hot gas.
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       Ultraviolet light
+      </a>
+      from the hot cluster stars causes the surrounding nebula to
+      <a href="http://www.youtube.com/watch?v=0brmw8sP-Js">
+       glow
+      </a>
+      .  The
+      <a href="ap000111.html">
+       Rosette Nebula
+      </a>
+      spans about 100
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-years
+      </a>
+      across, lies
+      <a href="https://ui.adsabs.harvard.edu/abs/2000A%26A...358..553H/abstract">
+       about 5000 light-years away
+      </a>
+      , and can be seen with a small telescope towards the
+      <a href="https://spaceplace.nasa.gov/constellations/">
+       constellation
+      </a>
+      of the Unicorn (
+      <a href="http://chandra.harvard.edu/photo/constellations/monoceros.html">
+       Monoceros
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/15
   </summary>
   <table>
@@ -18,8 +149,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250715.html">
+      https://apod.nasa.gov/apod/ap250715.html
      </a>
     </td>
    </tr>
