@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/noirlab2522a_3i.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/noirlab2522a_3i1056.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/blogs/planetary-defense/2025/07/02/nasa-discovers-interstellar-comet-moving-through-solar-system/">
+       Discovered on July 1
+      </a>
+      with the NASA-funded ATLAS (Asteroid Terrestrial-impact Last Alert, System) survey telescope in Rio Hurtado, Chile, 3I/ATLAS is so designated as the third known interstellar object to pass through our Solar System  It follows
+      <a href="ap171122.html">
+       1I/ʻOumuamua
+      </a>
+      in 2017 and the comet
+      <a href="ap191214.html">
+       2I/Borisov
+      </a>
+      in 2019.   Also known as
+      <a href="https://minorplanetcenter.net/mpec/K25/K25N12.html">
+       C/2025 N1
+      </a>
+      , 3I/ATLAS is clearly a comet, its diffuse cometary coma, a cloud of gas and dust surrounding an icy nucleus, is easily seen in these images from the large
+      <a href="https://noirlab.edu/public/news/noirlab2522/">
+       Gemini North telescope on Maunakea, Hawai‘i
+      </a>
+      .  The left panel tracks the comet as it moves across the sky against fixed background stars in successive exposures.  Three different filters were used, shown in red, green, and blue.  In the right panel the multiple exposures are registered and combined to form a single image of the comet.  The comet's interstellar origin is also
+      <a href="ap250707.html">
+       clear from its orbit
+      </a>
+      , determined to be an eccentric, highly hyperbolic orbit that does not loop back around the Sun and will return
+      <a href="https://en.wikipedia.org/wiki/3I/ATLAS">
+       3I/ATLAS
+      </a>
+      to interstellar space.  Not a threat to
+      <a href="https://science.nasa.gov/planetary-defense/">
+       planet Earth
+      </a>
+      , the inbound interstellar interloper is now within the Jupiter's orbital distance of the Sun, while its closest approach to the Sun will bring it just within the orbital distance of Mars.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/16
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250716.html">
+      https://apod.nasa.gov/apod/ap250716.html
      </a>
     </td>
    </tr>
