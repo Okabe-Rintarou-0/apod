@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-july-2025-skywatching-tips-from-nasa/">
+       This month
+      </a>
+      , bright planet Saturn rises in evening skies, its rings oriented nearly edge-on when viewed from planet Earth.  And in the early morning hours on July 6, it posed very briefly with the
+      <a href="https://www.nasa.gov/spot-the-station/">
+       International Space Station
+      </a>
+      when viewed from a location in Federal Way, Washington, USA.  This well-planned image, a stack of video frames, captures their momentary conjunction in the same telescopic field of view.  With the ISS in
+      <a href="https://www.nasa.gov/missions/station/iss-research/observing-our-planet-from-low-earth-orbit/">
+       low Earth orbit
+      </a>
+      , space station and gas giant planet were separated by almost 1.4 billion kilometers.  Their apparent sizes are comparable but the
+      <a href="image/2507/ISSMeetsSaturn4.jpg">
+       ISS was much brighter
+      </a>
+      than Saturn and the ringed planet's brightness has been
+      <a href="image/2507/ISSMeetsSaturn1_1024.jpg">
+       increased for visibility
+      </a>
+      <a>
+       in the stacked image.  Precise timing and an exact location were needed to
+      </a>
+      <a href="https://www.instagram.com/p/DLxajHXRI6w/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA%3D%3D&amp;img_index=1">
+       capture the ISS/Saturn conjunction.
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/17
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250717.html">
+      https://apod.nasa.gov/apod/ap250717.html
      </a>
     </td>
    </tr>
