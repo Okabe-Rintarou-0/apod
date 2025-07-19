@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/M6.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/M6_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The sixth object in
+      <a href="https://science.nasa.gov/people/explore-the-night-sky-hubbleatms-messier-catalog-bio/">
+       Charles Messier's
+      </a>
+      famous catalog of things which are not comets, Messier 6 is a galactic or
+      <a href="https://earthsky.org/clusters-nebulae-galaxies/m6-and-m7-deep-sky-gems-by-scorpius-tail/">
+       open star cluster
+      </a>
+      .  A gathering of 100 stars or so, all around 100 million years young, M6 lies some 1,600 light-years away toward the central Milky Way
+      <a href="https://science.nasa.gov/image-detail/skychart-scorpiusm6m7-july-2024/">
+       in the constellation Scorpius
+      </a>
+      .  Also cataloged as NGC 6405, the pretty star cluster's outline suggests its popular moniker, the
+      <a href="https://en.wikipedia.org/wiki/Butterfly_Cluster">
+       Butterfly Cluster
+      </a>
+      .  Surrounded by diffuse reddish emission from the region's hydrogen gas the cluster's mostly hot and
+      <a href="ap110211.html">
+       therefore
+      </a>
+      blue stars are near the center of this colorful cosmic snapshot.  But the brightest cluster member is a cool K-type giant star.  Designated
+      <a href="https://en.wikipedia.org/wiki/BM_Scorpii">
+       BM Scorpii
+      </a>
+      it shines with a yellow-orange hue, seen near the end of one of the butterfly's antennae.
+      <a href="https://app.astrobin.com/i/7472xp">
+       This telescopic field of view
+      </a>
+      spans nearly 2 Full Moons on the sky.  That's 25 light-years at the estimated distance of Messier 6.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/18
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250718.html">
+      https://apod.nasa.gov/apod/ap250718.html
      </a>
     </td>
    </tr>
