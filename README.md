@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/1103/lroc_wac_nearside.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/lroc_wac_nearside800.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      About 1,300 images from the Lunar Reconnaissance Orbiter spacecraft's wide angle camera were used to compose this spectacular view of a familiar face -
+      <a href="https://lroc.im-ldi.com/images/293">
+       the lunar nearside
+      </a>
+      .  But why is there a lunar nearside?  The Moon rotates on its axis and
+      <a href="http://en.wikipedia.org/wiki/Orbit_of_the_Moon">
+       orbits the Earth
+      </a>
+      at the same rate, about once every 28 days.
+      <a href="https://en.wikipedia.org/wiki/Tidal_locking">
+       Tidally locked
+      </a>
+      in this configuration, the
+      <a href="https://svs.gsfc.nasa.gov/4709">
+       synchronous rotation
+      </a>
+      always keeps one side, the nearside,
+      <a href="https://www.planetary.org/articles/the-two-faced-moon">
+       facing Earth
+      </a>
+      .  As a result, featured in remarkable detail in the
+      <a href="https://lroc.im-ldi.com/visit/exhibits/1/gallery/17">
+       full resolution mosaic
+      </a>
+      , the
+      <a href="ap080208.html">
+       smooth, dark
+      </a>
+      , lunar maria (actually lava-flooded impact basins), and rugged highlands, are well-known to earthbound skygazers.  To find your favorite mare or large crater, just
+      <a href="image/2507/lroc_wac_nearside800lab.jpg">
+       follow this link
+      </a>
+      or slide your cursor over the picture.  The LRO images used to construct the mosaic were recorded over a two week period in December 2010.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/19
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250719.html">
+      https://apod.nasa.gov/apod/ap250719.html
      </a>
     </td>
    </tr>
