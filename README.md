@@ -5,6 +5,109 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_1822.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Nebulas are perhaps as famous for being identified  with familiar shapes as perhaps
+      <a href="https://en.wikipedia.org/wiki/Human_interaction_with_cats">
+       cats
+      </a>
+      are for getting into
+      <a href="http://3.bp.blogspot.com/-1RxV7LEt7oY/Uzhk_V5RR7I/AAAAAAAAAOw/4FF6ICSxbmI/s1600/cat+tp.jpeg">
+       trouble
+      </a>
+      .    Still, no known cat could have created the vast
+      <a href="https://en.wikipedia.org/wiki/NGC_6334">
+       Cat's Paw
+      </a>
+      Nebula
+      <a href="https://youtu.be/pERNACvXRRw">
+       visible toward
+      </a>
+      the constellation of the Scorpion   (
+      <a href="ap140504.html">
+       Scorpius
+      </a>
+      ).    At 5,700
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light years
+      </a>
+      distant, Cat's
+      <a href="http://en.wikipedia.org/wiki/Paw">
+       Paw
+      </a>
+      is an
+      <a href="http://astronomy.swin.edu.au/cosmos/E/Emission+Nebula">
+       emission nebula
+      </a>
+      within a larger molecular cloud.   Alternatively known as the
+      <a href="https://thumbs.dreamstime.com/z/bear-paw-print-black-preserved-dried-cracked-mud-surface-83711648.jpg">
+       Bear Claw
+      </a>
+      Nebula and cataloged as
+      <a href="http://en.wikipedia.org/wiki/NGC_6334">
+       NGC 6334
+      </a>
+      ,  stars nearly ten times the mass of our
+      <a href="https://www.nasa.gov/sun">
+       Sun
+      </a>
+      have been born  there in only the past few million years.  Pictured
+      <a href="https://youtu.be/_QvlRH-q0nw">
+       here
+      </a>
+      is a recently released image of the Cat's Paw taken in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared light
+      </a>
+      by the
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      .   This
+      <a href="https://webbtelescope.org/contents/media/images/2025/129/01JY2AEHHAE4057AGG56YHW1CQ">
+       newly detailed view
+      </a>
+      into
+      <a href="https://webbtelescope.org/contents/news-releases/2025/news-2025-129">
+       the nebula
+      </a>
+      helps provide insight for how
+      <a href="https://www.giss.nasa.gov/research/briefs/archive/1998_canuto_01/">
+       turbulent
+      </a>
+      <a href="ap230129.html">
+       molecular cloud
+      </a>
+      s turn gas into stars.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/20
   </summary>
   <table>
@@ -18,8 +121,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250720.html">
+      https://apod.nasa.gov/apod/ap250720.html
      </a>
     </td>
    </tr>
