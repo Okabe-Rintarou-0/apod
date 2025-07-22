@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Can some supernovas explode twice?  Yes, when the first explosion acts like a
+      <a href="https://en.wikipedia.org/wiki/Detonator">
+       detonator
+      </a>
+      for the second.  This is a leading hypothesis for the cause of supernova remnant (SNR)
+      <a href="https://www.eso.org/public/videos/eso2511b/">
+       0509-67.5
+      </a>
+      .   In this
+      <a href="ap970219.html">
+       two-star system
+      </a>
+      ,  gravity causes the larger and fluffier star to
+      <a href="https://en.wikipedia.org/wiki/Roche_lobe">
+       give up mass
+      </a>
+      to a smaller and denser
+      <a href="https://science.nasa.gov/universe/stars/types/#white-dwarfs">
+       white dwarf
+      </a>
+      companion.  Eventually the
+      <a href="ap950910.html">
+       white dwarf
+      </a>
+      's near-surface temperature goes so high that it explodes, creating a shock wave that goes
+      <a href="https://www.eso.org/public/videos/eso2511c/">
+       both out and in
+      </a>
+      -- and so triggers a full
+      <a href="https://en.wikipedia.org/wiki/Type_Ia_supernova">
+       Type Ia
+      </a>
+      supernova near the center.  Recent images of the SNR 0509-67.5 system, like the
+      <a href="https://www.eso.org/public/images/eso2511a/">
+       featured image
+      </a>
+      from the
+      <a href="https://www.eso.org/public/teles-instr/paranal-observatory/vlt/">
+       Very Large Telescope
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      ,  show two shells with radii and compositions consistent with the
+      <a href="https://ui.adsabs.harvard.edu/abs/2025NatAs.tmp..135D/abstract">
+       double detonation hypothesis
+      </a>
+      .  This system,
+      <a href="https://en.wikipedia.org/wiki/SNR_0509-67.5">
+       SNR 0509-67.5
+      </a>
+      is also famous for
+      <a href="https://www.shutterstock.com/image-photo/funny-duo-two-black-white-600nw-1209024034.jpg">
+       two standing mysteries
+      </a>
+      :  why its
+      <a href="ap110125.html">
+       bright supernova
+      </a>
+      wasn't noted 400 years ago, and
+      <a href="ap120112.html">
+       why no visible companion
+      </a>
+      star remains.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/21
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250721.html">
+      https://apod.nasa.gov/apod/ap250721.html
      </a>
     </td>
    </tr>
