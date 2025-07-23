@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/MeteorMilkyWay_Rice_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/MeteorMilkyWay_Rice_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Have you ever seen a fireball?   In astronomy, a
+      <a href="https://www.amsmeteors.org/fireballs/faqf/">
+       fireball
+      </a>
+      is a very bright
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/">
+       meteor
+      </a>
+      -- one at least as bright as
+      <a href="ap230306.html">
+       Venus
+      </a>
+      and possibly brighter than even a  full
+      <a href="https://svs.gsfc.nasa.gov/5415/">
+       Moon
+      </a>
+      .
+      <a href="ap230916.html">
+       Fireball
+      </a>
+      s are rare --  if you see one you are likely to
+      <a href="https://www.shutterstock.com/image-photo/close-scottish-fold-cat-head-600nw-1276621966.jpg">
+       remember it
+      </a>
+      for your whole life.   Physically, a
+      <a href="ap211012.html">
+       fireball
+      </a>
+      is a small rock that
+      <a href="ap231126.html">
+       originated
+      </a>
+      from an
+      <a href="https://science.nasa.gov/solar-system/asteroids/">
+       asteroid
+      </a>
+      or
+      <a href="https://en.wikipedia.org/wiki/Comet_nucleus">
+       comet
+      </a>
+      that typically leaves a fading smoke
+      <a href="ap190430.html">
+       trail
+      </a>
+      of gas and dust as it  shoots through the
+      <a href="https://spaceplace.nasa.gov/atmosphere/">
+       Earth's atmosphere
+      </a>
+      .   It is unlikely that any single large ground strike occurred -- much of the rock likely vaporized as it broke up into many small pieces.  The
+      <a href="https://www.instagram.com/p/DLa5D4sxVag/">
+       featured picture
+      </a>
+      was
+      <a href="https://www.instagram.com/p/DLaPqFTRiAx/">
+       captured
+      </a>
+      last week from a deadwood beach in
+      <a href="https://www.youtube.com/watch?v=LCQhTcFGiSE">
+       Cape San Blas
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Florida">
+       Florida
+      </a>
+      ,
+      <a href="https://www.cia.gov/the-world-factbook/countries/united-states/">
+       USA
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/22
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250722.html">
+      https://apod.nasa.gov/apod/ap250722.html
      </a>
     </td>
    </tr>
