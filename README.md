@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1200.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap090319.html">
+       Every 15 years or so
+      </a>
+      , Saturn's rings are tilted edge-on to our line of sight.  As the bright, beautiful ring system grows narrower and fainter it becomes increasingly difficult to see for denizens of
+      <a href="ap241123.html">
+       planet Earth
+      </a>
+      .  But it does provide the opportunity to watch transits of Saturn's moons and their dark shadows across the ringed gas giant's still bright disk.  Of course Saturn's largest
+      <a href="https://science.nasa.gov/saturn/moons/titan/">
+       moon Titan
+      </a>
+      is the easiest to spot in transit.  In this telescopic snapshot from July 18,
+      <a href="https://science.nasa.gov/missions/webb/webbs-titan-forecast-partly-cloudy-with-occasional-methane-showers/">
+       Titan itself
+      </a>
+      is at the upper left, casting a round dark shadow on Saturn's banded
+      <a href="ap170916.html">
+       cloudtops
+      </a>
+      above the narrow rings.  In fact
+      <a href="https://skyandtelescope.org/astronomy-news/observing-news/titan-shadow-transit-season-underway/">
+       Titan's transit season
+      </a>
+      is in full swing now with shadow transits every 16 days corresponding to the moon's orbital period.  Its final shadow transit will be on October 6, though Titan's pale disk will continue to cross in front of Saturn as seen from telescopes on planet Earth every 16 days through January 25, 2026.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/23
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250723.html">
+      https://apod.nasa.gov/apod/ap250723.html
      </a>
     </td>
    </tr>
