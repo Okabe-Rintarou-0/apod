@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1500px.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1024px.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Meteors from the
+      <a href="https://en.wikipedia.org/wiki/Kappa_Cygnids">
+       Kappa Cygnid
+      </a>
+      meteor shower are captured in this time-lapse composite skyscape.  The minor meteor shower, with a
+      <a href="https://en.wikipedia.org/wiki/Radiant_(meteor_shower)">
+       radiant
+      </a>
+      not far from its eponymous star Kappa Cygni, peaks in mid-August, almost at the same time as the much better-known and better-observed Perseid meteor shower.  But, seen to have a peak rate of only about 3 meteors per hour, Kappa Cygnids are vastly outnumbered by the more popular, prolific
+      <a href="ap230809.html">
+       Perseid shower's
+      </a>
+      meteors that emanate from the heroic constellation Perseus.  To capture dozens of Kappa Cygnids, this long term astro-imaging project compiled meteors in exposures selected from over 51 August nights during the years 2012 through 2024.  Most of the exposures with
+      <a href="https://ui.adsabs.harvard.edu/abs/2025A%26A...695A..83B/abstract">
+       identified Kappa Cygnid meteors
+      </a>
+      were made in August 2021, a high point of the shower's known 7-year activity cycle.
+      <a href="https://www.petrhoralek.com/?p=25643">
+       All twelve years worth of Kappa Cygnids
+      </a>
+      are registered against a base sea and night skyscape of the Milky Way above Elafonisi Beach, Crete, Greece, also recorded in August of 2021.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/24
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250724.html">
+      https://apod.nasa.gov/apod/ap250724.html
      </a>
     </td>
    </tr>
