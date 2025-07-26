@@ -5,6 +5,73 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/oc_ls_2025.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/oc_ls_2025_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Globular star cluster
+      <a href="https://earthsky.org/clusters-nebulae-galaxies/omega-centauri-milky-ways-prize-star-cluster">
+       Omega Centauri
+      </a>
+      <a href="ap080906.html">
+       packs
+      </a>
+      about 10 million stars much older than the Sun into a volume some 150 light-years in diameter.  Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known
+      <a href="http://en.wikipedia.org/wiki/Globular_clusters">
+       globular clusters
+      </a>
+      that roam the halo of our Milky Way galaxy.  Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of
+      <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...653L...8L/abstract">
+       different
+      </a>
+      stellar populations with a spread of ages and chemical abundances.  In fact,
+      <a href="https://esahubble.org/news/heic0809/">
+       Omega Cen may be
+      </a>
+      the
+      <a href="https://ui.adsabs.harvard.edu/abs/2019NatAs...3..667I/abstract">
+       remnant
+      </a>
+      core of a small galaxy merging with the Milky Way.  With a
+      <a href="ap151224.html">
+       yellowish hue
+      </a>
+      , Omega Centauri's red giant stars are easy to pick out in this
+      <a href="https://app.astrobin.com/i/7na4mz">
+       sharp telescopic view
+      </a>
+      .    A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the
+      <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-strong-evidence-for-intermediate-mass-black-hole-in-omega-centauri/">
+       center of Omega Centauri
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/25
   </summary>
   <table>
@@ -18,8 +85,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250725.html">
+      https://apod.nasa.gov/apod/ap250725.html
      </a>
     </td>
    </tr>
