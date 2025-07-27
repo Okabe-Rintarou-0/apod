@@ -5,6 +5,115 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Have you ever watched a lightning storm in awe?    You're not alone.  Details of what causes
+      <a href="https://en.wikipedia.org/wiki/Lightning">
+       lightning
+      </a>
+      are still
+      <a href="https://www.earthdata.nasa.gov/topics/atmosphere/lightning/history">
+       being researched
+      </a>
+      , but it is known that  inside some clouds, internal updrafts cause collisions  between ice and
+      <a href="ap240121.html">
+       snow
+      </a>
+      that slowly
+      <a href="https://ntrs.nasa.gov/citations/19880001070">
+       separate charges
+      </a>
+      between cloud tops and bottoms.  The
+      <a href="ap210104.html">
+       rapid
+      </a>
+      electrical discharges that are
+      <a href="https://ghrc.nsstc.nasa.gov/lightning/">
+       lightning
+      </a>
+      soon result.
+      <a href="http://www.youtube.com/watch?v=Sn65RFvJKnk">
+       Lightning
+      </a>
+      usually takes a jagged course,
+      <a href="http://en.wikipedia.org/wiki/Fulgurite">
+       rapidly heating
+      </a>
+      a thin column of air to about three times the surface temperature of the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      .    The resulting
+      <a href="ap240104.html">
+       shock
+      </a>
+      wave starts
+      <a href="ap070819.html">
+       supersonically
+      </a>
+      and decays into the
+      <a href="https://ih1.redbubble.net/image.4790337142.9753/flat,750x,075,f-pad,750x1000,f8f8f8.jpg">
+       loud
+      </a>
+      <a href="ap100427.html">
+       sound
+      </a>
+      known as
+      <a href="https://spinoff.nasa.gov/Spinoff2005/ch_5.html">
+       thunder
+      </a>
+      .    On average, around the world, about
+      <a href="https://www.lightningmaps.org/?lang=en#m=oss;t=3;s=0;o=0;b=;ts=0;">
+       6,000 lightning bolts
+      </a>
+      occur between clouds and the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      every minute.
+      <a href="https://www.youtube.com/watch?v=Z2zjDdS3NzQ">
+       Pictured in July 2019
+      </a>
+      in a two-image composite,  lightning stems from communication antennas near the top of
+      <a href="https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Agua">
+       Volcán de Agua
+      </a>
+      (Volcano of Water) in
+      <a href="https://youtu.be/SfPbWdmvZRU">
+       Guatemala
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Guatemala">
+       .
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/26
   </summary>
   <table>
@@ -18,8 +127,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250726.html">
+      https://apod.nasa.gov/apod/ap250726.html
      </a>
     </td>
    </tr>
