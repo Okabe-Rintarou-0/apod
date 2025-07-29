@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/Helix_GC_2332.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/Helix_GC_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is the Helix Nebula looking at you?  No, not in any biological sense, but it does look quite like an eye.  The
+      <a href="https://en.wikipedia.org/wiki/Helix_Nebula">
+       Helix Nebula
+      </a>
+      is so named because it also appears  that you are looking down the axis of a
+      <a href="http://mathworld.wolfram.com/Helix.html">
+       helix
+      </a>
+      .  In actuality, it is now understood to have a surprisingly
+      <a href="https://chandra.harvard.edu/deadstar/helix.html">
+       complex geometry
+      </a>
+      , including radial filaments and extended
+      <a href="ap230507.html">
+       outer loops
+      </a>
+      .   The Helix Nebula (
+      <a href="https://grammarist.com/acronym/a-k-a-or-aka/">
+       aka
+      </a>
+      NGC 7293) is one of brightest and closest examples of a
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      , a gas
+      <a href="http://www.youtube.com/watch?v=KXNSYo8ZdoU">
+       cloud created
+      </a>
+      at the end of the life of a Sun-like star.  The remnant central stellar core, destined to become a
+      <a href="ap231224.html">
+       white dwarf star
+      </a>
+      , glows in light so
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       energetic
+      </a>
+      it causes the previously expelled gas to
+      <a href="https://youtu.be/WnWIt0iz00A">
+       fluoresce
+      </a>
+      .  The
+      <a href="https://www.facebook.com/photo/?fbid=729866973075216&amp;set=a.149603584434894">
+       featured picture
+      </a>
+      ,  taken in red, green, and blue but  highlighted by light emitted primarily by
+      <a href="http://www.astronomyknowhow.com/hydrogen-alpha.htm">
+       hydrogen
+      </a>
+      was created from 12 hours of exposure  through a personal telescope located in
+      <a href="https://en.wikipedia.org/wiki/Greece">
+       Greece
+      </a>
+      .   A
+      <a href="http://www.youtube.com/watch?v=UwAKNMC2PeM">
+       close-up
+      </a>
+      of the
+      <a href="ap080413.html">
+       inner edge
+      </a>
+      of the Helix Nebula  shows complex gas knots the origin of which are
+      <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.491..758A/abstract">
+       still being researched
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/27
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250728.html">
+      https://apod.nasa.gov/apod/ap250728.html
      </a>
     </td>
    </tr>
