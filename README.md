@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_1223.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Our Sun frequently erupts in loops.   Hot solar
+      <a href="https://svs.gsfc.nasa.gov/14299">
+       plasma
+      </a>
+      jumps off the Sun's surface into
+      <a href="ap240615.html">
+       prominences
+      </a>
+      ,  with the most common type of prominence being a simple loop.   The
+      <a href="https://daily.wordreference.com/2016/09/30/word-of-the-day-loop/">
+       loop shape
+      </a>
+      originates from the
+      <a href="https://www.nasa.gov/science-research/heliophysics/nasa-understanding-the-magnetic-sun/">
+       Sun's magnetic field
+      </a>
+      ,  which is traced by spiraling electrons and protons.   Many loops into the Sun's lower
+      <a href="ap240402.html">
+       corona
+      </a>
+      are large enough to
+      <a href="ap140304.html">
+       envelop the Earth
+      </a>
+      and are stable enough to last days.   They commonly occur near active regions that also include dark
+      <a href="https://spaceplace.nasa.gov/solar-activity/en/">
+       sunspots
+      </a>
+      .   The
+      <a href="https://www.instagram.com/p/DKdCCghIWwv/">
+       featured
+      </a>
+      panel shows four loops,  each of which was captured near the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      's  edge during 2024 and 2025.  The images were taken by a personal telescope in
+      <a href="https://youtu.be/itj-85yLTK8">
+       Mantova
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italy
+      </a>
+      and in a
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       very specific color
+      </a>
+      of light emitted primarily by
+      <a href="https://www.nasa.gov/solar-system/new-evidence-our-neighborhood-in-space-is-stuffed-with-hydrogen/">
+       hydrogen
+      </a>
+      .  Some solar prominences
+      <a href="https://styles.redditmedia.com/t5_2yb9w/styles/communityIcon_lqalsz65mlf51.jpg?format=pjpg&amp;s=b08cef3aa70e534d3a5d8fbc180ad4844451779f">
+       suddenly break open
+      </a>
+      and
+      <a href="ap240818.html">
+       eject particles
+      </a>
+      into the
+      <a href="https://science.nasa.gov/solar-system/">
+       Solar System
+      </a>
+      , setting up a
+      <a href="https://spaceplace.nasa.gov/spaceweather/">
+       space weather
+      </a>
+      sequence that can affect the
+      <a href="ap230122.html">
+       skies
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Carrington_Event#Telegraphs">
+       wires
+      </a>
+      of Earth.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/29
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250729.html">
+      https://apod.nasa.gov/apod/ap250729.html
      </a>
     </td>
    </tr>
