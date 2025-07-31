@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/07/31
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A long time ago in a galaxy 50 million light-years away,
+      <a href="https://science.nasa.gov/resource/type-ia-supernova/">
+       a star exploded
+      </a>
+      .  Light from that
+      <a href="https://goto-observatory.org/bright-supernova-2025rbs-discovered-by-goto/">
+       supernova was first detected
+      </a>
+      by telescopes on planet Earth on July 14th though, and the extragalactic transient is now known to astronomers as
+      <a href="https://www.wis-tns.org/object/2025rbs">
+       supernova 2025rbs
+      </a>
+      .
+      <a href="https://rochesterastronomy.org/supernova.html">
+       Presently the brightest
+      </a>
+      supernova in planet Earth's sky, 2025rbs is a Type Ia supernova, likely caused by the thermonuclear detonation of a white dwarf star that accreted material from a companion in a binary star system.
+      <a href="https://science.nasa.gov/mission/roman-space-telescope/type-ia-supernovae/">
+       Type Ia supernovae are
+      </a>
+      used as standard candles to establish the distance scale of the universe.  The host galaxy of 2025rbs is NGC 7331.  Itself a bright spiral galaxy in the northern constellation Pegasus,
+      <a href="ap220922.html">
+       NGC 7331 is
+      </a>
+      often touted as an analog to our own Milky Way.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/30
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250730.html">
+      https://apod.nasa.gov/apod/ap250730.html
      </a>
     </td>
    </tr>
