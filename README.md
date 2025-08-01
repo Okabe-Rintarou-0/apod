@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/BokGlobule_1.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/BokGlobule_1_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://ui.adsabs.harvard.edu/abs/1947ApJ...105..255B/abstract">
+       A small, dark, nebula
+      </a>
+      looks isolated near the center of this telescopic close-up.  The wedge-shaped cosmic cloudlet lies within a relatively crowded region of space though.  About 7,000 light-years distant and filled with glowing gas and an embedded cluster of young stars, the region is known as M16 or
+      <a href="ap230515.html">
+       the Eagle Nebula
+      </a>
+      .
+      <a href="https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/">
+       Hubble's iconic images
+      </a>
+      of the Eagle Nebula include the famous star-forming
+      <a href="ap241022.html">
+       Pillars of Creation
+      </a>
+      , towering structures of interstellar gas and dust 4 to 5 light-years long.  But this small dark nebula, known to some as
+      <a href="https://ui.adsabs.harvard.edu/abs/1947ApJ...105..255B/abstract">
+       a Bok globule
+      </a>
+      , is a fraction of a light-year across.  The Bok globule stands out in silhouette against the expansive background of M16's diffuse glow.  Found scattered within emission nebulae and star clusters, Bok globules are small interstellar clouds of cold molecular gas and obscuring dust that also form stars within their dense,
+      <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/gravc.html">
+       collapsing
+      </a>
+      cores.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/07/31
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250731.html">
+      https://apod.nasa.gov/apod/ap250731.html
      </a>
     </td>
    </tr>
