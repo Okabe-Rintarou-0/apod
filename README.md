@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Taken on July 29 and July 30, a registered and stacked series of exposures creates this
+      <a href="ap110805.html">
+       dreamlike
+      </a>
+      view of a
+      <a href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/">
+       northern summer night
+      </a>
+      .  Multiple firefly flashes streak across the foreground as the luminous Milky Way arcs above the horizon in the Sierra de Órganos national park of central Mexico,  The collection of bright streaks aligned across the sky toward the upper left in the timelapse image are Delta Aquariid meteors.  Currently active, the annual
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/delta-aquariids/">
+       Delta Aquarid meteor shower
+      </a>
+      shares August nights though, overlapping with the better-known
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/">
+       Perseid meteor shower
+      </a>
+      .  This year that makes post-midnight, mostly moonless skies in early August very popular with late night skygazers.
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-delta-aquarid-meteor-shower/">
+       How can you tell a Delta Aquariid
+      </a>
+      from a Perseid meteor?    The streaks of Perseid meteors can be traced back to an apparent radiant in the constellation Perseus.  Delta Aquariids appear to emerge from the more southerly constellation Aquarius, beyond the top left of this frame.  Of course, the bioluminescent flashes of fireflies are common too on these northern summer nights.  But how can you tell a firefly from a meteor?
+      <a href="https://www.firefly.org/how-to-catch-fireflies.html">
+       Just try to catch one
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/01
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250801.html">
+      https://apod.nasa.gov/apod/ap250801.html
      </a>
     </td>
    </tr>
