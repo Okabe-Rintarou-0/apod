@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In about a week the
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/">
+       Perseid Meteor Shower
+      </a>
+      will reach its maximum.   Grains of icy rock will
+      <a href="ap150813.html">
+       streak across the sky
+      </a>
+      as they evaporate during entry into
+      <a href="https://www.nasa.gov/general/what-is-earths-atmosphere/">
+       Earth's atmosphere
+      </a>
+      .   These grains were shed from
+      <a href="https://science.nasa.gov/solar-system/comets/109p-swift-tuttle/">
+       Comet Swift-Tuttle
+      </a>
+      .   The
+      <a href="ap130813.html">
+       Perseids
+      </a>
+      result from the annual crossing of the Earth through
+      <a href="ap960219.html">
+       Comet Swift-Tuttle
+      </a>
+      's orbit, and are  typically the most active
+      <a href="http://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/">
+       meteor shower
+      </a>
+      of the year.   Although it is hard to predict the level of activity in
+      <a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=meteor+shower">
+       any meteor shower
+      </a>
+      , in a clear dark sky an observer might see a
+      <a href="https://en.wikipedia.org/wiki/Meteoroid#Meteors">
+       meteor
+      </a>
+      a minute.    This year's
+      <a href="ap240826.html">
+       Perseids
+      </a>
+      peak just a few days after
+      <a href="ap240915.html">
+       full moon
+      </a>
+      , and so some faint meteors will be lost to the
+      <a href="ap150615.html">
+       lunar skyglow
+      </a>
+      .
+      <a href="https://www.space.com/32868-perseid-meteor-shower-guide.html">
+       Meteor showers
+      </a>
+      in general are best seen from a
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fcomment-funny-cat-pics-cuz-thats-what-the-internet-was-made-v0-eh278ly294cb1.jpeg%3Fwidth%3D853%26format%3Dpjpg%26auto%3Dwebp%26s%3Dc2baeec6424c8311dcad5389358501e703b56f2e">
+       relaxing position
+      </a>
+      , away from lights.
+      <a href="https://www.flickr.com/photos/avdhoeven/20142339228/sizes/c/">
+       Featured here
+      </a>
+      is a meteor caught
+      <a href=" image/1508/MeteorBoom_vanderHoeven_750.mp4">
+       exploding
+      </a>
+      during the 2015 Perseids above
+      <a href="https://en.wikipedia.org/wiki/Austria">
+       Austria
+      </a>
+      next to the central band of our
+      <a href="https://science.nasa.gov/universe/galaxies/">
+       Milky Way Galaxy
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/02
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250802.html">
+      https://apod.nasa.gov/apod/ap250802.html
      </a>
     </td>
    </tr>
