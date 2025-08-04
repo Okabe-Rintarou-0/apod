@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_5415.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What are these gigantic blue arcs near the Andromeda Galaxy (M31)?
+      <a href="https://iopscience.iop.org/article/10.3847/2515-5172/acaf7e">
+       Discovered in 2022
+      </a>
+      by amateur astronomers, the faint arcs -- dubbed
+      <a href="https://www.astrobin.com/1d8ivk/">
+       SDSO 1
+      </a>
+      -- span nearly the same angular size as M31 itself.   At first, their origin was a mystery: are they actually
+      <a href="ap230117.html">
+       near the Andromeda Galaxy
+      </a>
+      ,  or alternatively
+      <a href="https://www.reddit.com/r/CatsBeingCats/comments/17psiw8/cats_basking_in_a_sun_bath/#lightbox">
+       near to our Sun
+      </a>
+      ?   Now, over 550 hours of combined exposure  and a collaboration between amateur and  professional astronomers has revealed strong evidence  for their true nature: SDSO 1 is not
+      <a href="https://science.nasa.gov/asset/hubble/intergalactic-absorbtion-clouds/">
+       intergalactic
+      </a>
+      , but a new class of
+      <a href="ap250713.html">
+       planetary nebula
+      </a>
+      within our galaxy.   Dubbed a Ghost Planetary Nebula (GPN), SDSO 1  is the first recognized member of a new subclass of faded
+      <a href="https://science.nasa.gov/category/universe/nebulae/planetary-nebulae/">
+       planetary nebulas
+      </a>
+      , along with seven others also
+      <a href="https://arxiv.org/abs/2507.15834">
+       recently identified
+      </a>
+      .   Shown in blue are extremely faint
+      <a href="https://www.astronomy.com/science/oxygen-the-color-of-life/">
+       oxygen emission
+      </a>
+      from the shock waves, while the
+      <a href="ap221024.html">
+       surrounding red
+      </a>
+      is a hydrogen-emitting trail that indicates the GPN's age.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/03
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250803.html">
+      https://apod.nasa.gov/apod/ap250803.html
      </a>
     </td>
    </tr>
