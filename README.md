@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_3755.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why is this nebula so complex?  The
+      <a href="https://webbtelescope.org/home">
+       Webb Space Telescope
+      </a>
+      has imaged a nebula  in great detail that is thought to have emerged from a
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      -like star.
+      <a href="https://esawebb.org/images/weic2514a/">
+       NGC 6072
+      </a>
+      has been resolved into one of the  more unusual and complex examples of
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      .  The
+      <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-traces-details-of-complex-planetary-nebula/">
+       featured image
+      </a>
+      is in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared light
+      </a>
+      with the red color highlighting cool
+      <a href="ap010113.html">
+       hydrogen
+      </a>
+      gas.
+      <a href="https://ui.adsabs.harvard.edu/abs/2010ApJ...708...93K/abstract">
+       Study of previous images
+      </a>
+      of NGC 6072 indicated several likely
+      <a href="ap240627.html">
+       outflows
+      </a>
+      and two
+      <a href="ap231017.html">
+       disk
+      </a>
+      s inside the jumbled gas,  while the new Webb image resolves new features  likely including one disk's edge protruding on the central left.   A
+      <a href="https://ychef.files.bbci.co.uk/1280x720/p0bzc0wl.jpg">
+       leading
+      </a>
+      origin hypothesis holds that the nebula's complexity is caused or enhanced by multiple outbursts from a star in a
+      <a href="https://science.nasa.gov/universe/stars/multiple-star-systems/">
+       multi-star system
+      </a>
+      near the center.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/04
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250804.html">
+      https://apod.nasa.gov/apod/ap250804.html
      </a>
     </td>
    </tr>
