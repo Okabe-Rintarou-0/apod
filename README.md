@@ -5,6 +5,104 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_1948.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's that green streak in front of the Andromeda galaxy?  A meteor.  While photographing the
+      <a href="ap150830.html">
+       Andromeda galaxy
+      </a>
+      in 2016,  near the peak of the
+      <a href="https://www.facebook.com/media/set/?set=a.488496753878907&amp;type=3">
+       Perseid
+      </a>
+      <a href="https://www.facebook.com/media/set/?set=a.2859552167482317&amp;type=3">
+       Meteor
+      </a>
+      <a href="https://www.facebook.com/media/set/?set=a.3855532511217606&amp;type=3">
+       Shower
+      </a>
+      ,  a small pebble from deep space
+      <a href="ap030802.html">
+       crossed right in front
+      </a>
+      of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      's far-distant companion.  The small
+      <a href="https://en.wikipedia.org/wiki/Meteoroid#Meteors">
+       meteor
+      </a>
+      took only a fraction of a second to pass through this 10-degree field.   The
+      <a href="ap081011.html">
+       meteor flared
+      </a>
+      several times while braking violently upon entering
+      <a href="https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      .   The
+      <a href="https://www.amsmeteors.org/fireballs/faqf/#5">
+       green color
+      </a>
+      was created, at least in part, by the meteor's gas glowing as it vaporized.  Although
+      <a href="https://www.flickr.com/photos/fhhemmerich/28945882316/in/dateposted/">
+       the exposure
+      </a>
+      was timed to catch a
+      <a href="ap160808.html">
+       Perseid meteor
+      </a>
+      ,  the orientation of the imaged streak seems a better match to a meteor from the
+      <a href="https://en.wikipedia.org/wiki/Southern_Delta_Aquariids">
+       Southern Delta Aquariids
+      </a>
+      , a
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-delta-aquarid-meteor-shower">
+       meteor shower
+      </a>
+      that peaked a few weeks earlier.   Not coincidentally, the
+      <a href="ap180808.html">
+       Perseid Meteor Shower
+      </a>
+      peaks  next week, although
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/">
+       this year
+      </a>
+      the meteors will have to outshine a
+      <a href="ap200408.html">
+       sky brightened
+      </a>
+      by a nearly full moon.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/05
   </summary>
   <table>
@@ -18,8 +116,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250805.html">
+      https://apod.nasa.gov/apod/ap250805.html
      </a>
     </td>
    </tr>
