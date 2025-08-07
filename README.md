@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/DoubleClusterBrechersmall.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://astrodoc.ca/double-cluster-2025/">
+       This stunning starfield
+      </a>
+      spans about three full moons (1.5 degrees) across the heroic northern constellation of
+      <a href="http://en.wikipedia.org/wiki/Perseus_constellation">
+       Perseus
+      </a>
+      .  It holds the famous
+      <a href="https://www.nasa.gov/feature/goddard/caldwell-14">
+       pair of open star clusters
+      </a>
+      , h and Chi Persei.  Also cataloged as
+      <a href="http://www.messier.seds.org/xtra/ngc/n0869.html">
+       NGC 869 (right) and NGC 884
+      </a>
+      , both clusters are about 7,000 light-years away and contain stars much younger and hotter than the Sun.   Separated by only a few hundred light-years, the clusters are both 13 million years young
+      <a href="http://arxiv.org/abs/astro-ph/0205130">
+       based on
+      </a>
+      the ages of their
+      <a href="http://www.messier.seds.org/open.html">
+       individual stars
+      </a>
+      , evidence that both clusters were likely a product of the same star-forming region.  Always a rewarding
+      <a href="https://astrobackyard.com/double-cluster-in-perseus/">
+       sight in binoculars
+      </a>
+      or small telescopes, the Double Cluster is even visible to the unaided eye from
+      <a href="ap060413.html">
+       dark locations
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/06
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250806.html">
+      https://apod.nasa.gov/apod/ap250806.html
      </a>
     </td>
    </tr>
