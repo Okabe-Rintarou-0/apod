@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      One of the all-time historic skyscapes occured in July 1054, when the
+      <a href="https://en.wikipedia.org/wiki/SN_1054">
+       Crab Supernova
+      </a>
+      blazed into the dawn sky.
+      <a href="https://www.lehigh.edu/~dwp0/Assets/images/astroorigins.pdf">
+       Chinese court astrologers
+      </a>
+      first saw the
+      <a href="https://ui.adsabs.harvard.edu/abs/2003LNP...598....7G/abstract">
+       Guest Star
+      </a>
+      on the morning of 4 July 1054 next to the  star
+      <a href="https://www.star-facts.com/tianguan-zeta-tauri/">
+       Tianguan
+      </a>
+      (now cataloged as
+      <a href="http://stars.astro.illinois.edu/sow/zetatau.html">
+       Zeta Tauri
+      </a>
+      ).  The
+      <a href="https://spaceplace.nasa.gov/supernova/en/">
+       supernova
+      </a>
+      peaked in late July 1054 a bit brighter than Venus, and was visible in the daytime for 23 days.  The Guest Star was so bright that every culture around the world inevitably discovered the supernova independently, although only nine reports survive, including those from China,
+      <a href="https://www.kyohaku.go.jp/eng/learn/home/dictio/shoseki/sadaie/">
+       Japan
+      </a>
+      , and
+      <a href="https://www.nytimes.com/1978/07/18/archives/old-text-is-linked-to-1054-supernova-scientific-journal-tells-of.html">
+       Constantinople
+      </a>
+      .  This iPhone picture is from
+      <a href="https://www.nps.gov/articles/000/signal-hill-petroglyphs.htm">
+       Signal Hill
+      </a>
+      near Tucson on the morning of 26 July 2025, faithfully re-creates the year 1054 Dawn of the Crab, showing the sky as seen by
+      <a href="https://www.britannica.com/topic/Hohokam-culture">
+       Hohokam
+      </a>
+      peoples.  The planet Venus, as a stand-in for the
+      <a href="https://ui.adsabs.harvard.edu/abs/2003LNP...598..195P/abstract">
+       supernova
+      </a>
+      , is close to the position of what is now the
+      <a href="ap011227.html">
+       Crab Nebula
+      </a>
+      supernova remnant.  Step outside on a summer dawn with bright Venus, and ask yourself "What would you have thought in ancient times when suddenly seeing the Dawn of the Crab?"
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/07
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250807.html">
+      https://apod.nasa.gov/apod/ap250807.html
      </a>
     </td>
    </tr>
