@@ -5,6 +5,81 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/3I_Hubble.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/3I_Hubble1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/blogs/planetary-defense/2025/07/02/nasa-discovers-interstellar-comet-moving-through-solar-system/">
+       Discovered on July 1
+      </a>
+      with the NASA-funded ATLAS (Asteroid Terrestrial-impact Last Alert System) survey telescope in Rio Hurtado, Chile, 3I/ATLAS is so designated as the third known interstellar object to pass through our Solar System.  It follows
+      <a href="ap171122.html">
+       1I/ʻOumuamua
+      </a>
+      in 2017 and the comet
+      <a href="ap191214.html">
+       2I/Borisov
+      </a>
+      in 2019.   Also known as
+      <a href="https://minorplanetcenter.net/mpec/K25/K25N12.html">
+       C/2025 N1
+      </a>
+      , 3I/ATLAS is a comet.  A teardrop-shaped cloud of dust, ejected from its icy nucleus warmed by increasing sunlight, is seen in this
+      <a href="https://science.nasa.gov/asset/hubble/comet-3i-atlas/">
+       sharp image from the Hubble
+      </a>
+      Space Telescope captured on July 21.  Background stars are streaked in the exposure as Hubble tracked the
+      <a href="https://www.youtube.com/watch?v=pc4A8va8NRU">
+       fastest comet
+      </a>
+      ever recorded on its journey toward the inner solar system.  An
+      <a href="https://arxiv.org/abs/2508.02934">
+       analysis
+      </a>
+      of the Hubble image indicates the
+      <a href="https://science.nasa.gov/missions/hubble/as-nasa-missions-study-interstellar-comet-hubble-makes-size-estimate/">
+       solid nucleus, hidden
+      </a>
+      from direct view, is likely less that 5.6 kilometers in diameter.  This comet's interstellar origin is
+      <a href="ap250707.html">
+       clear from its orbit
+      </a>
+      , determined to be an eccentric, highly hyperbolic orbit that does not loop back around the Sun and will return
+      <a href="https://en.wikipedia.org/wiki/3I/ATLAS">
+       3I/ATLAS
+      </a>
+      to interstellar space.  Not a threat to
+      <a href="https://science.nasa.gov/planetary-defense/">
+       planet Earth
+      </a>
+      , the inbound interstellar interloper is now within the Jupiter's orbital distance of the Sun, while its closest approach to the Sun will bring it just inside the orbital distance of Mars.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/08
   </summary>
   <table>
@@ -18,8 +93,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250808.html">
+      https://apod.nasa.gov/apod/ap250808.html
      </a>
     </td>
    </tr>
