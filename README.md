@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_1080.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's that strange light down the road?
+      <a href="ap010813.html">
+       Dust
+      </a>
+      orbiting the Sun.  At certain times of the year, a band of sun-reflecting dust from the inner
+      <a href="https://science.nasa.gov/solar-system/">
+       Solar System
+      </a>
+      appears prominently just after sunset -- or just before sunrise -- and is called
+      <a href="https://en.wikipedia.org/wiki/Zodiacal_light">
+       zodiacal light
+      </a>
+      .   Although the
+      <a href="https://en.wikipedia.org/wiki/Zodiacal_light#Origin">
+       origin
+      </a>
+      of this dust is still being researched,  a leading hypothesis holds that zodiacal dust originates mostly from faint
+      <a href="http://astronomy.swin.edu.au/cosmos/J/Jupiter-family+Comets">
+       Jupiter-family comets
+      </a>
+      and slowly spirals into the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      .  Recent analysis of
+      <a href="ap151118.html">
+       dust emitted by Comet 67P
+      </a>
+      ,  visited by ESA's robotic
+      <a href="http://www.esa.int/Our_Activities/Space_Science/Rosetta/Europe_s_comet_chaser">
+       Rosetta spacecraft
+      </a>
+      , bolsters this hypothesis.
+      <a href="https://www.facebook.com/rmsphotography95/photos/a.386953088074201/1837984689637693/?type=3&amp;theater">
+       Pictured
+      </a>
+      when climbing a road up to
+      <a href="https://www.youtube.com/watch?v=-5juqIAf0ik">
+       Teide National Park
+      </a>
+      in the
+      <a href="https://en.wikipedia.org/wiki/Canary_Islands">
+       Canary Islands
+      </a>
+      of
+      <a href="https://en.wikipedia.org/wiki/Spain">
+       Spain
+      </a>
+      ,  a bright triangle of
+      <a href="ap171010.html">
+       zodiacal light
+      </a>
+      appeared in the distance soon after sunset.
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FKdxAcvdKsUGqLUfz71K0MbwICIgOWrpF3QRILANcVn4.jpg%3Fauto%3Dwebp%26s%3D8d87166092d0da7b625f17ac72350c1e01a47523">
+       Captured
+      </a>
+      on June 21, 2019, the scene includes bright
+      <a href="https://en.wikipedia.org/wiki/Regulus">
+       Regulus
+      </a>
+      ,  the
+      <a href="https://www.scienceabc.com/nature/universe/how-are-so-many-stars-named-and-identified.html">
+       alpha star
+      </a>
+      of the constellation Leo, standing above center toward the left.  The
+      <a href="ap220430.html">
+       Beehive Star Cluster
+      </a>
+      (M44)  can be spotted below center, closer to the horizon and also
+      <a href="ap230227.html">
+       immersed in the zodiacal glow
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/09
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250809.html">
+      https://apod.nasa.gov/apod/ap250809.html
      </a>
     </td>
    </tr>
