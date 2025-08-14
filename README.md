@@ -5,6 +5,77 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/lrg_ngc6205.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/lrg_ngc6205_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="http://messier.seds.org/xtra/similar/halley_pt.html">
+       In 1716
+      </a>
+      , English astronomer
+      <a href="http://www.bbc.co.uk/history/historic_figures/halley_edmond.shtml">
+       Edmond Halley
+      </a>
+      noted, "This is but a little Patch, but it shews itself to the naked Eye, when the Sky is serene and the Moon absent."
+      <a href="http://messier.seds.org/m/m013.html">
+       Of course, M13
+      </a>
+      is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest
+      <a href="http://en.wikipedia.org/wiki/Globular_cluster">
+       globular star clusters
+      </a>
+      in the northern sky.  Sharp telescopic views like this one reveal the spectacular cluster's
+      <a href="https://skyandtelescope.org/observing/gobs-of-globs-guide-to-16-spring-globular-clusters/">
+       hundreds of thousands of stars.
+      </a>
+      At a distance of 25,000 light-years, the
+      <a href="https://hubblesite.org/contents/news-releases/2008/news-2008-40.html">
+       cluster stars crowd
+      </a>
+      into a region 150 light-years in diameter.
+      <a href="ap031213.html">
+       Approaching
+      </a>
+      the cluster core,  upwards of 100 stars could be contained in a cube just 3 light-years on a side.  For comparison with our neighborhood of the Milky Way, the
+      <a href="ap160825.html">
+       closest star
+      </a>
+      to the Sun is over 4 light-years away.  Early telescopic observers of the great globular cluster also noted a curious convergence of three dark lanes with a spacing of about 120 degrees, seen here just below the cluster center.
+      <a href="https://www.cosmotography.com/images/small_ngc6205.html">
+       Known as the propeller in M13
+      </a>
+      , the shape is likely a
+      <a href="ap231120.html">
+       chance
+      </a>
+      optical effect of the distribution of stars viewed from our perspective against the dense cluster core.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/13
   </summary>
   <table>
@@ -18,8 +89,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250813.html">
+      https://apod.nasa.gov/apod/ap250813.html
      </a>
     </td>
    </tr>
