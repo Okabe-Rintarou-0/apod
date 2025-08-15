@@ -5,6 +5,53 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/#hds-sidebar-nav-1">
+       In the predawn sky
+      </a>
+      on August 13, two planets were close.  And despite the glare of a waning gibbous Moon, bright Jupiter and even brighter Venus were hard to miss.
+      <a href="https://earthsky.org/todays-image/venus-and-jupiter/">
+       Their brilliant close conjunction
+      </a>
+      is posing above the eastern horizon in this early morning skyscape.  The scene was captured in a single exposure from a site near Gansu, China, with light from both planets reflected in the still waters of a local pond.  Also seen against the moonlight were flashes from the annual
+      <a href="https://www.nasa.gov/blogs/watch-the-skies/2025/08/08/bright-moonlight-could-interfere-with-view-of-perseids-peak/">
+       Perseid Meteor Shower
+      </a>
+      , known for its bright, fast meteors.  Near the much anticipated peak of activity, the shower meteors briefly combined with the two planets for a
+      <a href="ap240826.html">
+       celestial spectacle
+      </a>
+      even in moonlit skies.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/14
   </summary>
   <table>
@@ -18,8 +65,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250814.html">
+      https://apod.nasa.gov/apod/ap250814.html
      </a>
     </td>
    </tr>
