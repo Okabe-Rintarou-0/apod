@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/perseid2025-cropped.gif">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/perseid2025-cropped.gif"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The camera battery died about 2am local time on August 12,
+      <a href="https://app.astrobin.com/u/ren1450?i=5p34ay#gallery">
+       while shooting
+      </a>
+      in the bright
+      <a href="https://www.nasa.gov/blogs/watch-the-skies/2025/08/08/bright-moonlight-could-interfere-with-view-of-perseids-peak/">
+       moonlit skies
+      </a>
+      from a garden in Chastre, Brabant Wallon, Belgium, planet Earth.  But not before it captured the frames used to compose this cool animated gif of a brilliant Perseid meteor and a lingering visible trail known as a
+      <a href="ap180817.html">
+       persistent train
+      </a>
+      .  The Perseid meteor, a fast moving speck of dust from the tail of large periodic
+      <a href="https://science.nasa.gov/solar-system/comets/109p-swift-tuttle/">
+       Comet Swift-Tuttle
+      </a>
+      , was heated to incandescence by
+      <a href="https://www.space.com/3113-meteors-meteor-showers-science.html">
+       ram pressure
+      </a>
+      and vaporized as it flashed through the upper atmosphere at 60 kilometers per
+      <i>
+       second
+      </i>
+      .  Compared to the brief flash of the meteor, its wraith-like trail really is persistent.  A characteristic of bright meteors, a smoke-like persistent train can often be followed for many minutes wafting in the winds at altitudes of 60 to 90 kilometers.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/15
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250815.html">
+      https://apod.nasa.gov/apod/ap250815.html
      </a>
     </td>
    </tr>
