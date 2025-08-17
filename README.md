@@ -5,6 +5,112 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/asperatus_priester_1024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/asperatus_priester_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What kind of clouds are these?  Although their cause is presently unknown, such unusual atmospheric structures,  as menacing as they might seem, do not appear to be harbingers of
+      <a href="ap170226.html">
+       meteorological doom
+      </a>
+      .  Formally recognized as a distinct
+      <a href="https://scied.ucar.edu/webweather/clouds/cloud-types">
+       cloud type
+      </a>
+      only last year,
+      <a href="https://en.wikipedia.org/wiki/Asperitas_(cloud)">
+       asperitas
+      </a>
+      clouds can be stunning in appearance,  unusual in occurrence, and are relatively unstudied.  Whereas most low cloud decks are
+      <a href="https://physics.stackexchange.com/questions/277662/why-do-clouds-generally-look-flat-at-the-bottom">
+       flat bottomed
+      </a>
+      ,
+      <a href="http://cloudappreciationsociety.org/asperatus-update/comment-page-2/">
+       asperitas clouds
+      </a>
+      appear to have significant
+      <a href="https://www.boredpanda.com/blog/wp-content/uploads/2014/03/funny-cats-dogs-stuck-furniture-31.jpg">
+       vertical structure
+      </a>
+      underneath.  Speculation therefore holds that
+      <a href="http://www.usatoday.com/story/weather/2015/06/20/asperatus-cloud-atlas/28994525/">
+       asperitas clouds
+      </a>
+      might be related to
+      <a href="ap090121.html">
+       lenticular clouds
+      </a>
+      that form near mountains,  or
+      <a href="ap230212.html">
+       mammatus clouds
+      </a>
+      associated with thunderstorms,  or perhaps a
+      <a href="http://en.wikipedia.org/wiki/Foehn_wind">
+       foehn
+      </a>
+      --  a type of dry downward wind that flows off mountains.  Clouds from
+      <a href="http://en.wikipedia.org/wiki/Nor%27west_arch">
+       such a wind
+      </a>
+      called the
+      <a href="http://en.wikipedia.org/wiki/Canterbury_arch">
+       Canterbury arch
+      </a>
+      stream toward the east coast of New Zealand's
+      <a href="http://en.wikipedia.org/wiki/South_Island,_New_Zealand">
+       South Island
+      </a>
+      .  The
+      <a href="http://www.flickr.com/photos/wittap/4406137868/in/set-72157623581503907">
+       featured image
+      </a>
+      <a>
+      </a>
+      , taken above
+      <a href="https://www.youtube.com/watch?v=gn7ck-N53k0">
+       Hanmer Springs
+      </a>
+      in
+      <a href="http://en.wikipedia.org/wiki/Canterbury_Region">
+       Canterbury
+      </a>
+      ,
+      <a href="http://en.wikipedia.org/wiki/New_Zealand">
+       New Zealand
+      </a>
+      in 2005,  shows great detail partly because sunlight illuminates the undulating
+      <a href="https://climatekids.nasa.gov/cloud-formation/">
+       clouds
+      </a>
+      from the side.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/16
   </summary>
   <table>
@@ -18,8 +124,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250816.html">
+      https://apod.nasa.gov/apod/ap250816.html
      </a>
     </td>
    </tr>
