@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_4000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This galaxy is not only pretty -- it's useful.   A gorgeous spiral some 100 million light-years distant,
+      <a href="http://en.wikipedia.org/wiki/NGC_1309">
+       NGC 1309
+      </a>
+      lies on the banks of the constellation of the River (
+      <a href="http://www.hawastsoc.org/deepsky/eri/index.html">
+       Eridanus
+      </a>
+      ).  NGC 1309 spans about 30,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-year
+      </a>
+      s, making it about one third the size of our larger
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way galaxy
+      </a>
+      .  Bluish clusters of
+      <a href="ap140925.html">
+       young stars
+      </a>
+      and dust lanes are seen to trace out NGC 1309's spiral arms as they
+      <a href="https://pbs.twimg.com/media/GhF-nwZbkAA2UhU.jpg">
+       wind around
+      </a>
+      an older yellowish star population at its core.  Not just another
+      <a href="ap080824.html">
+       pretty face-on
+      </a>
+      spiral galaxy, observations of NGC 1309's two recent supernovas and multiple
+      <a href="ap960110.html">
+       Cepheid variable stars
+      </a>
+      contribute to the
+      <a href="https://lco.global/spacebook/distance/cepheid-variable-stars-supernovae-and-distance-measurement/">
+       calibration
+      </a>
+      of
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/discovering-a-runaway-universe/">
+       the expansion
+      </a>
+      of the Universe.  Still, after you get over  this beautiful galaxy's grand design,
+      <a href="https://esahubble.org/images/potw2530a/zoomable/">
+       check out
+      </a>
+      the array of more distant background  galaxies also recorded in
+      <a href="https://esahubble.org/images/potw2530a/">
+       this sharp image
+      </a>
+      from the
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble Space Telescope
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/17
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250817.html">
+      https://apod.nasa.gov/apod/ap250817.html
      </a>
     </td>
    </tr>
