@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/NGC6872_block.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Over 500,000 light years across,
+      <a href="http://www.eso.org/public/images/eso9924b/">
+       NGC 6872
+      </a>
+      (bottom left) is a truly
+      <a href="https://ui.adsabs.harvard.edu/abs/2007A%26A...464..155H/abstract">
+       enormous barred spiral galaxy
+      </a>
+      .  At least 5 times the size of our own large Milky Way,
+      <a href="https://ui.adsabs.harvard.edu/abs/2014ApJ...795...89E/abstract">
+       NGC 6872 is the largest
+      </a>
+      known spiral galaxy.  About 200 million light-years distant  toward the southern constellation Pavo, the Peacock, the appearance of this
+      <a href="ap110403.html">
+       giant galaxy's
+      </a>
+      stretched out spiral arms suggest the wings of a giant bird.  So its popular moniker is the Condor galaxy.  Lined with massive young, bluish star clusters and
+      <a href="https://ui.adsabs.harvard.edu/abs/2009ApJ...691.1921M/abstract">
+       star-forming regions
+      </a>
+      , the extended and distorted spiral arms are due to NGC 6872's past gravitational interactions with the nearby smaller
+      <a href="http://chandra.harvard.edu/photo/2009/ngc6872/">
+       galaxy IC 4970
+      </a>
+      , visible here below the giant spiral galaxy's core.  Other members of the southern
+      <a href="https://www.astroexplorer.org/details/apj296376f1">
+       Pavo galaxy group
+      </a>
+      are scattered through this
+      <a href="https://www.adamblockphotos.com/ngc-6872.html">
+       magnificent galaxy group portrait
+      </a>
+      , with the dominant giant elliptical galaxy, NGC 6876, above and right of the soaring Condor galaxy.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/18
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250818.html">
+      https://apod.nasa.gov/apod/ap250818.html
      </a>
     </td>
    </tr>
