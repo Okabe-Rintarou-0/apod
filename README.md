@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_3963.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What are those curved arcs in the sky?  Meteors -- specifically, meteors from this year's
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/">
+       Perseid meteor shower
+      </a>
+      .   Over the past few weeks, after the sky darkened, many images of
+      <a href="https://en.wikipedia.org/wiki/Perseids">
+       Perseid meteors
+      </a>
+      were captured separately and merged into a single frame,  taken earlier.   Although the
+      <a href="ap240811.html">
+       meteors all traveled
+      </a>
+      on straight paths,  these paths appear slightly curved by the wide-angle lens of the capturing camera.   The meteor
+      <a href="https://www.armandhammer.com/-/media/aah/feature/articles/cat-litter-articles/cat-agility-header-image.jpg">
+       streaks
+      </a>
+      can all be traced back to a single point on the sky called the
+      <a href="https://en.wikipedia.org/wiki/Radiant_(meteor_shower)">
+       radiant
+      </a>
+      , here just off the top of the frame in the
+      <a href="https://en.wikipedia.org/wiki/Perseus_(constellation)">
+       constellation of Perseus
+      </a>
+      .  The same camera took a deep image of the background sky that brought up the
+      <a href="ap250604.html">
+       central band
+      </a>
+      of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way galaxy
+      </a>
+      running nearly vertically through the
+      <a href="https://www.joshduryphoto-media.com/astrophotography-v2?pgid=m9v1kp17-befb7637-ae9a-49f6-b3ba-119066945dc6">
+       featured image
+      </a>
+      's center.  The limestone arch in the foreground in
+      <a href="https://youtu.be/JYDRQFA51N0">
+       Dorset
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/England">
+       England
+      </a>
+      is known as
+      <a href="https://en.wikipedia.org/wiki/Durdle_Door">
+       Durdle Door
+      </a>
+      ,  a name thought to survive from a thousand years ago.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/19
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250819.html">
+      https://apod.nasa.gov/apod/ap250819.html
      </a>
     </td>
    </tr>
