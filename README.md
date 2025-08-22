@@ -5,6 +5,77 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/M57_LRGB_2K.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.kentbiggs.com/images/planetaries/M57.htm">
+       This colorful telescopic view
+      </a>
+      towards the musical northern constellation Lyra reveals the faint outer halos and brighter central ring-shaped region of M57, popularly known as the
+      <a href="https://webbtelescope.org/contents/media/images/01H82G0PP38P6PBXQ11BEVSMY0">
+       Ring Nebula
+      </a>
+      .  To modern astronomers M57 is a well-known
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      .  With a central ring about one light-year across,
+      <a href="ap230418.html">
+       M57 is
+      </a>
+      definitely not a planet though, but the gaseous shroud of one of the Milky Way's
+      <a href="https://physics.weber.edu/palen/phsx1040/lectures/lplanneb.html">
+       dying
+      </a>
+      sun-like stars.  Roughly the same apparent size as M57, the fainter and more often overlooked barred spiral galaxy at the left is IC 1296.  In fact,
+      <a href="ap200430.html">
+       over 100 years ago
+      </a>
+      IC 1296 would have been known as a
+      <a href="https://www.e-education.psu.edu/astro801/content/l9_p2.html">
+       spiral nebula
+      </a>
+      .  By chance the pair are in the same field of view, and while they appear to have similar sizes they are actually very far apart.  At a distance of a mere 2,000 light-years M57 is well within our own Milky Way galaxy.
+      <a href="ap211106.html">
+       Extragalactic
+      </a>
+      IC 1296 (aka PGC62532) is more like 200,000,000 light-years distant.  That's about  100,000 times farther away than M57 but since they appear roughly similar in size, former spiral nebula IC 1296 must also be about 100,000
+      <a href="https://chandra.si.edu/photo/scale.html">
+       times larger
+      </a>
+      than planetary nebula M57.  Look closely at the sharp 21st century astroimage to spot even more distant background galaxies
+      <a href="https://www.kentbiggs.com/images/planetaries/M57.htm">
+       scattered through the frame
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/21
   </summary>
   <table>
@@ -18,8 +89,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250821.html">
+      https://apod.nasa.gov/apod/ap250821.html
      </a>
     </td>
    </tr>
