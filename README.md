@@ -5,6 +5,122 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_3600.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      At the core of the
+      <a href="https://www.nasa.gov/feature/goddard/2017/messier-1-the-crab-nebula">
+       Crab Nebula
+      </a>
+      lies a city-sized, magnetized
+      <a href="https://en.wikipedia.org/wiki/Neutron_star">
+       neutron star
+      </a>
+      spinning 30 times a second.  Known as the
+      <a href="https://en.wikipedia.org/wiki/Crab_Pulsar">
+       Crab Pulsar
+      </a>
+      , it is the bright spot  in the center of the gaseous swirl at the nebula's core.  About twelve
+      <a hrer="https://spaceplace.nasa.gov/light-year/en/">
+       light-years
+      </a>
+      across, the spectacular picture frames the glowing gas, cavities and swirling filaments near the
+      <a href="ap220304.html">
+       Crab Nebula
+      </a>
+      's  center.   The
+      <a href="https://chandra.harvard.edu/photo/2018/crab/">
+       featured picture
+      </a>
+      combines
+      <a href="https://science.nasa.gov/ems/09_visiblelight">
+       visible light
+      </a>
+      from the
+      <a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/">
+       Hubble Space Telescope
+      </a>
+      in purple,
+      <a href="https://science.nasa.gov/ems/11_xrays">
+       X-ray light
+      </a>
+      from the
+      <a href="https://chandra.harvard.edu/about/">
+       Chandra X-ray Observatory
+      </a>
+      in blue,  and
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared light
+      </a>
+      from the
+      <a href="https://www.spitzer.caltech.edu/mission/mission-overview">
+       Spitzer Space Telescope
+      </a>
+      in red.   Like a
+      <a href="https://chandra.harvard.edu/chronicle/0201/vela.html">
+       cosmic dynamo
+      </a>
+      , the Crab
+      <a href="ap010602.html">
+       pulsar powers
+      </a>
+      the emission from the nebula, driving a
+      <a href="ap220522.html">
+       shock wave
+      </a>
+      through surrounding material and accelerating the spiraling electrons.  With more mass than
+      <a href="https://www.google.com/search?q=mass+of+the+sun">
+       the Sun
+      </a>
+      and the density of an
+      <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/ nuclear/nucuni.html">
+       atomic nucleus
+      </a>
+      ,the
+      <a href="https://www.youtube.com/shorts/EVX7krUYYjs">
+       spinning pulsar
+      </a>
+      is the collapsed core of a massive star that
+      <a href="https://youtu.be/aysiMbgml5g">
+       exploded
+      </a>
+      .  The outer parts of the Crab Nebula are the expanding  remnants of the star's component gases.  The supernova explosion was
+      <a href="https://as1.ftcdn.net/v2/jpg/03/43/87/98/1000_F_343879856_Ino0o68y6MO3wCJsvVdclbT381NkKvhT.jpg">
+       witnessed
+      </a>
+      on planet Earth in
+      <a href="ap250808.html">
+       the year 1054
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/23
   </summary>
   <table>
@@ -18,8 +134,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250823.html">
+      https://apod.nasa.gov/apod/ap250823.html
      </a>
     </td>
    </tr>
