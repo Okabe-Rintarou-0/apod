@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_1677.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Sometimes even the sky surprises you.   To see more stars and faint nebulosity in the
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-45/">
+       Pleiades
+      </a>
+      star cluster  (
+      <a href="https://en.wikipedia.org/wiki/Pleiades">
+       M45
+      </a>
+      ),  long exposures are made.   Many times, less interesting items appear on the exposures that were not intended -- but later edited out.  These include
+      <a href="https://www.mobilepixels.us/pages/what-is-a-stuck-pixel">
+       stuck pixel
+      </a>
+      s,
+      <a href="ap071112.html">
+       cosmic ray
+      </a>
+      hits, frames with
+      <a href="ap180217.html">
+       bright clouds
+      </a>
+      or
+      <a href="https://science.nasa.gov/moon/">
+       Earth's Moon
+      </a>
+      ,
+      <a href="ap190212.html">
+       airplane trails
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Lens_flare">
+       lens flares
+      </a>
+      ,
+      <a href="ap191014.html">
+       faint satellite trails
+      </a>
+      , and even
+      <a href="ap041207.html">
+       insect trail
+      </a>
+      s.    Sometimes, though, something
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fplease-show-me-pictures-of-your-surprised-cats-v0-sgez0pmvydsd1.jpeg%3Fwidth%3D1080%26auto%3Dwebp%26s%3D2fad553cb814bf101ef53a25f0afe4560922171f">
+       really interesting
+      </a>
+      is caught by chance.  That was just the case a few weeks ago in
+      <a href="https://youtu.be/1Ms1J5q2O_I">
+       al-Ula
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Saudi_Arabia">
+       Saudi Arabia
+      </a>
+      when a bright meteor streaked across during an
+      <a href="https://www.instagram.com/p/DNTN8AwMrfT/?img_index=1">
+       hour-long exposure
+      </a>
+      of the
+      <a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=Pleiades">
+       Pleiades
+      </a>
+      .  Along with the
+      <a href="https://esahubble.org/images/opo0420b/">
+       famous bright blue stars
+      </a>
+      , less famous and less bright blue stars,  and
+      <a href="ap240129.html">
+       blue-reflecting dust
+      </a>
+      surrounding the star cluster,  the
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/">
+       fast rock fragment
+      </a>
+      created a distinctive green glow,  likely due to vaporized metals.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/24
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250824.html">
+      https://apod.nasa.gov/apod/ap250824.html
      </a>
     </td>
    </tr>
