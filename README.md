@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      That yellow spot -- what is it?  It's a young
+      <a href="https://science.nasa.gov/exoplanets/">
+       planet
+      </a>
+      outside our Solar System.  The
+      <a href="https://iopscience.iop.org/article/10.3847/2041-8213/adf721">
+       featured image
+      </a>
+      from the
+      <a href="https://www.eso.org/public/teles-instr/paranal-observatory/vlt/">
+       Very Large Telescope
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      surprisingly captures a distant scene much like our own Solar System's birth, some 4.5 billion years ago.   Although we can't look into
+      <a href="ap240701.html">
+       the past
+      </a>
+      and see Earth's formation directly, telescopes
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fcat-astronomer-v0-q8bmzvh7if7c1.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Dd804336492d4dc990f6471b0078ab4b42f025384">
+       let us watch
+      </a>
+      similar processes unfolding around distant stars.   At the center of this frame lies a young Sun-like star,  hidden behind a
+      <a href="https://en.wikipedia.org/wiki/Coronagraph">
+       coronagraph
+      </a>
+      that blocks its bright glare.   Surrounding the star is a bright, dusty
+      <a href="https://en.wikipedia.org/wiki/Protoplanetary_disk">
+       protoplanetary disk
+      </a>
+      -- the raw material of planets.
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/">
+       Gaps and concentric rings
+      </a>
+      mark where a  newborn world is gathering gas and dust under its gravity,  clearing the way as it orbits the star.   Although astronomers
+      <a href="ap231017.html">
+       have imaged
+      </a>
+      disk-embedded planets before,  this is the
+      <a href="https://iopscience.iop.org/article/10.3847/2041-8213/adf721">
+       first-ever observation
+      </a>
+      of an exoplanet actively carving a gap within a disk -- the
+      <a href="https://www.astronomie.nl/nieuws/en/discovery-of-the-first-ring-shaping-embedded-planet-around-a-young-solar-analog-4637">
+       earliest direct glimpse
+      </a>
+      of planetary sculpting in action.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/25
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250826.html">
+      https://apod.nasa.gov/apod/ap250826.html
      </a>
     </td>
    </tr>
