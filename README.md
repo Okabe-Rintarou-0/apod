@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://app.astrobin.com/u/Robsi?i=4du4om#gallery">
+       This well-composed telescopic
+      </a>
+      field of view covers over a Full Moon on the sky toward the high-flying constellation Pegasus.  Of course the brighter stars show
+      <a href="ap010415.html">
+       diffraction spikes
+      </a>
+      , the commonly seen effect of internal
+      <a href="http://www.telescope-optics.net/spider.htm">
+       supports in reflecting telescopes
+      </a>
+      , and lie well within our own
+      <a href="http://www.nasa.gov/mission_pages/sunearth/news/gallery/galaxy-location.html">
+       Milky Way galaxy
+      </a>
+      .  The faint but pervasive clouds of interstellar dust
+      <a href="https://www.cosmotography.com/images/galactic_cirrus.html">
+       ride above the galactic plane
+      </a>
+      and dimly reflect the Milky Way's starlight.  Known as galactic cirrus or integrated flux nebulae they are associated with the Milky Way's molecular clouds.  In fact, the diffuse cloud cataloged as
+      <a href="http://adsabs.harvard.edu/abs/1989ApJ...346..232W">
+       MBM 54
+      </a>
+      , less than a thousand light-years distant, fills the scene.  The galaxy seemingly tangled in the dusty cloud is the striking spiral galaxy NGC 7497.  It's some 60 million light-years away, though.  Seen almost
+      <a href="ap120526.html">
+       edge-on
+      </a>
+      near the center of the field, NGC 7497's own spiral arms and dust lanes echo the colors of stars and dust in our own
+      <a href="ap110520.html">
+       Milky Way
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/27
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250827.html">
+      https://apod.nasa.gov/apod/ap250827.html
      </a>
     </td>
    </tr>
