@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/IMG_4081.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/IMG_4081_1024.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap080411.html">
+       A young crescent moon can be hard to see
+      </a>
+      .  That's because
+      <a href="https://svs.gsfc.nasa.gov/5415/">
+       when the Moon shows
+      </a>
+      it's crescent phase (young or old) it can never be far from the Sun in
+      <a href="https://science.nasa.gov/skywatching/">
+       planet Earth's sky
+      </a>
+      .  And even though the sky is still bright, a slender sunlit lunar crescent is cleary visible in this
+      <a href="https://www.instagram.com/marprol/p/DNyMcT_0JQb/">
+       early evening skyscape
+      </a>
+      .  The telephoto snapshot was captured on August 24, with the Moon very near the western horizon at sunset.  Seen in a narrow crescent phase about 1.5 days old, the visible sunlit portion is a mere two percent of the surface of the Moon's familiar nearside.  At the
+      <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/Maspalomas_station">
+       Canary Islands Space Centre
+      </a>
+      , a steerable radio dish for
+      <a href="https://en.wikipedia.org/wiki/File:Apollo_11_launch_day_communication_relayed_through_Canary_Station.ogg">
+       communication with spacecraft
+      </a>
+      is titled in the direction of the two percent Moon.  The sunset sky's pastel pinkish coloring is partly due to fine sand and dust from the
+      <a href="ap021112.html">
+       Sahara Desert
+      </a>
+      blown by the prevailing winds.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/29
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250829.html">
+      https://apod.nasa.gov/apod/ap250829.html
      </a>
     </td>
    </tr>
