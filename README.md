@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/08/31
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What created this unusual planetary nebula?  Dubbed the Pillow Nebula and the Flying Carpet Nebula,
+      <a href="https://www.spacetelescope.org/news/heic2011/">
+       NGC 7027
+      </a>
+      is one of the smallest, brightest, and most unusually shaped
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      s known.  Given its expansion rate,
+      <a href="https://en.wikipedia.org/wiki/NGC_7027">
+       NGC 7027
+      </a>
+      first started expanding, as visible from Earth, about 600 years ago.   For much of its history, the planetary nebula has been expelling shells,  as seen in blue in the
+      <a href="https://www.instagram.com/p/BSDeLRLgthJ/">
+       featured image
+      </a>
+      by the
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble Space Telescope
+      </a>
+      .   In modern times, though, for
+      <a href="https://i.imgflip.com/2225wb.jpg">
+       reasons unknown
+      </a>
+      ,  it began ejecting gas and dust (seen in brown) in specific directions  that created a new pattern that seems to have
+      <a href="ap210926.html">
+       four corners
+      </a>
+      .  What lies at the nebula's center is unknown, with
+      <a href="https://ui.adsabs.harvard.edu/abs/2020AAS...23530703K/abstract">
+       one hypothesis
+      </a>
+      holding it to be a
+      <a href="ap060521.html">
+       close binary star system
+      </a>
+      where one star sheds gas onto an erratic disk orbiting the other star.  NGC 7027, about 3,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      away, was first discovered in 1878 and
+      <a href="https://www.spacetelescope.org/videos/heic2011d/">
+       can be seen
+      </a>
+      with a standard backyard telescope toward the
+      <a href="https://earthsky.org/astronomy-essentials/definition-what-is-a-constellation-asterism">
+       constellation
+      </a>
+      of the Swan  (
+      <a href="https://en.wikipedia.org/wiki/Cygnus_(constellation)">
+       Cygnus
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/08/30
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250830.html">
+      https://apod.nasa.gov/apod/ap250830.html
      </a>
     </td>
    </tr>
