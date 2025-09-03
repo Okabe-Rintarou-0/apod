@@ -5,6 +5,97 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How soon do jets form when a supernova gives birth to a neutron star?   The Africa Nebula provides clues.   This
+      <a href="https://en.wikipedia.org/wiki/Supernova_remnant">
+       supernova remnant
+      </a>
+      surrounds
+      <a href="ap150805.html">
+       Circinus X-1
+      </a>
+      , an
+      <a href="https://science.nasa.gov/ems/11_xrays/">
+       X-ray
+      </a>
+      emitting
+      <a href="https://science.nasa.gov/universe/neutron-stars-are-weird/">
+       neutron star
+      </a>
+      and the companion star it orbits.   The image, from the
+      <a href="https://science.uct.ac.za/thunderkat/about-us/project">
+       ThunderKAT
+      </a>
+      collaboration on the
+      <a href="https://www.sarao.ac.za/science/meerkat/">
+       MeerKAT
+      </a>
+      radio telescope situated in
+      <a href="https://en.wikipedia.org/wiki/South_Africa">
+       South Africa
+      </a>
+      , shows the bright  core-and-lobe structure of
+      <a href="https://en.wikipedia.org/wiki/Circinus_X-1">
+       Cir X-1
+      </a>
+      ’s currently active
+      <a href="ap230919.html">
+       jets
+      </a>
+      inside the nebula.    A mere 4600 years old, Cir X-1 could be the "Little Sister" of
+      <a href="https://en.wikipedia.org/wiki/Microquasar">
+       microquasar
+      </a>
+      <a href="ap200831.html">
+       SS 433
+      </a>
+      *.   However, the newly discovered bubble exiting from a ring-like hole in the upper right of the nebula, along with a ring to the bottom left, demonstrate that other jets previously existed.
+      <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.541.4011G/abstract">
+       Computer simulations indicate
+      </a>
+      those jets formed within 100 years of the
+      <a href="https://youtu.be/wymMn-SmALY">
+       explosion
+      </a>
+      and lasted up to 1000 years.
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F2oy3au68a8511.jpg">
+       Surprisingly
+      </a>
+      , to create the observed bubble,  the jets need to be more powerful than
+      <a href="https://en.wikipedia.org/wiki/Neutron_star">
+       young neutron star
+      </a>
+      s were previously thought to produce.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/02
   </summary>
   <table>
@@ -18,8 +109,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250902.html">
+      https://apod.nasa.gov/apod/ap250902.html
      </a>
     </td>
    </tr>
