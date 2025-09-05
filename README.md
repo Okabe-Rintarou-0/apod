@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/crtastro_0352.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Also
+      <a href="http://www.messier.seds.org/xtra/ngc/n0104.html">
+       known as NGC 104
+      </a>
+      , 47 Tucanae is a jewel of the southern sky.  Not a star but a dense cluster of stars, it roams the halo of our Milky Way Galaxy along with some 200 other
+      <a href="http://en.wikipedia.org/wiki/Globular_cluster">
+       globular star clusters
+      </a>
+      .  The second brightest globular cluster (after
+      <a href="ap230316.html">
+       Omega Centauri
+      </a>
+      ) as seen from planet Earth, 47 Tuc lies about 13,000 light-years away.  It can be spotted with the naked eye close on the sky to the
+      <a href="ap100903.html">
+       Small Magellanic Cloud
+      </a>
+      in the constellation of
+      <a href="http://www.ianridpath.com/startales/tucana.html">
+       the Toucan
+      </a>
+      .  The dense cluster is made up of hundreds of thousands
+      <a href="ap080906.html">
+       of stars
+      </a>
+      in a volume only about 120 light-years across.
+      <a href="ap081218.html">
+       Red giant stars
+      </a>
+      on the outskirts of the cluster are easy to pick out as yellowish stars in this
+      <a href="https://app.astrobin.com/u/CAPastrophotography?i=y6g3ax#gallery">
+       sharp telescopic portrait
+      </a>
+      .  Tightly packed globular star cluster 47 Tuc is also home to a star with the closest known
+      <a href="https://www.nasa.gov/mission_pages/chandra/news/star-discovered-in-closest-known-orbit-around-likely-black-hole.html">
+       orbit around a black hole
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/04
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250904.html">
+      https://apod.nasa.gov/apod/ap250904.html
      </a>
     </td>
    </tr>
