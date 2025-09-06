@@ -5,6 +5,49 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto1060.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/astronomy-essentials/total-lunar-eclipse-september-7-2025/">
+       When the sun sets on September 7
+      </a>
+      , the Full Moon will rise.  And on that date denizens around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa can witness a total lunar eclipse, with the Moon completely immersed in Earth's shadow.  As the bright Full Moon first enters Earth's shadow it will darken, finally taking on a
+      <a href="ap250325.html">
+       reddish hue during
+      </a>
+      the total eclipse phase.  In fact, the color of the Moon during a total lunar eclipse is due to reddened light from sunrises and sunsets
+      <a href="https://svs.gsfc.nasa.gov/4341">
+       around planet Earth
+      </a>
+      .  The reddened sunlight is scattered by a dense atmosphere into the planet's otherwise dark central shadow.  When the sun set on August 22, this telephoto snapshot of red skies, blue sea, and the Mangiabarche Lighthouse was captured from Sant'Antioco, Sardinia, Italy.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/05
   </summary>
   <table>
@@ -18,8 +61,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250905.html">
+      https://apod.nasa.gov/apod/ap250905.html
      </a>
     </td>
    </tr>
