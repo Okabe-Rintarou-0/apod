@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_2520.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How much of planet Earth is made of water?  Very little, actually.  Although
+      <a href="https://www.youtube.com/watch?v=moSBExlLu2M">
+       oceans of water
+      </a>
+      cover about 70 percent of Earth's surface, these oceans are
+      <a href="http://www.cliffshade.com/colorado/images/earth_anatomy.gif">
+       shallow compared
+      </a>
+      to the Earth's radius.  The
+      <a href="https://www.usgs.gov/media/images/how-much-water-there-earth-0">
+       featured illustration
+      </a>
+      shows what would happen if all of
+      <a href="https://www.usgs.gov/media/images/all-earths-water-a-single-sphere">
+       the water
+      </a>
+      on or near the surface of the Earth were bunched up into a
+      <a href="https://i.redd.it/n6ujzlqv19p51.jpg">
+       ball
+      </a>
+      .  The radius of this ball would be only about 700 kilometers,  less than half the radius of the
+      <a href="https://science.nasa.gov/moon/">
+       Earth's Moon
+      </a>
+      , but slightly larger than Saturn's moon
+      <a href="https://en.wikipedia.org/wiki/Rhea_(moon)">
+       Rhea
+      </a>
+      which, like many moons in our outer
+      <a href="https://science.nasa.gov/solar-system/">
+       Solar System
+      </a>
+      , is mostly water ice.  The next smallest ball depicts all of
+      <a href="ap220206.html">
+       Earth
+      </a>
+      's liquid fresh water, while the tiniest ball  shows the volume of all of Earth's
+      <a href="ap181218.html">
+       fresh-water lake
+      </a>
+      s and
+      <a href="ap180826.html">
+       river
+      </a>
+      s.  How any of this
+      <a href="https://en.wikipedia.org/wiki/Origin_of_water_on_Earth">
+       water came
+      </a>
+      to be on
+      <a href="ap970316.html">
+       the Earth
+      </a>
+      and whether any significant amount is trapped far
+      <a href="https://ssec.si.edu/stemvisions-blog/there-ocean-below-your-feet">
+       beneath Earth
+      </a>
+      's surface remain
+      <a href="https://arxiv.org/abs/2503.17906">
+       topic
+      </a>
+      s of research.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/06
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250906.html">
+      https://apod.nasa.gov/apod/ap250906.html
      </a>
     </td>
    </tr>
