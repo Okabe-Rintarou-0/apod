@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/IrasDisk_Webb_2045.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/IrasDisk_Webb_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This butterfly can hatch planets.  The nebula fanning out from the star
+      <a href="https://esawebb.org/videos/potm2508a/">
+       IRAS 04302+2247
+      </a>
+      may look like the wings of a
+      <a href="https://en.wikipedia.org/wiki/Butterfly#/media/File:Maculinea_arion_Large_Blue_Upperside_SFrance_2009-07-18.jpg">
+       butterfly
+      </a>
+      ,  while the vertical brown stripe down the center  may look like the butterfly's body -- but
+      <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...961...95V/abstract">
+       together they indicate
+      </a>
+      an active
+      <a href="https://science.nasa.gov/exoplanets/how-do-planets-form/">
+       planet-forming system
+      </a>
+      .  The
+      <a href="https://esawebb.org/images/potm2508a/">
+       featured picture
+      </a>
+      was captured recently in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared light
+      </a>
+      by the
+      <a href="https://science.nasa.gov/mission/webb/">
+       Webb Space Telescope
+      </a>
+      .  Pictured, the vertical disk is thick with the gas and
+      <a href="https://en.wikipedia.org/wiki/Cosmic_dust">
+       dust
+      </a>
+      from which planets form.  The disk shades
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible
+      </a>
+      and (most) infrared light from the central star,  allowing a good view of the surrounding dust that
+      <a href="ap121026.html">
+       reflects
+      </a>
+      out light.  In the next few million years, the
+      <a href="ap230511.html">
+       dust disk
+      </a>
+      will likely
+      <a href="ap250827.html">
+       fragment into rings
+      </a>
+      through the gravity of newly hatched planets.   And a
+      <a href="https://cdn.mos.cms.futurecdn.net/cqaVRijvu7UFERhoD2cWpH.png">
+       billion years from now
+      </a>
+      ,  the remaining gas and dust will likely dissipate,  leaving mainly the planets -- like in
+      <a href="https://eyes.nasa.gov/apps/solar-system/#/home">
+       our Solar System
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/07
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250907.html">
+      https://apod.nasa.gov/apod/ap250907.html
      </a>
     </td>
    </tr>
