@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_5509.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It is one of the largest nebulas on the sky -- why isn't it better known?  Roughly the same angular size as the
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/">
+       Andromeda Galaxy
+      </a>
+      , the Great Lacerta Nebula can be found toward the
+      <a href="https://astro4edu.org/resources/diagram/YQ69V022qi60/">
+       constellation of the Lizard (Lacerta)
+      </a>
+      .  The
+      <a href="https://en.wikipedia.org/wiki/Emission_nebula">
+       emission nebula
+      </a>
+      is difficult to see with  wide-field binoculars because
+      <a href="https://en.wikipedia.org/wiki/List_of_the_most_distant_astronomical_objects">
+       it is so faint
+      </a>
+      , but also usually
+      <a href="https://www.reddit.com/r/pics/comments/4vi9kq/find_a_cat/">
+       difficult to see
+      </a>
+      with a  large telescope because it is so great in angle -- spanning about three
+      <a href="https://www.geogebra.org/m/atq6mr3a">
+       degrees
+      </a>
+      .  The depth, breadth,
+      <a href="https://science.nasa.gov/ems/03_behaviors/">
+       waves
+      </a>
+      , and beauty of the nebula -- cataloged as
+      <a href="https://www.astrobin.com/6egtl5/">
+       Sharpless 126 (Sh2-126)
+      </a>
+      --  can best be seen and appreciated with a
+      <a href="ap200329.html">
+       long duration camera exposure
+      </a>
+      .  The featured image is one such combined exposure -- in this case  taken over three nights in August through dark skies in
+      <a href="https://youtu.be/TWA_2KnNjb4">
+       Moses Lake
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Washington_(state)">
+       Washington
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      .  The
+      <a href="ap161024.html">
+       hydrogen
+      </a>
+      gas in the Great Lacerta Nebula
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       glows red
+      </a>
+      because it is excited by light from the bright star
+      <a href="https://open.spotify.com/episode/6KLAtMAMknWsqpvmMHna0C">
+       10 Lacertae
+      </a>
+      , one of the bright blue stars  just to the left of the red-glowing nebula's center.   Most of the stars and nebula are about 1,200
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light years
+      </a>
+      distant.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/09
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250909.html">
+      https://apod.nasa.gov/apod/ap250909.html
      </a>
     </td>
    </tr>
