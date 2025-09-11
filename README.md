@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/UmbraEarth.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/UmbraEarth1050.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The dark, inner shadow of planet Earth is called
+      <a href="ap060909.html">
+       the umbra
+      </a>
+      .  Shaped like a cone extending into space, it has a circular cross section most easily seen during a
+      <a href="https://solarsystem.nasa.gov/moons/earths-moon/lunar-eclipses/">
+       lunar eclipse
+      </a>
+      .  And on the night of September 7/8 the
+      <a href="https://earthsky.org/astronomy-essentials/total-lunar-eclipse-september-7-2025/">
+       Full Moon passed
+      </a>
+      near the center of Earth's umbral cone,
+      <a href="ap190125.html">
+       entertaining
+      </a>
+      eclipse watchers around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa.  Recorded from Zhangjiakou City, China, this timelapse composite image uses successive pictures from
+      <a href="https://science.nasa.gov/moon/eclipses/">
+       the total lunar eclipse
+      </a>
+      , progressing left to right, to reveal the curved cross-section of the
+      <a href="ap080820.html">
+       umbral shadow
+      </a>
+      sliding across the Moon.  Sunlight scattered by the atmosphere into Earth's umbra causes the lunar surface to appear reddened during totality.  But close to the umbra's edge, the limb of the eclipsed Moon shows a distinct blue hue.
+      <a href="ap151003.html">
+       The blue eclipsed
+      </a>
+      moonlight originates as rays of sunlight pass through layers high in the upper stratosphere, colored by ozone that scatters red light and transmits blue.  In the total phase of this
+      <a href="https://en.wikipedia.org/wiki/Lunar_eclipse#Total_lunar_eclipse">
+       leisurely lunar eclipse
+      </a>
+      , the Moon was completely within the Earth's umbra for about 83 minutes.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/10
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250910.html">
+      https://apod.nasa.gov/apod/ap250910.html
      </a>
     </td>
    </tr>
