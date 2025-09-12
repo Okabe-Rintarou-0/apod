@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text1065.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/astronomy-essentials/total-lunar-eclipse-september-7-2025/">
+       September's total lunar eclipse
+      </a>
+      is tracked across night skies from both the northern and southern hemispheres of
+      <a href="https://science.nasa.gov/earth/">
+       planet Earth
+      </a>
+      in these two dramatic timelapse series.  In the northern hemisphere sequence (top panel) the Moon’s trail arcs from the upper left to the lower right.  It passes below bright planet Saturn, seen under mostly clear skies from the international campus of Zhejiang University in China at about 30 degrees north latitude.  In contrast, the southern hemisphere view from Lake Griffin, Canberra, Australia at 35 degrees south latitude, records the Moon’s trail from the upper right to the lower left.  Multiple
+      <a href="ap250727.html">
+       lightning flashes
+      </a>
+      from thunderstorms near the horizon appear reflected in the lake.  Both sequences were photographed with 16mm wide-angle lenses and both cover
+      <a href="https://science.nasa.gov/moon/eclipses/">
+       the entire eclipse
+      </a>
+      , with the darkened red Moon totally immersed in Earth's
+      <a href="ap250911.html">
+       umbral shadow
+      </a>
+      near center.  But the different orientations of the Moon’s path across the sky reveal the perspective shifts caused by the views from
+      <a href="ap100115.html">
+       northern vs. southern latitudes
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/11
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250911.html">
+      https://apod.nasa.gov/apod/ap250911.html
      </a>
     </td>
    </tr>
