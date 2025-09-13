@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope2100.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope1050.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The steerable 60 foot diameter dish antenna of the One-Mile Telescope at
+      <a href="https://en.wikipedia.org/wiki/Mullard_Radio_Astronomy_Observatory">
+       Mullard Radio Astronomy Observatory
+      </a>
+      , Cambridge, UK, is
+      <a href="https://www.joaoysphotography.com/portfolio?pgid=izo2cln4-f5684d4a-6f79-49cd-a911-84e93c45d8d0">
+       pointing skyward
+      </a>
+      in this evocative night-skyscape.  To capture the dramatic scene, consecutive 30 second exposures were recorded over a period of 90 minutes.  Combined, the exposures reveal a background of gracefully arcing star trails that reflect planet Earth's daily
+      <a href="ap090909.html">
+       rotation on its axis
+      </a>
+      .  The
+      <a href="ap250605.html">
+       North Celestial Pole
+      </a>
+      , the extension of Earth's axis of rotation into space, points near Polaris, the
+      <a href="ap110514.html">
+       North Star
+      </a>
+      .  That's the bright star that creates the short trail near the center of the
+      <a href="ap100212.html">
+       concentric arcs
+      </a>
+      .  But the
+      <a href="https://en.wikipedia.org/wiki/One-Mile_Telescope">
+       historic One-Mile Telescope
+      </a>
+      array also relied on planet Earth's rotation to operate.  Exploring the universe at
+      <a href="ap180713.html">
+       radio wavelengths
+      </a>
+      , it was the first radio telescope to use Earth-rotation aperture synthesis.
+      <a href="https://ui.adsabs.harvard.edu/abs/1973IEEEP..61.1211F/abstract">
+       That technique
+      </a>
+      uses the rotation of the Earth to change the relative orientation of the telescope array and celestial radio sources to create
+      <a href="https://public.nrao.edu/vlass/">
+       radio maps of the sky
+      </a>
+      at a resolution better than that of the human eye.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/12
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250912.html">
+      https://apod.nasa.gov/apod/ap250912.html
      </a>
     </td>
    </tr>
