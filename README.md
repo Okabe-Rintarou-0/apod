@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_1267.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A newly discovered comet is already visible with binoculars.  The comet,
+      <a href="https://en.wikipedia.org/wiki/C/2025_R2_(SWAN)">
+       C/2025 R2 (SWAN)
+      </a>
+      and nicknamed SWAN25B,  is brightening significantly as it emerges from the  Sun's direction and might soon become visible on your smartphone --  if not
+      <a href="https://media.istockphoto.com/id/1128004359/photo/close-up-scottish-fold-cat-head-with-shocking-face-and-wide-open-eyes-frighten-or-surprised.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=HglQ8Nf1PslTuI91T-dfhkln-iEbchjqfhGKCWTbaxg=">
+       your eyes
+      </a>
+      .  Although the brightnesses of
+      <a href="https://science.nasa.gov/solar-system/comets/">
+       comets
+      </a>
+      are notoriously hard to predict,  many comets appear brighter as they approach the Earth, with
+      <a href="https://earthsky.org/space/new-comet-swan25b-2025/">
+       SWAN25B
+      </a>
+      reaching only a quarter of the Earth-Sun distance near October 19.   Nighttime
+      <a href="ap040808.html">
+       skygazers
+      </a>
+      will also be watching for a
+      <a href="https://skyandtelescope.org/astronomy-news/new-comet-swan25-pops-out-from-behind-the-sun/">
+       SWAN25B
+      </a>
+      -spawned meteor shower around  October 5 when our Earth passes through the plane of the
+      <a href="ap240811.html">
+       comet's orbit
+      </a>
+      .  The unexpectedly
+      <a href="https://theskylive.com/articles/2025/09/comet-swan25b-updates">
+       bright comet
+      </a>
+      was discovered by an  amateur astronomer in images of the
+      <a href="https://soho.nascom.nasa.gov/data/summary/swan/">
+       SWAN
+      </a>
+      instrument on
+      <a href="https://www.nasa.gov/">
+       NASA
+      </a>
+      's
+      <a href="https://soho.nascom.nasa.gov/about/about.html">
+       SOHO satellite
+      </a>
+      .   The comet is currently best observed in southern skies but is slowly moving north.   The featured image was captured at sunset three days ago  just above the western horizon in
+      <a href="https://youtu.be/JiIIAFeW56E">
+       Zacatecas
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Mexico">
+       Mexico
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/13
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250915.html">
+      https://apod.nasa.gov/apod/ap250915.html
      </a>
     </td>
    </tr>
