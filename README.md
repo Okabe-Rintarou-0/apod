@@ -5,6 +5,84 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_4550.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Can you spot famous celestial objects in this image?   18th-century astronomer
+      <a href="https://science.nasa.gov/people/explore-the-night-sky-hubbleatms-messier-catalog-bio/">
+       Charles Messier
+      </a>
+      cataloged only two of them: the bright
+      <a href="ap250625.html">
+       Lagoon Nebula
+      </a>
+      (M8) at the bottom, and the colorful
+      <a href="ap240704.html">
+       Trifid Nebula
+      </a>
+      (M20) at the upper right.   The one on the left that resembles a
+      <a href="https://people.com/thmb/-ZwPce1JwYWjaTIEYYXePkDAFWo=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(144x0:146x2)/000829300-1-166c18e3f54846d287baa774ae29b18e.jpg">
+       cat's paw
+      </a>
+      is
+      <a href="ap230710.html">
+       NGC 6559
+      </a>
+      ,  and it is much fainter than the other two.   Even harder to spot are the thin blue filaments on the left, from
+      <a href="https://science.gsfc.nasa.gov/662/research/snrs.html">
+       supernova remnant
+      </a>
+      (SNR G007.5-01.7).   Their glow comes from small amounts of
+      <a href="https://en.wikipedia.org/wiki/Doubly_ionized_oxygen">
+       glowing oxygen atoms
+      </a>
+      that are so faint that it took over
+      <a href="https://app.astrobin.com/i/jliezm">
+       17 hours of exposure
+      </a>
+      with just one blue color to bring up.  Framing this scene of stellar birth and death are two star clusters: the
+      <a href="https://en.wikipedia.org/wiki/Open_cluster">
+       open cluster
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Messier_21">
+       M21
+      </a>
+      just above Trifid, and the
+      <a href="https://en.wikipedia.org/wiki/Globular_cluster">
+       globular cluster
+      </a>
+      <a href="https://esahubble.org/images/potw2325a/">
+       NGC 6544
+      </a>
+      at lower left.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/16
   </summary>
   <table>
@@ -18,8 +96,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250916.html">
+      https://apod.nasa.gov/apod/ap250916.html
      </a>
     </td>
    </tr>
