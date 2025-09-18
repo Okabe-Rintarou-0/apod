@@ -5,6 +5,77 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/C2025R2_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/C2025R2_1066.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap250916.html">
+       A new visitor
+      </a>
+      from the outer
+      <a href="https://science.nasa.gov/solar-system/">
+       Solar System
+      </a>
+      , comet
+      <a href="https://earthsky.org/space/new-comet-swan25b-2025/">
+       C/2025 R2 (SWAN) also
+      </a>
+      known as SWAN25B was only discovered late last week, on September 11.  That's just day before the comet reached perihelion, its closest approach to the Sun.
+      <a href="https://en.wikipedia.org/wiki/C/2025_R2_(SWAN)#Observational_history">
+       First spotted by Vladimir Bezugly
+      </a>
+      in images from the SWAN instrument on the
+      <a href="https://science.nasa.gov/mission/soho/">
+       sun-staring SOHO
+      </a>
+      spacecraft, the comet was surprisingly bright but understandably difficult to see against the Sun's glare.  Still close to the Sun on the sky, the greenish
+      <a href="https://spaceplace.nasa.gov/comets/en/">
+       coma and tail
+      </a>
+      of  C/2025 R2 (SWAN) are captured in
+      <a href="https://app.astrobin.com/i/i5qsgj">
+       this telescopic snapshot
+      </a>
+      from September 17.  Spica, alpha star of the constellation Virgo, shines just beyond the upper left edge of the frame while the comet is about 6.5 light-minutes from planet Earth.  Near the western horizon after sunset and slightly
+      <a href="https://cobs.si/obs_list?id=2659">
+       easier to see
+      </a>
+      in binoculars from the southern hemisphere, this comet SWAN will pass near
+      <a href="ap040514.html">
+       Zubenelgenubi
+      </a>
+      , alpha star of Libra, on October 2.
+      <a href="https://theskylive.com/c2025r2-info">
+       C/2025 R2 (SWAN)
+      </a>
+      is scheduled to make its closest approach to our fair planet around October 20.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/17
   </summary>
   <table>
@@ -18,8 +89,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250917.html">
+      https://apod.nasa.gov/apod/ap250917.html
      </a>
     </td>
    </tr>
