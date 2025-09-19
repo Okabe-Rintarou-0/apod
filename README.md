@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/NGC6914_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/NGC6914_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A study in contrasts,
+      <a href="https://www.instagram.com/colorado_astro/p/DOqovC8kZC4/">
+       this colorful cosmic skyscape
+      </a>
+      features
+      <a href="https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-unveil-our-home-galaxy-using-cosmic-dust/">
+       stars, dust, and glowing gas
+      </a>
+      in the vicinity of NGC 6914.  The
+      <a href="https://app.astrobin.com/i/mrfz6c">
+       interstellar complex of nebulae
+      </a>
+      lies some 6,000 light-years away, toward the high-flying northern constellation
+      <a href="ap070920.html">
+       Cygnus and the plane
+      </a>
+      of our Milky Way Galaxy.  Obscuring interstellar dust clouds appear in silhouette while reddish hydrogen
+      <a href="http://astronomy.swin.edu.au/cosmos/E/Emission+Nebula">
+       emission nebulae
+      </a>
+      , along with the dusty blue
+      <a href="http://astronomy.swin.edu.au/cosmos/E/Reflection+Nebula">
+       reflection nebulae
+      </a>
+      , fill the cosmic canvas.  Ultraviolet radiation from the massive, hot, young stars of the extensive
+      <a href="http://arxiv.org/abs/1003.2463">
+       Cygnus OB2
+      </a>
+      association ionize the region's atomic
+      <a href="ap051223.html">
+       hydrogen gas
+      </a>
+      , producing the characteristic red glow as protons and electrons recombine.  Embedded Cygnus OB2 stars also provide the blue starlight strongly reflected by the dust clouds.  The over one degree wide telescopic field of view spans about 100 light-years at the estimated distance of NGC 6914.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/18
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250918.html">
+      https://apod.nasa.gov/apod/ap250918.html
      </a>
     </td>
    </tr>
