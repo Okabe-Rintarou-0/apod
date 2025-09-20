@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logo.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logoC1052.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Early risers around planet
+      <a href="https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/">
+       Earth have enjoyed
+      </a>
+      a shining crescent Moon near brilliant Venus, close to the eastern horizon in recent morning twilight skies.  And yesterday, on September 19, skygazers watching from some locations in Earth's northern hemisphere were also able to witness Venus, in the inner planet's waxing
+      <a href="ap240108.html">
+       gibbous phase
+      </a>
+      ,  pass behind the Moon's
+      <a href="ap231116.html">
+       waning crescent
+      </a>
+      .  In fact,
+      <a href="https://www.instagram.com/the_space_koala/p/DOyd9I3CNaW/">
+       this telescopic snapshot
+      </a>
+      was taken moments before
+      <a href="https://in-the-sky.org/news.php?id=20250919_16_100">
+       that occultation
+      </a>
+      of gibbous Venus by the crescent Moon began.  The close-up view of the beautiful celestial alignment records Venus approaching part of the Moon's sunlit edge in clear daytime skies from the Swiss Alps.
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/">
+       Tomorrow
+      </a>
+      , the Sun will pass behind a New Moon.  But to witness that partial solar eclipse on September 21, skygazers will
+      <a href="https://www.timeanddate.com/eclipse/solar/2025-september-21">
+       need to watch
+      </a>
+      from locations in planet Earth's southern hemisphere.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/19
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250919.html">
+      https://apod.nasa.gov/apod/ap250919.html
      </a>
     </td>
    </tr>
