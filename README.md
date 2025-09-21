@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_2400.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Does the Sun set in the same direction every day?  No, the direction of sunset depends on the time of the year.  Although the Sun always sets approximately toward the west, on an
+      <a href="https://en.wikipedia.org/wiki/Equinox">
+       equinox
+      </a>
+      like today the Sun sets directly
+      <a href="ap160320.html">
+       toward the west
+      </a>
+      .  After tomorrow's September equinox, the Sun will set  increasingly toward the southwest,  reaching its maximum displacement at the December
+      <a href="https://scijinks.gov/solstice/">
+       solstice
+      </a>
+      .   Before today's September equinox,
+      <a href="https://science.nasa.gov/sun/facts/">
+       the Sun
+      </a>
+      had set toward the northwest,  reaching its maximum displacement at the June
+      <a href="https://www.earthobservatory.nasa.gov/images/6125/winter-and-summer-solstice">
+       solstice
+      </a>
+      .  The
+      <a href="https://www.flickr.com/photos/53851348@N05/50060841252/">
+       featured time-lapse image
+      </a>
+      shows
+      <a href="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy80MTY0OTM1L29yaWdpbi5qcGciLCJleHBpcmVzX2F0IjoxNjU2MzkwNjUzfQ.oEzGneq4AlUBqfkKM3hSug_FIsNxZmOoXkX9emNOF2g/img.jpg?width=980">
+       seven bands
+      </a>
+      of the Sun  setting one day each month from 2019 December through 2020 June.   These image sequences were taken from
+      <a href="https://youtu.be/COtpTM1MpAA">
+       Alberta
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Canada">
+       Canada
+      </a>
+      --  well north of the Earth's equator -- and feature the city of
+      <a href="https://youtu.be/sOiBfm_fuu4">
+       Edmonton
+      </a>
+      in the foreground.    The
+      <a href="ap200212.html">
+       middle band
+      </a>
+      shows the Sun  setting during the last equinox -- in March.   From
+      <a href="ap160922.html">
+       this location
+      </a>
+      , the Sun will set along this same
+      <a href="https://en.wikipedia.org/wiki/Equinox_(Bulgarian_band)">
+       equinox band
+      </a>
+      again tomorrow.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/20
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250920.html">
+      https://apod.nasa.gov/apod/ap250920.html
      </a>
     </td>
    </tr>
