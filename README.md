@@ -5,6 +5,141 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_6357.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How massive can a normal star be?    Estimates made from distance, brightness and standard
+      <a href="http://spiff.rit.edu/classes/phys230/lectures/star_age/star_age.html">
+       solar models
+      </a>
+      had given one star in the
+      <a href="open_clusters.html">
+       open cluster
+      </a>
+      Pismis 24 over
+      <a href="https://en.wikipedia.org/wiki/NGC_6357#Pismis_24">
+       200 times
+      </a>
+      the mass of our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      ,  making it one of the
+      <a href="https://en.wikipedia.org/wiki/List_of_most_massive_stars">
+       most massive stars
+      </a>
+      known.   This
+      <a href="https://science.nasa.gov/universe/stars/">
+       star
+      </a>
+      is the brightest object
+      <a href="https://www.youtube.com/watch?v=iLbY7PYzku8">
+       located
+      </a>
+      in the central
+      <a href="https://t3.ftcdn.net/jpg/08/33/26/14/360_F_833261466_b88xwq428xBEi2IEabTgX9jXOGjozkXR.jpg">
+       cavity
+      </a>
+      near the bottom center of the
+      <a href="https://webbtelescope.org/contents/news-releases/2025/news-2025-136">
+       featured image
+      </a>
+      taken with the
+      <a href="https://science.nasa.gov/mission/webb/">
+       Webb Space Telescope
+      </a>
+      in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      light.   For comparison, a
+      <a href="https://www.htmldog.com/techniques/rollovers/">
+       rollover
+      </a>
+      image from the
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble Space Telescope
+      </a>
+      is also featured in
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible
+      </a>
+      light.  Close inspection of the
+      <a href="https://esawebb.org/news/weic2518/">
+       images
+      </a>
+      ,   however, has shown that Pismis 24-1 derives its brilliant luminosity
+      <a href="https://www.spacetelescope.org/news/heic0619/">
+       not from a single star
+      </a>
+      but from
+      <a href="https://ui.adsabs.harvard.edu/abs/2007ApJ...660.1480M/abstract">
+       three
+      </a>
+      at least.
+      <a href="ap160205.html">
+       Component stars
+      </a>
+      would still remain near 100 solar masses,
+      <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.154B/abstract">
+       making
+      </a>
+      them among the more
+      <a href="https://en.wikipedia.org/wiki/List_of_most_massive_stars">
+       massive stars
+      </a>
+      currently on record.    Toward the bottom of the image,
+      <a href="http://asterisk.apod.com/viewtopic.php?f=24&amp;t=18010">
+       stars
+      </a>
+      are still forming in the associated
+      <a href="emission_nebulae.html">
+       emission nebula
+      </a>
+      <a href="ap081009.html">
+       NGC 6357
+      </a>
+      .  Appearing perhaps like a
+      <a href="http://upload.wikimedia.org/wikipedia/commons/6/65/Catedral_Metropolitana_de_Sao_Paulo_1_Brasil-edit-01.jpg">
+       Gothic cathedral
+      </a>
+      ,  energetic stars near the center appear to be
+      <a href="http://cdn.images.express.co.uk/img/dynamic/1/590x/cat-439127.jpg">
+       breaking out
+      </a>
+      and illuminating a
+      <a href="ap231224.html">
+       spectacular cocoon
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/22
   </summary>
   <table>
@@ -18,8 +153,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250922.html">
+      https://apod.nasa.gov/apod/ap250922.html
      </a>
     </td>
    </tr>
