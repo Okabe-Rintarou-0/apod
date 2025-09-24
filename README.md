@@ -5,6 +5,101 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_2400.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It was the strongest gravitational wave signal yet measured -- what did it show?
+      <a href="https://en.wikipedia.org/wiki/GW250114">
+       GW250114
+      </a>
+      was detected by both arms of the
+      <a href="https://www.ligo.caltech.edu/">
+       Laser Interferometer Gravitational-wave Observatory
+      </a>
+      (LIGO)  in
+      <a href="https://en.wikipedia.org/wiki/Washington_(state)">
+       Washington
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Louisiana">
+       Louisiana
+      </a>
+      <a href="https://www.cia.gov/the-world-factbook/countries/united-states/">
+       USA
+      </a>
+      earlier this year.   Analysis showed that the event was created when two
+      <a href="https://spaceplace.nasa.gov/black-holes/">
+       black holes
+      </a>
+      , each of mass around 33 times the mass of the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      ,  coalesced into one larger
+      <a href="https://science.nasa.gov/universe/black-holes/">
+       black hole
+      </a>
+      with a mass of around 63 solar masses.   Even though the event happened about a billion light years away,  the signal was so strong that the spin of all
+      <a href="ap191001.html">
+       black holes
+      </a>
+      , as well  as initial
+      <a href="https://www.caltech.edu/about/news/first-overtones-heard-ringing-black-hole">
+       ringing
+      </a>
+      of the final black hole,  was deduced with
+      <a href="https://i.pinimg.com/736x/ea/de/1f/eade1feca67faed06570cf5495621746.jpg">
+       exceptional accuracy
+      </a>
+      .  Furthermore, it was confirmed better than before, as
+      <a href="https://en.wikipedia.org/wiki/Black_hole_thermodynamics#Second_law_2">
+       previously predicted
+      </a>
+      , that the total
+      <a href="https://science.nasa.gov/universe/black-holes/anatomy/">
+       event horizon
+      </a>
+      area of the combined black hole was greater than those of the
+      <a href="ap190414.html">
+       merging black holes
+      </a>
+      .  Featured, an
+      <a href="https://www.ligo.caltech.edu/WA/image/ligo20250910a">
+       artist's illustration
+      </a>
+      depicts an  imaginative and conceptual view from near one of the
+      <a href="https://apod.nasa.gov/htmltest/rjn_bht.html">
+       black holes
+      </a>
+      before collision.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/23
   </summary>
   <table>
@@ -18,8 +113,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250923.html">
+      https://apod.nasa.gov/apod/ap250923.html
      </a>
     </td>
    </tr>
