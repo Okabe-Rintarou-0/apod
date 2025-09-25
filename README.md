@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/DSC05293.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This year
+      <a href="https://earthsky.org/astronomy-essentials/saturn-at-opposition-closest-brightest-best/">
+       Saturn was at opposition
+      </a>
+      on September 21, opposite the Sun in planet Earth's sky.  At its closest to Earth, Saturn was also at its brightest of the year, rising as the Sun set and shining above the horizon all night long among the fainter stars of the constellation Pisces.  In this snapshot from the
+      <a href="https://en.wikipedia.org/wiki/Wide_Field_Survey_Telescope">
+       Qinghai Lenghu Observatory
+      </a>
+      , Tibetan Plateau, southwestern China, the outer planet is immersed in a faint, diffuse oval of light known as
+      <a href="ap080507.html">
+       the gegenschein
+      </a>
+      or counter glow.  The diffuse gegenschein is produced by sunlight backscattered by
+      <a href="ap210311.html">
+       interplanetary dust
+      </a>
+      along the Solar System's
+      <a href="https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/#hds-sidebar-nav-1">
+       ecliptic plane
+      </a>
+      , opposite the Sun in planet Earth's sky.  Like a giant eye, on this dark night Saturn and gegenschein seem to stare down on the observatory's telescope domes seen against a colorful background of airglow along the horizon.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/24
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250924.html">
+      https://apod.nasa.gov/apod/ap250924.html
      </a>
     </td>
    </tr>
