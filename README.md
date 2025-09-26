@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap250916.html">
+       A new visitor to
+      </a>
+      the inner Solar System, comet
+      <a href="https://earthsky.org/space/new-comet-swan25b-2025/">
+       C/2025 R2 (SWAN)
+      </a>
+      sports a long ion tail extending diagonally across this almost 7 degree wide telescopic field of view
+      <a href="https://app.astrobin.com/i/vf43w6">
+       recorded on September 21
+      </a>
+      .  A fainter fellow comet also making its inner Solar System debut,
+      <a href="https://theskylive.com/c2025k1-info">
+       C/2025 K1 (ATLAS)
+      </a>
+      , can be spotted above and left of SWAN's greenish coma, just visible against the background sea of stars in the constellation Virgo.  Both new comets were only discovered in 2025 and are joined in this celestial frame by ruddy planet Mars (bottom), a more familiar wanderer in planet Earth's night skies.  The
+      <a href="https://science.nasa.gov/solar-system/comets/facts/">
+       comets
+      </a>
+      may appear to be in a race, nearly neck and neck in their voyage through the inner Solar System and around the Sun.  But this comet SWAN has already reached its perihelion or closest approach to the Sun on September 12 and is now outbound along its orbit.
+      <a href="https://www.skyatnightmagazine.com/news/c-2025-k1-atlas">
+       This comet ATLAS
+      </a>
+      is still inbound though, and will make its  perihelion passage on October 8.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/25
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250925.html">
+      https://apod.nasa.gov/apod/ap250925.html
      </a>
     </td>
    </tr>
