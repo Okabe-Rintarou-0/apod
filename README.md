@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001.JPG">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/blogs/imap/2025/09/24/liftoff-three-new-space-weather-spacecraft-soar-into-florida-sky/">
+       On the morning of September 24
+      </a>
+      a rocket crosses the bright solar disk in this long range telescopic snapshot captured from Orlando, Florida.  That's about 50 miles north of its Kennedy Space Center launch site.  This rocket carried three new space weather missions to space.  Signals have now been successfully acquired
+      <a href="https://science.nasa.gov/blogs/imap/">
+       from all three
+      </a>
+      - NASA's Interstellar Mapping and Acceleration Probe, NASA’s Carruthers
+      <a href="ap181028.html">
+       Geocorona
+      </a>
+      Observatory, and the National Oceanic and Atmospheric Administration (NOAA) Space Weather Follow-On Lagrange 1 (SWFO-L1) - as they begin their journey to L1, an Earth-Sun lagrange point.
+      <a href="https://www.esa.int/Science_Exploration/Space_Science/L1_the_first_Lagrangian_Point">
+       L1 is about 1.5 million kilometers
+      </a>
+      in the sunward direction from planet Earth.  Appropriately, major space weather influencers, aka dark sunspots in active regions across the Sun, are posing with the transiting rocket.
+      <a href="https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/">
+       In fact, large active region
+      </a>
+      AR4225 is just right of the rocket's nose.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/26
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250926.html">
+      https://apod.nasa.gov/apod/ap250926.html
      </a>
     </td>
    </tr>
