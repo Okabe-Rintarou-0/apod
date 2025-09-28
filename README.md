@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_1648.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What is creating these unusual spots?  Light-colored spots on
+      <a href="ap991030.html">
+       Martian rocks
+      </a>
+      ,  each surrounded by a dark border, were discovered last year by
+      <a href="https://www.nasa.gov/">
+       NASA
+      </a>
+      's
+      <a href="https://science.nasa.gov/mission/mars-2020-perseverance/">
+       Perseverance Rover
+      </a>
+      currently exploring
+      <a href="https://science.nasa.gov/mars/">
+       Mars
+      </a>
+      .   Dubbed
+      <a href="https://en.wikipedia.org/wiki/Leopard#/media/File:African_leopard_male_(cropped).jpg">
+       leopard
+      </a>
+      spots because of their seemingly similarity to markings on famous
+      <a href="https://img.freepik.com/premium-photo/front-view-kitten-hunting-pose_7502-2520.jpg">
+       Earth-bound predators
+      </a>
+      , these curious patterns are being studied with the possibility they were created by
+      <a href="https://science.nasa.gov/blogs/was-there-life-on-mars/">
+       ancient Martian life
+      </a>
+      .   The
+      <a href="https://science.nasa.gov/resource/perseverance-finds-a-rock-with-leopard-spots/">
+       pictured
+      </a>
+      spots measure only
+      <a href="https://www.quora.com/What-is-something-the-size-of-a-millimeter">
+       millimeter
+      </a>
+      s across and were discovered on a
+      <a href="https://www.flickr.com/photos/lunexit/53885766401/in/pool-apods/">
+       larger rock
+      </a>
+      named
+      <a href='https://youtu.be/bknMDwCjFHo"'>
+       Cheyava Falls
+      </a>
+      .   The exciting but
+      <a href="https://www.scientificamerican.com/article/nasas-perseverance-rover-discovers-a-rock-that-may-contain-alien/">
+       unproven speculation
+      </a>
+      is that long ago,
+      <a href="https://en.wikipedia.org/wiki/Microorganism">
+       microbe
+      </a>
+      s  generated energy with chemical reactions that  turned rock from red to white while leaving a dark biosignature ring,  like some
+      <a href="https://www.atlasobscura.com/articles/earliest-life-on-earth-rocks">
+       similarly appearing spots
+      </a>
+      on
+      <a href="https://www.geocaching.com/geocache/GC3T4BT">
+       Earth rocks
+      </a>
+      .  Although other
+      <a href="https://en.wikipedia.org/wiki/Hematite#Mars">
+       non-biological explanations
+      </a>
+      have not been ruled out,   speculation focusing on this potential biological origin is causing
+      <a href="https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/">
+       much intrigue
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/27
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250927.html">
+      https://apod.nasa.gov/apod/ap250927.html
      </a>
     </td>
    </tr>
