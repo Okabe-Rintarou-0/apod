@@ -5,6 +5,93 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It may look like these comets are racing, but they are not.  Comets
+      <a href="https://en.wikipedia.org/wiki/C/2025_K1_(ATLAS)">
+       C/2025 K1 ATLAS
+      </a>
+      (left) and
+      <a href="https://en.wikipedia.org/wiki/C/2025_R2_(SWAN)">
+       C/2025 R2 SWAN
+      </a>
+      (right)  appeared near each other by chance last week in the
+      <a href="https://www.facebook.com/photo?fbid=1310580907110669&amp;set=a.216372196531551">
+       featured image
+      </a>
+      taken from France's
+      <a href="https://en.wikipedia.org/wiki/R%C3%A9union">
+       Reunion
+      </a>
+      <a href="https://youtu.be/MUEVBSiWWR8">
+       Island
+      </a>
+      in the southern
+      <a href="https://en.wikipedia.org/wiki/Indian_Ocean">
+       Indian Ocean
+      </a>
+      .   Fainter
+      <a href="https://www.skyatnightmagazine.com/news/c-2025-k1-atlas">
+       Comet ATLAS
+      </a>
+      is approaching our Sun and will reach its closest approach in early October when it is also expected to be its brightest -- although still only
+      <a href="https://theskylive.com/c2025k1-info">
+       likely visible
+      </a>
+      with long exposures on a camera.   The brighter comet, nicknamed
+      <a href="ap250916.html">
+       SWAN25B
+      </a>
+      , is now headed away from our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      ,  although its closest approach to Earth is expected in mid-October,  when
+      <a href="https://images.ctfassets.net/sfnkq8lmu5d7/tnPfU8draFS8Kuasr1CAr/9e6282b240cdf13024cc13fa868d6636/2024-10-22_How_long_can_a_puppy_be_left_alone">
+       optimistic estimates
+      </a>
+      have it becoming bright enough to see with the unaided eye.   Each
+      <a href="https://science.nasa.gov/solar-system/comets/facts/">
+       comet
+      </a>
+      has a greenish
+      <a href="https://en.wikipedia.org/wiki/Coma_(comet)">
+       coma
+      </a>
+      of expelled gas and an
+      <a href="ap250918.html">
+       ion tail
+      </a>
+      pointing away from the Sun.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/28
   </summary>
   <table>
@@ -18,8 +105,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250928.html">
+      https://apod.nasa.gov/apod/ap250928.html
      </a>
     </td>
    </tr>
