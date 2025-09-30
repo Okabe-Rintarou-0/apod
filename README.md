@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/09/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_3549.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Comet Lemmon is brightening and moving into morning northern skies.  Besides
+      <a href="ap250916.html">
+       Comet SWAN25B
+      </a>
+      and
+      <a href="ap250929.html">
+       Comet ATLAS
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/C/2025_A6_(Lemmon)">
+       Comet C/2025 A6 (Lemmon)
+      </a>
+      is now the third comet  currently visible with binoculars and on long camera exposures.
+      <a href="https://earthsky.org/space/5-bright-comets-approaching-earth-charts-2025-2026/">
+       Comet Lemmon
+      </a>
+      was discovered early this year  and is still headed into the inner
+      <a href="https://science.nasa.gov/solar-system/">
+       Solar System
+      </a>
+      .  The comet will round the Sun on November 8, but first it will pass its nearest to the Earth -- at about half the
+      <a href="https://en.wikipedia.org/wiki/Astronomical_unit">
+       Earth-Sun distance
+      </a>
+      -- on October 21.   Although the brightnesses of comets are
+      <a href="https://www.shutterstock.com/image-photo/cat-sitting-front-laptop-stares-600nw-553939873.jpg">
+       notoriously hard to predict
+      </a>
+      , optimistic estimates have
+      <a href="https://theskylive.com/c2025a6-info">
+       Comet Lemmon
+      </a>
+      then becoming visible to the unaided eye.  The
+      <a href="https://science.nasa.gov/solar-system/comets/facts/">
+       comet
+      </a>
+      should be best seen in predawn skies until mid-October,  when it also becomes visible in evening skies.   The
+      <a href="https://app.astrobin.com/i/lsnen5">
+       featured image
+      </a>
+      showing the comet's split and rapidly changing ion
+      <a href="https://en.wikipedia.org/wiki/Comet_tail">
+       tail
+      </a>
+      was taken in
+      <a href="https://en.wikipedia.org/wiki/Texas">
+       Texas
+      </a>
+      ,
+      <a href="https://www.cia.gov/the-world-factbook/countries/united-states/">
+       USA
+      </a>
+      late last week.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/09/29
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap250929.html">
+      https://apod.nasa.gov/apod/ap250929.html
      </a>
     </td>
    </tr>
