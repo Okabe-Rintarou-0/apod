@@ -5,7 +5,7 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
-   2025/11/10
+   2025/11/11
   </summary>
   <table>
    <tr>
@@ -20,6 +20,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
      Original url:
      <a href="https://apod.nasa.gov/apod/">
       https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Ten thousand years ago, before the dawn of recorded human history,  a new light would suddenly have appeared in the  night sky and faded after a few weeks.    Today we know this light was from a
+      <a href="http://chandra.harvard.edu/xray_sources/supernovas.html">
+       supernova, or exploding star
+      </a>
+      , and record the expanding debris cloud as the
+      <a href="ap250602.html">
+       Veil Nebula
+      </a>
+      , a
+      <a href="http://en.wikipedia.org/wiki/List_of_supernova_remnants">
+       supernova remnant
+      </a>
+      .    This sharp telescopic view is centered on a
+      <a href="http://en.wikipedia.org/wiki/File:Cygnus_Loop_Labeled.png">
+       western segment
+      </a>
+      of the  Veil Nebula cataloged as
+      <a href="http://en.wikipedia.org/wiki/New_General_Catalog">
+       NGC
+      </a>
+      6960 but less formally known as the Witch's Broom Nebula.    Blasted out in the cataclysmic explosion, an
+      <a href="https://science.nasa.gov/solar-system/10-things-going-interstellar/">
+       interstellar
+      </a>
+      shock wave plows through space sweeping up and exciting interstellar material.  Imaged with narrow band filters, the
+      <a href="ap170919.html">
+       glowing filaments
+      </a>
+      are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas.  The complete supernova remnant lies about 1400
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-years
+      </a>
+      away towards the
+      <a href="ap101119.html">
+       constellation Cygnus
+      </a>
+      .  This Witch's
+      <a href="https://i.ytimg.com/vi/D3tZOUeTeRU/maxresdefault.jpg">
+       Broom
+      </a>
+      actually spans about 35 light-years.  The bright star in the frame is
+      <a href="http://stars.astro.illinois.edu/sow/52cyg.html">
+       52 Cygni
+      </a>
+      , visible with the unaided eye from  a dark location but unrelated to the ancient supernova remnant.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
+   2025/11/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/ap251110.html">
+      https://apod.nasa.gov/apod/ap251110.html
      </a>
     </td>
    </tr>
