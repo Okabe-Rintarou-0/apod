@@ -5,6 +5,60 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.instagram.com/astronycc/p/DQ8_k22jqqd/">
+       Northern lights have come to Florida skies
+      </a>
+      .  In fact, the brilliant streak of a Northern Taurid meteor flashes through the starry night sky above the beach in this sea and skyscape, captured from Shired Island, Florida on November 11.  Meteors from the annual Northern
+      <a href="https://earthsky.org/astronomy-essentials/taurid-meteors-all-you-need-to-know/">
+       Taurid meteor shower
+      </a>
+      are expected this time of year.  But the digital camera exposure also records the shimmering glow of aurora, a phenomenon more often seen from our fair planet's higher geographical latitudes.  Also known as aurora borealis, these northern lights are part of recent,
+      <a href="https://spaceweathergallery2.com/indiv_upload.php?upload_id=228413">
+       wide spread
+      </a>
+      <a href="https://science.nasa.gov/sun/auroras/">
+       auroral activity
+      </a>
+      caused by strong geomagnetic storms.  In the last few days,
+      <a href="https://www.swpc.noaa.gov/news/g3-strong-geomagnetic-storming-continues-g4-severe-still-expected">
+       stormy spaceweather
+      </a>
+      has been triggered by multiple Earth impacting
+      <a href="https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/">
+       coronal mass ejections and intense solar activity
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/13
   </summary>
   <table>
@@ -18,8 +72,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251113.html">
+      https://apod.nasa.gov/apod/ap251113.html
      </a>
     </td>
    </tr>
