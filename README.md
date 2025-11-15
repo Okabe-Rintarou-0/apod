@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/M31AB.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/M31AB_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://app.astrobin.com/u/PiotrC?i=1y6644#gallery">
+       This magnificent extragalactic skyscape
+      </a>
+      looks toward the Andromeda Galaxy, the closest large spiral galaxy to the Milky Way.  It also accomplishes a Messier catalog trifecta by including Andromeda, cataloged as
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/">
+       Messier 31 (M31)
+      </a>
+      , along with
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-32/">
+       Messier 32 (M32)
+      </a>
+      , and
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-110/">
+       Messier 110 (M110)
+      </a>
+      in the same telescopic
+      <a href="ap200925.html">
+       field of view
+      </a>
+      .    In this frame, M32 is just left of the Andromeda Galaxy's bright core with M110 below and to the right.  M32 and M110 are both elliptical galaxies themselves and satellites of the larger spiral Andromeda.  By combining 60 hours of broadband and narrowband image data, the deep telescopic view also reveals tantalizing details of dust lanes, young star clusters, and star-forming regions along Andromeda's spiral arms, and
+      <a href="ap221024.html">
+       faint, foreground
+      </a>
+      clouds of glowing hydrogen gas.
+      <a href="ap220606.html">
+       For now
+      </a>
+      , Andromeda and friends are some 2.5 million light-years from our own large spiral Milky Way.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/14
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251114.html">
+      https://apod.nasa.gov/apod/ap251114.html
      </a>
     </td>
    </tr>
