@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      If this is Saturn, where are the rings?    When Saturn's "appendages"
+      <a href="https://science.gsfc.nasa.gov/attic/huygensgcms/Shistory.htm">
+       disappeared
+      </a>
+      in 1612,
+      <a href="https://en.wikipedia.org/wiki/Galileo_Galilei">
+       Galileo
+      </a>
+      did not understand why.     Later that century, it became understood that
+      <a href="https://science.nasa.gov/saturn/">
+       Saturn
+      </a>
+      's  unusual
+      <a href="https://www.reddit.com/r/photoshopbattles/comments/7ihpyi/psbattle_this_cat_peeking_over_the_edge/#lightbox">
+       protrusion
+      </a>
+      s were rings and that when the
+      <a href="ap950801.html">
+       Earth crosses the ring plane
+      </a>
+      ,  the edge-on rings will
+      <a href="https://youtu.be/ZaTAYOpUP6o">
+       appear to disappear
+      </a>
+      .    This is because Saturn's rings are confined to a
+      <a href="http://coolcosmos.ipac.caltech.edu/ask/108-How-large-are-Saturn-s-rings">
+       plane many times thinner
+      </a>
+      , in proportion, than a
+      <a href="https://en.wikipedia.org/wiki/Razor#/media/File:Parker-76R_Safety_Razor.jpg">
+       razor blade
+      </a>
+      .    In modern times, the
+      <a href="https://science.nasa.gov/mission/cassini/spacecraft/cassini-orbiter/">
+       robotic Cassini spacecraft
+      </a>
+      that orbited Saturn frequently crossed
+      <a href="ap040117.html">
+       Saturn's ring
+      </a>
+      plane during its mission to Saturn,  from 2004 to 2017.    A series of plane crossing images from 2005 February  was dug out of the vast
+      <a href="https://solarsystem.nasa.gov/cassini-raw-images/">
+       online Cassini raw image
+      </a>
+      archive by interested Spanish amateur  Fernando Garcia Navarro.
+      <a href="http://www.slate.com/blogs/bad_astronomy/2005/05/31/saturn_sans_rings.html">
+       Pictured here
+      </a>
+      , digitally cropped and set in representative colors,  is the striking result.
+      <a href="ap080720.html">
+       Saturn's thin ring plane
+      </a>
+      appears in blue, bands and clouds in
+      <a href="ap041102.html">
+       Saturn's upper atmosphere
+      </a>
+      appear in gold.  Details of Saturn's rings can be seen in high
+      <a href="ap090901.html">
+       dark shadows
+      </a>
+      .   The moons
+      <a href="https://science.nasa.gov/saturn/moons/dione/">
+       Dione
+      </a>
+      and
+      <a href="ap250610.html">
+       Enceladus
+      </a>
+      appear as
+      <a href="http://asterisk.apod.com/viewtopic.php?f=9&amp;t=18340&amp;p=230228#p230227">
+       bumps in the rings
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/15
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251115.html">
+      https://apod.nasa.gov/apod/ap251115.html
      </a>
     </td>
    </tr>
