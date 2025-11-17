@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_3728.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What has happened to Comet Lemmon's tail?  The answer is blowing in the wind — the
+      <a href="https://science.nasa.gov/sun/what-is-the-solar-wind/">
+       wind from the Sun
+      </a>
+      in this case.  This continuous outflow of
+      <a href="ap240818.html">
+       charged particles from the Sun
+      </a>
+      has been
+      <a href="https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/">
+       quite variable
+      </a>
+      of late,  as the Sun emits bursts of energy,
+      <a href="https://www.jpl.nasa.gov/nmp/st5/SCIENCE/cme.html">
+       CME
+      </a>
+      s, that push out and deflect  charged particles emitted by the comet itself.  The result is a blue hued ion tail for
+      <a href="https://en.wikipedia.org/wiki/C/2025_A6_(Lemmon)">
+       Comet C/2025 A6 (Lemmon)
+      </a>
+      that is not only
+      <a href="ap220125.html">
+       impressively intricate
+      </a>
+      but takes some unusual turns.
+      <a href="https://www.instagram.com/p/DQm4GnvDBkg/">
+       This long-duration composite image
+      </a>
+      taken from
+      <a href="https://en.wikipedia.org/wiki/Alfacar#/media/File:Alfacar_Las_Canteras.jpg">
+       Alfacar
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Spain">
+       Spain
+      </a>
+      last month captured this inner Solar System ionic tumult.  Comet Lemmon is
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fxnmijjs6ru671.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Dda3f96bfc20dfb063488b7ede90da396545b487a">
+       now fading
+      </a>
+      as it heads
+      <a href="https://theskylive.com/c2025a6-info">
+       out away
+      </a>
+      from the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      and Sun and back into the outer
+      <a href="https://eyes.nasa.gov/apps/solar-system/#/home">
+       Solar System
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/16
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251116.html">
+      https://apod.nasa.gov/apod/ap251116.html
      </a>
     </td>
    </tr>
