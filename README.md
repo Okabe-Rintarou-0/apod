@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_3691.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Sometimes the dark dust of interstellar space has an angular elegance.   Such is the case toward the far-south
+      <a href="https://en.wikipedia.org/wiki/Chamaeleon">
+       constellation of Chamaeleon
+      </a>
+      .  Normally
+      <a href="ap180628.html">
+       too faint to see
+      </a>
+      , dark dust is best known for blocking visible light from stars and galaxies behind it.  In
+      <a href="https://app.astrobin.com/u/Flying_Dutchman?i=4g66o7">
+       this 11.4-hour exposure
+      </a>
+      , however,
+      <a href="https://www.flickr.com/photos/hiroc/47807534932">
+       the dust
+      </a>
+      is seen mostly in light of its own,  with its strong red and near-
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared
+      </a>
+      colors creating a brown hue.  Contrastingly blue, a bright star
+      <a href="https://en.wikipedia.org/wiki/Beta_Chamaeleontis">
+       Beta Chamaeleontis
+      </a>
+      is visible on the upper right of the V, with the dust that surrounds it preferentially reflecting blue light from its primarily blue-white color.   All of the pictured stars and dust occur in our own
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      with one
+      <a href="https://static.onecms.io/wp-content/uploads/sites/20/2021/09/28/startled-cat-5.jpg">
+       notable exception
+      </a>
+      : a white spot just
+      <a href="http://www.werbeagentur.org/oldwexi/gallery.html">
+       below Beta Chamaeleontis
+      </a>
+      is the galaxy
+      <a href="https://theskylive.com/sky/deepsky/ic3104-object">
+       IC 3104
+      </a>
+      , which lies far in the distance.
+      <a href="https://astronomy.swin.edu.au/cosmos/d/Dust+Grain">
+       Interstellar dust
+      </a>
+      is mostly created in the cool atmospheres of
+      <a href="https://en.wikipedia.org/wiki/Red_giant">
+       giant stars
+      </a>
+      and dispersed into space by stellar light,
+      <a href="ap000318.html">
+       stellar winds
+      </a>
+      , and
+      <a href="https://en.wikipedia.org/wiki/List_of_stellar_explosion_types">
+       stellar explosions
+      </a>
+      such as
+      <a href="https://www.science.org/content/article/interstellar-dust-may-come-supernovae-after-all">
+       supernovas
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/17
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251118.html">
+      https://apod.nasa.gov/apod/ap251118.html
      </a>
     </td>
    </tr>
