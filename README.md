@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/3I_251114.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/3I_251114_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Now outbound after its perihelion or closest approach to the Sun on October 29,
+      <a href="https://science.nasa.gov/solar-system/comets/3i-atlas/">
+       Comet 3I/ATLAS
+      </a>
+      is only the third known interstellar object to pass through our fair Solar System.  Its greenish coma and faint tails are seen against a background of stars in the constellation Virgo in this
+      <a href="https://www.instagram.com/rolandoligustri/p/DRCsqxPDFHM/">
+       view from planet Earth
+      </a>
+      , recorded with a small telescope on November 14.  But this
+      <a href="ap250809.html">
+       interstellar interloper
+      </a>
+      is the subject of an on-going, unprecedented
+      <a href="https://science.nasa.gov/solar-system/comets/3i-atlas/comet-3i-atlas-image-gallery/">
+       Solar System-wide observing campaign
+      </a>
+      involving spacecraft and space telescopes from Earth orbit to the surface of
+      <a href="https://science.nasa.gov/solar-system/view-interstellar-comet-3i-atlas-through-nasas-multiple-lenses/">
+       Mars and beyond
+      </a>
+      .  And while the comet from another star-system has recently
+      <a href="https://www.arxiv.org/abs/2510.25035">
+       grown brighter
+      </a>
+      , you'll still need a telescope if you want to
+      <a href="https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/">
+       see 3I/ATLAS
+      </a>
+      from planet Earth.  It's now above the horizon in
+      <a href="https://theskylive.com/c2025n1-info">
+       November morning skies
+      </a>
+      and will make its closest approach to Earth, a comfortable 270 million kilometers distant, around December 19.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/20
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251120.html">
+      https://apod.nasa.gov/apod/ap251120.html
      </a>
     </td>
    </tr>
