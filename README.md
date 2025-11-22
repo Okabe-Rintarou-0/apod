@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.tif">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Seen to the left of Saturn's banded planetary disk, small icy moons
+      <a href="https://science.nasa.gov/saturn/moons/dione/">
+       Dione
+      </a>
+      and
+      <a href="https://science.nasa.gov/saturn/moons/rhea/">
+       Rhea
+      </a>
+      are caught passing in front of the gas giant's
+      <a href="https://science.nasa.gov/resource/saturns-rings-2/">
+       extensive ring system
+      </a>
+      in this sharp telescopic snapshot.  The remarkable image was
+      <a href="https://astro.christone.net/saturn/index.htm">
+       recorded on November 20
+      </a>
+      , when Saturn's rings were nearly edge-on when viewed from planet Earth.  In fact, every 13 to 16 years the view from planet Earth  aligns with Saturn's ring plane to produce a series of
+      <a href="https://science.nasa.gov/missions/hubble/hubble-views-saturn-ring-plane-crossing/">
+       ring plane crossings
+      </a>
+      .  During a ring plane crossing, the interplanetary
+      <a href="ap251116.html">
+       edge-on perspective
+      </a>
+      makes the thin but otherwise bright rings seem to disappear.
+      <a href="https://science.nasa.gov/solar-system/whats-up-november-2025-skywatching-tips-from-nasa/">
+       By November 23rd
+      </a>
+      Saturn's rings will have reached a minimum angle for now,
+      <a href="https://gizmodo.com/saturn-will-look-naked-in-the-night-sky-this-weekend-2000689525">
+       at their narrowest
+      </a>
+      for viewing from planet Earth, but then start to widen again.  Of course, Dione and Rhea
+      <a href="https://science.nasa.gov/saturn/moons/">
+       orbit Saturn
+      </a>
+      near the ring plane once every 2.7 and 4.5 days respectively, while the next series of Saturn ring plane crossings as seen from Earth will begin again in 2038.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/21
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251121.html">
+      https://apod.nasa.gov/apod/ap251121.html
      </a>
     </td>
    </tr>
