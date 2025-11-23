@@ -5,6 +5,126 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_2100.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How far can you see?  Everything you can see, and everything you could possibly see, right now, assuming your eyes could detect all types of radiations around you -- is the
+      <a href="https://en.wikipedia.org/wiki/Observable_universe">
+       observable universe
+      </a>
+      .   In light, the farthest we can see comes from the
+      <a href="https://wmap.gsfc.nasa.gov/universe/bb_tests_cmb.html">
+       cosmic microwave background
+      </a>
+      , a time
+      <a href="https://en.wikipedia.org/wiki/Age_of_the_universe">
+       13.8 billion years ago
+      </a>
+      when the universe was opaque like thick fog.  Some
+      <a href="https://icecube.wisc.edu/info/neutrinos">
+       neutrinos
+      </a>
+      and
+      <a href="https://www.ligo.caltech.edu/page/what-are-gw">
+       gravitational waves
+      </a>
+      that surround us come from even farther out, but humanity does not yet have the technology to detect them.  The
+      <a href="https://en.wikipedia.org/wiki/Observable_universe#/media/File:Observable_universe_logarithmic_illustration.png">
+       featured image
+      </a>
+      illustrates the observable universe on an
+      <a href="https://en.wikipedia.org/wiki/Logarithmic_scale">
+       increasingly compact scale
+      </a>
+      , with the
+      <a href="https://science.nasa.gov/earth/">
+       Earth
+      </a>
+      and
+      <a href="https://science.nasa.gov/sun/facts/">
+       Sun
+      </a>
+      at the center surrounded by
+      <a href="https://science.nasa.gov/solar-system/solar-system-facts/">
+       our Solar System
+      </a>
+      ,
+      <a href="http://www.atlasoftheuniverse.com/12lys.html">
+       nearby stars
+      </a>
+      ,
+      <a href="ap110614.html">
+       nearby galaxies
+      </a>
+      ,
+      <a href="ap250302.html">
+       distant galaxies
+      </a>
+      ,
+      <a href="ap231231.html">
+       filaments of early matter
+      </a>
+      , and the
+      <a href="ap180722.html">
+       cosmic microwave background
+      </a>
+      .  Cosmologists typically assume that our observable
+      <a href="https://science.nasa.gov/astrophysics/science-questions/how-do-matter-energy-space-and-time-behave-under-the-extraordinarily-diverse-conditions-of-the-cosmos/">
+       universe
+      </a>
+      is just the nearby part of a
+      <a href="https://www.reddit.com/r/aww/comments/2jsvru/super_cat/#lightbox">
+       greater entity
+      </a>
+      known as "the universe" where the same physics applies.   However, there are several lines of popular but speculative reasoning that
+      <a href="http://asterisk.apod.com/viewtopic.php?f=39&amp;t=21958">
+       assert
+      </a>
+      that even our universe is part of a
+      <a href="https://en.wikipedia.org/wiki/Multiverse">
+       greater multiverse
+      </a>
+      where either different physical constants occur,
+      <a href="https://medium.com/starts-with-a-bang/ask-ethan-96-is-the-multiverse-science-ecceb24fa2af">
+       different
+      </a>
+      physical laws apply,
+      <a href="http://www.pbs.org/wgbh/nova/blogs/physics/2014/04/how-many-dimensions-does-the-universe-really-have/">
+       higher dimensions
+      </a>
+      operate, or slightly
+      <a href="ap170401.html">
+       different-by-chance versions
+      </a>
+      of our standard universe exist.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/22
   </summary>
   <table>
@@ -18,8 +138,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251122.html">
+      https://apod.nasa.gov/apod/ap251122.html
      </a>
     </td>
    </tr>
