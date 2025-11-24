@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What created this unusual space sculpture?
+      <a href="https://science.nasa.gov/universe/stars/">
+       Stars
+      </a>
+      .  This unusual system of swirls and shells, known as
+      <a href="https://en.wikipedia.org/wiki/Apep_(star_system)">
+       Apep
+      </a>
+      , was observed in unprecedented detail by
+      <a href="https://www.nasa.gov">
+       NASA
+      </a>
+      ’s
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared light
+      </a>
+      in 2024.
+      <a href="https://science.nasa.gov/asset/webb/wolf-rayet-apep-miri-image/">
+       Observations
+      </a>
+      indicate that the
+      <a href="ap250129.html">
+       unusual shape
+      </a>
+      originates from two massive
+      <a href="https://en.wikipedia.org/wiki/Wolf%E2%80%93Rayet_star">
+       Wolf-Rayet star
+      </a>
+      s orbiting each other every  190 years with each close passes causing a new shell of
+      <a href="https://www.nsf.gov/news/all-we-are-dust-interstellar-wind">
+       dust
+      </a>
+      and gas to be
+      <a href="https://youtu.be/fITdexBNfkQ">
+       expelled
+      </a>
+      .  Holes in these shells are thought to be caused by a
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Feed001y92q8d1.jpeg">
+       third orbiting star
+      </a>
+      .  This stellar dust
+      <a href="ap200304.html">
+       dance
+      </a>
+      will likely continue for  hundreds of thousands of years,  possibly ending only when one of the
+      <a href="https://en.wikipedia.org/wiki/List_of_most_massive_stars">
+       massive stars
+      </a>
+      runs out of internal nuclear fuel and explodes in a
+      <a href="https://youtu.be/wymMn-SmALY">
+       supernova
+      </a>
+      punctuated by a
+      <a href="https://science.nasa.gov/universe/gamma-ray-bursts-harvesting-knowledge-from-the-universes-most-powerful-explosions/">
+       burst of gamma-rays
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/23
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251123.html">
+      https://apod.nasa.gov/apod/ap251123.html
      </a>
     </td>
    </tr>
