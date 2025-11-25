@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_5008.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What did Comet Lemmon look like when it was at its best?  One example is pictured here, featuring three celestial spectacles all at different distances.  The closest spectacle is the snowcapped
+      <a href="https://youtu.be/YylNkfmGNAQ">
+       Meili Mountains
+      </a>
+      , part of the
+      <a href="https://en.wikipedia.org/wiki/Himalayas">
+       Himalayas
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/China">
+       China
+      </a>
+      .   The middle
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fahodrl8j7b351.jpg">
+       marvel
+      </a>
+      is Comet Lemmon near its
+      <a href="ap251117.html">
+       picturesque best
+      </a>
+      early this month,  showing not only a white
+      <a href="https://astronomy.swin.edu.au/cosmos/C/cometary+dust+tail">
+       dust tail
+      </a>
+      trailing off to the right but its blue solar wind-distorted
+      <a href="ap240326.html">
+       ion tail
+      </a>
+      trailing off to the left.   Far in the distance on the left is the magnificent central plane of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      , featuring
+      <a href="ap051004.html">
+       dark dust
+      </a>
+      ,
+      <a href="ap240214.html">
+       red nebula
+      </a>
+      , and including billions of
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      -like stars.
+      <a href="https://en.wikipedia.org/wiki/C/2025_A6_(Lemmon)">
+       Comet C/2025 A6 (Lemmon)
+      </a>
+      is already fading as it heads back into the outer Solar System, while the
+      <a href="https://www.pbs.org/wgbh/nova/everest/earth/birth.html">
+       Himalayan mountains
+      </a>
+      will gradually
+      <a href="https://www.earthdata.nasa.gov/topics/land-surface/erosion-sedimentation">
+       erode
+      </a>
+      over the next billion years.  The
+      <a href="ap241105.html">
+       Milky Way Galaxy
+      </a>
+      ,  though, will live on -- forming
+      <a href="ap210303.html">
+       new mountains
+      </a>
+      and comets --  for many billions of years into the future.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/24
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251124.html">
+      https://apod.nasa.gov/apod/ap251124.html
      </a>
     </td>
    </tr>
