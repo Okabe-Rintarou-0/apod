@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_5585.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Stars, like bees, swarm around the center of bright globular cluster M15.    The central ball of over 100,000
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      is a relic from the
+      <a href="ap980719.html">
+       early years
+      </a>
+      of
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       our Galaxy
+      </a>
+      , and continues to orbit the
+      <a href="ap241124.html">
+       Milky Way's center
+      </a>
+      .
+      <a href="https://youtu.be/hmN7Rj2ns3M">
+       M15
+      </a>
+      , one of about 150
+      <a href="https://en.wikipedia.org/wiki/Globular_cluster">
+       globular cluster
+      </a>
+      s remaining, is noted for being easily visible with only
+      <a href="https://www.explainthatstuff.com/binoculars.html">
+       binoculars
+      </a>
+      , having at its center one of the
+      <a href="ap000804.html">
+       densest concentrations of stars
+      </a>
+      known, and containing a high abundance of
+      <a href="ap070415.html">
+       variable stars
+      </a>
+      and
+      <a href="https://svs.gsfc.nasa.gov/10144">
+       pulsars
+      </a>
+      .    The featured image of M15 was taken by combining
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fsohddm6tj00c1.jpg">
+       very long
+      </a>
+      exposures  -- 122 hours in all -- and so brings up
+      <a href="https://en.wikipedia.org/wiki/Integrated_Flux_Nebula">
+       faint wisps of gas and dust
+      </a>
+      in front of the giant ball of stars.
+      <a href="ap190328.html">
+       M15
+      </a>
+      lies about 35,000
+      <a href="http://chandra.harvard.edu/photo/cosmic_distance.html">
+       light years
+      </a>
+      away toward the
+      <a href="https://spaceplace.nasa.gov/constellations/">
+       constellation
+      </a>
+      of the Winged Horse (
+      <a href="https://en.wikipedia.org/wiki/Pegasus_(constellation)">
+       Pegasus
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/25
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251125.html">
+      https://apod.nasa.gov/apod/ap251125.html
      </a>
     </td>
    </tr>
