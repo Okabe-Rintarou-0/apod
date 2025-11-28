@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      NGC 6888, also known as the Crescent Nebula, is a about 25 light-years across, a cosmic bubble
+      <a href="https://hubblesite.org/contents/news-releases/2000/news-2000-23.html">
+       blown by winds
+      </a>
+      from its central, massive star.
+      <a href="https://app.astrobin.com/i/8p42ig">
+       This deep telescopic image
+      </a>
+      includes narrowband image data, to isolate light from hydrogen and oxygen
+      <a href="ap060324.html">
+       atoms
+      </a>
+      .  The oxygen atoms produce the blue-green hue that seems to enshroud the nebula's detailed folds and filaments.  Visible within the nebula, NGC 6888's central star is classified as a
+      <a href="http://cfa-www.harvard.edu/~pberlind/atlas/htmls/wrstars.html">
+       Wolf-Rayet star
+      </a>
+      (WR 136).  The star is shedding its outer envelope in a strong
+      <a href="https://en.wikipedia.org/wiki/Stellar_wind">
+       stellar wind
+      </a>
+      , ejecting the equivalent of the Sun's mass every 10,000 years.   In fact, the Crescent Nebula's complex structures are likely the result of this strong wind interacting with material ejected in an earlier phase.  Burning fuel at a prodigious rate and
+      <a href="http://chandra.harvard.edu/photo/2003/ngc6888/">
+       near the end
+      </a>
+      of its stellar life, this star should ultimately go out with a bang in a spectacular
+      <a href="https://en.wikipedia.org/wiki/Wolf%E2%80%93Rayet_star#Supernovae">
+       supernova
+      </a>
+      explosion.  Found in the
+      <a href="ap151204.html">
+       nebula rich
+      </a>
+      constellation Cygnus,
+      <a href="http://oneminuteastronomer.com/5995/crescent-nebula-ngc-6888/">
+       NGC 6888 is
+      </a>
+      about 5,000 light-years away.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/27
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251127.html">
+      https://apod.nasa.gov/apod/ap251127.html
      </a>
     </td>
    </tr>
