@@ -5,6 +5,54 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This is not a screen from
+      <a href="https://blog.google/inside-google/doodles/pac-man-45-years/">
+       a video game
+      </a>
+      .  Nestled below the tree-line, the small mountain church does look like it might be hiding from Moon though.  In the
+      <a href="https://www.giorgiahoferphotography.com/moon">
+       well-composed
+      </a>
+      telephoto snapshot, taken on November 23, the church walls are partly reflecting light from terrestrial flood lights.  Of course, the Moon is reflecting light from the Sun.
+      <a href="https://moon.nasa.gov/moon-observation/daily-moon-guide/?intent=021">
+       At any given time
+      </a>
+      the Sun illuminates fully half of the Moon's surface, also known as the lunar dayside, but on that night only a sliver of its sunlit surface was visible.  About three days after New Moon, the Moon was in a
+      <a href="https://science.nasa.gov/moon/moon-phases/">
+       waxing crescent phase
+      </a>
+      .  The single exposure was captured shortly after sunset in skies near Danta di Cadore, northern Italy, planet Earth.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/28
   </summary>
   <table>
@@ -18,8 +66,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251128.html">
+      https://apod.nasa.gov/apod/ap251128.html
      </a>
     </td>
    </tr>
