@@ -5,6 +5,91 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/11/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      If you could stand on Titan -- what would you see?  The
+      <a href="https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/New_images_from_Titan#subhead2">
+       featured color view
+       <?a >
+       from
+      </a>
+      <a href="https://science.nasa.gov/saturn/moons/titan/">
+       Titan
+      </a>
+      gazes across an unfamiliar and distant landscape on
+      <a href="https://en.wikipedia.org/wiki/Titan_(moon)">
+       Saturn's largest moon
+      </a>
+      .   The scene was recorded by
+      <a href="https://www.esa.int/">
+       ESA
+      </a>
+      's
+      <a href="https://science.nasa.gov/mission/cassini-huygens/">
+       Huygens probe
+      </a>
+      in 2005 after a 2.5-hour
+      <a href="ap250119.html">
+       descent
+      </a>
+      through a
+      <a href="ap230331.html">
+       thick atmosphere
+      </a>
+      of nitrogen laced with methane.   Bathed in an eerie orange light at ground level,  rocks strewn about the scene could well be composed of water and
+      <a href="https://www.jpl.nasa.gov/news/titans-surface-organics-surpass-oil-reserves-on-earth/">
+       hydrocarbons
+      </a>
+      frozen solid at an inhospitable temperature of negative 179 degrees C.   The large light-toned rock below and left of center is only  about 15 centimeters across and lies 85 centimeters away.   The
+      <a href="https://science.nasa.gov/mission/cassini-huygens/">
+       saucer-shaped spacecraft
+      </a>
+      is believed to have  penetrated about 15 centimeters into a place on
+      <a href="ap150116.html">
+       Titan's surface
+      </a>
+      that had the consistency of
+      <a href="ap131220.html">
+       wet
+      </a>
+      sand or clay.   Huygen's batteries enabled the probe to  take and transmit data for more than 90 minutes after landing.   Titan's
+      <a href="https://i.imgur.com/THideJY.jpeg">
+       bizarre chemical environment
+      </a>
+      may bear similarities to planet Earth's before
+      <a href="https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Life_on_Titan">
+       life
+      </a>
+      evolved.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/29
   </summary>
   <table>
@@ -18,8 +103,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251129.html">
+      https://apod.nasa.gov/apod/ap251129.html
      </a>
     </td>
    </tr>
