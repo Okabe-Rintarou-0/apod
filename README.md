@@ -5,6 +5,120 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_4243.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How typical is our Solar System?   Studying
+      <a href="https://science.nasa.gov/blogs/planetary-defense/2025/07/02/nasa-discovers-interstellar-comet-moving-through-solar-system/">
+       3I/ATLAS
+      </a>
+      , a comet just passing through, is providing clues.   Confirmed previous interstellar visitors include an
+      <a href="https://en.wikipedia.org/wiki/1I/%CA%BBOumuamua">
+       asteroid
+      </a>
+      ,  a
+      <a href="ap220305.html">
+       comet
+      </a>
+      ,  a
+      <a href="https://www.npr.org/2022/04/14/1092869771/interstellar-meteor-hit-earth-in-2014">
+       meteor
+      </a>
+      , and a
+      <a href="https://sci.esa.int/web/ulysses/-/35853-the-flow-of-interstellar-helium-in-the-solar-system">
+       gas wind
+      </a>
+      dominated by hydrogen and helium.
+      <a href="https://en.wikipedia.org/wiki/3I/ATLAS">
+       Comet 3I/ATLAS
+      </a>
+      appears
+      <a href="https://www.skyatnightmagazine.com/news/3i-atlas-not-aliens">
+       relatively normal
+      </a>
+      when compared to
+      <a href="ap090207.html">
+       Solar
+      </a>
+      <a href="ap200606.html">
+       System
+      </a>
+      <a href="ap231020.html">
+       comets
+      </a>
+      ,  therefore providing more evidence that
+      <a href="https://science.nasa.gov/solar-system/solar-system-facts/">
+       our Solar System
+      </a>
+      is a somewhat typical star system.   For example, Comet 3I/ATLAS has a broadly similar
+      <a href="https://astrobiology.nasa.gov/nai/annual-reports/2012/uh/the-chemical-composition-of-comets/index.html">
+       chemical composition
+      </a>
+      and
+      <a href="ap231126.html">
+       ejected dust
+      </a>
+      .  The
+      <a href="https://app.astrobin.com/i/jtmq82">
+       featured image
+      </a>
+      was captured last week from
+      <a href="https://en.wikipedia.org/wiki/Texas">
+       Texas
+      </a>
+      and shows a
+      <a href="https://www.science.org/content/article/why-do-some-comets-glow-green">
+       green coma
+      </a>
+      , a wandering
+      <a href="https://astronomy.swin.edu.au/cosmos/c/Cometary+Gas+Tail">
+       blue-tinted ion tail
+      </a>
+      likely deflected by our
+      <a href="https://science.nasa.gov/sun/what-is-the-solar-wind/">
+       Sun's wind
+      </a>
+      , and a slight
+      <a href="https://en.wikipedia.org/wiki/Comet_tail#Anti-tail">
+       anti-tail
+      </a>
+      , all typical cometary attributes.   The comet, visible with
+      <a href="https://1funny.com/wp-content/uploads/2010/12/dog-telescope.jpg">
+       a telescope
+      </a>
+      , passed its closest to the Sun in late October and will pass its closest to the Earth in mid-December,  after which it will return to
+      <a href="ap241222.html">
+       interstellar space
+      </a>
+      and never return.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/11/30
   </summary>
   <table>
@@ -18,8 +132,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251130.html">
+      https://apod.nasa.gov/apod/ap251130.html
      </a>
     </td>
    </tr>
