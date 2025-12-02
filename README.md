@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/M77_Hubble_3681.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/M77_Hubble_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening in the center of nearby spiral galaxy M77?  The face-on galaxy lies a mere 47 million
+      <a href="https://chandra.harvard.edu/photo/cosmic_distance.html">
+       light-years
+      </a>
+      away toward the constellation of the Sea Monster  (
+      <a href="https://en.wikipedia.org/wiki/Cetus_(constellation)">
+       Cetus
+      </a>
+      ).   At that estimated distance, this gorgeous
+      <a href="https://ned.ipac.caltech.edu/level5/March02/Gordon/Gordon2.html">
+       island universe
+      </a>
+      is about 100 thousand light-years across.   Also known as
+      <a href="https://en.wikipedia.org/wiki/Messier_77">
+       NGC 1068
+      </a>
+      ,  its compact and very bright core is
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FdNVVXSoLqNrWLIwCdFQXnh64EN06q51x5PgWyVK0aO0.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D7c1f6961b485f508f309e0dc4415455e02564ca6">
+       well studied
+      </a>
+      by astronomers exploring the mysteries of
+      <a href="ap250504.html">
+       supermassive black holes
+      </a>
+      in active
+      <a href="https://en.wikipedia.org/wiki/Seyfert_galaxy">
+       Seyfert galaxies
+      </a>
+      .   M77's active core glows bright at
+      <a href="https://science.nasa.gov/ems/11_xrays">
+       x-ray
+      </a>
+      ,
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       ultraviolet
+      </a>
+      ,
+      <a href="https://science.nasa.gov/ems/09_visiblelight">
+       visible
+      </a>
+      ,
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared
+      </a>
+      , and
+      <a href="https://science.nasa.gov/ems/05_radiowaves">
+       radio
+      </a>
+      wavelengths.   The
+      <a href="https://esahubble.org/images/potw2515a/">
+       featured sharp image
+      </a>
+      of M77 was taken by the
+      <a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/">
+       Hubble Space Telescope
+      </a>
+      .  The image shows details of the spiral's
+      <a href="ap161109.html">
+       winding spiral arms
+      </a>
+      as traced by
+      <a href="ap130831.html">
+       obscuring red dust clouds
+      </a>
+      and
+      <a href="https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-star-clusters/">
+       blue star clusters
+      </a>
+      , all circling the galaxy's bright white
+      <a href="https://en.wikipedia.org/wiki/Active_galactic_nucleus">
+       luminous center
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/01
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251201.html">
+      https://apod.nasa.gov/apod/ap251201.html
      </a>
     </td>
    </tr>
