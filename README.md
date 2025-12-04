@@ -5,6 +5,72 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      An example of violence on a cosmic scale, enormous  elliptical galaxy NGC 1316 lies about 75 million light-years away
+      <a href="https://earthsky.org/constellations/fornax-the-furnace-galaxy-hubble-ultra-deep-field/">
+       toward Fornax
+      </a>
+      , the southern constellation of the Furnace.
+      <a href="https://science.nasa.gov/asset/hubble/hubble-spies-cosmic-dust-bunnies/">
+       Investigating
+      </a>
+      the startling sight, astronomers suspect the giant galaxy of colliding with smaller neighbor NGC 1317 seen just right of the large galaxy's center, producing far flung
+      <a href="ap080619.html">
+       star streams
+      </a>
+      in loops and shells.  Light from their close encounter would
+      <a href="http://chandra.harvard.edu/photo/cosmic_lookback.html">
+       have reached Earth
+      </a>
+      some 100 million years ago.
+      <a href="https://app.astrobin.com/u/MRWSKYLOVER?i=0ym89c#gallery">
+       In the sharp telescopic image
+      </a>
+      <a>
+       , the central regions of NGC 1316 and NGC 1317 appear separated by over 100,000 light-years.
+      </a>
+      <a href="https://science.nasa.gov/asset/hubble/the-dusty-galaxy-ngc-1316/">
+       Complex dust lanes
+      </a>
+      visible within also indicate that NGC 1316 is itself the result of a merger of galaxies in the distant past.  Found on the outskirts of the
+      <a href="http://www.atlasoftheuniverse.com/galgrps/for.html">
+       Fornax galaxy cluster
+      </a>
+      , NGC 1316 is known as Fornax A.  One of the visually brightest of the Fornax cluster galaxies it is one of the strongest and largest celestial radio sources with radio emission
+      <a href="ap050628.html">
+       extending well beyond
+      </a>
+      this one degree wide field-of-view.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/03
   </summary>
   <table>
@@ -18,8 +84,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251203.html">
+      https://apod.nasa.gov/apod/ap251203.html
      </a>
     </td>
    </tr>
