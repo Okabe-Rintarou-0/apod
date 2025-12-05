@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/KXAnd.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/KXAnd1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Blasting outward from variable star KX Andromedae, these stunning bipolar jets are 19 light-years long.
+      <a href="https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..289Z/abstract">
+       Recently discovered
+      </a>
+      , they are revealed in unprecedented detail in this deep telescopic image centered on KX And and composed from over
+      <a href="https://app.astrobin.com/i/nllu5u?r=0">
+       692 hours of combined image data
+      </a>
+      .  In fact, KX And is
+      <a href="https://en.wikipedia.org/wiki/Binary_star#Spectroscopic_binaries">
+       spectroscopically found
+      </a>
+      to be an interacting binary star system consisting of a bright, hot B-type star with a
+      <a href="ap060722.html">
+       swollen
+      </a>
+      cool giant star as its co-orbiting, close companion.  The stellar material from the cool giant star is likely being transferred to the hot B-type star through an
+      <a href="https://en.wikipedia.org/wiki/Accretion_disk">
+       accretion disk
+      </a>
+      , with spectacular symmetric jets driven outward perpendicular to the disk itself.  The known distance to KX And of 2,500 light-years, angular size of the jets, and estimated inclination of the accretion disk lead to the size estimate for each jet of an
+      <a href="https://www.astroexplorer.org/details/rnaasad9478f1">
+       astonishing 19 light-years
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/04
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251204.html">
+      https://apod.nasa.gov/apod/ap251204.html
      </a>
     </td>
    </tr>
