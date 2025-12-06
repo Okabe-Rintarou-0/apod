@@ -5,6 +5,89 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1498.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.lpi.usra.edu/lunar/missions/apollo/apollo_17/">
+       Fifty three years ago
+      </a>
+      , in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours
+      <a href="http://www.hq.nasa.gov/office/pao/History/alsj/">
+       on the Moon
+      </a>
+      exploring the
+      <a href="https://apollojournals.org/alsj/a17/a17.landing.html">
+       Taurus-Littrow
+      </a>
+      valley, while colleague Ronald Evans
+      <a href="https://apollojournals.org/afj/ap17fj/14_day05_part4.html">
+       orbited overhead
+      </a>
+      .  This
+      <a href="https://apollojournals.org/alsj/a17/AS17-137-21009HR.jpg">
+       snapshot from another world
+      </a>
+      was taken by Cernan as he and Schmitt
+      <a href="ap250328.html">
+       roamed
+      </a>
+      the lunar valley's floor.  The image shows Schmitt next to the
+      <a href="ap040605.html">
+       lunar rover
+      </a>
+      parked at the southeast rim of
+      <a href="https://lroc.im-ldi.com/images/417">
+       Shorty Crater
+      </a>
+      .   That location is
+      <a href="https://en.wikipedia.org/wiki/Shorty_(crater)">
+       near the spot
+      </a>
+      where geologist Schmitt discovered
+      <a href="ap010523.html">
+       orange
+      </a>
+      lunar soil.  The Apollo 17 crew returned with 110 kilograms of
+      <a href="https://www.lpi.usra.edu/lunar/missions/apollo/apollo_17/samples/">
+       rock and soil samples
+      </a>
+      , more than was returned from any of the other lunar landing sites.
+      <a href="https://www.nasa.gov/humans-in-space/artemis/">
+       And for now
+      </a>
+      , Cernan and Schmitt are the last to walk
+      <a href="ap161125.html">
+       on the Moon
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/05
   </summary>
   <table>
@@ -18,8 +101,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251205.html">
+      https://apod.nasa.gov/apod/ap251205.html
      </a>
     </td>
    </tr>
