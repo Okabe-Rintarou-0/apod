@@ -5,6 +5,117 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_3071.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It is still
+      <a href="https://dogwithblog.in/wp-content/uploads/2014/08/head-tilt-flappy-ears.jpg">
+       not known
+      </a>
+      why the Sun's light is missing some colors.   Here are all the
+      <a href="https://science.nasa.gov/ems/09_visiblelight">
+       visible
+      </a>
+      colors of the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      , produced by passing the Sun's light through a
+      <a href="http://en.wikipedia.org/wiki/Prism_%28optics%29">
+       prism
+      </a>
+      -like device.
+      <a href="https://noirlab.edu/public/images/noao-sun/">
+       The spectrum
+      </a>
+      was created at the
+      <a href="https://noirlab.edu/public/programs/kitt-peak-national-observatory/mcmath-pierce-solar-telescope/">
+       McMath-Pierce
+      </a>
+      <a href="ap120316.html">
+       Solar Observatory
+      </a>
+      and shows, first off, that although our
+      <a href="http://solar-center.stanford.edu/SID/activities/GreenSun.html">
+       white
+      </a>
+      -appearing
+      <a href="sun.html">
+       Sun
+      </a>
+      emits light of nearly
+      <a href="https://www.color-meanings.com/list-of-colors-names-hex-codes/">
+       every color
+      </a>
+      , it appears brightest in yellow-green light.    The dark patches in the
+      <a href="https://noirlab.edu/public/images/noao-sun/">
+       featured spectrum
+      </a>
+      arise from gas at or above the
+      <a href="ap160919.html">
+       Sun's surface
+      </a>
+      absorbing sunlight emitted below.    Since different types of gas
+      <a href="http://astronomy.swin.edu.au/cosmos/a/absorption+line">
+       absorb different colors of light
+      </a>
+      , it is possible to determine what gasses compose the Sun.
+      <a href="http://en.wikipedia.org/wiki/Helium">
+       Helium
+      </a>
+      , for example, was
+      <a href="https://www.smithsonianmag.com/history/how-scientists-discovered-helium-first-alien-element-1868-180970057/">
+       first discovered
+      </a>
+      in
+      <a href="https://ui.adsabs.harvard.edu/abs/2021JAHH...24..629N/abstract">
+       1868
+      </a>
+      on a solar spectrum and only
+      <a href="http://www.youtube.com/watch?v=d-XbjFn3aqE">
+       later found
+      </a>
+      here on
+      <a href="http://antwrp.gsfc.nasa.gov/apod/image/0208/earthlights02_dmsp_big.jpg">
+       Earth
+      </a>
+      .    Today, the majority of
+      <a href="https://astronomy.swin.edu.au/cosmos/a/absorption+line">
+       spectral absorption lines
+      </a>
+      have been identified - but
+      <a href="https://ui.adsabs.harvard.edu/abs/2005ASPC..336...25A/abstract">
+       not all
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/06
   </summary>
   <table>
@@ -18,8 +129,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251206.html">
+      https://apod.nasa.gov/apod/ap251206.html
      </a>
     </td>
    </tr>
