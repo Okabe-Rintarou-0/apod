@@ -5,6 +5,85 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/Soul_Bugin_3710.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.instagram.com/p/DRFyxyoiHLc/">
+       This cosmic close-up
+      </a>
+      looks deep inside the Soul Nebula.  The dark and brooding dust clouds outlined by bright ridges of glowing gas are cataloged as IC 1871.  About 25
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-year
+      </a>
+      s across, the telescopic field of view spans only a small part of the much larger
+      <a href="ap230214.html">
+       Heart and Soul
+      </a>
+      nebulae.  At an estimated distance of 6,500 light-years, the star-forming complex lies within the Perseus spiral arm of the
+      <a href="ap080606.html">
+       Milky Way
+      </a>
+      , seen in planet Earth's skies toward the
+      <a href="https://spaceplace.nasa.gov/constellations/">
+       constellation
+      </a>
+      of the Queen of
+      <a href="https://en.wikipedia.org/wiki/Aethiopia">
+       Aethiopia
+      </a>
+      (
+      <a href="https://en.wikipedia.org/wiki/Cassiopeia_(constellation)">
+       Cassiopeia
+      </a>
+      ).  An example of
+      <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/The_W5_Stellar_Blast_Furnace.ogv/The_W5_Stellar_Blast_Furnace.ogv.360p.webm ">
+       triggered star formation
+      </a>
+      , the dense star-forming clouds of IC 1871 are
+      <a href="https://img.buzzfeed.com/buzzfeed-static/static/2017-01/30/11/asset/buzzfeed-prod-fastlane-01/sub-buzz-15096-1485793040-1.png?downsize=700%3A%2A&amp;output-quality=auto&amp;output-format=auto">
+       themselves sculpted
+      </a>
+      by the intense
+      <a href="https://esahubble.org/wordbank/stellar-wind/">
+       winds
+      </a>
+      and
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       radiation
+      </a>
+      of the region's massive young stars.  This color image adopts a
+      <a href="https://delsaert.com/deep-sky/nebulae/h-alpha/">
+       palette made popular
+      </a>
+      in Hubble images of star-forming regions.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/07
   </summary>
   <table>
@@ -18,8 +97,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251208.html">
+      https://apod.nasa.gov/apod/ap251208.html
      </a>
     </td>
    </tr>
