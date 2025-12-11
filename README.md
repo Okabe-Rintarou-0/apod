@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/NGC1532.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/NGC1532_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Large galaxies grow by eating small ones.
+      <a href="ap050529.html">
+       Even our own
+      </a>
+      galaxy engages in a sort of galactic
+      <a href="http://www.cosmotography.com/images/galaxy_cannibalism.html">
+       cannibalism
+      </a>
+      , absorbing small galaxies that are too close and are
+      <a href="http://arxiv.org/abs/astro-ph/0407566">
+       captured
+      </a>
+      by the Milky Way's gravity.  In fact, the
+      <a href="https://www.nasa.gov/image-feature/goddard/2017/ hubble-catches-a-galaxy-duo-by-the-hare">
+       practice is common
+      </a>
+      in the universe and illustrated by this striking pair of interacting galaxies from the banks of the southern constellation
+      <a href="http://www.hawastsoc.org/deepsky/eri/index.html">
+       Eridanus
+      </a>
+      ,
+      <a href="ap160102.html">
+       The River
+      </a>
+      .  Located over 50 million light years away, the large, distorted spiral NGC 1532 is seen locked in a gravitational struggle with dwarf galaxy NGC 1531,  a struggle the smaller galaxy
+      <a href="ap080619.html">
+       will eventually lose
+      </a>
+      .  Seen nearly edge-on,
+      <a href="https://app.astrobin.com/u/vikaschander@rolexhosiery.com?i=n268cv#gallery">
+       in this sharp image
+      </a>
+      spiral NGC 1532 spans about 100,000 light-years.  The NGC 1532/1531 pair is thought to be similar to the well-studied system of face-on spiral and small companion
+      <a href="ap220902.html">
+       known as M51
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/10
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251210.html">
+      https://apod.nasa.gov/apod/ap251210.html
      </a>
     </td>
    </tr>
