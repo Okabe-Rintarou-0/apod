@@ -5,6 +5,49 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://aurora-nights.co.uk/aurora-academy/what-are-the-northern-lights/sami-view-of-the-northern-lights/">
+       In a Finnish myth
+      </a>
+      , when an arctic fox runs so fast that its bushy tail brushes the mountains, flaming sparks are cast into the heavens creating the northern lights.  In fact the Finnish word "revontulet", a name for
+      <a href="https://science.nasa.gov/sun/auroras/">
+       the aurora borealis or northern lights
+      </a>
+      , can be translated as fire fox.  So that evocative myth took on a special significance for the photographer of this northern night skyscape from Finnish Lapland near Kilpisjarvi Lake.  The snowy scene is illuminated by moonlight.  Saana, an iconic fell or mountain of Lapland, rises at the right in the background.  But as the
+      <a href="ap231117.html">
+       beautiful nothern lights
+      </a>
+      danced overhead, the wild fire fox in the foreground enthusiastically ran around the photographer and his equipment, making it difficult to capture in this lucky single shot.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/11
   </summary>
   <table>
@@ -18,8 +61,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251211.html">
+      https://apod.nasa.gov/apod/ap251211.html
      </a>
     </td>
    </tr>
