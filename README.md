@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What’s happening over that tree?  Two very different things.  On the left is the
+      <a href="https://en.wikipedia.org/wiki/Andromeda_Galaxy">
+       Andromeda galaxy
+      </a>
+      ,  an object that is older than
+      <a href="https://en.wikipedia.org/wiki/Timeline_of_human_evolution">
+       humanity
+      </a>
+      and will
+      <a href="ap220606.html">
+       last billions
+      </a>
+      of years into the future.   Andromeda  (
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/">
+       M31
+      </a>
+      ) is similar in size and shape to our own
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      .   On the right is a red
+      <a href="ap210104.html">
+       sprite
+      </a>
+      , a type of
+      <a href="https://www.lightningmaps.org/">
+       lightning
+      </a>
+      that lasts a fraction of a second and occurs above
+      <a href="ap170226.html">
+       violent thunderstorms
+      </a>
+      .
+      <a href="ap231002.html">
+       Red sprites
+      </a>
+      were
+      <a href="https://media.tenor.com/ogsH7Ailje8AAAAe/cat-funny-cat.png">
+       verified
+      </a>
+      as
+      <a href="https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/">
+       real atmospheric phenomena
+      </a>
+      only about 35 years ago.   The tree in the center is a
+      <a href="https://en.wikipedia.org/wiki/Adansonia_gregorii">
+       boab
+      </a>
+      ,  which may live for as long as a thousand years.   Boab trees grow naturally in
+      <a href="https://en.wikipedia.org/wiki/Australia">
+       Australia
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Africa">
+       Africa
+      </a>
+      and are known for being able to store large amounts of water: up to 100,000 liters.   The
+      <a href="https://www.instagram.com/p/DPvsritieGH/">
+       featured image
+      </a>
+      was captured last month near
+      <a href="https://youtu.be/XTjuah-w1Og">
+       Derby
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Western_Australia">
+       Western Australia
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/15
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251215.html">
+      https://apod.nasa.gov/apod/ap251215.html
      </a>
     </td>
    </tr>
