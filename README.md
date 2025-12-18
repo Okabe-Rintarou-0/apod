@@ -5,6 +5,73 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/GeminidsJupiterCruz.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/GeminidsJupiterCruz1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      , the Solar System's ruling gas giant, is the brightest celestial beacon at the center of this
+      <a href="https://www.instagram.com/astro.midnight/p/DSU2kD8ilU3/">
+       composite night skyscape
+      </a>
+      .  The scene was constructed by selecting the 40 exposures containing meteors from about 500 exposures made on the nights of December 13 and 14, near peak activity for this year's annual
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-geminid-meteor-shower/">
+       Geminid meteor shower
+      </a>
+      .  With each selected exposure registered in the night sky above Alentejo, Portugal, planet Earth, it does look like the
+      <a href="ap251215.html">
+       meteors are streaming
+      </a>
+      away from Jupiter.  But the apparent radiant of the Geminid meteors is actually closer to bright star Castor, in the shower's eponymous constellation Gemini.  In this frame that's just a little above and left of the Solar System's most massive planet.  Still, the
+      <a href="ap241212.html">
+       parent body
+      </a>
+      of Geminid meteors is known to be rocky,
+      <a href="https://en.wikipedia.org/wiki/DESTINY%2B">
+       near-Earth
+      </a>
+      asteroid
+      <a href="https://en.wikipedia.org/wiki/3200_Phaethon">
+       3200 Phaethon
+      </a>
+      .  And the orbit of
+      <a href="https://www.nasa.gov/solar-system/asteroids-comet-like-tail-is-not-made-of-dust-solar-observatories-reveal/">
+       Phaethon itself
+      </a>
+      is influenced by the gravitational attraction exerted by massive Jupiter,
+      <a href="https://ui.adsabs.harvard.edu/abs/2019SoSyR..53..215G/abstract">
+       in concert
+      </a>
+      with planets of the inner Solar System.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/17
   </summary>
   <table>
@@ -18,8 +85,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251217.html">
+      https://apod.nasa.gov/apod/ap251217.html
      </a>
     </td>
    </tr>
