@@ -5,6 +5,53 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/MontesCaucasusCopie.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/MontesCaucasusCopie1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/moon/moon-phases/">
+       When the Moon
+      </a>
+      is at its first quarter phase, the Sun rises along the
+      <a href="https://en.wikipedia.org/wiki/Montes_Caucasus">
+       Montes Caucasus
+      </a>
+      as seen from the lunar surface.  The lunar mountain range casts the magnificent, spire-like shadows in this telescopic view from planet Earth, looking along the lunar terminator or the boundary between lunar night and day.  Named for Earth's own Caucasus Mountains, the rugged lunar
+      <a href="https://planetarynames.wr.usgs.gov/Feature/4007">
+       Montes Caucasus
+      </a>
+      peaks, up to 6 kilometers high, are located between the smooth Mare Imbrium to the west and Mare Serenitatis to the east.  Still mostly in shadow in this first quarter
+      <a href="https://www.vaticanobservatory.org/sacred-space-astronomy/caucasus-triangle/">
+       lunarscape
+      </a>
+      , at the left (west) impact craters reflect the light of the rising Sun along their outer, eastern crater walls.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/18
   </summary>
   <table>
@@ -18,8 +65,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251218.html">
+      https://apod.nasa.gov/apod/ap251218.html
      </a>
     </td>
    </tr>
