@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217_1024.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.readpoetry.com/5-comforting-poems-for-the-winter-solstice/">
+       The word
+      </a>
+      solstice is from the Latin for Sun and to pause or stand still.  And in the days surrounding a solstice the Sun's annual
+      <a href="ap250102.html">
+       north-south drift
+      </a>
+      in planet Earth's sky does slow down, pause, and then reverse direction.  So near the solstice the daily path of the Sun through the sky really doesn't change much.  In fact, near the
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-december-solstice/">
+       December solstice
+      </a>
+      , the Sun's consistent, low arc through northern hemisphere skies, along with low surface temperatures, has left a noticeable imprint on this path to the mountain town of Peaio in northern Italy.  The morning frost on the road has melted away only where the sunlight was able to reach the ground.  But it remains in the areas
+      <a href="ap110423.html">
+       persistently shadowed
+      </a>
+      by the fence,
+      <a href="https://greenflash.photo/portfolio/tatoo-solar/">
+       tattooing in frost
+      </a>
+      an image of the fence on the asphalt surface.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/19
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251219.html">
+      https://apod.nasa.gov/apod/ap251219.html
      </a>
     </td>
    </tr>
