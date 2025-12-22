@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_3558.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Yesterday the Sun reached its southernmost point in planet Earth's sky.    Called a
+      <a href="https://en.wikipedia.org/wiki/Solstice">
+       solstice
+      </a>
+      ,  many cultures mark yesterday's date as a change of seasons -- from autumn to winter in
+      <a href="ap070325.html">
+       Earth
+      </a>
+      's Northern Hemisphere and from spring to summer in Earth's
+      <a href="ap021222.html">
+       Southern Hemisphere
+      </a>
+      .    The featured image was taken just before the
+      <a href="https://www.shutterstock.com/image-photo/funny-cat-tired-boring-lying-260nw-1447517609.jpg">
+       longest night
+      </a>
+      of the 2025 northern year at
+      <a href="https://en.wikipedia.org/wiki/Stonehenge">
+       Stonehenge
+      </a>
+      in
+      <a href="https://www.cia.gov/the-world-factbook/countries/united-kingdom/">
+       United Kingdom
+      </a>
+      .  There, through
+      <a href="https://www.youtube.com/watch?v=-6oxmxPKoSE">
+       stones precisely placed
+      </a>
+      4,500 years ago, a 4.5 billion year old
+      <a href="https://science.nasa.gov/sun/">
+       large glowing orb
+      </a>
+      is seen setting.  Even given the
+      <a href="https://science.nasa.gov/earth/earth-observatory/earths-orbital-precession-541/">
+       precession of the Earth's rotational axis
+      </a>
+      over the millennia, the
+      <a href="ap250316.html">
+       Sun
+      </a>
+      continues to
+      <a href="https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/solstice/">
+       set
+      </a>
+      over
+      <a href="http://www.english-heritage.org.uk/visit/places/Stonehenge">
+       Stonehenge
+      </a>
+      in an
+      <a href="https://en.wikipedia.org/wiki/Archaeoastronomy_and_Stonehenge">
+       astronomically significant way
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/20
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251221.html">
+      https://apod.nasa.gov/apod/ap251221.html
      </a>
     </td>
    </tr>
