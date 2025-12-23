@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening in the sky?
+      <a href="https://www.lightningmaps.org/">
+       Lightning
+      </a>
+      .   The most commonly seen type of
+      <a href="ap220919.html">
+       lightning
+      </a>
+      involves flashes of
+      <a href="ap210524.html">
+       bright white light
+      </a>
+      between clouds.   Over the past 50 years, though, other
+      <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning#/media/File:Lightning_sprites.jpg">
+       types of upper-atmospheric lightning
+      </a>
+      have been confirmed,  including tentacled red
+      <a href="ap231002.html">
+       sprites
+      </a>
+      and ringed
+      <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning#Elves">
+       ELVES
+      </a>
+      .   Although both last only a small fraction of a second,
+      <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning#Sprites">
+       sprites
+      </a>
+      are brighter and easier to photograph  than their more common
+      <a href="https://www.youtube.com/shorts/ucMJhP_Y3q0">
+       electrical-discharge
+      </a>
+      cousins.
+      <a href="https://malevus.com/elves/">
+       ELVES
+      </a>
+      are rapidly expanding rings that are thought to be created when an
+      <a href="https://en.wikipedia.org/wiki/Electromagnetic_pulse">
+       electromagnetic pulse
+      </a>
+      shoots upward from charged clouds and impacts the
+      <a href="https://science.nasa.gov/earth/10-things-to-know-about-the-ionosphere/">
+       ionosphere
+      </a>
+      , causing
+      <a href="https://science.nasa.gov/kids/earth/atmosphere/">
+       nitrogen
+      </a>
+      molecules to glow.   Capturing either form of lightning takes patience and experience --  capturing them
+      <a href="https://www.rd.com/wp-content/uploads/2021/03/ShortStack_264482286_1_Joe_Head_MLedit.jpg?fit=750%2C750&amp;original_fit=696,464">
+       both together
+      </a>
+      , since they usually occur separately, is rare.   The
+      <a href="https://www.instagram.com/p/DSFhlz_DKSF/">
+       featured image
+      </a>
+      is a frame from a video recorded from
+      <a href="https://youtu.be/0jnyeOwPbNQ">
+       Possagno
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italy
+      </a>
+      late last month above a distant
+      <a href="https://science.nasa.gov/earth/earth-observatory/the-anatomy-of-a-thunderstorm-78101/">
+       thunderstorm
+      </a>
+      over the
+      <a href="https://en.wikipedia.org/wiki/Adriatic_Sea">
+       Adriatic Sea
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/22
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251222.html">
+      https://apod.nasa.gov/apod/ap251222.html
      </a>
     </td>
    </tr>
