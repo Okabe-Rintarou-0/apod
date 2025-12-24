@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What are these little red dots (LRDs)?  Nobody knows.  Discovered only last year, hundreds of
+      <a href="https://en.wikipedia.org/wiki/Little_red_dot_(astronomical_object)">
+       LRDs
+      </a>
+      have now been found by the
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      in the
+      <a href="https://science.nasa.gov/mission/webb/early-universe/">
+       early universe
+      </a>
+      .  Although extremely faint,
+      <a href="https://www.scientificamerican.com/article/jwsts-little-red-dots-offer-astronomers-the-universes-weirdest-puzzle/">
+       LRDs
+      </a>
+      are now frequently identified in  deep observations made for other purposes.  A wide-ranging debate is raging about what
+      <a href="https://www.astronomy.com/science/little-red-dots-are-still-a-big-mystery/">
+       LRDs
+      </a>
+      may be and what importance they may have.   Possible origin hypotheses include
+      <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976...96P/abstract">
+       accreting supermassive black holes
+      </a>
+      inside clouds of gas and dust,  bursts of
+      <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...973L...2G/abstract">
+       star formation in young dust-reddened galaxies
+      </a>
+      , and
+      <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251108578F/abstract">
+       dark matter powered gas clouds
+      </a>
+      .   The
+      <a href="https://science.nasa.gov/asset/webb/little-red-dots-nircam-image/">
+       highlighted images
+      </a>
+      show six nearly featureless LRDs  listed under the JWST program that found them, and z,  a distance indicator called
+      <a href="ap130408.html">
+       cosmological redshift
+      </a>
+      .   Additionally,
+      <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250710659L/abstract">
+       searches are underway
+      </a>
+      in our nearby universe to try to find whatever previous LRDs might have
+      <a href="https://i0.wp.com/i.kym-cdn.com/entries/icons/original/000/002/232/bullet_cat.jpg">
+       become today
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/23
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251223.html">
+      https://apod.nasa.gov/apod/ap251223.html
      </a>
     </td>
    </tr>
