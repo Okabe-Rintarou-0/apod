@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/IMG_7311.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/IMG_7311_800.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A star forming region
+      <a href="http://messier.seds.org/xtra/ngc/n2264.html">
+       cataloged as NGC 2264
+      </a>
+      , this beautiful but complex arrangement of interstellar gas and dust is about 2,700 light-years distant in the faint but fanciful constellation
+      <a href="https://en.wikipedia.org/wiki/Monoceros">
+       Monoceros, the Unicorn
+      </a>
+      .  Seen toward the celestial equator and near the plane of our Milky Way galaxy, the seasonal skyscape mixes reddish
+      <a href="ap051223.html">
+       emission nebulae
+      </a>
+      excited by energetic light from newborn stars
+      <a href="ap190202.html">
+       with dark
+      </a>
+      interstellar dust clouds.  Where the otherwise obscuring dust clouds lie close to the hot, young stars, they also reflect starlight, forming blue
+      <a href="ap181231.html">
+       reflection nebulae
+      </a>
+      .  In fact, bright variable star S Monocerotis is immersed in a blue-tinted haze near center.  Arrayed with a simple triangular outline above
+      <a href="http://stars.astro.illinois.edu/sow/15mon.html">
+       S Monocerotis
+      </a>
+      , the stars
+      <a href="https://www.nasa.gov/image-article/hang-a-shining-star-upon-the-highest-bough/">
+       of NGC 2264
+      </a>
+      are popularly known as the
+      <a href="https://www.nasa.gov/image-article/telescopes-illuminate-christmas-tree-cluster/">
+       Christmas Tree star cluster
+      </a>
+      .  Carved by energetic starlight, the
+      <a href="https://science.nasa.gov/asset/hubble/cone-nebula-ngc-2264-star-forming-pillar-of-gas-and-dust/">
+       Cone Nebula
+      </a>
+      sits upside down at the apex of this cosmic Christmas tree while the dusty, convoluted pelt of glowing gas and dust under the tree is called the
+      <a href="ap151230.html">
+       Fox Fur Nebula
+      </a>
+      .  This
+      <a href="https://www.instagram.com/mkalika/p/DSGUY8ajIMg/">
+       rich telescopic frame
+      </a>
+      spans about 1.5 degrees or 3 full moons on the sky top to bottom, covering nearly 80 light-years at the distance of NGC 2264.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/24
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251224.html">
+      https://apod.nasa.gov/apod/ap251224.html
      </a>
     </td>
    </tr>
