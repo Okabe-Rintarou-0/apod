@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/solar-system/comets/3i-atlas/3i-atlas-facts-and-faqs/">
+       Attention grabbing interstellar
+      </a>
+      visitor
+      <a href="https://en.wikipedia.org/wiki/3I/ATLAS">
+       3I/ATLAS
+      </a>
+      made its not-so-close flyby of our fair planet on December 19 at a distance of 1.8 astronomical units.
+      <a href="https://en.wikipedia.org/wiki/Astronomical_unit">
+       That's about
+      </a>
+      900 light-seconds.  Still,
+      <a href="https://app.astrobin.com/i/vnsgps?r=0">
+       this deep exposure
+      </a>
+      captures the comet from another star system as it
+      <a href="https://app.astrobin.com/i/991zqj">
+       gently swept across
+      </a>
+      a faint background of stars in the constellation Leo about 4 days earlier, on the night of December 15.  Though faint, colors emphasized in the image data, show off the comet's yellowish dust tail  and bluish ion tail along with a greenish tinged coma.  And even while
+      <a href="https://science.nasa.gov/solar-system/comets/3i-atlas/comet-3i-atlas-image-gallery/">
+       scrutinized
+      </a>
+      by arrays of telescopes and spacecraft from planet Earth, 3I ATLAS is headed out of the Solar System.  It's presently moving outward along a hyperbolic
+      <a href="https://theskylive.com/3dsolarsystem?obj=c2025n1">
+       trajectory
+      </a>
+      at about 64 kilometers per second relative to the Sun, too fast to be bound the Sun's gravity.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/25
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251225.html">
+      https://apod.nasa.gov/apod/ap251225.html
      </a>
     </td>
    </tr>
