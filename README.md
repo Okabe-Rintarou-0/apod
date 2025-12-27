@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Awkward and angular looking,
+      <a href="https://www.nasa.gov/mission/apollo-17/">
+       Apollo 17's
+      </a>
+      <a href="https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-096C">
+       lunar module Challenger
+      </a>
+      was designed for flight in the near vacuum of space.    Digitally enhanced and reprocessed, this picture taken from Apollo 17's
+      <a href="https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-096A">
+       command module America
+      </a>
+      shows Challenger's ascent stage in lunar orbit.  Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine underneath.  The hatch that allowed
+      <a href="https://www.hq.nasa.gov/alsj/a17/a17.html">
+       access to the lunar surface
+      </a>
+      is seen at the front, with a round radar antenna at the top.  Mission commander Gene Cernan is clearly visible through the triangular window.  This spaceship performed gracefully, landing on the Moon and returning the Apollo astronauts to the orbiting command module in December of 1972.  So where is Challenger now?    While its descent stage remains at the
+      <a href="https://science.nasa.gov/resource/lro-apollo-17-landing-site-lithograph/">
+       Apollo 17 landing site
+      </a>
+      in the Taurus-Littrow valley, the
+      <a href="https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html">
+       ascent stage
+      </a>
+      pictured was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts'
+      <a href="https://www.nasa.gov/centers/marshall/history/this-week-in-nasa-history-apollo-17-splashes-down-dec-19-1972.html">
+       return to planet Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/26
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251226.html">
+      https://apod.nasa.gov/apod/ap251226.html
      </a>
     </td>
    </tr>
