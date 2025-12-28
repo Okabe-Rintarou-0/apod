@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_2913.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Jewels don't shine this bright -- only stars do.  And almost every spot in this jewel-box of an image from the
+      <a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/">
+       Hubble Space Telescope
+      </a>
+      is a star.  Now, some stars are more red than our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      ,  and some more blue -- but all of them are much farther away.   Although it takes light about 8 minutes to reach
+      <a href="ap220206.html">
+       Earth
+      </a>
+      from the Sun,  NGC 1898 is so far away that it takes light about 160,000
+      <a href="http://chandra.harvard.edu/photo/cosmic_distance.html">
+       years
+      </a>
+      to get here.  This
+      <a href="https://www.spacetelescope.org/images/potw1840a/zoomable/">
+       huge ball of stars, NGC 1898
+      </a>
+      , is called a
+      <a href="https://en.wikipedia.org/wiki/Globular_cluster">
+       globular cluster
+      </a>
+      and resides in the
+      <a href="ap180516.html">
+       central bar
+      </a>
+      of the
+      <a href="ap180428.html">
+       Large Magellanic Cloud
+      </a>
+      (LMC) -- a
+      <a href="https://en.wikipedia.org/wiki/Satellite_galaxies_of_the_Milky_Way#List">
+       satellite galaxy
+      </a>
+      of our
+      <a href="http://www.atlasoftheuniverse.com/milkyway.html">
+       Milky Way Galaxy
+      </a>
+      .  The
+      <a href="https://www.spacetelescope.org/images/potw1840a/">
+       featured multi-colored image
+      </a>
+      includes light from the
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared
+      </a>
+      to the
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       ultraviolet
+      </a>
+      and was taken to help determine if the
+      <a href="https://archive.stsci.edu/proposal_search.php?mission=hst&amp;id=13435">
+       stars of NGC 1898
+      </a>
+      all formed at the same time or at different times.  There are increasing indications that most
+      <a href="https://ui.adsabs.harvard.edu/abs/2012A%26ARv..20...50G/abstract">
+       globular clusters formed stars in stages
+      </a>
+      , and that, in particular,
+      <a href="https://ui.adsabs.harvard.edu/abs/2012MNRAS.426.1884C/abstract">
+       stars from NGC 1898 formed
+      </a>
+      shortly after
+      <a href="ap160725.html">
+       ancient encounter
+      </a>
+      s with the
+      <a href="ap100903.html">
+       Small Magellanic Cloud
+      </a>
+      (SMC) and our Milky Way Galaxy.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/27
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251227.html">
+      https://apod.nasa.gov/apod/ap251227.html
      </a>
     </td>
    </tr>
