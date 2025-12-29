@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/Crab_Chen_1920.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/Crab_Chen_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This is the mess that is left when a star explodes.   The
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-1/">
+       Crab Nebula
+      </a>
+      , the result of a
+      <a href="https://spaceplace.nasa.gov/supernova/">
+       supernova
+      </a>
+      seen in
+      <a href="http://www.messier.seds.org/more/m001_sn.html">
+       1054 AD
+      </a>
+      ,  is filled with
+      <a href="https://youtu.be/5VnJ9pRR8-8">
+       mysterious
+      </a>
+      filaments.   The
+      <a href="ap980208.html">
+       filaments
+      </a>
+      are not only  tremendously complex but appear to have
+      <a href="https://ui.adsabs.harvard.edu/abs/1995ApJ...454L.129F/abstract">
+       less mass than expelled
+      </a>
+      in the original supernova and a
+      <a href="https://ui.adsabs.harvard.edu/abs/1998PASP..110..831N/abstract">
+       higher speed than expected
+      </a>
+      from a free explosion.   The featured image was taken by an amateur astronomer in
+      <a href="https://en.wikipedia.org/wiki/Leesburg,_Florida">
+       Leesburg
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Florida">
+       Florida
+      </a>
+      ,
+      <a href="https://www.cia.gov/the-world-factbook/countries/united-states/">
+       USA
+      </a>
+      over three nights last month.  It was captured in
+      <a href="https://en.wikipedia.org/wiki/RGB_color_model">
+       three primary colors
+      </a>
+      but with extra detail provided by
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       specific emission
+      </a>
+      by
+      <a href="https://spinoff.nasa.gov/NASA_Hydrogen_History_Informs_World%E2%80%99s_Hydrogen_Future">
+       hydrogen
+      </a>
+      gas.  The
+      <a href="https://en.wikipedia.org/wiki/Crab_Nebula">
+       Crab Nebula
+      </a>
+      spans about 10
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light year
+      </a>
+      s.   In the Nebula's very center lies a pulsar: a neutron star as massive as the Sun but
+      <a href="https://www.reddit.com/r/cats/comments/8smej7/surprised_cat/#lightbox">
+       with only
+      </a>
+      the size of a
+      <a href="https://www.planetary.org/space-images/comet-67p-compared-to-los-angeles">
+       small town
+      </a>
+      .   The
+      <a href="ap020920.html">
+       Crab Pulsar
+      </a>
+      rotates about 30 times each second.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/28
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251228.html">
+      https://apod.nasa.gov/apod/ap251228.html
      </a>
     </td>
    </tr>
