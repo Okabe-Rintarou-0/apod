@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Yes, but can your comet tail do this?  No, and what you are seeing is not the
+      <a href="ap250128.html">
+       tail
+      </a>
+      of a
+      <a href="https://science.nasa.gov/solar-system/comets/">
+       comet
+      </a>
+      .  The picture features a
+      <a href="https://i.ytimg.com/vi/npW2t0aDMrY/hq720.jpg">
+       cleverly overlayed
+      </a>
+      time-lapse
+      <a href="image/2512/ArtificialComet_Chao.mp4">
+       sequence
+      </a>
+      of a
+      <a href="ap250614.html">
+       group of satellites
+      </a>
+      orbiting
+      <a href="https://science.nasa.gov/earth/earth-observatory/">
+       Earth
+      </a>
+      together in June.  Specifically, these are
+      <a href="https://starlink.com/technology">
+       Starlink
+      </a>
+      communications satellites in
+      <a href="https://www.nasa.gov/humans-in-space/leo-economy-frequently-asked-questions/">
+       low Earth orbit
+      </a>
+      reflecting back sunlight before sunrise to
+      <a href="https://youtu.be/KagBk62Digg">
+       Inner Mongolia
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/China">
+       China
+      </a>
+      .  Although the satellites appear to the
+      <a href="https://en.wikipedia.org/wiki/Human_eye">
+       human eye
+      </a>
+      as points,  the 20-second-long camera exposures caused them to appear as short
+      <a href="ap230107.html">
+       streaks
+      </a>
+      .  Currently there are over 9000
+      <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination/">
+       Starlinks in orbit
+      </a>
+      ,  with more being
+      <a href="ap251015.html">
+       launched
+      </a>
+      nearly every week.   Other
+      <a href="https://en.wikipedia.org/wiki/Satellite_internet_constellation">
+       satellite constellations
+      </a>
+      are also being planned.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/29
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251229.html">
+      https://apod.nasa.gov/apod/ap251229.html
      </a>
     </td>
    </tr>
