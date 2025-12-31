@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2025/12/31
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_4000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What created the Waterfall Nebula?   The origin is still being researched.   The structure, officially designated
+      <a href="https://en.wikipedia.org/wiki/Herbig%E2%80%93Haro_object">
+       Herbig-Haro
+      </a>
+      222, appears in the region of
+      <a href="ap180307.html">
+       NGC 1999
+      </a>
+      in the
+      <a href="ap070125.html">
+       Great Orion Molecular Cloud
+      </a>
+      complex.  The elongated gaseous stream stretches about ten
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      but appears similar to a long
+      <a href="ap190112.html">
+       waterfall
+      </a>
+      on Earth.
+      <a href="https://ui.adsabs.harvard.edu/abs/2013AJ....146..118R/abstract">
+       Recent observations
+      </a>
+      indicate that
+      <a href="https://www.astroexplorer.org/details/aj481802f1">
+       HH-222
+      </a>
+      is likely a gigantic gaseous
+      <a href="https://en.wikipedia.org/wiki/Bow_shock">
+       bow shock
+      </a>
+      ,  similar to a
+      <a href="https://youtu.be/95sQcSulRFM">
+       wave of water
+      </a>
+      caused by a fast-moving ship.  The origin of this
+      <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/shock.html">
+       shock wave
+      </a>
+      is thought to be a
+      <a href="ap250528.html">
+       jet outflow
+      </a>
+      from the multiple
+      <a href="https://science.nasa.gov/universe/stars/">
+       star
+      </a>
+      system
+      <a href="https://en.wikipedia.org/wiki/V380_Orionis ">
+       V380 Orionis
+      </a>
+      off the lower left of the frame.   Therefore, gas
+      <a href="https://media.istockphoto.com/id/1128004359/photo/close-up-scottish-fold-cat-head-with-shocking-face-and-wide-open-eyes-frighten-or-surprised.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=HglQ8Nf1PslTuI91T-dfhkln-iEbchjqfhGKCWTbaxg=">
+       does not flow
+      </a>
+      along the waterfall,  but rather the entire structure moves toward the upper right.   The
+      <a href="https://en.wikipedia.org/wiki/HH_222">
+       Waterfall Nebula
+      </a>
+      lies about 1,500
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light year
+      </a>
+      s away toward the
+      <a href="https://spaceplace.nasa.gov/constellations/">
+       constellation
+      </a>
+      of Orion.   The
+      <a href="https://throughlightandtime.com/hh-222-ha-rgb-rev-3-cdk-1000-26-dec-2025/">
+       featured image
+      </a>
+      was captured earlier this month from
+      <a href="https://youtu.be/shbwtlPIDI4">
+       El Sauce Observatory
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/30
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251230.html">
+      https://apod.nasa.gov/apod/ap251230.html
      </a>
     </td>
    </tr>
