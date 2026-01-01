@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.swpc.noaa.gov/products/solar-cycle-progression">
+       Cycle 25 solar maximum
+      </a>
+      made 2025 a great year for
+      <a href="https://www.mtu.edu/tour/copper-country/northern-lights/">
+       aurora borealis
+      </a>
+      (or
+      <a href="https://www.flickr.com/photos/nasa2explore/54644014628/in/album-72177720319898071">
+       aurora australis
+      </a>
+      ) on planet Earth.  And the high level of solar activity should extend into 2026.  So, while you're celebrating the arrival of the new year, check out this
+      <a href="https://www.instagram.com/astroi_levi/p/DQ9QEbnDI_R/?hl=en">
+       spectacular auroral display
+      </a>
+      that erupted in starry night skies over
+      <a href="ap231125.html">
+       Kirkjufell
+      </a>
+      , Iceland.  The awesome auroral corona, energetic curtains of light streaming from directly overhead, was witnessed during a strong
+      <a href="https://www.swpc.noaa.gov/phenomena/geomagnetic-storms">
+       geomagnetic storm
+      </a>
+      triggered by intense solar activity near the March 2025 equinox.  This northland and skyscape captures the evocative display in a 21 frame panoramic mosaic.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2025/12/31
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap251231.html">
+      https://apod.nasa.gov/apod/ap251231.html
      </a>
     </td>
    </tr>
