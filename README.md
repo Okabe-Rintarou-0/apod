@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In 2011, on January 20,
+      <a href="https://en.wikipedia.org/wiki/NanoSail-D2">
+       NASA's NanoSail-D2
+      </a>
+      unfurled a very thin and very reflective 10 square meter sail becoming the first solar sail spacecraft in low Earth orbit.  Often considered the
+      <a href="https://en.wikipedia.org/wiki/Sunjammer">
+       stuff of science fiction
+      </a>
+      , sailing through space
+      <a href="ap040821.html">
+       was suggested
+      </a>
+      400 years ago by astronomer Johannes Kepler, who had observed comet tails blown by the solar wind.  But
+      <a href="http://en.wikipedia.org/wiki/Solar_sail">
+       modern solar sail
+      </a>
+      spacecraft designs, like NanoSail-D2, Japan's interplanetary spacecraft
+      <a href="https://global.jaxa.jp/countdown/f17/overview/ikaros_e.html">
+       IKAROS
+      </a>
+      , or the Planetary Society's
+      <a href="ap150619.html">
+       Lightsail A
+      </a>
+      , rely on the small but
+      <a href="http://www.phy6.org/stargaze/Solsail.htm">
+       continuous pressure from sunlight
+      </a>
+      itself for thrust.  Glinting in the sunlight as it circled planet Earth, NanoSail-D2's solar sail was periodically bright and visible to the eye.  These remarkably detailed images were captured by manually tracking the orbiting solar sail spacecraft with a small telescope.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/01
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260101.html">
+      https://apod.nasa.gov/apod/ap260101.html
      </a>
     </td>
    </tr>
