@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/qso2237_wiyn_1024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/qso2237_wiyn_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Most galaxies have a single nucleus -- does this galaxy have four?    The strange answer leads
+      <a href="https://aas.org/careers/career-in-astronomy">
+       astronomers
+      </a>
+      to conclude that the nucleus of the surrounding galaxy is not even visible in
+      <a href="https://noirlab.edu/public/images/noao-q2237/">
+       this image
+      </a>
+      .    The central
+      <a href="https://en.wikipedia.org/wiki/Four-leaf_clover">
+       cloverleaf
+      </a>
+      is rather light emitted from a background
+      <a href="https://en.wikipedia.org/wiki/Quasar">
+       quasar
+      </a>
+      .    The
+      <a href="https://spaceplace.nasa.gov/what-is-gravity/en/">
+       gravitational
+      </a>
+      field of the visible foreground galaxy
+      <a href="https://science.nasa.gov/wp-content/uploads/2024/09/gravitational-lens-diagram-simple.jpg">
+       breaks light
+      </a>
+      from this distant
+      <a href="https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-quasars/">
+       quasar
+      </a>
+      into four distinct images.    The
+      <a href="ap220222.html">
+       quasar
+      </a>
+      must be
+      <a href="https://www.reddit.com/r/cats/comments/1lkdakf/six_of_seven_cuddle_pile_on_the_balcony/#lightbox">
+       properly aligned
+      </a>
+      behind the center of a massive galaxy for a
+      <a href="ap990331.html">
+       mirage like this
+      </a>
+      to be evident.    The general effect is known as
+      <a href="https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/">
+       gravitational lensing
+      </a>
+      , and this specific case is known as the
+      <a href="http://www.astr.ua.edu/keel/agn/qso2237.html">
+       Einstein Cross
+      </a>
+      .    Stranger still, the images of the
+      <a href="ap961215.html">
+       Einstein Cross
+      </a>
+      vary in relative brightness,  enhanced occasionally by the additional
+      <a href="https://en.wikipedia.org/wiki/Gravitational_microlensing">
+       gravitational microlensing
+      </a>
+      effect of specific stars in the foreground galaxy.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/03
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260103.html">
+      https://apod.nasa.gov/apod/ap260103.html
      </a>
     </td>
    </tr>
