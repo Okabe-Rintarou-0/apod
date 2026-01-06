@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/JupiterClouds_JunoThomopoulos_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/JupiterClouds_JunoThomopoulos_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How complex is Jupiter?  NASA's
+      <a href="https://www.jpl.nasa.gov/missions/juno/">
+       Juno mission
+      </a>
+      to Jupiter is finding the Jovian giant to be
+      <a href="https://www.youtube.com/watch?v=S6Joupv6f-M">
+       more complicated than expected
+      </a>
+      .  Jupiter's magnetic field has been
+      <a href="https://ui.adsabs.harvard.edu/abs/2018GeoRL..45.2590C/abstract">
+       discovered to be
+      </a>
+      much different from our
+      <a href="https://www.nasa.gov/image-article/representation-of-earths-invisible-magnetic-field/">
+       Earth's simple dipole field
+      </a>
+      , showing
+      <a href="https://www.nasa.gov/news-release/a-whole-new-jupiter-first-science-results-from-nasas-juno-mission/">
+       several poles embedded in a complicated network
+      </a>
+      more convoluted in the north than the south.  Further, Juno's radio measurements show that
+      <a href="https://en.wikipedia.org/wiki/Atmosphere_of_Jupiter">
+       Jupiter's atmosphere
+      </a>
+      shows structure well
+      <a href="ap240519.html">
+       below the upper cloud deck
+      </a>
+      --  even hundreds of kilometers deep.
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      's
+      <a href="https://www.reddit.com/r/MiniatureSchnauzer/comments/1jf7dir/the_dogs_had_a_great_day/#lightbox">
+       newfound complexity
+      </a>
+      is evident also in southern clouds,  as shown in the texture and color enhanced
+      <a href="https://www.flickr.com/photos/195227719@N04/54996974243/in/pool-apods/">
+       featured image
+      </a>
+      taken last month.   There, planet-circling
+      <a href="http://www.planetary.org/multimedia/space-images/jupiter/jupiters-belts-and-zones.html">
+       zones and belts
+      </a>
+      that dominate near the equator decay into a
+      <a href="ap180521.html">
+       complex miasma
+      </a>
+      of continent-sized storm swirls.
+      <a href="https://en.wikipedia.org/wiki/Juno_(spacecraft)">
+       Juno
+      </a>
+      continues in its looping elliptical orbit,
+      <a href="ap180226.html">
+       swooping near the huge planet
+      </a>
+      every month and exploring a slightly different sector each time around.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/04
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260105.html">
+      https://apod.nasa.gov/apod/ap260105.html
      </a>
     </td>
    </tr>
