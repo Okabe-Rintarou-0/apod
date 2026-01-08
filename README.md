@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/IC342Low2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/IC342Low1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Similar in size to large, bright spiral galaxies in our neighborhood,
+      <a href="https://theskylive.com/sky/deepsky/ic342-object">
+       IC 342
+      </a>
+      is a mere 10 million light-years
+      <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?2002AJ....124..839S">
+       distant
+      </a>
+      toward the long-necked, northern constellation
+      <a href="https://noirlab.edu/public/education/constellations/camelopardalis/">
+       Camelopardalis
+      </a>
+      .  A sprawling
+      <a href="https://history.aip.org/exhibits/cosmology/ideas/island.htm">
+       island universe
+      </a>
+      , IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own
+      <a href="ap110520.html">
+       Milky Way galaxy
+      </a>
+      .  Even though IC 342's light is dimmed and reddened by intervening
+      <a href="http://www-ssg.sr.unh.edu/ism/what1.html">
+       cosmic clouds
+      </a>
+      , this
+      <a href="https://app.astrobin.com/u/Gmaxt?i=zk43hn#gallery">
+       sharp telescopic image
+      </a>
+      traces the galaxy's own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from
+      <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-hidden-galaxy/">
+       the galaxy's core
+      </a>
+      .  IC 342 has undergone a recent burst of star formation activity and is close enough to have
+      <a href="https://ui.adsabs.harvard.edu/abs/2016MNRAS.459.2237B/abstract">
+       influenced
+      </a>
+      the evolution of the
+      <a href="http://messier.seds.org/xtra/ngc/maffei1g.html">
+       local group
+      </a>
+      of galaxies and the Milky Way.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/07
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260107.html">
+      https://apod.nasa.gov/apod/ap260107.html
      </a>
     </td>
    </tr>
