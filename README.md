@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/TransitionsLight.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/TransitionsLight1024.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Both Moon and Sun create beautiful
+      <a href="https://en.wikipedia.org/wiki/Halo_(optical_phenomenon)">
+       ice halos
+      </a>
+      in planet Earth's sky.  In fact, the two brightest celestial beacons are each surrounded by a
+      <a href="ap241225.html">
+       complex of ice halos
+      </a>
+      in these photos of the sky above Chamonix-Mont-Blanc in France.  The panels were recorded one night (left) and the following day at the end of December 2025.  Similar
+      <a href="https://ui.adsabs.harvard.edu/abs/2022JQSRT.29008313M/abstract">
+       ice halos appear
+      </a>
+      in moonlight and sunlight because they are all formed through the geometry of flat, hexagonal ice crystals.  The ice crystals reflect and refract light as they flutter in the cold atmosphere above the mountain resort.  In the pictures both Moon and Sun are surrounded by a more commonly seen 22 degree circular halo.  Bright and sometimes colorful patches at the intersections of the 22 degree circular halos with the indicated
+      <a href="https://cloudatlas.wmo.int/en/parhelic-circle.html">
+       parselenic and parhelic
+      </a>
+      arcs are also known as
+      <a href="ap160321.html">
+       Moon dogs
+      </a>
+      and
+      <a href="ap250215.html">
+       Sun dogs
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/08
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260108.html">
+      https://apod.nasa.gov/apod/ap260108.html
      </a>
     </td>
    </tr>
