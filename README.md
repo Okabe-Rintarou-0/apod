@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/jupiter2026.tif">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/jupiter2026.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/astronomy-essentials/jupiter-at-opposition-closest-brightest-best/">
+       Jupiter reaches
+      </a>
+      its 2026 opposition today, January 10.  That puts our Solar System's
+      <a href="https://science.nasa.gov/jupiter/">
+       most massive planet
+      </a>
+      opposite the Sun and near its closest and brightest for viewing from planet Earth.  In fact, captured only 3 days ago this sharp
+      <a href="https://astro.christone.net/jupiter/index.htm">
+       telescopic snapshot
+      </a>
+      reveals excellent details of the ruling gas giant's
+      <a href="https://en.wikipedia.org/wiki/Atmosphere_of_Jupiter">
+       swirling cloudtops
+      </a>
+      , in light zones and dark belts girdling the
+      <a href="ap240119.html">
+       rapidly rotating
+      </a>
+      outer planet.  Jupiter's famous, persistent anticyclonic vortex, known as the
+      <a href="https://science.nasa.gov/asset/hubble/close-up-of-jupiters-great-red-spot-8-panel/">
+       Great Red Spot
+      </a>
+      , is south of the equator at the lower right.  But two smaller red spots are also visible, one near the top in the northernmost zone, and one close to Jupiter's south pole.  And while Jupiter's Great Red Spot is
+      <a href="https://science.nasa.gov/missions/hubble/hubble-shows-that-jupiters-great-red-spot-is-smaller-than-ever-seen-before/">
+       known to be shrinking
+      </a>
+      , it's still about the size of the Earth itself.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/09
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260109.html">
+      https://apod.nasa.gov/apod/ap260109.html
      </a>
     </td>
    </tr>
