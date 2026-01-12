@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/MeteorDust_XuChen_2316.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/MeteorDust_XuChen_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening to this meteor?  It is shedding its outer layers as it passes through the
+      <a href="https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      and heats up.  The sudden high temperatures not only cause the bright glow along the
+      <a href="ap250723.html">
+       dramatic streak
+      </a>
+      but also  melt and vaporize the
+      <a href="https://ares.jsc.nasa.gov/meteorite-falls/what-are-meteorites/">
+       meteor's component rock and ice
+      </a>
+      , creating dust.  Wind in the atmosphere typically
+      <a href="ap180817.html">
+       blows this dust away
+      </a>
+      over the next few seconds, leaving
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fj9bzok9bqvm71.jpg">
+       no visible trace
+      </a>
+      after only a few minutes.   Much of this dust will
+      <a href="https://www.scientificamerican.com/article/antarctic-study-shows-how-much-space-dust-hits-earth-every-year/">
+       eventually settle down
+      </a>
+      to the
+      <a href="https://spaceplace.nasa.gov/all-about-earth/">
+       Earth
+      </a>
+      .  The featured image was captured in mid-December,  coincident with the
+      <a href="https://en.wikipedia.org/wiki/Geminids">
+       Geminids meteor shower
+      </a>
+      .  On the upper left is
+      <a href="https://science.nasa.gov/asset/hubble/the-dog-star-sirius-and-its-tiny-companion/">
+       Sirius
+      </a>
+      , the
+      <a href="ap250611.html">
+       brightest star in the night sky
+      </a>
+      ,  while in the foreground is fog-engulfed
+      <a href="https://youtu.be/0YwaAgB_-nw">
+       Huangshan
+      </a>
+      ,  the Yellow Mountains of eastern
+      <a href="https://en.wikipedia.org/wiki/China">
+       China
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/11
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260111.html">
+      https://apod.nasa.gov/apod/ap260111.html
      </a>
     </td>
    </tr>
