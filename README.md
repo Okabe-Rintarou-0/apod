@@ -5,6 +5,113 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_3283_annotated.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_1080_annotated.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This infrared view of Jupiter by Webb is illuminating.  High-resolution
+      <a href="https://science.nasa.gov/ems/07_infraredwaves">
+       infrared
+      </a>
+      images of
+      <a href="https://science.nasa.gov/jupiter/jupiter-facts/">
+       Jupiter
+      </a>
+      from the
+      <a href="https://spaceplace.nasa.gov/james-webb-space-telescope/en/">
+       James Webb Space Telescope
+      </a>
+      (Webb) reveal, for example,  differences between high-floating bright clouds -- including the
+      <a href="https://en.wikipedia.org/wiki/Great_Red_Spot">
+       Great Red Spot
+      </a>
+      --  and low-lying dark clouds.  Also clearly visible in the
+      <a href="https://svs.gsfc.nasa.gov/31191">
+       featured Webb image
+      </a>
+      are
+      <a href="ap220720.html">
+       Jupiter's dust ring
+      </a>
+      , bright
+      <a href="ap001219.html">
+       auroras at the poles
+      </a>
+      , and Jupiter's moons
+      <a href="https://science.nasa.gov/jupiter/jupiter-moons/amalthea/">
+       Amalthea
+      </a>
+      and
+      <a href="https://solarsystem.nasa.gov/moons/jupiter-moons/adrastea/in-depth.amp">
+       Adrastea
+      </a>
+      .  The footprint of large volcanic moon
+      <a href="ap140330.html">
+       Io
+      </a>
+      's magnetic funneling of charged particles onto
+      <a href="ap220828.html">
+       Jupiter
+      </a>
+      is also visible in the southern aurora.  Some objects are so bright that light noticeably
+      <a href="https://en.wikipedia.org/wiki/Diffraction_spike">
+       diffracts
+      </a>
+      around
+      <a href="https://science.nasa.gov/mission/webb/optical-telescope-element-ote/">
+       Webb's optics
+      </a>
+      creating
+      <a href="https://science.nasa.gov/asset/webb/webbs-diffraction-spikes/">
+       streaks
+      </a>
+      .   Webb, which
+      <a href="https://science.nasa.gov/mission/webb/orbit/">
+       orbits the Sun
+      </a>
+      near the Earth, has a mirror over six meters across making it the
+      <a href="https://en.wikipedia.org/wiki/List_of_largest_optical_reflecting_telescopes">
+       largest astronomical telescope
+      </a>
+      <a href="https://as2.ftcdn.net/v2/jpg/01/89/49/89/1000_F_189498933_OeutsN0mMlzJGaJZJvkXIsoSCUCFIO7W.jpg">
+       ever
+      </a>
+      launched -- with over six times
+      <a href="https://youtu.be/j3mk6tUokm4">
+       more light-collecting area
+      </a>
+      than
+      <a href="ap090525.html">
+       Hubble
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/17
   </summary>
   <table>
@@ -18,8 +125,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260117.html">
+      https://apod.nasa.gov/apod/ap260117.html
      </a>
     </td>
    </tr>
