@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_2796.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The strangest moon in the
+      <a href="https://science.nasa.gov/solar-system/solar-system-facts/">
+       Solar System
+      </a>
+      is bright yellow.    The
+      <a href="https://science.nasa.gov/photojournal/global-image-of-io-true-color/">
+       featured picture
+      </a>
+      ,  an attempt to show how Io would appear in the "true colors" perceptible to the average human eye, was taken in 1999 July by the
+      <a href="https://science.nasa.gov/mission/galileo/">
+       Galileo spacecraft
+      </a>
+      that orbited Jupiter from 1995 to 2003.    Io's colors derive from
+      <a href="http://periodic.lanl.gov/16.shtml">
+       sulfur
+      </a>
+      and molten
+      <a href="https://en.wikipedia.org/wiki/Silicate_mineral">
+       silicate rock
+      </a>
+      .    The unusual
+      <a href="https://science.nasa.gov/jupiter/jupiter-moons/io/facts/#h-potential-for-life">
+       surface of Io
+      </a>
+      is kept very young by its system of
+      <a href="ap960805.html">
+       active volcanoes
+      </a>
+      .    The intense
+      <a href="https://en.wikipedia.org/wiki/Tidal_force">
+       tidal gravity
+      </a>
+      of
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      stretches
+      <a href="https://youtu.be/GkfDnIQsEXs">
+       Io
+      </a>
+      and damps wobbles caused by Jupiter's other
+      <a href="ap001118.html">
+       Galilean moons
+      </a>
+      .    The resulting
+      <a href="https://en.wikipedia.org/wiki/Friction">
+       friction
+      </a>
+      greatly heats
+      <a href="http://en.wikipedia.org/wiki/Io_%28moon%29">
+       Io
+      </a>
+      's interior, causing
+      <a href="ap070918.html">
+       molten rock
+      </a>
+      to explode through the surface.
+      <a href="http://www.youtube.com/watch?v=GdkOngxCqQo">
+       Io's volcanoes
+      </a>
+      are
+      <a href="https://youtu.be/mt084vYqbnY">
+       so active
+      </a>
+      that they are effectively turning the  whole moon inside out.    Some of
+      <a href="ap070211.html">
+       Io
+      </a>
+      's volcanic lava is so hot it
+      <a href="https://ui.adsabs.harvard.edu/abs/1998Icar..135..181M/abstract">
+       glows in the dark
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/19
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260119.html">
+      https://apod.nasa.gov/apod/ap260119.html
      </a>
     </td>
    </tr>
