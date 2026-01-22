@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/ldn1622fellows.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The silhouette of an intriguing
+      <a href="http://en.wikipedia.org/wiki/Dark_nebula">
+       dark nebula
+      </a>
+      inhabits
+      <a href="https://app.astrobin.com/u/SliverSnake?i=0wg4a0#gallery">
+       this cosmic scene
+      </a>
+      .  Lynds' Dark Nebula (
+      <a href="https://ui.adsabs.harvard.edu/abs/1962ApJS....7....1L/abstract">
+       LDN
+      </a>
+      ) 1622 appears against a faint background of glowing hydrogen gas only visible in long telescopic exposures of the region.  In contrast, a brighter reflection nebula,
+      <a href="https://www.emilivanov.com/CCD%20Images/Catalog_VdB.htm">
+       vdB
+      </a>
+      62, is more easily seen just above the dusty dark nebula.  LDN 1622 lies near the plane of our Milky Way Galaxy, close on the sky to
+      <a href="http://www.messier.seds.org/xtra/ngc/b-loop.html">
+       Barnard's Loop
+      </a>
+      , a large cloud surrounding the rich complex of emission nebulae found in the Belt and Sword
+      <a href="ap101023.html">
+       of Orion
+      </a>
+      .  With swept-back outlines, the obscuring dust of LDN 1622 is thought to lie at a similar distance, perhaps 1,500 light-years away.  At that distance, this 3 degree wide field of view would span about 100 light-years.
+      <a href="https://ui.adsabs.harvard.edu/abs/2009AJ....137.3843B/abstract">
+       Young stars
+      </a>
+      do lie hidden within the dark expanse and have been revealed in Spitzer Space telescope
+      <a href="https://www.researchgate.net/figure/The-L1622-cloud-as-seen-by-Spitzer-36-m-blue-8-m-green-and-24-m-red-Emission_fig10_235684871">
+       infrared images
+      </a>
+      .  Still, the
+      <a href="https://en.wikipedia.org/wiki/Bogeyman#/media/File:Francisco_de_Goya,_Que_viene_el_coco_(Here_Comes_the_Bogey-Man),_published_1799,_NGA_7459.jpg">
+       foreboding
+      </a>
+      visual appearance of LDN 1622 inspires its popular name,
+      <a href="ap230125.html">
+       the Boogeyman Nebula
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/21
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260121.html">
+      https://apod.nasa.gov/apod/ap260121.html
      </a>
     </td>
    </tr>
