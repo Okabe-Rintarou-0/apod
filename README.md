@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/01/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://esahubble.org/news/heic1108/">
+       Distorted galaxy NGC 2442
+      </a>
+      can be found in the southern constellation of the flying fish, (Piscis)
+      <a href="https://en.wikipedia.org/wiki/Volans">
+       Volans
+      </a>
+      .  Located about 50 million light-years away, the galaxy's two spiral arms extending from a pronounced central bar give it a hook-shaped appearance in this deep and colorful image, with foreground stars scattered across the telescopic field of view.  The image also reveals the distant galaxy's obscuring dust lanes, young blue star clusters and
+      <a href="ap061123.html">
+       reddish star forming
+      </a>
+      regions surrounding a core of yellowish light from an older population of stars.  But the star forming regions seem more concentrated along the drawn-out (upper right)
+      <a href="http://cass.ucsd.edu/public/tutorial/Galaxies.html">
+       spiral
+      </a>
+      arm.  The distorted structure is likely the result of an ancient
+      <a href="http://arxiv.org/abs/astro-ph/9701015">
+       close encounter
+      </a>
+      with a smaller galaxy that lies off top left of the frame.
+      <a href="https://throughlightandtime.com/ngc-2442-lrgb-ha-rev-1-crop-cdk-1000-18-jan-2026/">
+       This telescopic field of view
+      </a>
+      spans over 200,000 light-years at the estimated distance of NGC 2442.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/28
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260128.html">
+      https://apod.nasa.gov/apod/ap260128.html
      </a>
     </td>
    </tr>
