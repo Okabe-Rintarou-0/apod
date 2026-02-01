@@ -5,6 +5,101 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_525.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/mars/">
+       Mars
+      </a>
+      has put on a happy face.   The Martian crater
+      <a href="https://en.wikipedia.org/wiki/Galle_(Martian_crater)">
+       Galle
+      </a>
+      is famous because it has  internal markings that make it look like a face that is both
+      <a href="https://en.wikipedia.org/wiki/Smiley">
+       smiling
+      </a>
+      and winking.   These markings were
+      <a href="https://i.ytimg.com/vi/ckX_jbdhGpk/hq720.jpg">
+       originally  discovered
+      </a>
+      in the 1970s in pictures taken by the
+      <a href="https://science.nasa.gov/mission/viking/">
+       Viking
+      </a>
+      Orbiter.   The
+      <a href="https://science.nasa.gov/mission/mars-global-surveyor/">
+       Mars Global Surveyor
+      </a>
+      (MGS) spacecraft that orbited
+      <a href="ap030422.html">
+       Mars
+      </a>
+      from 1996 to 2006 captured the
+      <a href="https://science.nasa.gov/photojournal/happy-face-crater-greets-mgs-at-the-start-of-the-mapping/">
+       featured picture
+      </a>
+      .   Happy Face Crater and its iconic features were  formed by chance billions of years ago when a
+      <a href="ap090607.html">
+       city-sized asteroid
+      </a>
+      slammed into the Martian surface.   All rocky planets and moons in
+      <a href="https://science.nasa.gov/solar-system/solar-system-facts/">
+       our Solar System
+      </a>
+      show
+      <a href="https://www.lpi.usra.edu/education/explore/shaping_the_planets/impact-cratering/">
+       impact craters
+      </a>
+      ,  with the highest number of craters found on
+      <a href="ap010428.html">
+       Earth's Moon
+      </a>
+      and the planet
+      <a href="ap960912.html">
+       Mercury
+      </a>
+      .
+      <a href="https://en.wikipedia.org/wiki/Meteor_Crater">
+       Earth
+      </a>
+      and
+      <a href="ap250511.html">
+       Venus
+      </a>
+      would show the most, though, were it not for weather and
+      <a href="https://www.earthdata.nasa.gov/topics/land-surface/erosion-sedimentation">
+       erosion
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/01/31
   </summary>
   <table>
@@ -18,8 +113,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260131.html">
+      https://apod.nasa.gov/apod/ap260131.html
      </a>
     </td>
    </tr>
