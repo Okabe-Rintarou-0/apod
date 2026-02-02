@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_3298.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What part of Orion is this?  Just north of the famous
+      <a href="ap251113.html">
+       Orion Nebula
+      </a>
+      is a picturesque
+      <a href="https://science.nasa.gov/universe/stars/">
+       star
+      </a>
+      forming region in
+      <a href="https://en.wikipedia.org/wiki/Orion%27s_Sword">
+       Orion's Sword
+      </a>
+      that contains a lot of intricate
+      <a href="https://science.nasa.gov/universe/dust-in-the-stellar-wind-a-cosmological-primer/">
+       dust
+      </a>
+      -- some of which appears blue  because it reflects the light of
+      <a href="ap250825.html">
+       bright embedded stars
+      </a>
+      .   The region's popular name is the
+      <a href="ap160113.html">
+       Running Man Nebula
+      </a>
+      because,  looked at from the right, part of the brown dust appears to be running legs.   Cataloged as
+      <a href="https://en.wikipedia.org/wiki/Sh_2-279">
+       Sharpless 279
+      </a>
+      ,  the reflection nebula is not only part of the
+      <a href="https://en.wikipedia.org/wiki/Orion_(constellation)">
+       constellation
+      </a>
+      of
+      <a href="ap101226.html">
+       Orion
+      </a>
+      , but part of the greater
+      <a href="https://en.wikipedia.org/wiki/Orion_molecular_cloud_complex">
+       Orion molecular cloud complex
+      </a>
+      .   Light from the Running Man's bright stars, including
+      <a href="https://theskylive.com/sky/stars/42-orionis-star">
+       42 Orionis
+      </a>
+      , the bright star closest to the
+      <a href="https://www.instagram.com/p/DTvh2abATrw/">
+       featured image
+      </a>
+      center, is slowly  destroying and reshaping the surrounding dust,  which will likely be
+      <a href="https://media.istockphoto.com/id/1029915086/photo/cat-leaving-the-house-through-cat-flap.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=xKa2CPQas0dy-hh6ZtiNhksHQd25Yzh42uJzTTjpFCA=">
+       completely gone
+      </a>
+      in about 10 million years.   The nebula spans about 15
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      and lies about 1,500 light years away.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/01
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260201.html">
+      https://apod.nasa.gov/apod/ap260201.html
      </a>
     </td>
    </tr>
