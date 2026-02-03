@@ -5,6 +5,129 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_1280.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Oh what a
+      <a href="http://www.bartleby.com/100/338.25.html">
+       tangled web
+      </a>
+      a
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      can weave.   The
+      <a href="ap980106.html">
+       Red Spider Planetary Nebula
+      </a>
+      shows the complex structure that can result when a
+      <a href="ap251207.html">
+       normal star
+      </a>
+      ejects its outer gases and becomes a
+      <a href="ap000910.html">
+       white dwarf
+      </a>
+      star.  Officially tagged
+      <a href="http://spider.seds.org/ngc/ngc.html">
+       NGC
+      </a>
+      <a href="http://en.wikipedia.org/wiki/Red_Spider_Nebula">
+       6537
+      </a>
+      , this two-lobed symmetric
+      <a href="planetary_nebulae.html">
+       planetary nebula
+      </a>
+      houses one of the
+      <a href="ap231224.html">
+       hottest white dwarfs
+      </a>
+      ever observed, probably as part of a
+      <a href="binary_stars.html">
+       binary star
+      </a>
+      system.   Internal
+      <a href="https://science.nasa.gov/sun/what-is-the-solar-wind/">
+       winds
+      </a>
+      flowing out from the central stars, have been measured in excess of 1,000 kilometers per second.  These
+      <a href="ap200121.html">
+       winds
+      </a>
+      expand the nebula, flow along the nebula's walls, and cause waves of hot
+      <a href="http://periodic.lanl.gov/1.shtml">
+       gas
+      </a>
+      and
+      <a href="ap030706.html">
+       dust
+      </a>
+      to collide.
+      <a href="https://en.wikipedia.org/wiki/Atom">
+       Atoms
+      </a>
+      caught in these colliding shocks radiate light shown in the
+      <a href="https://esawebb.org/images/potm2510a/">
+       featured
+      </a>
+      false-color
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      picture by the
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      .   The
+      <a href="https://ui.adsabs.harvard.edu/abs/2000A%26A...362L..17P/abstract">
+       Red Spider Nebula
+      </a>
+      lies toward the
+      <a href="https://spaceplace.nasa.gov/constellations/">
+       constellation
+      </a>
+      of the Archer  (
+      <a href="http://www.astronomical.org/constellations/sgr.html">
+       Sagittarius
+      </a>
+      ).    Its distance is not well known but has been
+      <a href="https://media.tenor.com/x6G8GKIQPcUAAAAe/thinking-cat.png">
+       estimated by some
+      </a>
+      to be about 4,000
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-years
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/02
   </summary>
   <table>
@@ -18,8 +141,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260202.html">
+      https://apod.nasa.gov/apod/ap260202.html
      </a>
     </td>
    </tr>
