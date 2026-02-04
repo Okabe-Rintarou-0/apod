@@ -5,6 +5,89 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/NGC1512_stern_6214.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/NGC1512_stern_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Most galaxies don't have any rings -- why does this galaxy have three?   To begin, a ring that's near
+      <a href="https://en.wikipedia.org/wiki/NGC_1512">
+       NGC 1512
+      </a>
+      's center --  and so hard to see here -- is the
+      <a href="ap170710.html">
+       nuclear ring
+      </a>
+      which glows brightly with recently formed
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      .   Next out is a ring of stars and
+      <a href="https://astronomy.swin.edu.au/cosmos/d/Dust+Grain">
+       dust
+      </a>
+      appearing both red and blue, called,
+      <a href="https://ru.fishki.net/picsw/112007/29/ugol/ugol_012.jpg">
+       counter-intuitively
+      </a>
+      , the inner ring.   This
+      <a href="ap220508.html">
+       inner ring
+      </a>
+      connects ends of a diffuse
+      <a href="ap221016.html">
+       central bar
+      </a>
+      of stars that runs horizontally across the galaxy.   Farthest out in this wide field image is a  ragged structure that might be considered an outer ring.  This outer ring appears spiral-like and is dotted with
+      <a href="https://en.wikipedia.org/wiki/Open_cluster">
+       clusters
+      </a>
+      of bright blue stars.   All these ring structures are thought to be affected by
+      <a href="https://esawebb.org/images/weic2403i/">
+       NGC 1512
+      </a>
+      's own gravitational asymmetries in a drawn-out process called
+      <a href="https://astronomy.swin.edu.au/cosmos/s/Secular+Evolution">
+       secular
+      </a>
+      <a href="https://ui.adsabs.harvard.edu/abs/2004ARA%26A..42..603K/abstract">
+       evolution
+      </a>
+      .   The featured image was captured last month from a telescope at
+      <a href="https://youtu.be/i-qdANr8z3Y">
+       Deep Sky Chile
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/03
   </summary>
   <table>
@@ -18,8 +101,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260203.html">
+      https://apod.nasa.gov/apod/ap260203.html
      </a>
     </td>
    </tr>
