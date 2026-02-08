@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_1280.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      An unusually active sunspot region is now crossing the Sun.   The region, labelled
+      <a href="https://www.spaceweather.gov/news/x42-flare-region-4366">
+       AR 4366
+      </a>
+      , is much larger than the Earth and has
+      <a href="https://www.space.com/astronomy/sun/sun-unleashes-extraordinary-solar-flare-barrage-as-new-volatile-sunspot-turns-toward-earth">
+       produced several powerful
+      </a>
+      solar
+      <a href="ap180902.html">
+       flare
+      </a>
+      s over the past ten days.   In the featured image, the region is marked by large and dark
+      <a href="https://science.nasa.gov/sun/sunspots/">
+       sunspots
+      </a>
+      toward the upper right of the Sun's disk.  The image captured the Sun over a hill in
+      <a href="https://youtu.be/JiIIAFeW56E">
+       Zacatecas
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Mexico">
+       Mexico
+      </a>
+      , 5 days ago.   AR 4366 has become a candidate for the most active solar region in this entire 11-year
+      <a href="https://en.wikipedia.org/wiki/Solar_cycle_25">
+       solar cycle
+      </a>
+      .
+      <a href="ap141022.html">
+       Active solar regions
+      </a>
+      are frequently associated with increased
+      <a href="ap240522.html">
+       auroral activity
+      </a>
+      on the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      .   Now reaching the edge,
+      <a href="https://www.spaceweather.com/archive.php?view=1&amp;day=04&amp;month=02&amp;year=2026">
+       AR 4366
+      </a>
+      will begin facing away from the  Earth during the coming week.  It is
+      <a href="https://www.shitpostbot.com/img/sourceimages/cat-shrug-57b2eabb4e8db.jpeg">
+       not known
+      </a>
+      , though, if the active region will survive long enough to reappear in about two weeks' time, as the
+      <a href="ap200819.html">
+       Sun rotates
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/07
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260207.html">
+      https://apod.nasa.gov/apod/ap260207.html
      </a>
     </td>
    </tr>
