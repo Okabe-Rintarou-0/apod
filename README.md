@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_2320.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What is Miranda really like?   Visually,
+      <a href="ap951224.html">
+       old image
+      </a>
+      s from NASA's
+      <a href="https://science.nasa.gov/mission/voyager/voyager-2/">
+       Voyager 2
+      </a>
+      have been recently combined and  remastered to result in the
+      <a href="https://www.flickr.com/photos/197038812@N04/53467048107/">
+       featured image
+      </a>
+      of
+      <a href="https://science.nasa.gov/uranus/">
+       Uranus
+      </a>
+      's 500-kilometer-wide moon.  In the late 1980s,
+      <a href="https://en.wikipedia.org/wiki/Voyager_2">
+       Voyager 2
+      </a>
+      flew by
+      <a href="https://en.wikipedia.org/wiki/Uranus">
+       Uranus
+      </a>
+      , coming close to the
+      <a href="https://science.nasa.gov/photojournal/miranda-fractures-grooves-and-craters/">
+       cratered, fractured, and unusually grooved
+      </a>
+      moon --  named after a
+      <a href="https://en.wikipedia.org/wiki/Miranda_(The_Tempest)">
+       character
+      </a>
+      from
+      <a href="https://en.wikipedia.org/wiki/William_Shakespeare">
+       Shakespeare
+      </a>
+      ’s
+      <a href="https://www.folger.edu/explore/shakespeares-works/the-tempest/read/">
+       The Tempest
+      </a>
+      .   Scientifically, planetary scientists are using old data and clear images to
+      <a href="https://iopscience.iop.org/article/10.3847/PSJ/ad77d7">
+       theorize anew
+      </a>
+      about what shaped Miranda's
+      <a href="ap201129.html">
+       severe
+      </a>
+      surface features.
+      <a href="https://www.jhuapl.edu/news/news-releases/241028-uranus-moon-miranda-with-ocean-beneath-surface-new-study">
+       A leading hypothesis
+      </a>
+      is that
+      <a href="https://science.nasa.gov/uranus/moons/miranda/">
+       Miranda
+      </a>
+      , beneath its icy surface, may have once hosted an  expansive liquid water ocean which may be slowly freezing.   Thanks to the legacy of Voyager 2,
+      <a href="ap020216.html">
+       Miranda
+      </a>
+      has joined the ranks of
+      <a href="https://science.nasa.gov/jupiter/jupiter-moons/europa/">
+       Europa
+      </a>
+      ,
+      <a href="ap230331.html">
+       Titan
+      </a>
+      ,  and other icy moons in the
+      <a href="https://www.shutterstock.com/image-photo/domestic-life-pet-naughty-cat-600nw-2325351833.jpg">
+       search
+      </a>
+      for water,  and, possibly, microbial
+      <a href="https://science.nasa.gov/exoplanets/can-we-find-life/">
+       life
+      </a>
+      , in our
+      <a href="https://science.nasa.gov/solar-system/solar-system-facts/">
+       Solar System
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/08
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260208.html">
+      https://apod.nasa.gov/apod/ap260208.html
      </a>
     </td>
    </tr>
