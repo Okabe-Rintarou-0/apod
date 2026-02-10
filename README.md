@@ -5,6 +5,100 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/greencompany_rive_2916.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Raise your arms if you see an aurora.  With those instructions, two nights went by with, well,
+      <a href="https://cloudappreciationsociety.org/">
+       clouds
+      </a>
+      -- mostly.  On the third night of returning to same peaks, though,  the sky not only cleared up but lit up with a
+      <a href="ap221009.html">
+       spectacular auroral display
+      </a>
+      .  Arms went high in the air, patience and experience
+      <a href="https://hiawasseevet.com/wp-content/uploads/2021/08/smiling-cat-for-web-300x250.jpg">
+       paid off
+      </a>
+      , and the creative
+      <a href="https://www.flickr.com/photos/apojapo/13297070714/">
+       featured image
+      </a>
+      was captured as a composite from three separate exposures.  The setting is a summit of the
+      <a href="https://youtu.be/JRkW57Oif7U">
+       Austnesfjorden
+      </a>
+      (a
+      <a href="http://en.wikipedia.org/wiki/Fjord">
+       fjord
+      </a>
+      ) close to the town of
+      <a href="https://youtu.be/e8_mxu86Jps">
+       Svolvear
+      </a>
+      on the
+      <a href="http://en.wikipedia.org/wiki/Lofoten">
+       Lofoten
+      </a>
+      islands in northern
+      <a href="https://en.wikipedia.org/wiki/Norway">
+       Norway
+      </a>
+      .  The year was 2014.  This year, our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      is just passing
+      <a href="ap230711.html">
+       solar maximum
+      </a>
+      , the peak in its 11-year
+      <a href="https://spaceplace.nasa.gov/solar-cycles/">
+       surface activity cycle
+      </a>
+      .  As expected, some
+      <a href="ap241013.html">
+       spectacular
+      </a>
+      <a href="ap240612.html">
+       auroras
+      </a>
+      have
+      <a href="ap260101.html">
+       recently
+      </a>
+      <a href="https://www.facebook.com/media/set/?set=a.881873341207911&amp;type=3">
+       resulted
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/09
   </summary>
   <table>
@@ -18,8 +112,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260209.html">
+      https://apod.nasa.gov/apod/ap260209.html
      </a>
     </td>
    </tr>
