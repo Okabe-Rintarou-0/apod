@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_3450.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How many
+      <a href="https://science.nasa.gov/sun/sunspots/">
+       sunspots
+      </a>
+      can you see?   The
+      <a href="https://www.instagram.com/p/DTHxItFjaUe/">
+       central image
+      </a>
+      shows the many sunspots that occurred in 2025, month by month around the circle, and all together in the grand central image.   Each
+      <a href="ap230517.html">
+       sunspot
+      </a>
+      is magnetically cooled and so appears dark -- and can last from days to months.  Although the
+      <a href="https://www.instagram.com/p/DTHxItFjaUe/">
+       featured images
+      </a>
+      originated from
+      <a href="https://www.nasa.gov/">
+       NASA
+      </a>
+      's
+      <a href="https://sdo.gsfc.nasa.gov/">
+       Solar Dynamics Observatory
+      </a>
+      , sunspots can be easily seen with a small telescope or
+      <a href="https://en.wikipedia.org/wiki/Binoculars#/media/File:Binocularp.svg">
+       binoculars
+      </a>
+      equipped with a
+      <a href="https://eclipse.aas.org/eye-safety/optics-filters">
+       solar filter
+      </a>
+      .  Very large sunspot groups like
+      <a href="ap260208.html">
+       recent AR 4366
+      </a>
+      can even be seen with
+      <a href="https://www.planetary.org/articles/are-your-solar-eclipse-glasses-safe">
+       eclipse glasses
+      </a>
+      .  Sunspots are still
+      <a href="https://www.sidc.be/SILSO/dayssnplot">
+       counted by eye
+      </a>
+      ,  but the total number is not considered exact  because they frequently
+      <a href="ap150629.html">
+       change and break up
+      </a>
+      .   Last year, 2025, coincided with a
+      <a href="https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/">
+       solar maximum
+      </a>
+      , the period of most  intense magnetic activity during its 11-year
+      <a href="https://spaceplace.nasa.gov/solar-cycles/">
+       solar cycle
+      </a>
+      .   Our Sun remains
+      <a href="https://i.ytimg.com/vi/AgzTBzVXY_w/hq720.jpg">
+       unpredictable
+      </a>
+      in many ways,  including when it ejects
+      <a href="ap180902.html">
+       solar flare
+      </a>
+      s that will impact the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      , and
+      <a href="https://www.sidc.be/SILSO/yearlyssnplot">
+       how active
+      </a>
+      the next solar cycle will be.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/10
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260210.html">
+      https://apod.nasa.gov/apod/ap260210.html
      </a>
     </td>
    </tr>
