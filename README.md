@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Dark, smooth regions that cover the Moon's
+      <a href="ap250720.html">
+       familiar face
+      </a>
+      are called by Latin names for oceans and seas.
+      <a href="https://en.wikipedia.org/wiki/Lunar_mare">
+       That naming
+      </a>
+      convention is
+      <a href="https://www.lindahall.org/experience/digital-exhibitions/mapping-the-moon/">
+       historical
+      </a>
+      , though it may seem a little ironic to denizens of the space age who recognize the Moon as a
+      <a href="ap220410.html">
+       mostly
+      </a>
+      dry and airless world, and the smooth, dark areas as
+      <a href="https://science.nasa.gov/moon/lunar-volcanism/">
+       lava-flooded
+      </a>
+      impact basins.  For example, this telescopic lunar vista, looks over the expanse of the northwestern Mare Imbrium, or Sea of Rains and into the Sinus Iridum, the
+      <a href="https://en.wikipedia.org/wiki/Sinus_Iridum">
+       Bay of Rainbows
+      </a>
+      .  Ringed by the
+      <a href="https://planetarynames.wr.usgs.gov/Feature/4011">
+       Jura Mountains (montes)
+      </a>
+      , the bay is about 250 kilometers across.  Seen after local sunrise, the mountains form part of the Sinus Iridum impact crater wall.  Their rugged sunlit arc is bounded at the top by Cape (promontorium) Laplace reaching nearly 3,000 meters above the bay's surface.  At the bottom of the arc is Cape Heraclides,
+      <a href="ap030619.html">
+       depicted
+      </a>
+      by Giovanni Cassini in his 1679 telescope-based drawings mapping the moon as a
+      <a href="https://www.astronomy.com/observing/sinus-iridum-stirs-the-imagination/">
+       moon maiden
+      </a>
+      seen in profile with
+      <a href="https://stargazerslounge.com/topic/374468-moon-maiden/">
+       long, flowing hair
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/11
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260211.html">
+      https://apod.nasa.gov/apod/ap260211.html
      </a>
     </td>
    </tr>
