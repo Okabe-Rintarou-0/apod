@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/N147N185.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/N147N1851024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Dwarf galaxies
+      <a href="https://www.nasa.gov/feature/goddard/caldwell-17">
+       NGC 147
+      </a>
+      (left) and
+      <a href="https://www.nasa.gov/feature/goddard/caldwell-18">
+       NGC 185
+      </a>
+      stand side by side in this deep telescopic portrait.  The two are not-often-imaged satellite galaxies of M31, the
+      <a href="ap181217.html">
+       great spiral Andromeda Galaxy
+      </a>
+      , some 2.5 million light-years away.  Their separation on the sky, less than one degree across a pretty field of view toward the constellation Cassiopeia, translates to only about 35 thousand light-years at Andromeda's distance, but Andromeda itself is found well outside this frame.  Brighter and more famous satellite galaxies of Andromeda,
+      <a href="ap200925.html">
+       M32 and M110
+      </a>
+      , are seen much closer to the great spiral.
+      <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.1764H/abstract">
+       NGC 147 and NGC 185
+      </a>
+      have been identified as binary galaxies, forming a gravitationally stable binary system.  But recently discovered faint
+      <a href="https://arxiv.org/abs/1511.08289">
+       dwarf galaxy Cassiopeia II
+      </a>
+      also seems to be part of their system, forming a gravitationally bound group within Andromeda's intriguing population of small
+      <a href="https://astrobites.org/2013/01/26/the-curious-case-of-andromedas-satellites/">
+       satellite galaxies
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/12
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260212.html">
+      https://apod.nasa.gov/apod/ap260212.html
      </a>
     </td>
    </tr>
