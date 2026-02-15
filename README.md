@@ -5,6 +5,109 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What would it be like to fly free in space?   About 100 meters from the cargo bay of a
+      <a href="https://www.nasa.gov/space-shuttle/">
+       space shuttle
+      </a>
+      ,  Bruce McCandless II was living the dream --  floating farther out than anyone had ever been before.    Guided by a
+      <a href="https://en.wikipedia.org/wiki/Manned_Maneuvering_Unit">
+       Manned Maneuvering Unit
+      </a>
+      (MMU), astronaut McCandless,
+      <a href="https://www.nasa.gov/image-feature/nasa-celebrates-50-years-of-spacewalking">
+       pictured
+      </a>
+      , was
+      <a href="https://youtu.be/RvnC--JjDBw">
+       floating free
+      </a>
+      in space.  During
+      <a href="ap990411.html">
+       Space Shuttle
+      </a>
+      mission
+      <a href="https://www.nasa.gov/mission/sts-41b/">
+       41-B
+      </a>
+      in 1984,
+      <a href="https://www.nasa.gov/press-release/astronaut-bruce-mccandless-ii-dies-at-80">
+       McCandless
+      </a>
+      and fellow
+      <a href="https://www.nasa.gov/humans-in-space/astronauts/">
+       NASA astronaut
+      </a>
+      <a href="https://www.nasa.gov/wp-content/uploads/2023/03/stewart-robert.pdf">
+       Robert Stewart
+      </a>
+      were the first to
+      <a href="https://youtu.be/7K5DiKsZhTk">
+       experience
+      </a>
+      such an "un
+      <a href="http://www-istp.gsfc.nasa.gov/Education/wtether.html">
+       tether
+      </a>
+      ed
+      <a href="ap990801.html">
+       space walk
+      </a>
+      ".  The
+      <a href="https://youtu.be/92ZRVlKuc0U">
+       MMU
+      </a>
+      worked by shooting jets of
+      <a href="https://periodic.lanl.gov/7.shtml">
+       nitrogen
+      </a>
+      and was used to help deploy and
+      <a href="ap121209.html">
+       retrieve satellites
+      </a>
+      .    With a mass over 140 kilograms, an
+      <a href="http://en.wikipedia.org/wiki/Manned_Maneuvering_Unit">
+       MMU
+      </a>
+      is heavy on
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      , but, like everything, is weightless when drifting in orbit.  The MMU was later replaced with the
+      <a href="ap011002.html">
+       SAFER
+      </a>
+      backpack propulsion unit.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/14
   </summary>
   <table>
@@ -18,8 +121,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260214.html">
+      https://apod.nasa.gov/apod/ap260214.html
      </a>
     </td>
    </tr>
