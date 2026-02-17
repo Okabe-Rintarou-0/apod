@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1280.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Some
+      <a href="https://science.nasa.gov/solar-system/comets/">
+       comets
+      </a>
+      are
+      <a href="ap240808.html">
+       regular guests
+      </a>
+      of our solar neighborhood;  others come by only once, never to return.   We won’t have another chance to see
+      <a href="https://en.wikipedia.org/wiki/C/2024_E1_(Wierzcho%C5%9B)">
+       Comet C/2024 E1 (Wierzchoś
+      </a>
+      ),  which is currently making its way through the inner
+      <a href="https://science.nasa.gov/solar-system/">
+       Solar System
+      </a>
+      .   The
+      <a href="https://en.wikipedia.org/wiki/Hyperbolic_trajectory">
+       hyperbolic orbit
+      </a>
+      of this comet
+      <a href="https://cosmoquest.org/x/365daysofastronomy/2026/01/18/jan-18th-ultra-distant-comet-c-2024-e1-wierzchos/">
+       indicates that
+      </a>
+      it will likely become an interstellar traveler.   Comet Wierzchoś is
+      <a href="https://astro.vanbuitenen.nl/comet/2024E1">
+       today
+      </a>
+      near its closest approach to the Earth, passing roughly the
+      <a href="https://en.wikipedia.org/wiki/Astronomical_unit">
+       same distance
+      </a>
+      from the
+      <a href="ap220206.html">
+       Earth
+      </a>
+      as is the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      .   The featured 30-minute exposure was taken last week in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      and shows a 5-degree long
+      <a href="https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg">
+       ion tail
+      </a>
+      as well as three shorter
+      <a href="ap250126.html">
+       dust tails
+      </a>
+      .   The
+      <a href="https://www.science.org/content/article/why-do-some-comets-glow-green">
+       green hue
+      </a>
+      of the
+      <a href="https://www.esa.int/ESA_Multimedia/Images/2023/11/Structure_of_a_comet">
+       coma
+      </a>
+      comes from the breakdown of
+      <a href="https://en.wikipedia.org/wiki/Diatomic_carbon">
+       dicarbon
+      </a>
+      molecules by sunlight,  but that process does
+      <a href="https://pbs.twimg.com/media/BUCOEePIcAAht9h.jpg">
+       not last long
+      </a>
+      enough to also
+      <a href="https://www.pnas.org/doi/full/10.1073/pnas.2113315118">
+       tinge the tails
+      </a>
+      .   On the far right lies a
+      <a href="https://science.nasa.gov/universe/galaxies/types/">
+       spiral galaxy
+      </a>
+      far in the distance:
+      <a href="ap241202.html">
+       NGC 300
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/16
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260216.html">
+      https://apod.nasa.gov/apod/ap260216.html
      </a>
     </td>
    </tr>
