@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Cradled in red-glowing hydrogen gas, stars are being born in Orion.   These
+      <a href="https://www.nasa.gov/centers-and-facilities/jpl/where-are-stars-made-nasas-spitzer-spies-a-hot-spot/">
+       stellar nurseries
+      </a>
+      lie at the edge of the giant
+      <a href="https://en.wikipedia.org/wiki/Orion_molecular_cloud_complex">
+       Orion molecular cloud complex
+      </a>
+      , some 1,500
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-years
+      </a>
+      away.
+      <a href="https://app.astrobin.com/u/PiotrC?i=59s59h">
+       This detailed view
+      </a>
+      spans about 12
+      <a href="https://planetcalc.com/1897/">
+       degrees
+      </a>
+      across the  center of the well-known constellation, with the
+      <a href="ap241104.html">
+       Great Orion Nebula
+      </a>
+      ,  the closest large
+      <a href="https://science.nasa.gov/universe/stars/">
+       star
+      </a>
+      -forming region, visible toward the lower right.   The deep mosaic also includes, near the top center,  the
+      <a href="ap210412.html">
+       Flame Nebula
+      </a>
+      and the
+      <a href="ap251210.html">
+       Horsehead Nebula
+      </a>
+      .   Image data acquired with a
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       hydrogen-alpha
+      </a>
+      filter adds other remarkable features  to this wide-angle cosmic vista:  pervasive tendrils of energized atomic  hydrogen gas and portions of the surrounding
+      <a href="ap090224.html">
+       Barnard's Loop
+      </a>
+      .  While the
+      <a href="https://en.wikipedia.org/wiki/Orion_Nebula">
+       Orion Nebula
+      </a>
+      and many
+      <a href="ap220111.html">
+       stars in Orion
+      </a>
+      are easy to see with the unaided eye, emission from the extensive
+      <a href="https://en.wikipedia.org/wiki/Interstellar_medium">
+       interstellar gas
+      </a>
+      is faint and much
+      <a href="https://www.reddit.com/r/pics/comments/4vi9kq/find_a_cat/">
+       harder to record
+      </a>
+      , even in telescopic views of the nebula-rich complex.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/17
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260217.html">
+      https://apod.nasa.gov/apod/ap260217.html
      </a>
     </td>
    </tr>
