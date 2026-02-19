@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/IC2574Vetter.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap210813.html">
+       Grand spiral galaxies
+      </a>
+      often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric
+      <a href="ap080517.html">
+       spiral
+      </a>
+      arms.  But small, irregular galaxies form stars too.  In fact,
+      <a href="https://app.astrobin.com/u/Dane_Vetter?i=xti9o5">
+       dwarf galaxy IC 2574 shows
+      </a>
+      clear
+      <a href="http://arxiv.org/abs/0808.0193">
+       evidence
+      </a>
+      of intense star forming activity in its telltale reddish regions of glowing hydrogen gas.  Just as in spiral galaxies, the
+      <a href="ap240627.html">
+       turbulent
+      </a>
+      star-forming regions in IC 2574 are churned by
+      <a href="ap250203.html">
+       stellar winds
+      </a>
+      and supernova explosions spewing material into the galaxy's interstellar medium and
+      <a href="ap111120.html">
+       triggering
+      </a>
+      further star formation.  A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major.  Also known as Coddington's Nebula, the faint but intriguing
+      <a href="https://history.aip.org/exhibits/cosmology/ideas/island.htm">
+       island universe
+      </a>
+      is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/18
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260218.html">
+      https://apod.nasa.gov/apod/ap260218.html
      </a>
     </td>
    </tr>
