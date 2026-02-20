@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1178.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      "A ghost in the Milky Way…” says Christian Bertincourt,  the astrophotographer behind
+      <a href="https://app.astrobin.com/i/s3hdtc">
+       this striking image
+      </a>
+      of Barnard 93 (B93).   The 93rd entry in
+      <a href="https://ui.adsabs.harvard.edu/abs/1919ApJ....49....1B/abstract">
+       Barnard’s Catalogue of Dark Nebula
+      </a>
+      e, B93 lies within the
+      <a href="ap220407.html">
+       Small Sagittarius Star Cloud
+      </a>
+      (
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-24/">
+       Messier 24
+      </a>
+      ),  where its darkness stands in
+      <a href="ap230129.html">
+       stark contrast
+      </a>
+      to bright stars and gas in the background.   In some ways, B93 is really like a
+      <a href="https://en.wikipedia.org/wiki/Ghost">
+       ghost
+      </a>
+      ,  because it contains gas and dust that was dispersed by
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/the-death-throes-of-stars/">
+       the deaths of stars
+      </a>
+      , like
+      <a href="ap960623.html">
+       supernovas
+      </a>
+      .   B93 appears as a dark void not because it is empty, but because its
+      <a href="ap231201.html">
+       dust blocks the light
+      </a>
+      emitted by more distant stars and glowing gas.   Like other dark nebulas, some gas from
+      <a href="http://www.messier.seds.org/more/m024_b93.html">
+       B93
+      </a>
+      ,  if dense and
+      <a href="https://i.ytimg.com/vi/pLbkUmVzXMs/hq720.jpg">
+       massive
+      </a>
+      enough, will eventually
+      <a href="https://science.nasa.gov/universe/stars/">
+       gravitationally condense to form new stars
+      </a>
+      .   If so, then
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/">
+       once these stars ignite
+      </a>
+      ,  B93 will transform from a dark ghost into a brilliant
+      <a href="ap260218.html">
+       cradle
+      </a>
+      of newborn stars.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/19
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260219.html">
+      https://apod.nasa.gov/apod/ap260219.html
      </a>
     </td>
    </tr>
