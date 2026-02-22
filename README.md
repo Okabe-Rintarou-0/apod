@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_1024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What if you saw your shadow on Mars and it wasn't
+      <a href="ap190818.html">
+       human
+      </a>
+      ?    Then you might be the
+      <a href="https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/">
+       Opportunity rover
+      </a>
+      exploring Mars.    Opportunity explored the
+      <a href="https://science.nasa.gov/mars/">
+       Red Planet
+      </a>
+      from 2004 to 2018, finding
+      <a href="ap040303.html">
+       evidence of ancient water
+      </a>
+      , and sending breathtaking images across the inner
+      <a href="http://en.wikipedia.org/wiki/Solar_system">
+       Solar System
+      </a>
+      .    Pictured
+      <a href="https://www.nasa.gov/image-article/opportunity-me-my-shadow/">
+       here
+      </a>
+      in 2004,
+      <a href="https://science.nasa.gov/missions/mer/six-things-to-know-about-nasas-opportunity-rover/">
+       Opportunity
+      </a>
+      looks opposite the Sun into
+      <a href="ap040510.html">
+       Endurance Crater
+      </a>
+      and sees its own
+      <a href="ap990830.html">
+       shadow
+      </a>
+      .    Two wheels are visible on the lower left and right, while the floor and walls of the unusual crater are
+      <a href="https://science.nasa.gov/photojournal/opportunity-catches-its-shadow-on-sol-180/">
+       visible
+      </a>
+      in the background.    Caught in a
+      <a href="https://64.media.tumblr.com/fe85f6b82c2d7abb93cbdc21234e9090/tumblr_nq4v3qSYil1s5laego1_500.jpg">
+       dust
+      </a>
+      storm
+      <a href="ap190215.html">
+       in 2018
+      </a>
+      ,
+      <a href="https://youtu.be/1Ll-VHYxWXU">
+       Opportunity
+      </a>
+      stopped responding,  and NASA stopped trying to contact it in 2019 and declared the
+      <a href="https://en.wikipedia.org/wiki/Pun">
+       ground-breaking mission
+      </a>
+      ,  originally planned for only 92 days,
+      <a href="https://mars.nasa.gov/news/8413/nasas-opportunity-rover-mission-on-mars-comes-to-end/">
+       complete
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/20
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260221.html">
+      https://apod.nasa.gov/apod/ap260221.html
      </a>
     </td>
    </tr>
