@@ -5,6 +5,126 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/02/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_1663.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Look up this week and see a whole bunch of planets.   Just after sunset, looking west (mostly), planets
+      <a href="https://science.nasa.gov/mercury/">
+       Mercury
+      </a>
+      ,
+      <a href="https://science.nasa.gov/venus/">
+       Venus
+      </a>
+      ,
+      <a href="https://science.nasa.gov/saturn/">
+       Saturn
+      </a>
+      , and
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      will all be visible to the unaided eye simultaneously.   If you have a telescope, planets
+      <a href="https://science.nasa.gov/uranus/">
+       Uranus
+      </a>
+      and
+      <a href="https://science.nasa.gov/neptune/">
+       Neptune
+      </a>
+      can also be seen.   In order up from the horizon, the lineup this week will be
+      <a href="ap230315.html">
+       Venus
+      </a>
+      (the brightest),
+      <a href="ap160717.html">
+       Mercury
+      </a>
+      ,
+      <a href="ap210119.html">
+       Saturn
+      </a>
+      ,  Neptune, Uranus, and
+      <a href="ap231114.html">
+       Jupiter
+      </a>
+      (second brightest).    It doesn't matter where on
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      you live because this early evening
+      <a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=planet+parade">
+       planet parade
+      </a>
+      will be visible through
+      <a href="https://science.nasa.gov/earth/earth-observatory/global-maps/cloud-fraction/">
+       clear skies
+      </a>
+      all around the globe.   The planets will appear to be
+      <a href="https://www.reddit.com/r/cats/comments/1347ypl/my_private_time_is_no_longer_private_the_six_cats/#lightbox">
+       nearly in a line
+      </a>
+      because they all orbit the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      in nearly the same plane: the
+      <a href="https://en.wikipedia.org/wiki/Ecliptic">
+       ecliptic
+      </a>
+      .   The
+      <a href="https://www.instagram.com/p/CcpEDd4JTj-/">
+       featured image
+      </a>
+      shows a
+      <a href="ap220629.html">
+       similar planet parade
+      </a>
+      that occurred in 2022,  captured over the
+      <a href="https://youtu.be/mGFz4T5W2qY">
+       Sydney Opera House
+      </a>
+      in southern
+      <a href="https://en.wikipedia.org/wiki/Australia">
+       Australia
+      </a>
+      .   Although
+      <a href="https://science.nasa.gov/solar-system/whats-up-february-2026-skywatching-tips-from-nasa/">
+       visible all week
+      </a>
+      , the planets will be most
+      <a href="https://www.universetoday.com/articles/mercury-completes-the-planetary-parade-at-dusk">
+       easily seen together
+      </a>
+      this weekend.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/02/23
   </summary>
   <table>
@@ -18,8 +138,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260223.html">
+      https://apod.nasa.gov/apod/ap260223.html
      </a>
     </td>
    </tr>
