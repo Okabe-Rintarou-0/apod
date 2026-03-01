@@ -5,7 +5,7 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
-   2026/02/28
+   2026/03/01
   </summary>
   <table>
    <tr>
@@ -20,6 +20,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
      Original url:
      <a href="https://apod.nasa.gov/apod/">
       https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Ever wonder what it would look like to crack open the Sun?  The
+      <a href="https://en.wikipedia.org/wiki/Egg_Nebula">
+       Egg Nebula
+      </a>
+      , a dying
+      <a href="https://www.stellarcatalog.com/stars.php?starcategory=104">
+       Sun-like star
+      </a>
+      , can unscramble this question.
+      <a href="https://esahubble.org/images/heic2604a/">
+       Pictured
+      </a>
+      is a combination of several visible and
+      <a href="https://science.nasa.gov/mission/webb/science-overview/science-explainers/infrared-astronomy/">
+       infrared
+      </a>
+      images of the nebula (also known as
+      <a href="ap960129.html">
+       RAFGL 2688
+      </a>
+      or
+      <a href="ap230409.html">
+       CRL 2688
+      </a>
+      ) taken with the
+      <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-captures-light-show-around-rapidly-dying-star/">
+       Hubble Space Telescope
+      </a>
+      .  The star has shed its outer layers, and a
+      <a href="https://astro4edu.org/resources/glossary/term/478/">
+       bright, hot core
+      </a>
+      (or "yolk") now illuminates the milky "egg white"
+      <a href="ap221013.html">
+       shells
+      </a>
+      of gas and dust surrounding the center.  The central lobes and rings are structures of gas and dust recently ejected into space, with the dust being dense enough to block our view of the
+      <a href="ap231224.html">
+       stellar core
+      </a>
+      .  Light beams emanate from that
+      <a href="ap221118.html">
+       blocked core
+      </a>
+      , escaping through holes carved in the older ejected material by newer, faster
+      <a href="ap130324.html">
+       jets
+      </a>
+      expelled from the
+      <a href="https://www.nasa.gov/wp-content/uploads/2023/03/solarpolarity.jpg">
+       star’s poles
+      </a>
+      .  Astronomers are
+      <a href="https://www.rochester.edu/newscenter/how-stellar-death-can-lead-to-twin-celestial-jets/">
+       still trying to figure out what causes the disks, lobes, and jets
+      </a>
+      during this short (only a few thousand years!) phase of the star’s
+      <a href="https://starwalk.space/en/infographics/star-life-cycle">
+       evolution
+      </a>
+      , making this an egg-cellent image to study!
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
+   2026/02/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2602/Egg_Hubble_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/ap260228.html">
+      https://apod.nasa.gov/apod/ap260228.html
      </a>
     </td>
    </tr>
