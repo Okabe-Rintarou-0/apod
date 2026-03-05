@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Earlier this week, Earth’s shadow swept across the full
+      <a href="https://science.nasa.gov/moon/">
+       Moon
+      </a>
+      in the year’s only
+      <a href="https://science.nasa.gov/moon/eclipses/">
+       total lunar eclipse
+      </a>
+      .  This stunning sequence combines images showing the Moon’s path across the night sky.   Each lunar image captures our planet’s shadow gradually engulfing the Moon, culminating in its red glow.   Sunlight
+      <a href="https://science.nasa.gov/ems/03_behaviors/">
+       scatters and refracts
+      </a>
+      as it passes through Earth’s atmosphere toward the Moon.  Shorter wavelength light (blue and green)
+      <a href="https://www.youtube.com/watch?v=l-2ekH1QPpY">
+       scatters more efficiently
+      </a>
+      , leaving
+      <a href="ap250911.html">
+       red, orange, and yellow hues
+      </a>
+      to paint the lunar surface.
+      <a href="https://discovernavajo.com/shiprock-peak/">
+       Tsé Bit'a'í
+      </a>
+      (”rock with wings”, also known as Shiprock), located in
+      <a href="https://www.navajo-nsn.gov/">
+       Navajo Nation
+      </a>
+      , provides a powerful
+      <a href="https://newmexiconomad.com/shiprock/">
+       volcanic
+      </a>
+      foreground central to this photo and
+      <a href="https://nativememoryproject.org/story/shiprock-the-monster-birds/">
+       to stories of Navajo origin, adventure, and heroism
+      </a>
+      .  As the first full moon of the
+      <a href="https://asia.si.edu/whats-on/events/celebrations/lunar-new-year-celebration/">
+       lunar new year
+      </a>
+      , this eclipse held significance across cultures.
+      <a href="https://www.skyatnightmagazine.com/news/march-2026-blood-moon-lunar-eclipse-pictures">
+       Visible from East Asia to North America
+      </a>
+      , this eclipse united observers across great distances, a cosmic reminder that we share the same sky.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/04
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260304.html">
+      https://apod.nasa.gov/apod/ap260304.html
      </a>
     </td>
    </tr>
