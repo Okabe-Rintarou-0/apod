@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Do young stars blow bubbles?  The larger view shows a stellar field observed with the
+      <a href="https://noirlab.edu/public/programs/ctio/">
+       Cerro Tololo Inter-American Observatory
+      </a>
+      in Chile, and the inset highlights
+      <a href="https://en.wikipedia.org/wiki/HD_61005">
+       HD 61005
+      </a>
+      , a star like our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      , only 120
+      <a href="https://www.youtube.com/watch?v=MX3PIkbTQwQ">
+       light-years
+      </a>
+      away.  Much
+      <a href="https://spaceplace.nasa.gov/sun-age/en/">
+       younger
+      </a>
+      than the Sun, at just about 100 million years old, it blows a fast and dense
+      <a href="https://esahubble.org/wordbank/stellar-wind/">
+       stellar wind
+      </a>
+      that pushes out the cooler dust and gas that
+      <a href="https://en.wikipedia.org/wiki/Interstellar_medium">
+       surrounds
+      </a>
+      it, forming a bubble called an
+      <i>
+       astrosphere
+      </i>
+      .  The star-blown bubble was
+      <a href="https://chandra.si.edu/press/26_releases/press_022326.html">
+       detected
+      </a>
+      with the
+      <a href="https://www.nasa.gov/mission/chandra-x-ray-observatory/">
+       Chandra X-ray Observatory
+      </a>
+      , and it has a diameter roughly 200 times the
+      <a href="https://en.wikipedia.org/wiki/Astronomical_unit">
+       Earth-Sun distance
+      </a>
+      .    Our Sun has a bubble too, called the
+      <a href="https://science.nasa.gov/heliophysics/focus-areas/heliosphere/">
+       heliosphere
+      </a>
+      , which
+      <a href="ap120908.html">
+       protects
+      </a>
+      the planets from
+      <a href="https://www.iaea.org/newscenter/news/cosmic-radiation-why-we-should-not-be-worried">
+       cosmic radiation
+      </a>
+      .  Also shown in the inset is
+      <a href=" https://science.nasa.gov/missions/hubble/hubble-surveys-debris-strewn-exoplanetary-construction-yards/">
+       debris
+      </a>
+      left behind from star formation, observed by
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble
+      </a>
+      .  The debris appears as
+      <a href="https://free-images.com/lg/df34/pelikan_wing_span_water.jpg">
+       wings
+      </a>
+      , giving the star its nickname: the
+      <a href="https://science.nasa.gov/asset/hubble/hubble-catches-a-dusty-moth/">
+       Moth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/05
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260305.html">
+      https://apod.nasa.gov/apod/ap260305.html
      </a>
     </td>
    </tr>
