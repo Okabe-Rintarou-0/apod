@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_1200px.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Centered on maximum eclipse, these two total lunar eclipse sequences look almost identical.  Yet the one shown on top is composed of images recorded in February 2008, while at the bottom is the recent
+      <a href="https://www.petrhoralek.com/?p=26047">
+       March 2026 total eclipse
+      </a>
+      of the Moon.  Why are they so similar?  Because these two total lunar eclipses are from the same Saros cycle.
+      <a href="https://www.eclipsewise.com/solar/SEhelp/SEsaros.html">
+       The Saros cycle
+      </a>
+      was discovered
+      <a href="https://en.wikipedia.org/wiki/Saros_(astronomy)#History">
+       historically
+      </a>
+      from observations of the Moon's orbit.  With a period of 18 years, 11 and 1/3 days, the cycle predicts when the Sun, Earth, and Moon all return to the same relative
+      <a href="https://science.nasa.gov/moon/eclipses/">
+       geometry for a lunar
+      </a>
+      (
+      <a href="ap170811.html">
+       or solar
+      </a>
+      ) eclipse.  Eclipses separated by one Saros period belong to the same numbered Saros series, in this case Saros 133.  So expect the next
+      <a href="https://eclipsewise.com/lunar/LEsaros/LEsaros133.html">
+       lunar eclipse in Saros 133
+      </a>
+      to be a repeat of this year's March 3 eclipse.  You can watch the next Saros 133 total lunar eclipse on
+      <a href="https://eclipsewise.com/lunar/LEprime/2001-2100/LE2044Mar13Tprime.html">
+       March 13, 2044
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/06
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260306.html">
+      https://apod.nasa.gov/apod/ap260306.html
      </a>
     </td>
    </tr>
