@@ -5,6 +5,84 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Yes, but can your tree do this?
+      <a href="https://www.instagram.com/p/Bk5qaz2nRg6/">
+       Pictured
+      </a>
+      is a visual coincidence between the  dark branches of a nearby tree and bright glow of a distant aurora.  The beauty of the
+      <a href="https://science.nasa.gov/sun/auroras/">
+       aurora
+      </a>
+      --  combined with how it seemed to mimic a
+      <a href="ap150525.html">
+       tree
+      </a>
+      right nearby --  mesmerized the photographer to such a degree that  he momentarily forgot to take pictures.  When viewed at the
+      <a href="https://www.mathsisfun.com/rightangle.html">
+       right angle
+      </a>
+      , it seemed that this tree had aurora for leaves.  Fortunately, before the aurora morphed into a
+      <a href="ap161031.html">
+       different
+      </a>
+      <a href="ap161023.html">
+       overall
+      </a>
+      <a href="ap190218.html">
+       shape
+      </a>
+      ,  he came to his senses and captured the awe-inspiring
+      <a href="https://blogmais.files.wordpress.com/2008/04/imagem_ht_07-04-23.jpg">
+       momentary coincidence
+      </a>
+      .   Typically triggered by
+      <a href="https://solarscience.msfc.nasa.gov/CMEs.shtml">
+       solar explosions
+      </a>
+      ,  aurora are caused by high energy
+      <a href="http://history.aip.org/exhibits/electron/jjelectr.htm">
+       electrons
+      </a>
+      impacting the
+      <a href="https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      around 150 kilometers up.   The unusual Earth-sky collaboration was witnessed in March of 2017 in
+      <a href="https://en.wikipedia.org/wiki/Iceland">
+       Iceland
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/07
   </summary>
   <table>
@@ -18,8 +96,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260307.html">
+      https://apod.nasa.gov/apod/ap260307.html
      </a>
     </td>
    </tr>
