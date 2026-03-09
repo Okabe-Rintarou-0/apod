@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/Cranium_Webb_8832.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's going on inside the head of this nebula?   Dubbed the Exposed
+      <a href="https://science.nasa.gov/missions/webb/nasas-webb-examines-cranium-nebula/">
+       Cranium Nebula
+      </a>
+      for its similarity to the
+      <a href="https://en.wikipedia.org/wiki/Human_brain#/media/File:Visible_Human_head_slice.jpg">
+       human brain
+      </a>
+      ,  what created the nebula remains a mystery.   One thought is that the Cranium Nebula, also known as PMR 1, is a
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebula
+      </a>
+      surrounding a
+      <a href="https://science.nasa.gov/photojournal/pj-white-dwarf-stars/">
+       white dwarf star
+      </a>
+      .  In this mode, the outer atmosphere was expelled when the original
+      <a href="https://en.wikipedia.org/wiki/Stellar_evolution#Mid-sized_stars">
+       Sun-like star
+      </a>
+      ran out of
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/dwarfs1.html">
+       central nuclear fuel
+      </a>
+      and contracted.  A competing thought is that the central star is much more massive,  possibly a
+      <a href="ap250203.html">
+       Wolf-Rayet star
+      </a>
+      ,  that is ejecting gas and
+      <a href="https://science.nasa.gov/universe/dust-in-the-stellar-wind-a-cosmological-primer/">
+       dust
+      </a>
+      via turbulent
+      <a href="ap000318.html">
+       stellar wind
+      </a>
+      s.   Adding to the
+      <a href="https://www.reddit.com/r/aww/comments/sf84rb/does_anyone_elses_dog_tilt_their_head_when_they/#lightbox">
+       intrigue
+      </a>
+      is the dark vertical central division  and the thin outer gaseous shell.   The
+      <a href="https://esawebb.org/images/weic2605a/">
+       featured image
+      </a>
+      was taken by the
+      <a href="https://science.nasa.gov/mission/webb/">
+       Webb Space Telescope
+      </a>
+      in
+      <a href="https://celliant.com/pulse/all/infrared-light/">
+       mid
+      </a>
+      -
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      light, while a second image, included as a rollover,  is in near-
+      <a href="https://en.wikipedia.org/wiki/Infrared">
+       infrared
+      </a>
+      .   Future observations may reveal if this brainy system  will quietly just fade from view or, many years from now,  suddenly erupt in a powerful
+      <a href="https://youtu.be/wymMn-SmALY">
+       supernova
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/08
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260308.html">
+      https://apod.nasa.gov/apod/ap260308.html
      </a>
     </td>
    </tr>
