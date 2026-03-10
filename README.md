@@ -5,6 +5,129 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Are lasers from giant telescopes being used to defend the Earth?   No.
+      <a href="https://en.wikipedia.org/wiki/Laser">
+       Lasers
+      </a>
+      shot
+      <a href="ap090816.html">
+       from telescopes
+      </a>
+      are now commonly used to help increase the accuracy of astronomical observations.   In some directions, Earth atmosphere-induced
+      <a href="ap000725.html">
+       fluctuations
+      </a>
+      in starlight can indicate how the
+      <a href="https://en.wikipedia.org/wiki/Air_mass_(astronomy)">
+       air mass
+      </a>
+      over a
+      <a href="https://spaceplace.nasa.gov/telescopes/">
+       telescope
+      </a>
+      is changing, but in other directions, no bright star exists.   In these directions, astronomers can create an
+      <a href="https://economictimes.indiatimes.com/news/international/us/astronomers-are-creating-fake-stars-on-purpose-and-the-reason-is-surprisingly-practical/articleshow/129141647.cms">
+       artificial star
+      </a>
+      with a
+      <a href="https://science.howstuffworks.com/laser.htm">
+       laser
+      </a>
+      .   Subsequent observations of the artificial
+      <a href="https://en.wikipedia.org/wiki/Laser_guide_star">
+       laser guide star
+      </a>
+      can reveal information so detailed  about the changing blurring effects of the
+      <a href="https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      that much of it
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2F4r6uFaV1OY5PZpRyaQyEUG3NEdyytuDsuzFlzSQb2Mg.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Ded840ba0c7af96a0994daec2d97b4a507a08712f">
+       can be removed
+      </a>
+      by rapidly flexing a telescope's mirror.   Such
+      <a href="https://www.gemini.edu/sciops/instruments/adaptiveOptics/AOPrimer.html">
+       adaptive optics
+      </a>
+      techniques allow high-resolution ground-based observations of
+      <a href="ap000522.html">
+       real star
+      </a>
+      s,
+      <a href="ap000218.html">
+       planets
+      </a>
+      , and
+      <a href="https://noirlab.edu/public/images/noirlab2025a/">
+       nebulas
+      </a>
+      .
+      <a href="https://www.flickr.com/photos/julienlooten/55107654448/in/pool-apods/">
+       Pictured here
+      </a>
+      , telescopes at
+      <a href="https://www.eso.org/public/teles-instr/paranal-observatory/">
+       Paranal
+      </a>
+      <a href="https://www.youtube.com/watch?v=k_LwlwJWZN0&amp;t=115s">
+       Observatory
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      study a colorful sky filled with green
+      <a href="https://svs.gsfc.nasa.gov/12963">
+       airglow
+      </a>
+      and the
+      <a href="ap230211.html">
+       Magellanic Clouds
+      </a>
+      on the left, red
+      <a href="https://en.wikipedia.org/wiki/Airglow">
+       airglow
+      </a>
+      on the right,  and the majestic central band of our
+      <a href="https://svs.gsfc.nasa.gov/14935/">
+       Milky Way
+      </a>
+      Galaxy
+      <a href="ap210113.html">
+       arching
+      </a>
+      across the center.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/09
   </summary>
   <table>
@@ -18,8 +141,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260309.html">
+      https://apod.nasa.gov/apod/ap260309.html
      </a>
     </td>
    </tr>
