@@ -5,6 +5,109 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/cg4.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is this a cosmic monster ready to devour an unsuspecting galaxy?  Thankfully, that is not the case.  The red “monster” shown in the
+      <a href="https://www.instagram.com/p/DVM1o0MkyDe/">
+       featured image
+      </a>
+      is
+      <a href="ap240716.html">
+       Cometary Globule
+      </a>
+      <a href="https://en.wikipedia.org/wiki/CG_4">
+       CG 4
+      </a>
+      , 1,300 light-years away in the
+      <a href="https://earthsky.org/constellations/puppis-the-stern-argo-navis/">
+       Constellation Puppis
+      </a>
+      .  CG 4 is a
+      <a href="https://www.britannica.com/science/molecular-cloud">
+       molecular cloud
+      </a>
+      , where
+      <a href="https://www.acs.org/molecule-of-the-week/archive/h/hydrogen.html">
+       hydrogen
+      </a>
+      becomes cold enough to form
+      <a href="https://en.wikipedia.org/wiki/Molecule">
+       molecules
+      </a>
+      that can be brought together by gravity to
+      <a href="https://science.nasa.gov/universe/stars/#birth">
+       create stars
+      </a>
+      .  The shape of CG 4
+      <a href="https://en.wikipedia.org/wiki/Pareidolia">
+       resembles
+      </a>
+      that of a
+      <a href="https://www.esa.int/ESA_Multimedia/Images/2023/11/Structure_of_a_comet">
+       comet
+      </a>
+      , but its head is 1.5
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-year
+      </a>
+      in diameter and its tail is 8 light-years long; for comparison, the distance from the Earth to the sun is only
+      <a href="https://www2.hao.ucar.edu/education/about-the-sun/how-far-away-sun">
+       8 light-minutes
+      </a>
+      .  Astronomers
+      <a href="https://noirlab.edu/public/news/noirlab2412/">
+       believe
+      </a>
+      that the tail of a cometary globule could have been shaped by a nearby supernova explosion or by irradiation from hot, massive stars. Indeed, CG 4 and other nearby globules
+      <a href="https://www.eso.org/public/news/eso1503/">
+       point away
+      </a>
+      from the
+      <a href="ap190110.html">
+       Vela Supernova Remnant
+      </a>
+      , at the center of the
+      <a href="ap221129.html">
+       Gum Nebula
+      </a>
+      .  The edge-on
+      <a href="https://science.nasa.gov/universe/galaxies/types/">
+       spiral galaxy
+      </a>
+      , ESO 257-19, is more than a hundred million light-years beyond CG 4, and is completely safe from the “
+      <a href="https://plus.unsplash.com/premium_photo-1720922579207-251b22182659">
+       monster
+      </a>
+      ”.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/10
   </summary>
   <table>
@@ -18,8 +121,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260310.html">
+      https://apod.nasa.gov/apod/ap260310.html
      </a>
     </td>
    </tr>
