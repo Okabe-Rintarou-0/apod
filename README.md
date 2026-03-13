@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia1600.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In this composited night skyscape, stacked exposures trace graceful star trails above Lake Toolondo, Victoria, Australia, planet Earth.  Captured while the
+      <a href="https://science.nasa.gov/moon/eclipses/">
+       lunar eclipse
+      </a>
+      of March 3 was
+      <a href="https://svs.gsfc.nasa.gov/5604">
+       in progress
+      </a>
+      , the exposures used were made during the hour-long
+      <a href="ap260307.html">
+       total eclipse phase
+      </a>
+      .  So faint star trails are easily visible along with  the trail of the reddened Moon in the
+      <a href="ap260305.html">
+       eclipse-darkened skies
+      </a>
+      above the lake and trees.  Of course, the apparent motion of Moon and stars revealed in the timelapse composite
+      <a href="ap230922.html">
+       reflect
+      </a>
+      the Earth's daily rotation
+      <a href="ap240817.html">
+       around its axis
+      </a>
+      .  Dramatically punctuating the Moon's trail as totality ended, a single, separate telephoto image of the totally eclipsed Moon was scaled and blended into the scene.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/11
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260312.html">
+      https://apod.nasa.gov/apod/ap260312.html
      </a>
     </td>
    </tr>
