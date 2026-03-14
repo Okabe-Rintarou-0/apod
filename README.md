@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Want to visit a planet that has 3.14 days in a year?  Then plan a trip to K2-315b, an earth-sized planet orbiting around a cool, red, M dwarf star about once every 3.14 days.
+      <a href="https://ui.adsabs.harvard.edu/abs/2020AJ....160..172N/abstract">
+       The exoplanet's discovery
+      </a>
+      , based on publicly available data from the planet-hunting
+      <a href="https://science.nasa.gov/mission/kepler/">
+       Kepler Space Telescope's
+      </a>
+      extended K2 mission, was announced in 2020.  K2-315b's measured orbital period in days is nearly equal to the
+      <a href="https://science.nasa.gov/learning-resources/10-ways-to-celebrate-pi-day-with-nasa-on-march-14/#hds-sidebar-nav-9">
+       extremely
+      </a>
+      popular
+      <a href="https://apod.nasa.gov/htmltest/rjn_dig.html">
+       irrational
+      </a>
+      number Pi.  That
+      <a href="https://science.nasa.gov/resource/orbits-and-keplers-laws/">
+       puts
+      </a>
+      the exoplanet so close to its parent star that its surface is likely very warm,
+      <a href="https://news.mit.edu/2020/earth-sized-pi-planet-0921">
+       baking-hot in fact
+      </a>
+      .  And this Pi planet is over 185 light-years away.  So instead of trying to arrange for an
+      <a href="https://science.nasa.gov/exoplanets/immersive/exoplanet-travel-bureau/">
+       interstellar vacation
+      </a>
+      to K2-315b, there may be easier and more comfortable ways for you to celebrate
+      <a href="https://earthsky.org/human-world/pi-day-nasa-pi-day-challenge/">
+       Pi day on planet Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/13
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260313.html">
+      https://apod.nasa.gov/apod/ap260313.html
      </a>
     </td>
    </tr>
