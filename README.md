@@ -5,6 +5,124 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/jellyfish.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Even if you live with your
+      <a href="https://www.youtube.com/watch?v=3VXERT7uu3Y">
+       head in the clouds
+      </a>
+      , you won’t find a
+      <a href="https://en.wikipedia.org/wiki/Space_jellyfish">
+       jellyfish
+      </a>
+      like this one very often.  The
+      <a href="https://www.flickr.com/photos/76093456@N04/55129715198">
+       featured image
+      </a>
+      shows a
+      <a href="https://www.spacex.com/">
+       SpaceX
+      </a>
+      <a href="https://www.spacex.com/vehicles/falcon-9">
+       Falcon 9
+      </a>
+      rocket launch from
+      <a href="https://www.kennedyspacecenter.com/">
+       Cape Canaveral
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Florida">
+       Florida
+      </a>
+      on March 4.  The launch happened 52 minutes before
+      <a href="https://www.weather.gov/box/sunmoon">
+       sunrise
+      </a>
+      , and the
+      <a href="https://www.nasa.gov/history/75-years-ago-first-launch-of-a-two-stage-rocket/">
+       second stage rocket
+      </a>
+      <a href="ap251015.html">
+       exhaust plume
+      </a>
+      was high enough in the sky to catch the light of the
+      <a href="ap240921.html">
+       rising sun
+      </a>
+      , while the photographer was still in the dark.  This combination of light and shadow, possible at
+      <a href="https://www.rmg.co.uk/stories/time/when-dawn-dusk-twilight">
+       dawn or dusk
+      </a>
+      , makes the exhaust, mostly
+      <a href="https://science.nasa.gov/earth/earth-observatory/global-maps/water-vapor/">
+       water vapor
+      </a>
+      and
+      <a href="https://science.nasa.gov/earth/explore/earth-indicators/carbon-dioxide/">
+       carbon dioxide
+      </a>
+      , appear as a glowing cloud.  It only looks like it's going down, as the rocket follows the
+      <a href="ap230513.html">
+       curvature of the Earth
+      </a>
+      on its way to
+      <a href="https://www.nasa.gov/general/where-does-space-begin-we-asked-a-nasa-scientist-episode-43/">
+       space
+      </a>
+      .  A related effect is the
+      <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon">
+       twilight phenomenon
+      </a>
+      , which causes colorful
+      <a href="https://science.nasa.gov/earth/earth-observatory/criss-crossing-contrails-80476/">
+       contrails
+      </a>
+      sometimes
+      <a href="https://nightsky.jpl.nasa.gov/news/39/">
+       mistaken for UFOs
+      </a>
+      .  But, in case you are wondering: real
+      <a href="https://ocean.si.edu/ocean-life/invertebrates/jellyfish-and-comb-jellies">
+       jellyfish
+      </a>
+      were sent to space by
+      <a href="https://www.nasa.gov/">
+       NASA
+      </a>
+      in the 1990s as part of a
+      <a href="https://www.pbs.org/wgbh/nova/article/what-space-jellyfish-tell-us-about-interplanetary-travel/">
+       science experiment
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/18
   </summary>
   <table>
@@ -18,8 +136,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260318.html">
+      https://apod.nasa.gov/apod/ap260318.html
      </a>
     </td>
    </tr>
