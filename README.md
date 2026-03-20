@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-vernal-or-spring-equinox/">
+       The defining astronomical moment
+      </a>
+      of the equinox today is at 14:46 UTC (March 20).  That's when the Sun
+      <a href="https://www.timeanddate.com/calendar/march-equinox.html">
+       crosses the celestial equator
+      </a>
+      moving north in its yearly journey through planet Earth's sky, marking the beginning of spring for our fair planet in the northern hemisphere and fall in the southern hemisphere.   Then, day and night are nearly equal
+      <a href="https://svs.gsfc.nasa.gov/11353">
+       around the globe
+      </a>
+      .  In fact, both day and nighttime exposures from a spring equinox at the
+      <a href="https://www.iac.es/en/observatorios-de-canarias/teide-observatory">
+       Observatorio del Teide
+      </a>
+      in Tenerife, Canary Islands, Spain, are used in this composited skyscape.  Over 1,000 images were taken with a fisheye lens and merged in the ambitious equinox project.  The apparent motion of the Sun setting along the celestial equator on the equinox date follows the bright linear, diagonal track from the sequence of daytime exposures taken over 6 hours.  After sunset, nighttime exposures recorded startrails, with the
+      <a href="ap021115.html">
+       celestial equator
+      </a>
+      as a linear track and concentric arcs circling the north celestial pole near Polaris at upper right and the south celestial pole beyond the lower left edge (and below the Teide horizon).  The foreground includes the distant
+      <a href="ap231203.html">
+       Teide volcano
+      </a>
+      peak
+      <a href="ap121213.html">
+       and
+      </a>
+      the observatory's pyramid-shaped solar laboratory building.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/19
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260319.html">
+      https://apod.nasa.gov/apod/ap260319.html
      </a>
     </td>
    </tr>
