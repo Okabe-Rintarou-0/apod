@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In the words of today's astrophotographer, Rositsa Dimitrova, "What have these silent sentinels watched pass across the sky?" The volcanic
+      <a href="https://www.pbs.org/wgbh/nova/easter/civilization/giants.html">
+       mo'ai
+      </a>
+      (meaning statue) of
+      <a href="https://rapanuitravelguide.com/sightseeing-in-rapa-nui/ahu-tongariki/">
+       Ahu Tongariki
+      </a>
+      stand guard over
+      <a href="https://nativeplanet.tv/episode/respecting-the-moai/">
+       Rapa Nui
+      </a>
+      (Isla de Pascua, Easter Island),
+      <a href="https://smarthistory.org/easter-island-moai/">
+       a Polynesian island
+      </a>
+      (annexed by Chile in 1888) located thousands of kilometers off the coast of South America in the Pacific Ocean. Due to the island's remoteness,
+      <a href="ap241105.html">
+       the mo'ai
+      </a>
+      ,  with their backs to the dark ocean, are able to gaze upon a clear and vibrant night sky.
+      <a href="https://www.instagram.com/p/DVte8JhDNHG/">
+       Pictured
+      </a>
+      ,  these
+      <a href="ap091012.html">
+       larger-than-life statues
+      </a>
+      stare at the bright band of
+      <a href="https://science.nasa.gov/mission/webb/science-overview/science-explainers/is-the-milky-way-unique/">
+       the Milky Way
+      </a>
+      ,  partly obscured by
+      <a href="https://astronomy.swin.edu.au/cosmos/D/Dust+Grain">
+       interstellar dust
+      </a>
+      and blurred by Earth's clouds. Under such clear night skies, the Rapa Nui created observatories and used astronomical observations for
+      <a href="https://www.maajournal.com/index.php/maa/article/view/678/614">
+       navigation, calendar calibration, celebrations, and more
+      </a>
+      .  Images like this one remind us of
+      <a href="https://www.americantrails.org/resources/public-lands-preserving-and-protecting-night-skies">
+       the importance of dark skies
+      </a>
+      ,  protecting the land underneath them, and
+      <a href="https://www.nps.gov/subjects/nightskies/cultural.htm">
+       preserving the culture
+      </a>
+      that they inspire.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/23
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260324.html">
+      https://apod.nasa.gov/apod/ap260324.html
      </a>
     </td>
    </tr>
