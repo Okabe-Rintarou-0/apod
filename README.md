@@ -5,6 +5,81 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_wb.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_800.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.nasa.gov/dr-robert-h-goddard-american-rocketry-pioneer/">
+       Robert H. Goddard
+      </a>
+      , considered the father of modern rocketry, was born in Worcester Massachusetts in 1882.  As a 16 year old, Goddard read H.G. Wells' science fiction classic
+      <a href="http://www.literature.org/Works/H-G-Wells/war-of-the-worlds/">
+       "War Of The Worlds"
+      </a>
+      and dreamed of space flight.
+      <a href="https://www.youtube.com/watch?v=RAYVnUgS2zc">
+       By 1926
+      </a>
+      he had designed, built, and flown the world's first liquid fuel rocket.
+      <a href="https://www.nasa.gov/image-article/celebrating-100-years-since-goddards-breakthrough-moment-in-modern-rocketry/">
+       Launched 100 years ago
+      </a>
+      , on March 16, 1926 from his aunt Effie's
+      <a href="https://www.nasa.gov/centers-and-facilities/goddard/from-cabbages-to-craters-nasa-marks-one-century-of-modern-rocketry/">
+       farm in Auburn Massachusetts,
+      </a>
+      the rocket dubbed "Nell", rose to an altitude of 41 feet in a flight that lasted about 2 1/2 seconds.
+      <a href="https://www.flickr.com/photos/gsfc/albums/72157623138264584/">
+       In this posed photo
+      </a>
+      Goddard stands next to the 10 foot tall rocket, holding the launch stand frame.  To achieve a stable flight without the need for fins, the rocket's heavy motor was located at the top, fed by lines from liquid oxygen and gasoline fuel tanks at the bottom.  Widely recognized as a
+      <a href="https://iiif.library.cmu.edu/file/Posner_629.13338_G57M_1919/Posner_629.13338_G57M_1919.pdf">
+       gifted experimenter
+      </a>
+      and
+      <a href="https://ui.adsabs.harvard.edu/abs/1924MWRv...52..105G/abstract">
+       engineering genius
+      </a>
+      , his
+      <a href="http://www.howstuffworks.com/rocket.htm">
+       rockets were many years ahead
+      </a>
+      of their time.  Goddard was awarded over 200 patents in rocket technology, most of them after his death in 1945.  A liquid fuel rocket constructed on principles
+      <a href="ap051019.html">
+       developed by Goddard
+      </a>
+      landed
+      <a href="https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture/">
+       humans on the Moon
+      </a>
+      in 1969.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/27
   </summary>
   <table>
@@ -18,8 +93,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260327.html">
+      https://apod.nasa.gov/apod/ap260327.html
      </a>
     </td>
    </tr>
