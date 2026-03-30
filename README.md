@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/03/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2603/CenA_SADR_5000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happened to the center of this galaxy?   Dramatic
+      <a href="ap030706.html">
+       dust
+      </a>
+      lanes run across the center of unusual elliptical galaxy
+      <a href="https://en.wikipedia.org/wiki/Centaurus_A">
+       Centaurus A
+      </a>
+      .  These dust lanes are so thick they almost completely obscure the
+      <a href="ap200222.html">
+       galaxy's center
+      </a>
+      in
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      .   This is particularly unusual as
+      <a href="ap241211.html">
+       Cen A
+      </a>
+      's  older stars and oval shape are characteristic of a giant
+      <a href="https://en.wikipedia.org/wiki/Elliptical_galaxy">
+       elliptical galaxy
+      </a>
+      , a galaxy type typically low in dark dust.   Pictured in
+      <a href="https://app.astrobin.com/i/ixo52t">
+       this deep image
+      </a>
+      is a complex network of foreground gas and dust, as well as
+      <a href="ap120701.html">
+       shells of dim stars
+      </a>
+      and a
+      <a href="ap210804.html">
+       jet
+      </a>
+      projecting to the upper right.   Also known as NGC 5128,
+      <a href="ap230503.html">
+       Cen A
+      </a>
+      is surely the result of a
+      <a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=colliding+galaxies">
+       galactic collision
+      </a>
+      where many young dust-creating stars were formed.   However, details of the creation of Cen A's unusually
+      <a href="https://en.wikipedia.org/wiki/Active_galactic_nucleus">
+       active center
+      </a>
+      and iconic central dust lanes are still
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fmy-cat-is-obsessed-with-my-new-aquarium-he-will-sit-here-v0-6n1hn3b2rvnd1.jpeg%3Fwidth%3D4433%26format%3Dpjpg%26auto%3Dwebp%26s%3D7ccbe844e403d440db3226f62967b6e6ce7c7d67">
+       being researched
+      </a>
+      .   Cen A lies only 13 million
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light years
+      </a>
+      away, making it the
+      <a href="https://ui.adsabs.harvard.edu/abs/1998A%26ARv...8..237I/abstract">
+       closest active galaxy
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/29
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260329.html">
+      https://apod.nasa.gov/apod/ap260329.html
      </a>
     </td>
    </tr>
