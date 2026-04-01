@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/claw_bubble.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What unexpected things do you see when you look up at the night sky? Today’s image resembles an
+      <a href="https://www.riseart.com/guide/2366/guide-to-abstract-art">
+       abstract painting
+      </a>
+      ,  with large swaths of color strewn across a cosmic canvas seemingly without design. Despite the image's abstract nature, the
+      <a href="https://www.psychologytoday.com/us/blog/singular-perspective/202105/why-the-human-brain-is-so-good-detecting-patterns">
+       human mind finds patterns
+      </a>
+      ,  identifying a large claw reaching up towards a floating bubble. Embedded within these seemingly random structures are the physical laws that govern
+      <a href="https://science.nasa.gov/mission/webb/science-overview/science-explainers/spectroscopy-101-light-and-matter/">
+       how light and matter interact
+      </a>
+      .  The
+      <a href="ap171026.html">
+       Claw
+      </a>
+      (Sh2-157) and
+      <a href="ap220323.html">
+       Bubble
+      </a>
+      (
+      <a href="ap170531.html">
+       NGC 7635
+      </a>
+      )  Nebulae glow
+      <a href="https://delsaert.com/deep-sky/nebulae/h-alpha/">
+       colors that are mapped
+      </a>
+      to the yellow and blue shown, indicating the presence of hydrogen and oxygen
+      <a href="https://astronomy.swin.edu.au/cosmos/*/HII+Region">
+       ionized by the intense light emitted from stars
+      </a>
+      several times the mass of the Sun. This image depicts both the chaos and structure of astronomical processes, showing that a common thread between art and science is
+      <a href="https://www.arts.gov/stories/blog/2014/art-and-science-talk-scientist-lisa-hoffman">
+       to look for the unexpected
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/03/31
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260331.html">
+      https://apod.nasa.gov/apod/ap260331.html
      </a>
     </td>
    </tr>
