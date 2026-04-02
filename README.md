@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      We are one
+      <a href="https://en.wikipedia.org/wiki/One_small_step">
+       small step
+      </a>
+      closer to returning to the Moon. A new chapter in human exploration began yesterday when NASA's
+      <a href="https://www.nasa.gov/mission/artemis-ii/">
+       Artemis II
+      </a>
+      launched aboard the
+      <a href="https://www.nasa.gov/humans-in-space/space-launch-system/">
+       Space Launch System (SLS)
+      </a>
+      from
+      <a href="https://www.kennedyspacecenter.com/">
+       Kennedy Space Center
+      </a>
+      . Carrying
+      <a href="https://www.nasa.gov/feature/our-artemis-crew/">
+       four astronauts
+      </a>
+      , the Orion spacecraft's planned lunar flyby will be the first in over half a century. This historic test flight, echoing the legacy of
+      <a href="https://www.nasa.gov/the-apollo-program/">
+       Apollo
+      </a>
+      while pushing beyond it, will carry its crew farther from Earth than any humans
+      <a href="https://en.wikipedia.org/wiki/Gene_Cernan">
+       since 1972
+      </a>
+      , looping around the Moon before returning home. During the approximately ten-day journey, Orion's systems--from life support to navigation--will be tested in deep space, while astronauts observe the lunar surface, including shadowed regions of the far side rarely seen with such perspective. After looping around the Moon, the astronauts will return to Earth, ending their journey with a
+      <a href="https://www.nasa.gov/image-article/apollo-12-splashdown/">
+       Pacific Ocean splashdown
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/01
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260401.html">
+      https://apod.nasa.gov/apod/ap260401.html
      </a>
     </td>
    </tr>
