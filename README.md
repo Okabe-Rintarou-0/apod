@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How can we see what is invisible?
+      <a href="https://science.nasa.gov/universe/black-holes/">
+       Black holes
+      </a>
+      are not easy to see in the dark cosmic night, but astronomers can find them by analyzing their gravitational effects on
+      <a href="https://www.youtube.com/watch?v=TF8THY5spmo">
+       matter
+      </a>
+      ,
+      <a href="https://eventhorizontelescope.org/">
+       light
+      </a>
+      and
+      <a href="https://www.ligo.caltech.edu/page/what-are-gw">
+       spacetime
+      </a>
+      .  The
+      <a href="https://www.ligo.caltech.edu/image/ligo20251028c">
+       featured image
+      </a>
+      shows an illustration that combines a simulation of a black hole binary system in its final "
+      <a href="https://media.istockphoto.com/id/2159704816/vector/dancing-human-skeletons-risen-from-dead-and-celebrating-halloween-on-october-31st.jpg?s=1024x1024&amp;w=is&amp;k=20&amp;c=7XNuktMYaChFJ__s3GCuT0NGU12tzY9cMQksCNjy1j4=">
+       death-dance
+      </a>
+      " with an astrophotography image of the
+      <a href="https://www.flickr.com/photos/191315330@N08/55181451273/in/dateposted-public/">
+       Tarantula Nebula
+      </a>
+      in the background.  Even though black holes don't emit light, they distort the path of light rays, acting like a
+      <a href="https://en.wikipedia.org/wiki/Gravitational_lens">
+       gravitational lens
+      </a>
+      .  As a result, the nebula appears extremely distorted, forming
+      <a href="https://science.nasa.gov/asset/hubble/a-gallery-of-einstein-rings/">
+       Einstein rings
+      </a>
+      and
+      <a href="https://science.nasa.gov/gallery/hubbles-gravitational-lens-gallery/">
+       multiple images
+      </a>
+      .   Tarantula Nebula lies in the
+      <a href="https://apod.nasa.gov/apod/ap241002.html">
+       Large Magellanic Cloud
+      </a>
+      , a dwarf galaxy that is one of the
+      <a href="https://en.wikipedia.org/wiki/Satellite_galaxies_of_the_Milky_Way">
+       satellite galaxies
+      </a>
+      of the Milky Way,
+      <a href="https://science.nasa.gov/earth/earth-observatory/the-galaxy-next-door/">
+       160,000 light-years
+      </a>
+      away.  That is more than
+      <a href="https://en.wikipedia.org/wiki/List_of_gravitational_wave_observations">
+       1,000 times closer
+      </a>
+      than any of the binary black hole mergers detected
+      <a href="ap260326.html">
+       so far
+      </a>
+      .  We'll probably never detect a merger so close to home!
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/02
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260402.html">
+      https://apod.nasa.gov/apod/ap260402.html
      </a>
     </td>
    </tr>
