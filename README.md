@@ -5,6 +5,79 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/art002e000192.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.nasa.gov/image-detail/fd02_for-pao/">
+       From pole to pole
+      </a>
+      our fair planet is captured in this snapshot from space, an evocative image from a window of the Orion spacecraft Integrity.
+      <a href="https://www.nasa.gov/missions/artemis-ii/arow/">
+       From
+      </a>
+      <a>
+       the
+      </a>
+      <a href="ap230513.html">
+       spacecraft's perspective
+      </a>
+      the Sun is moving behind Earth's bright limb along the lower right.  Africa and the Iberian peninsula are in view on the pale blue planet's surface, while aurorae crown Earth's
+      <a href="ap240913.html">
+       south
+      </a>
+      and
+      <a href="ap240118.html">
+       north
+      </a>
+      poles at top right and bottom left.  Commander Reid Wiseman took the historic picture on Artemis II
+      <a href="https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-day-2-orion-completes-tli-burn-crew-begins-journey-to-the-moon/">
+       mission flight day 2
+      </a>
+      (April 2), after the completion of the planned translunar injection burn.  That burn boosted the spacecraft
+      <a href="https://www.nasa.gov/">
+       out of Earth orbit
+      </a>
+      , sending Integrity and crew on a trajectory that will take them
+      <a href="ap051210.html">
+       around the Moon
+      </a>
+      and back again.
+      <a href="https://www.nasa.gov/humans-in-space/artemis/">
+       That's a journey
+      </a>
+      humans last made over
+      <a href="https://www.nasa.gov/the-apollo-program/">
+       50 years ago
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/03
   </summary>
   <table>
@@ -18,8 +91,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260403.html">
+      https://apod.nasa.gov/apod/ap260403.html
      </a>
     </td>
    </tr>
