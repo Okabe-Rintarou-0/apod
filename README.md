@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_1837.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The party is still going on in spiral galaxy NGC 3310.    Roughly 100 million years ago,
+      <a href="ap010117.html">
+       NGC 3310
+      </a>
+      likely
+      <a href="ap001102.html">
+       collided with a smaller galaxy
+      </a>
+      causing the large
+      <a href="https://science.nasa.gov/universe/galaxies/types/">
+       spiral galaxy
+      </a>
+      to light up with a tremendous burst of
+      <a href="https://en.wikipedia.org/wiki/Star_formation">
+       star formation
+      </a>
+      .    The changing gravity during the collision created
+      <a href="https://en.wikipedia.org/wiki/Density_wave_theory">
+       density waves
+      </a>
+      that compressed existing  clouds of gas and triggered the
+      <a href="https://science.nasa.gov/mission/webb/star-lifecycle/">
+       star-forming party
+      </a>
+      .    The featured image from the
+      <a href="https://noirlab.edu/public/programs/gemini-observatory/gemini-north/">
+       Gemini North Telescope
+      </a>
+      shows the galaxy in
+      <a href="https://www.reddit.com/r/aww/comments/1rxj4o/the_upside_of_having_a_blind_dog_sticking_a/#lightbox">
+       great detail
+      </a>
+      ,  color-coded so that pink highlights gas  while white and blue highlight stars.   Some of the
+      <a href="https://science.nasa.gov/universe/star-clusters-inside-the-universes-stellar-collections/">
+       star clusters
+      </a>
+      in the galaxy are quite young, indicating that
+      <a href="http://chandra.harvard.edu/xray_sources/starburst.html">
+       starburst galaxies
+      </a>
+      may remain in  star-burst mode for quite some time.
+      <a href="https://en.wikipedia.org/wiki/NGC_3310">
+       NGC 3310
+      </a>
+      spans about 50,000
+      <a href="http://starchild.gsfc.nasa.gov/docs/StarChild/questions/question19.html">
+       light years
+      </a>
+      , lies about 50 million light years away,  and is visible with a small telescope towards the
+      <a href="https://spaceplace.nasa.gov/constellations/">
+       constellation
+      </a>
+      of Great Bear
+      <a href="http://www.astronomical.org/constellations/uma.html">
+       Ursa Major
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/04
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260404.html">
+      https://apod.nasa.gov/apod/ap260404.html
      </a>
     </td>
    </tr>
