@@ -5,6 +5,88 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/earthset_original.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/earthset_700.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <q>
+       And to all of you down there on Earth and around Earth, we love you, from the Moon. We will see you on the other side,
+      </q>
+      said Artemis II pilot Victor Glover on
+      <a href="https://www.nasa.gov/blogs/missions/2026/04/06/artemis-ii-flight-day-6-lunar-flyby-updates/">
+       April 6
+       <sup>
+        th
+       </sup>
+       at 6:44pm ET
+      </a>
+      as 8.3 billion minus four people and one Earth
+      <a href="https://www.nasa.gov/image-detail/art002e009288/">
+       set
+      </a>
+      below the Moon's horizon. The Orion spacecraft, Integrity, then traveled behind the Moon as part of its seven-hour lunar flyby.
+      <a href="https://www.nasa.gov/humans-in-space/artemis-ii-science/#lunarscience">
+       The crew characterized
+      </a>
+      never-before-seen regions of
+      <a href="https://apod.nasa.gov/apod/ap070225.html">
+       the far side of the Moon
+      </a>
+      ,  which is
+      <a href="https://www.planetary.org/articles/the-two-faced-moon">
+       puzzlingly less volcanically active
+      </a>
+      than the near side. New observations of
+      <a href="https://www.lpi.usra.edu/education/explore/shaping_the_planets/impact-cratering/">
+       crater peaks, floors, terraces, and rings
+      </a>
+      preserved on the lunar surface will
+      <a href="https://science.nasa.gov/moon/lunar-craters/why-study-craters/">
+       help piece together the impact history of the Solar System
+      </a>
+      .  Among many other surface characterizations, the crew observed one of the Moon's best-preserved basins,
+      <a href="https://science.nasa.gov/moon/lunar-craters/the-explosive-history-of-orientale-basin/">
+       the Orientale basin
+      </a>
+      ,  and identified
+      <a href="https://www.npr.org/2026/04/07/nx-s1-5776440/artemis-moon-crater-carroll-wiseman">
+       two new craters
+      </a>
+      .  As
+      <a href="https://apod.nasa.gov/apod/ap150906.html">
+       Earth rose
+      </a>
+      above the Moon’s horizon and Integrity began its return home, Artemis II mission specialist Christina Koch powerfully summarized humanity’s grander mission:
+      <q>
+       ...we will always choose Earth. We will always choose each other.
+      </q>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/07
   </summary>
   <table>
@@ -18,8 +100,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260407.html">
+      https://apod.nasa.gov/apod/ap260407.html
      </a>
     </td>
    </tr>
