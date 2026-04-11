@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/art002e009567_1920.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.nasa.gov/blogs/missions/2026/04/06/artemis-ii-flight-day-6-crew-wraps-historic-lunar-flyby/">
+       On flight day 6
+      </a>
+      (April 6) the Artemis II mission achieved a
+      <a href="https://www.nasa.gov/gallery/lunar-flyby/">
+       historic lunar flyby
+      </a>
+      .  Rounding the lunar far side, the deep space maneuver marked humanity's first venture to the Moon
+      <a href="ap230513.html">
+       since Apollo 17
+      </a>
+      in 1972.  The Orion spacecraft Integrity reached a maximum distance of nearly 407,000 kilometers, and the
+      <a href="https://www.nasa.gov/feature/our-artemis-crew/">
+       Artemis II crew
+      </a>
+      , Reid Wiseman, Victor Glover, and Christina Koch, and Jeremy Hansen, set the record for the farthest distance from Earth traveled by any human since the
+      <a href="">
+       Apollo 13 crew
+      </a>
+      in 1970.  From behind the Moon on flight day 6, a solar array wing camera recorded this space age selfie, framing the spacecraft and lunar far side.  Planet Earth, home to the Artemis II crew, is the small, bright crescent beyond the lunar limb.  The crew safely returned home on Artemis II mission
+      <a href="https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-crew-sets-for-final-burn-splashdown/">
+       flight day 10
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/10
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260410.html">
+      https://apod.nasa.gov/apod/ap260410.html
      </a>
     </td>
    </tr>
