@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_1707.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Comet R3 is brightening rapidly -- will it survive?
+      <a href="https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)">
+       C/2025 R3 (PanSTARRS)
+      </a>
+      has been slowly brightening and  extending an
+      <a href="https://astronomy.swin.edu.au/cosmos/c/Cometary+Gas+Tail">
+       ion tail
+      </a>
+      since its discovery last year.   This
+      <a href="ap240106.html">
+       shedding mountain
+      </a>
+      of dirty ice puts on its best sky show this month,  though, because it passes its closest to both the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      (April 19) and the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      (April 25).   The
+      <a href="https://www.instagram.com/p/DW6sYW2DBWm">
+       featured image
+      </a>
+      , showing R3 already sporting a  tail extending over 10 degrees,  was taken two nights ago from
+      <a href="https://www.youtube.com/shorts/4kb2daLcuq8">
+       Sion
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Switzerland">
+       Switzerland
+      </a>
+      with the big mountain
+      <a href="https://youtu.be/BFjvoT0CRQQ">
+       Bietschhorn
+      </a>
+      on the left.
+      <a href="https://theskylive.com/c2025r3-info">
+       Comet R3
+      </a>
+      will be visible during mid-April before sunrise.  Although the future brightness of any comet is hard to predict,  the brightness of
+      <a href="https://www.universetoday.com/articles/tales-of-two-comets-a1-maps-and-r3-pan-starrs-both-make-a-showing-in-april">
+       R3
+      </a>
+      makes it already a good
+      <a href="ap250929.html">
+       camera comet
+      </a>
+      and it may become visible to the
+      <a href="https://en.wikipedia.org/wiki/Naked_eye">
+       unaided eye
+      </a>
+      in the next week.
+      <a href="https://www.space.com/astronomy/comets/why-im-hunting-for-comet-pan-starrs-right-now-before-its-too-late">
+       Comet R3
+      </a>
+      's physical future is also
+      <a href="https://c8.alamy.com/comp/MCTDTA/unknown-person-with-a-package-on-his-head-drawn-funny-face-fools-day-emotions-and-feelings-indoor-shot-yellow-background-MCTDTA.jpg">
+       unknown
+      </a>
+      because, like
+      <a href="ap260409.html">
+       Comet A1 (MAPS)
+      </a>
+      earlier this month, it may
+      <a href="ap230903.html">
+       disintegrate
+      </a>
+      when it passes its closest to the Sun.   Or it may live to
+      <a href="https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)#Follow-up_observations">
+       leave
+      </a>
+      the Solar System.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/11
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260411.html">
+      https://apod.nasa.gov/apod/ap260411.html
      </a>
     </td>
    </tr>
