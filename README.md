@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/13
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_3749.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The clouds may look like an oyster, and the stars like pearls, but look beyond.  Near the outskirts of the
+      <a href="https://en.wikipedia.org/wiki/Small_Magellanic_Cloud">
+       Small Magellanic Cloud
+      </a>
+      , a satellite galaxy some 200 thousand light-years distant, lies 5 million year
+      <a href="https://en.wikipedia.org/wiki/Stellar_evolution">
+       young
+      </a>
+      star cluster
+      <a href="https://www.youtube.com/watch?v=LpQgKX1fGxQ">
+       NGC 602
+      </a>
+      .  Surrounded by natal gas and dust,
+      <a href="https://en.wikipedia.org/wiki/NGC_602">
+       NGC 602
+      </a>
+      is featured in this
+      <a href="https://hubblesite.org/contents/news-releases/2007/news-2007-04.html">
+       stunning Hubble image
+      </a>
+      of the region.
+      <a href="ap061227.html">
+       Fantastic
+      </a>
+      ridges and swept back shapes strongly suggest that energetic radiation and shock waves from
+      <a href="https://hubblesite.org/contents/media/videos/2007/04/539-Video.html">
+       NGC 602
+      </a>
+      's  massive young stars have eroded the
+      <a href="https://youtu.be/jn5M48MVWyg">
+       dust
+      </a>
+      y material  and triggered a progression of
+      <a href="https://science.nasa.gov/universe/stars/">
+       star formation
+      </a>
+      moving away from the cluster's center.  At the estimated distance of the
+      <a href="ap210105.html">
+       Small Magellanic Cloud
+      </a>
+      ,
+      <a href="https://hubblesite.org/contents/media/images/2007/04/2042-Image.html">
+       the featured picture
+      </a>
+      spans about 200 light-years, but a
+      <a href="https://www.reddit.com/r/aww/comments/2jqsdk/the_omg_cat/#lightbox">
+       tantalizing
+      </a>
+      assortment of background galaxies are also visible in
+      <a href="http://chandra.harvard.edu/photo/2013/ngc602/">
+       this sharp  multi-colored view
+      </a>
+      .  The
+      <a href="ap250302.html">
+       background galaxies
+      </a>
+      are hundreds of millions of
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light-years
+      </a>
+      or more
+      <a href="ap150307.html">
+       beyond NGC 602
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/12
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260412.html">
+      https://apod.nasa.gov/apod/ap260412.html
      </a>
     </td>
    </tr>
