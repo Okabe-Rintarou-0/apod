@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/CometR3_Hamdi_2710.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/CometR3_Hamdi_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why does Comet R3 (PanSTARRS) have a wispy tail?   The newest bright member of the inner Solar System,
+      <a href="https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)">
+       Comet C/2025 R3 (PanSTARRS)
+      </a>
+      is already extending an
+      <a href="https://www.shutterstock.com/image-photo/surprised-cat-amazement-open-mouth-260nw-2259711007.jpg">
+       impressive
+      </a>
+      stream of glowing gas.  This tail starts from an unseen
+      <a href="ap251019.html">
+       central nucleus
+      </a>
+      of dirty ice that is likely a few kilometers across.  The nucleus is warmed by the Sun and
+      <a href="ap151118.html">
+       emits
+      </a>
+      a cloud of neutral gas into a
+      <a href="https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg">
+       coma
+      </a>
+      that
+      <a href="https://www.science.org/content/article/why-do-some-comets-glow-green">
+       glows light green
+      </a>
+      .  Nuclear gas ionized by
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       energetic sunlight
+      </a>
+      is pushed away from the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      by the
+      <a href="https://science.nasa.gov/sun/what-is-the-solar-wind/">
+       solar wind
+      </a>
+      into an ion tail that
+      <a href="https://astronomy.stackexchange.com/questions/36907/blue-color-of-ion-plasma-comet-tails">
+       glows light blue
+      </a>
+      .   The wispy nature of the
+      <a href="http://www2.ess.ucla.edu/~jewitt/tail.html">
+       ion tail
+      </a>
+      is caused by the
+      <a href="ap220110.html">
+       constantly changing
+      </a>
+      structure of the solar wind.
+      <a href="https://www.instagram.com/p/DXE-wbzFhgo/">
+       Pictured
+      </a>
+      from
+      <a href="https://en.wikipedia.org/wiki/Rhode_Island">
+       Rhode Island
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      two days ago,
+      <a href="ap260412.html">
+       Comet R3 (PanSTARRS)
+      </a>
+      shows off a many-degree ion tail.
+      <a href="https://theskylive.com/c2025r3-info">
+       Comet R3 (PanSTARRS)
+      </a>
+      is best seen before dawn from  northern skies for another 10 days, after which it  will be best visible from southern skies.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/13
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260413.html">
+      https://apod.nasa.gov/apod/ap260413.html
      </a>
     </td>
    </tr>
