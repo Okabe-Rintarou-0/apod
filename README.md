@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      If you live in the
+      <a href="https://www.timeanddate.com/geography/southern-northern-hemisphere.html">
+       northern hemisphere
+      </a>
+      , you may have learned how to
+      <a href="https://science.nasa.gov/solar-system/what-is-the-north-star-and-how-do-you-find-it/">
+       locate
+      </a>
+      the North Star,
+      <a href="ap250114.html">
+       Polaris
+      </a>
+      , in the night sky.  It can be used to find north, and it approximately marks the
+      <a href="ap220728.html">
+       northern celestial pole
+      </a>
+      .  If you live in the southern hemisphere, there is no bright star marking the southern celestial pole, but the
+      <a href="https://en.wikipedia.org/wiki/Crux">
+       Southern Cross
+      </a>
+      can be used to find south.  The
+      <a href="https://app.astrobin.com/u/kiko.fairbairn?i=362508">
+       featured image
+      </a>
+      was taken in
+      <a href="https://en.wikipedia.org/wiki/Padre_Bernardo">
+       Padre Bernardo
+      </a>
+      (
+      <a href="https://www.britannica.com/place/Goias-state-Brazil">
+       GO
+      </a>
+      ),
+      <a href="https://en.wikipedia.org/wiki/Brazil">
+       Brazil
+      </a>
+      .  It shows the apparent motion of the stars around the apparently empty southern celestial pole over 2 hours, on August 20, 2018.  Each star takes
+      <a href="https://astronomy.swin.edu.au/cosmos/s/Sidereal+Day">
+       about 24 hours
+      </a>
+      to make a complete turn around the pole in the sky.  Padre Bernardo is located in the
+      <a href="https://science.nasa.gov/earth/earth-observatory/a-cerrado-above-it-all-154336/">
+       Cerrado
+      </a>
+      region, a tropical savanna that occupies most of central Brazil and supports rich
+      <a href="https://en.wikipedia.org/wiki/Giant_anteater#/media/File:Myrmecophaga_tridactyla_345917023_(cropped).jpg">
+       biodiversity
+      </a>
+      .  The barren branch that apparently supports this sky wheel of rotating stars is a common sight there in the
+      <a href="https://en.wikipedia.org/wiki/Cerrado#Climate">
+       dry season
+      </a>
+      during the southern winter.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/15
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260415.html">
+      https://apod.nasa.gov/apod/ap260415.html
      </a>
     </td>
    </tr>
