@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrot.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Near the eastern horizon before sunrise, Comet C/2025 R3
+      <a href="https://earthsky.org/space/comet-r3-panstarrs-pics-and-chart/">
+       PanSTARRS is getting brighter
+      </a>
+      .  Readily visible in binoculars and small telescopes, the comet may be just on the verge of naked-eye visibility  from dark sky sites.  Though it was not quite apparent to the eye,
+      <a href="https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)">
+       PanSTARRS
+      </a>
+      is still easy to spot in this camera image taken on April 16.  In the view from a volcanic peak overlooking France's Reunion Island, planet Earth, the comet shares eastern predawn skies with naked-eye planets Mars and Mercury and fainter Neptune.  Saturn is hiding behind the low cloudbank that doesn't quite hide an old crescent Moon.
+      <a href="https://science.nasa.gov/solar-system/whats-up-april-2026-skywatching-tips-from-nasa/">
+       This is a good weekend
+      </a>
+      for northern hemisphere comet watchers to try to
+      <a href="https://www.space.com/astronomy/comets/why-im-hunting-for-comet-pan-starrs-right-now-before-its-too-late">
+       catch PanSTARRS
+      </a>
+      an hour or so before sunrise, as the comet grows brighter approaching its perihelion on April 19.  On April 26 the comet makes its closest approach to our fair planet but by then will be difficult to see in the solar glare.
+      <a href="https://www.facebook.com/media/set/?set=a.946613941400517&amp;type=3">
+       Good views
+      </a>
+      of this comet PanSTARRS in late April and early May will be from the southern hemisphere.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/17
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260417.html">
+      https://apod.nasa.gov/apod/ap260417.html
      </a>
     </td>
    </tr>
