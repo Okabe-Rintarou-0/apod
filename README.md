@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_1380.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Have you ever had
+      <a href="https://www.dictionary.com/browse/stars-in-one-s-eyes--have">
+       stars in your eyes
+      </a>
+      ?  It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars.  The
+      <a href="https://www.miguelclaro.com/wp/portfolio/from-ojos-del-salar-a-martian-eye-looks-deep-into-our-milky-way-galaxy/">
+       featured 27-frame mosaic
+      </a>
+      was taken in 2019 from
+      <a href="https://youtu.be/KQv2h1jEN2s?t=66">
+       Ojas de Salar
+      </a>
+      in the
+      <a href="https://www.youtube.com/watch?v=aj7nxSCVG9Y">
+       Atacama Desert
+      </a>
+      of
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .   The eye is actually a small
+      <a href="ap230928.html">
+       lagoon
+      </a>
+      captured reflecting the
+      <a href="ap200408.html">
+       dark night sky
+      </a>
+      as the Milky Way Galaxy arched overhead.  The seemingly smooth band of the
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way
+      </a>
+      is really composed of billions of stars,  but decorated with filaments of light-absorbing dust and
+      <a href="https://apod.nasa.gov/apod/emission_nebulae.html">
+       red-glowing nebulas
+      </a>
+      .  Additionally, both
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      (slightly left the galactic arch) and
+      <a href="https://science.nasa.gov/saturn/">
+       Saturn
+      </a>
+      (slightly to the right) are visible.   The lights of small towns dot the
+      <a href="https://static.boredpanda.com/blog/wp-content/uploads/2014/03/funny-cats-dogs-stuck-furniture-31.jpg">
+       unusual vertical
+      </a>
+      horizon.   The
+      <a href="ap161005.html">
+       rocky terrain
+      </a>
+      around the  lagoon appears to some more like the surface of
+      <a href="https://science.nasa.gov/mars/">
+       Mars
+      </a>
+      than our
+      <a href="https://www.earthday.org/earth-day-2026/">
+       Earth
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/18
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260418.html">
+      https://apod.nasa.gov/apod/ap260418.html
      </a>
     </td>
    </tr>
