@@ -5,6 +5,97 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_3900.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The best way to see comet R3 PanSTARRS’s long tail is with a camera.  This week, the
+      <a href="ap260412.html">
+       recently brightened comet
+      </a>
+      appears in northern skies to the east just before dawn,  but is only barely visible to the unaided eye.  The many-degree
+      <a href="https://astronomy.swin.edu.au/cosmos/c/Cometary+Gas+Tail">
+       ion tail
+      </a>
+      captured on
+      <a href="https://www.shutterstock.com/image-photo/funny-cat-tired-boring-lying-260nw-1447517609.jpg">
+       long duration
+      </a>
+      camera exposures  is not unusual for a comet -  it is primarily due to the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      's nearly sideways  view of the tail as it points away from the Sun.   In the
+      <a href="https://www.instagram.com/p/DXP2xpPkwxm/">
+       featured image
+      </a>
+      taken last week, Comet
+      <a href="https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)">
+       C/2025 R3 (PanSTARRS)
+      </a>
+      showed off its flowing tail  through a valley between two peaks in the
+      <a href="https://en.wikipedia.org/wiki/Himalayas">
+       Himalayan mountains
+      </a>
+      of
+      <a href="https://en.wikipedia.org/wiki/India">
+       India
+      </a>
+      .    The comet passed its closest to
+      <a href="https://science.nasa.gov/sun/">
+       the Sun
+      </a>
+      yesterday.  As it nears its closest approach to Earth next week, a
+      <a href="ap220408.html">
+       bushy
+      </a>
+      <a href="https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg">
+       dust tail
+      </a>
+      may become visible.
+      <a href="https://theskylive.com/c2025r3-info">
+       The comet
+      </a>
+      is slowly moving out of northern skies  and by the end of the month
+      <a href="https://www.universetoday.com/articles/comet-r3-panstarrs-at-perihelion">
+       will be visible
+      </a>
+      after sunset  in southern skies as it fades and
+      <a href="https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)#Follow-up_observations">
+       leaves
+      </a>
+      our
+      <a href="ap250914.html">
+       Solar System
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/19
   </summary>
   <table>
@@ -18,8 +109,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260419.html">
+      https://apod.nasa.gov/apod/ap260419.html
      </a>
     </td>
    </tr>
