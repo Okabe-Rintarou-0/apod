@@ -5,6 +5,100 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_7500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why are there three arches across the sky instead of two?  Last month, after being
+      <a href="https://blog.angelfux.com/p/triple-arch-at-4200m-matterhorn">
+       dropped off by a helicopter
+      </a>
+      at a
+      <a href="https://youtu.be/rxeK5Q2N-Is?t=617">
+       high mountain peak
+      </a>
+      in the
+      <a href="https://en.wikipedia.org/wiki/Alps">
+       Alps
+      </a>
+      near the
+      <a href="https://en.wikipedia.org/wiki/Switzerland">
+       Swiss
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Italy">
+       Italian
+      </a>
+      border,  an adventurous astrophotographer expected two arches of
+      <a href="https://science.nasa.gov/asset/webb/milky-way-and-our-location/">
+       our Milky Way galaxy
+      </a>
+      to be
+      <a href="https://capturetheatlas.com/best-time-to-see-the-milky-way/">
+       visible
+      </a>
+      during the night.  These were the inner arch looking in
+      <a href="ap251109.html">
+       toward the center
+      </a>
+      of our galaxy on the left,  visible just before sunrise, and the
+      <a href="ap220312.html">
+       outer arch
+      </a>
+      on the  right visible just after sunset.    But there were three arches.  The
+      <a href="https://www.reddit.com/r/aww/comments/2jqsdk/the_omg_cat/#lightbox">
+       surprised
+      </a>
+      <a href="https://www.levoyageur.ch/women-invited/angel-fux">
+       astrophotographer
+      </a>
+      soon realized that the sky was
+      <a href="ap200408.html">
+       so dark
+      </a>
+      that an
+      <a href="ap170429.html">
+       entire arc
+      </a>
+      of faint
+      <a href="https://en.wikipedia.org/wiki/Zodiacal_light">
+       zodiacal light
+      </a>
+      was also noticeable --  sunlight scattered by inner
+      <a href="https://eyes.nasa.gov/apps/solar-system/#/home">
+       Solar System dust
+      </a>
+      .   And it artfully connected the two Milky Way arches!   The next morning a helicopter picked the astrophotographer back up,  and after 40 hours of processing and combining that night's images, the
+      <a href="https://www.instagram.com/p/DWbq_YKjW0X/">
+       featured triple-arch 360-degree panorama
+      </a>
+      resulted.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/20
   </summary>
   <table>
@@ -18,8 +112,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260420.html">
+      https://apod.nasa.gov/apod/ap260420.html
      </a>
     </td>
    </tr>
