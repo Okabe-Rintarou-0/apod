@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Sunlit arms of a
+      <a href="https://science.nasa.gov/moon/moon-phases/">
+       crescent
+      </a>
+      moon seem to
+      <a href="ap180401.html">
+       embrace
+      </a>
+      the faint lunar night side in this dramatic celestial scene from planet Earth.  The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit.  On that date, the young Moon was also close on the sky to the lovely
+      <a href="ap251101.html">
+       Pleiades Star Cluster
+      </a>
+      .  With the moonlight dimmed by clouds the Pleiades
+      <a href="ap230105.html">
+       sister stars
+      </a>
+      gather below the Moon's bright crescent, seen through a faint but colorful
+      <a href="ap241220.html">
+       lunar corona
+      </a>
+      .  The lunar night side is illuminated
+      <a href="https://science.nasa.gov/earth/earth-observatory/earthshine-83782/">
+       by earthshine
+      </a>
+      , sunlight reflected from the Earth itself.
+      <a href="https://earthsky.org/astronomy-essentials/what-is-earthshine/">
+       The Moon's ashen glow
+      </a>
+      , also known as the "old moon in the young moon's arms", tends to be brighter in the northern hemisphere spring.  And for now, the Moon's orbit takes it near the
+      <a href="https://arxiv.org/abs/2511.07533">
+       Pleiades
+      </a>
+      stars each month in planet Earth's sky, though their close conjunctions are easiest to
+      <a href="https://science.nasa.gov/moon/daily-moon-guide/">
+       see when the Moon
+      </a>
+      is near a crescent phase.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/23
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260423.html">
+      https://apod.nasa.gov/apod/ap260423.html
      </a>
     </td>
    </tr>
