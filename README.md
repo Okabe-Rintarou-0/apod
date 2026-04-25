@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This seaside
+      <a href="https://www.nasa.gov/solar-system/nasa-scientist-simulates-sunsets-on-other-worlds/">
+       sunset offered
+      </a>
+      a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth.  The Daliesque scene
+      <a href="https://www.instagram.com/lorenzo.busilacchi/p/DXcZVbLjZvR/">
+       is a composition
+      </a>
+      of sequential exposures made with a camera and long telephoto lens.  The Sun is
+      <a href="https://en.wikipedia.org/wiki/The_Persistence_of_Memory">
+       not melting, though
+      </a>
+      .  Its shifting and fluid appearance as it nears the horizon is caused as refraction along the line of sight changes and creates distorted images or
+      <a href="https://www.atoptics.org.uk/atoptics/mmirsun.htm">
+       mirages of the reddened solar disk
+      </a>
+      .  The changes in atmospheric refraction correspond to
+      <a href="ap170120.html">
+       atmospheric layers
+      </a>
+      with sharply different temperatures and densities.  Another famous but fleeting effect of atmospheric refraction produced by a long sight-line to the setting (or rising) Sun is often called
+      <a href="ap231025.html">
+       the green flash
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/24
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260424.html">
+      https://apod.nasa.gov/apod/ap260424.html
      </a>
     </td>
    </tr>
