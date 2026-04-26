@@ -5,6 +5,85 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_1433.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Inside the head of this interstellar monster is a star that is slowly destroying it.   The huge monster, actually an
+      <a href="https://media.istockphoto.com/id/1128004359/photo/close-up-scottish-fold-cat-head-with-shocking-face-and-wide-open-eyes-frighten-or-surprised.jpg">
+       inanimate
+      </a>
+      series of pillars of gas and dust, measures
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light years
+      </a>
+      in length.   The in-head star is not itself visible through the
+      <a href="ap230129.html">
+       opaque
+      </a>
+      <a href="http://espg.sr.unh.edu/ism/what1.html#dust">
+       interstellar dust
+      </a>
+      but is bursting out partly by ejecting opposing beams of energetic particles called
+      <a href="https://en.wikipedia.org/wiki/Herbig%E2%80%93Haro_object">
+       Herbig-Haro
+      </a>
+      jets.   Located about 7,500 light years away in the
+      <a href="ap190623.html">
+       Carina Nebula
+      </a>
+      and known informally as  Mystic Mountain, the appearance of these pillars  is dominated by dark dust even though they are composed mostly of clear
+      <a href="https://en.wikipedia.org/wiki/Hydrogen">
+       hydrogen
+      </a>
+      gas.   The
+      <a href="https://www.flickr.com/photos/geckzilla/49452041152/in/faves-53460575@N03/">
+       featured image
+      </a>
+      was taken with the
+      <a href="https://science.nasa.gov/mission/hubble/overview/about-hubble/">
+       Hubble Space Telescope
+      </a>
+      .  All over these pillars, the
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves">
+       energetic light
+      </a>
+      and
+      <a href="ap200121.html">
+       winds
+      </a>
+      from massive newly formed stars are  evaporating and dispersing the dusty stellar nurseries in which they formed.   Within a few million years, the head of this giant,  as well as most of its body, will have been
+      <a href="https://www.youtube.com/watch?v=kvrAFFVVE9E">
+       completely evaporated
+      </a>
+      by internal and surrounding stars.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/25
   </summary>
   <table>
@@ -18,8 +97,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260425.html">
+      https://apod.nasa.gov/apod/ap260425.html
      </a>
     </td>
    </tr>
