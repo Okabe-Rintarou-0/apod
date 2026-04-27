@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_2756.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Can you find the comet?  Somewhere through this web of satellite trails is Comet
+      <a href="https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)">
+       C/2025 R3 (PanSTARRS)
+      </a>
+      , a bright visitor passing  through the inner
+      <a href="https://science.nasa.gov/solar-system/solar-system-facts/">
+       Solar System
+      </a>
+      .  Now, the
+      <a href="https://www.nasa.gov/humans-in-space/leo-economy-frequently-asked-questions/">
+       orbiting satellites
+      </a>
+      themselves only
+      <a href="ap191014.html">
+       appear as streaks
+      </a>
+      because of the long camera exposure,  over 10 minutes in this case.  On the contrary,
+      <a href="https://www.healthline.com/health/human-eye-fps">
+       to the eye
+      </a>
+      , satellites appear as points that  drift slowly across the night sky and shine by
+      <a href="ap230107.html">
+       reflecting sunlight
+      </a>
+      --  primarily just after sunset and before sunrise.   The featured image was taken just before sunrise two weeks ago from
+      <a href="https://youtu.be/HvG5igQX2H4">
+       Bavaria
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Germany">
+       Germany
+      </a>
+      .   Presently,
+      <a href="https://theskylive.com/c2025r3-info">
+       Comet R3 PanSTARRS
+      </a>
+      is hard to see for even another reason --  because it is so (angularly) close to the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      .  As the comet rounds the Sun, it will be
+      <a href="https://www.universetoday.com/articles/comet-r3-panstarrs-at-perihelion">
+       best seen
+      </a>
+      in coming weeks from
+      <a href="https://en.wikipedia.org/wiki/Southern_Hemisphere">
+       southern hemisphere
+      </a>
+      e skies, although then it will be  heading out to interstellar space and fading.  If you haven't yet found the comet,
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fmy-cat-likes-to-stare-at-me-does-your-cat-do-this-v0-0uac0htb2xkc1.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Dbc1fb9a7aa48d5a3a8a1c13611953db2691b8f9b">
+       don't despair
+      </a>
+      ; please take a
+      <a href="image/2604/CometTrails_Fehr_2756.jpg">
+       closer look
+      </a>
+      just above the image center.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/26
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260426.html">
+      https://apod.nasa.gov/apod/ap260426.html
      </a>
     </td>
    </tr>
