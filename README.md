@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/04/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      No, Earth did not recently acquire six more moons!
+      <a href="https://www.facebook.com/share/p/1Caa7mfotN/">
+       Today’s APOD
+      </a>
+      is a combination of images  following the Moon, Venus, and
+      <a href="https://earthsky.org/favorite-star-patterns/pleiades-star-cluster-enjoys-worldwide-renown/">
+       the Pleiades
+      </a>
+      across a southern Sicilian sky  as twilight turned to evening on April 19.  From 2023 to 2029, the Pleiades' and the Moon  “
+      <a href="ap250408.html">
+       visit
+      </a>
+      "  each other once per month due to the Pleiades' location in
+      <a href="https://earthsky.org/astronomy-essentials/definition-ecliptic-what-is-the-ecliptic/">
+       the ecliptic plane
+      </a>
+      .  April 2026 saw the celestial alignment of their visit with
+      <a href="https://science.nasa.gov/venus/">
+       Venus
+      </a>
+      .   About six stars in the Pleiades cluster  (
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-45/">
+       Messier 45
+      </a>
+      )  are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades.
+      <a href="https://www.haudenosauneeconfederacy.com/who-we-are/">
+       The Haudenosaunee people
+      </a>
+      of North America,
+      <a href="https://nightskytourist.com/pleiades/">
+       for example
+      </a>
+      ,  say that seven boys danced so enthusiastically that they lifted off into the sky.
+      <a href="https://science.nasa.gov/missions/tess/nasas-tess-spacecraft-triples-size-of-pleiades-star-cluster/">
+       Astronomers recently found thousands more Pleiades members
+      </a>
+      ,  showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/04/27
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260428.html">
+      https://apod.nasa.gov/apod/ap260428.html
      </a>
     </td>
    </tr>
