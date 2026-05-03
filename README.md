@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/05/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_4074.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Dust pillars are like
+      <a href="ap241022.html">
+       interstellar mountains
+      </a>
+      .    They survive because they are more dense than their  surroundings, but they are slowly being
+      <a href="https://youtu.be/ChEHQUMEkXw?t=20">
+       eroded away
+      </a>
+      by a hostile environment.   Visible in the
+      <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-dazzles-with-young-stars-in-trifid-nebula/">
+       featured picture
+      </a>
+      by the
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble Space Telescope
+      </a>
+      is the end of a huge gas and dust pillar in the
+      <a href="https://en.wikipedia.org/wiki/Trifid_Nebula">
+       Trifid Nebula
+      </a>
+      (M20), punctuated by a smaller pillar pointing up and an unusual
+      <a href="ap251205.html">
+       jet
+      </a>
+      pointing to the upper left.    Many of the bright dots are
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/">
+       newly formed stars
+      </a>
+      .  A star near the small pillar's end is slowly being stripped of its
+      <a href="ap240507.html">
+       accreting gas
+      </a>
+      by radiation from a tremendously brighter
+      <a href="https://science.nasa.gov/universe/stars/">
+       star
+      </a>
+      situated off the  top of the image.    The
+      <a href="https://youtu.be/QFwfV2A1ZgY">
+       jet extends
+      </a>
+      nearly a
+      <a href="https://chandra.harvard.edu/photo/cosmic_distance.html">
+       light-year
+      </a>
+      and would  not be visible without external illumination.    As gas and
+      <a href="ap030706.html">
+       dust
+      </a>
+      evaporate from the pillars, the
+      <a href="https://i.pinimg.com/564x/ce/fb/c2/cefbc2fb4ca5022aa7f0d5b77d426c50.jpg">
+       hidden
+      </a>
+      stellar source of this
+      <a href="ap250528.html">
+       jet
+      </a>
+      will likely be uncovered,  possibly over the next 20,000 years.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/05/02
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260502.html">
+      https://apod.nasa.gov/apod/ap260502.html
      </a>
     </td>
    </tr>
