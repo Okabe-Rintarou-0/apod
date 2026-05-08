@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/05/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_2851.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Which way is
+      <a href="https://science.nasa.gov/solar-system/comets/">
+       Comet
+      </a>
+      R3 PanSTARRS going?  Not towards the star at the top of the image, because that is
+      <a href="ap230407.html">
+       Rigel
+      </a>
+      , which, being far in the background,  is
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn1kcuhwl80y91.jpg">
+       unrelated
+      </a>
+      to the comet.  Not through the nebula in the image middle, because that is the
+      <a href="ap231004.html">
+       Witch Head Nebula
+      </a>
+      and it, too, is far in the distance -- but
+      <a href="ap241031.html">
+       not far
+      </a>
+      from Rigel.   Not into northern skies because over the past week Comet
+      <a href="https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)">
+       C/2025 R3 (PanSTARRS)
+      </a>
+      has moved into  southern skies and is now best visible in
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      's
+      <a href="https://en.wikipedia.org/wiki/Southern_Hemisphere">
+       Southern Hemisphere
+      </a>
+      toward the west after sunset.   Angularly,
+      <a href="https://theskylive.com/c2025r3-info">
+       Comet R3 PanSTARRS
+      </a>
+      is slowly moving toward the upper right, night by night,  and will soon be in the
+      <a href="https://science.nasa.gov/universe/discovering-the-universe-through-the-constellation-orion/">
+       constellation Orion
+      </a>
+      .  Spatially, the comet is now headed out of our
+      <a href="https://eyes.nasa.gov/apps/solar-system/#/home">
+       Solar System
+      </a>
+      but should remain
+      <a href="ap260420.html">
+       visible to cameras
+      </a>
+      in southern skies for about a week.   The
+      <a href="https://www.instagram.com/p/DYCUulairo3/">
+       featured image
+      </a>
+      was captured last week near
+      <a href="https://youtu.be/k_LwlwJWZN0">
+       Cerro Paranal
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/05/06
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260507.html">
+      https://apod.nasa.gov/apod/ap260507.html
      </a>
     </td>
    </tr>
