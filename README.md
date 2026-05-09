@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/05/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Many bright nebulae and star clusters in planet Earth's sky are associated with the name of
+      <a href="https://science.nasa.gov/people/explore-the-night-sky-hubbleatms-messier-catalog-bio/">
+       astronomer Charles Messier
+      </a>
+      from his famous 18th century catalog.  His name is also given to these two large and remarkable craters on the Moon.
+      <a href="http://lroc.sese.asu.edu/posts/383">
+       Standouts in the dark
+      </a>
+      , smooth lunar Sea of Fertility or Mare Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8 and 16 by 11 kilometers respectively.  Their elongated shapes are explained by the extremely shallow-angle trajectory followed by an impactor, moving left to right, that gouged out the craters.  The shallow impact also resulted in two
+      <a href="http://lunarnetworks.blogspot.com/2012/04/lroc-rays-of-messier.html">
+       bright rays of material
+      </a>
+      extending along the surface to the right, beyond the picture.  Intended to be viewed with
+      <a href="https://www.jpl.nasa.gov/edu/resources/project/roverview-3-d-glasses/">
+       red/blue glasses
+      </a>
+      (red for the left eye), this striking stereo picture of the crater pair was recently created from high resolution scans of two images (
+      <a href="http://www.lpi.usra.edu/resources/apollo/frame/?AS11-42-6304">
+       AS11-42-6304
+      </a>
+      ,
+      <a href="http://www.lpi.usra.edu/resources/apollo/frame/?AS11-42-6305">
+       AS11-42-6305
+      </a>
+      ) taken during the Apollo 11 mission to the Moon.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/05/08
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260508.html">
+      https://apod.nasa.gov/apod/ap260508.html
      </a>
     </td>
    </tr>
