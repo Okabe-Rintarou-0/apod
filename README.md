@@ -5,6 +5,122 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/05/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Orion never had a sword like this.  As Comet
+      <a href="https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)">
+       C/2025 R3 (PanSTARRS)
+      </a>
+      heads out of the inner Solar System,  it is putting on quite a
+      <a href="ap260420.html">
+       show for long exposure cameras
+      </a>
+      .   Currently
+      <a href="https://starwalk.space/en/news/comet-c2025-r3-panstarrs">
+       seen toward
+      </a>
+      the
+      <a href="https://spaceplace.nasa.gov/constellations/en/">
+       constellation
+      </a>
+      of
+      <a href="https://greeklegendsandmyths.com/orion.html">
+       Orion the Hunter
+      </a>
+      , the distant
+      <a href="ap250420.html">
+       Orion Nebula
+      </a>
+      is visible on the upper right.
+      <a href="https://theskylive.com/c2025r3-info">
+       Comet R3 PanSTARRS
+      </a>
+      is now showing
+      <a href="https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg">
+       two distinct tails
+      </a>
+      : a short
+      <a href="https://astronomy.swin.edu.au/cosmos/*/Cometary+Dust+Tail">
+       dust tail
+      </a>
+      pointing toward the top of the image  and a long and
+      <a href="ap220110.html">
+       wavy ion tail
+      </a>
+      trailing off toward the upper left.   The
+      <a href="https://astronomy.swin.edu.au/cosmos/c/Cometary+Gas+Tail">
+       ion tail
+      </a>
+      points away from the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      and
+      <a href="http://www2.ess.ucla.edu/~jewitt/tail.html">
+       glows blue
+      </a>
+      from excited
+      <a href="https://science.nasa.gov/earth/earth-observatory/global-maps/carbon-monoxide/">
+       carbon monoxide
+      </a>
+      .   Large particles in the dust tail somewhat
+      <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1DfzgrmAlBOsFVYpD2zBqj6FDI5z77THEpQ&amp;s">
+       resist
+      </a>
+      the radiation pressure that push them away from the Sun and so retain a bit of the comet's orbit.   The
+      <a href="https://van.physics.illinois.edu/ask/listing/31796">
+       dust tail shines
+      </a>
+      by
+      <a href="ap221227.html">
+       reflected sunlight
+      </a>
+      .  The
+      <a href="https://www.facebook.com/photo?fbid=1492086498960108&amp;set=a.216372196531551">
+       featured image
+      </a>
+      was taken a few days ago from
+      <a href="https://en.wikipedia.org/wiki/France">
+       France
+      </a>
+      's
+      <a href="https://youtu.be/MUEVBSiWWR8">
+       Reunion Island
+      </a>
+      in the southern
+      <a href="https://en.wikipedia.org/wiki/Indian_Ocean">
+       Indian Ocean
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/05/09
   </summary>
   <table>
@@ -18,8 +134,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260509.html">
+      https://apod.nasa.gov/apod/ap260509.html
      </a>
     </td>
    </tr>
