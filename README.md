@@ -5,6 +5,97 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/05/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.instagram.com/p/DYL5zg5Ak78/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==">
+       Today’s composite image
+      </a>
+      features
+      <a href="https://en.wikipedia.org/wiki/Something_old">
+       something old
+      </a>
+      ,  something new, something borrowed, and something blue!
+      <a href="ap260412.html">
+       Comet R3 PanSTARRS
+      </a>
+      ,  streaking across the right of the image, likely originated from
+      <a href="https://science.nasa.gov/solar-system/oort-cloud/facts/">
+       the Oort Cloud
+      </a>
+      ,  meaning it is an
+      <i>
+       old
+      </i>
+      Solar System relic from billions of years ago. It’s bright extended
+      <a href="ap260414.html">
+       ion tail
+      </a>
+      glows
+      <i>
+       blue
+      </i>
+      as the gas escaping the comet’s core is ionized by sunlight. Astronomers are fascinated by
+      <a href="https://science.nasa.gov/solar-system/comets/facts/">
+       comets
+      </a>
+      for all sorts of reasons: comet compositions are untouched time capsules containing the building blocks of Solar System planets; comets may have
+      <a href="https://www.jpl.nasa.gov/news/comet-provides-new-clues-to-origins-of-earths-oceans/">
+       delivered water
+      </a>
+      to the young Earth; the behavior of cometary tails shed light on solar wind and radiation interactions. The background mosaic, featuring
+      <a href="https://www.mos.org/article/getting-know-orion-great-nebula">
+       the Orion Nebula
+      </a>
+      (
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-42/">
+       M42
+      </a>
+      ),  was taken over two nights of observation with the comet captured on the third night.
+      <a href="ap241104.html">
+       The Orion Nebula
+      </a>
+      is our nearest stellar nursery and, at
+      <a href="https://www.space.com/orion-nebula">
+       about 2 million years old
+      </a>
+      ,  is our something (relatively) new! Now at around
+      <a href="https://theskylive.com/c2025r3-info">
+       127.5 million kilometers from Earth
+      </a>
+      ,  we wave goodbye to the
+      <i>
+       borrowed
+      </i>
+      Comet R3 PanSTARRS as it leaves the Solar System.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/05/10
   </summary>
   <table>
@@ -18,8 +109,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260511.html">
+      https://apod.nasa.gov/apod/ap260511.html
      </a>
     </td>
    </tr>
