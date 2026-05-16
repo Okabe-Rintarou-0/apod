@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/05/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Like salsa verde on your favorite burrito, a green
+      <a href="https://twitter.com/Astro2fish/status/884886605407727616">
+       aurora slathers up the sky
+      </a>
+      in this 2017 June 25 snapshot from the International Space Station.  About 400 kilometers (250 miles) above Earth, the orbiting station is itself
+      <a href="http://ffden-2.phys.uaf.edu/211.fall2000.web.projects/Christina%20Shaw/AuroraColors.html">
+       within the upper realm
+      </a>
+      of the auroral displays.  Aurorae have the
+      <a href="http://www.webexhibits.org/causesofcolor/4D.html">
+       signature colors
+      </a>
+      of excited molecules and atoms at the low densities found at extreme altitudes.  Emission from atomic oxygen dominates this view.
+      <a href="https://twitter.com/Astro2fish/status/889198201236008960">
+       The tantalizing glow
+      </a>
+      is green at lower altitudes, but rarer reddish bands extend above the space station's horizon.
+      <a href="https://eol.jsc.nasa.gov/SearchPhotos/ photo.pl?mission=ISS052&amp;roll=E&amp;frame=7857">
+       The orbital scene
+      </a>
+      was captured while passing over a point south and east of Australia, with stars above the horizon at the right belonging to
+      <a href="https://spaceplace.nasa.gov/constellations/en/">
+       the constellation
+      </a>
+      <a href="https://noirlab.edu/public/education/constellations/canismajor/">
+       Canis Major
+      </a>
+      , Orion's big dog.
+      <a href="http://stars.astro.illinois.edu/sow/sirius.html">
+       Sirius
+      </a>
+      , alpha star of Canis Major, is the brightest star near the Earth's limb.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/05/15
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260515.html">
+      https://apod.nasa.gov/apod/ap260515.html
      </a>
     </td>
    </tr>
