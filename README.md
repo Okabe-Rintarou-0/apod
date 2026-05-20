@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/05/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2605/dark_wolf.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A dark wolf lies in gum. No, this isn’t a riddle!
+      <a href="https://www.instagram.com/p/DKYkOj9PUVg/">
+       Today's image
+      </a>
+      features
+      <a href="https://www.eso.org/public/news/eso2416/">
+       the Dark Wolf Nebula
+      </a>
+      (
+      <a href="https://ui.adsabs.harvard.edu/scan/manifest/1976A&amp;A....53..179S">
+       Sandqvist–Lindroos
+      </a>
+      17),  a spooky dust cloud embedded within the
+      <a href="https://articles.adsabs.harvard.edu/pdf/1955MmRAS..67..155G">
+       Gum
+      </a>
+      55  (
+      <a href="https://articles.adsabs.harvard.edu/pdf/1960MNRAS.121..103R">
+       RCW
+      </a>
+      113) Nebula in
+      <a href="ap210616.html">
+       the Scorpius constellation
+      </a>
+      .  While
+      <a href="https://science.nasa.gov/universe/dust-in-the-stellar-wind-a-cosmological-primer/">
+       dust
+      </a>
+      is a pest to us, it serves a vital role in creating the necessary conditions for
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars to be born
+      </a>
+      .  The Dark Wolf absorbs the intense
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet
+      </a>
+      and
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible
+      </a>
+      light emitted by young stars in Gum 55 and re-emits it at longer, mainly
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared
+      </a>
+      ,  wavelengths. This prevents the higher energy light from heating up the gas in the region. When a region of gas  is cool enough, gravity takes over and causes the gas to collapse into a star. Not only does
+      <a href="https://astronomy.swin.edu.au/cosmos/d/Dust+Grain">
+       dust
+      </a>
+      act as an interstellar thermostat, but it is also
+      <a href="https://en.wikipedia.org/wiki/Meet_cute">
+       the meet-cute
+      </a>
+      for single hydrogen atoms forming molecular hydrogen, the building block for stars.  The seemingly sinister Dark Wolf is actually a harbinger of cosmic life.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/05/19
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260519.html">
+      https://apod.nasa.gov/apod/ap260519.html
      </a>
     </td>
    </tr>
