@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/05/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_2664.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What are these strange space globs?   Situated in
+      <a href="ap170219.html">
+       rich star field
+      </a>
+      s and glowing hydrogen gas, these opaque clouds of
+      <a href="ap030706.html">
+       interstellar dust
+      </a>
+      and gas are so large they might be able to form stars.  Their home is known as
+      <a href="http://en.wikipedia.org/wiki/IC_2944">
+       IC 2944
+      </a>
+      ,  a bright stellar nursery located about 7,600 light years away toward the  constellation of the Centaur  (
+      <a href="https://en.wikipedia.org/wiki/Centaurus">
+       Centaurus
+      </a>
+      ).  The largest of these
+      <a href="ap230129.html">
+       dark globules
+      </a>
+      , first spotted by
+      <a href="http://en.wikipedia.org/wiki/A._David_Thackeray">
+       A. D. Thackeray
+      </a>
+      in 1950 using a telescope in
+      <a href="https://en.wikipedia.org/wiki/South_Africa">
+       South Africa
+      </a>
+      , is likely two separate but
+      <a href="https://www.reddit.com/r/cats/comments/9cxohi/black_cats_are_the_best_these_are_my_2_ladies/#lightbox">
+       overlapping
+      </a>
+      clouds, each more than one
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-year
+      </a>
+      wide.  Along with other data, the
+      <a href="https://app.astrobin.com/u/jhayes_tucson?i=o2g8br">
+       featured Hubble palette image
+      </a>
+      from the
+      <a href="https://youtu.be/shbwtlPIDI4">
+       El Sauce Observatory
+      </a>
+      in Chile, indicates that
+      <a href="https://science.nasa.gov/asset/hubble/thackerays-globules-dense-opaque-dust-clouds-in-star-forming-region-ic-2944/">
+       Thackeray's globules
+      </a>
+      are fractured and churning as a result of intense
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet radiation
+      </a>
+      from young, hot stars already energizing and heating the bright
+      <a href="emission_nebulae.html">
+       emission nebula
+      </a>
+      .  These and similar
+      <a href="https://en.wikipedia.org/wiki/Bok_globule">
+       dark globules
+      </a>
+      known to be associated with other
+      <a href="ap250623.html">
+       star forming
+      </a>
+      regions may ultimately be dissipated by their hostile environment -- like
+      <a href="ap980921.html">
+       cosmic lumps
+      </a>
+      of
+      <a href="http://www.youtube.com/watch?v=cmFMN91W2C4">
+       butter in a hot frying pan
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/05/23
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260524.html">
+      https://apod.nasa.gov/apod/ap260524.html
      </a>
     </td>
    </tr>
