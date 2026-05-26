@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/05/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_1176.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The upper galaxy might be more photogenic, but the lower galaxy is more unusual.   The galaxy up top is
+      <a href="https://en.wikipedia.org/wiki/NGC_3660">
+       NGC 3660
+      </a>
+      ,  a
+      <a href="https://science.nasa.gov/universe/galaxies/types/">
+       spiral galaxy
+      </a>
+      similar to our own
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way galaxy
+      </a>
+      in  that it has several bright blue
+      <a href="ap040221.html">
+       spiral arms
+      </a>
+      and a
+      <a href="ap260517.html">
+       central bar
+      </a>
+      of stars, dust, and gas.  Captured by chance in the
+      <a href="https://app.astrobin.com/i/3xe8sf">
+       featured deep and colorful image
+      </a>
+      ,  surprisingly, is
+      <a href="https://www.wis-tns.org/object/2026cff">
+       SN 2026cff
+      </a>
+      , a
+      <a href="https://www.youtube.com/shorts/npQKi9Xu-sM">
+       supernova
+      </a>
+      found just to the right of the central bar.   Farther in the distance is the bottom galaxy,  known informally as
+      <a href="https://www.ted.com/talks/burcin_mutlu_pakdil_a_rare_galaxy_that_s_challenging_our_understanding_of_the_universe">
+       Burçin’s galaxy
+      </a>
+      ,  but formally cataloged as
+      <a href="https://en.wikipedia.org/wiki/Lyon-Meudon_Extragalactic_Database">
+       LEDA
+      </a>
+      1000714.  The center of this galaxy appears to be an old
+      <a href="https://esahubble.org/wordbank/elliptical-galaxy/">
+       elliptical galaxy
+      </a>
+      , but it is
+      <a href="https://t4.ftcdn.net/jpg/08/74/51/69/360_F_874516932_itAmEASwXuIi97PUoP9Jz6w9mNKeMKHg.jpg">
+       strangely
+      </a>
+      surrounded by not one but two
+      <a href="ap240218.html">
+       rings of stars
+      </a>
+      .   What created
+      <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.466..355M/abstract">
+       Burçin's galaxy
+      </a>
+      is a mystery and remains a continuing topic of research,  but it likely involves the
+      <a href="https://en.wikipedia.org/wiki/Accretion_(astrophysics)">
+       accretion
+      </a>
+      of one or more
+      <a href="ap120717.html">
+       smaller galaxies
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/05/25
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260525.html">
+      https://apod.nasa.gov/apod/ap260525.html
      </a>
     </td>
    </tr>
