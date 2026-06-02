@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_2900.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The explosion is over, but the consequences continue.   About twelve thousand years ago, a relatively normal star in the constellation
+      <a href="https://en.wikipedia.org/wiki/Vela_(constellation)">
+       Vela
+      </a>
+      suddenly
+      <a href="https://youtu.be/wymMn-SmALY">
+       exploded
+      </a>
+      ,  creating a strange point of light briefly visible to  humans living near the beginning of
+      <a href="https://en.wikipedia.org/wiki/Cave_painting">
+       recorded history
+      </a>
+      .   The outer layers of the star crashed into the
+      <a href="ap130924.html">
+       interstellar medium
+      </a>
+      , driving a
+      <a href="ap210414.html">
+       shock wave
+      </a>
+      that is still visible today.   The
+      <a href="https://app.astrobin.com/u/jmtanous?i=qkfmgy">
+       featured image
+      </a>
+      , taken piecemeal over 60 hours from the
+      <a href="https://youtu.be/lw5zT530rb4">
+       Khomas Region
+      </a>
+      of
+      <a href="https://en.wikipedia.org/wiki/Namibia">
+       Namibia
+      </a>
+      ,  captures some of that filamentary and gigantic shock in
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      , with details highlighted by
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       hydrogen
+      </a>
+      (red) and
+      <a href="https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/">
+       oxygen
+      </a>
+      (blue) emissions.  As gas flies away from the detonated star, it
+      <a href="https://imagine.gsfc.nasa.gov/observatories/satellite/compton/snr.html">
+       decays
+      </a>
+      and reacts with the
+      <a href="https://astrobiology.com/2025/04/the-interstellar-medium.html">
+       interstellar medium
+      </a>
+      ,  producing light in many different colors and energy bands.  Remaining at the center of the
+      <a href="https://en.wikipedia.org/wiki/Vela_Supernova_Remnant">
+       Vela Supernova Remnant
+      </a>
+      is a
+      <a href="https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-pulsars/">
+       pulsar
+      </a>
+      , a star as dense as nuclear matter that
+      <a href="https://youtu.be/jv2rEa7iqhA">
+       spins around
+      </a>
+      more than ten times in a single second.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/01
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260601.html">
+      https://apod.nasa.gov/apod/ap260601.html
      </a>
     </td>
    </tr>
