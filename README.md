@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/andromeda.png">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/andromeda_1024.png"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Over 1000 years ago, Persian astronomer
+      <a href="https://blog.sciencemuseum.org.uk/updating-stars-and-observing-the-andromeda-galaxy/">
+       Abd al-Rahman al-Sufi
+      </a>
+      published humanity’s oldest known record of
+      <a href="ap950724.html">
+       the Andromeda Galaxy
+      </a>
+      in "The Book of Fixed Stars"  (
+      <a href="https://digital.bodleian.ox.ac.uk/objects/c1caa84c-f6d2-483f-9eb4-2439cccdc801/surfaces/2df22eed-a07a-4410-8c8a-b765865fbc67/">
+       Bodleian Library MS. Marsh 144 p. 167
+      </a>
+      ).  800 years later, Andromeda became
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/">
+       the 31st entry
+      </a>
+      in Charles Messier’s  "
+      <a href="https://gallica.bnf.fr/ark:/12148/bpt6k6514280n/f235.item">
+       Catalogue of Nebulae and Star Clusters
+      </a>
+      ".  From “a small cloud” to “nebula” and now known to be
+      <a href="ap200426.html">
+       our nearest major galaxy
+      </a>
+      ,  Andromeda has remained a fundamental astronomical object.
+      <a href="https://www.instagram.com/p/DY4obGBkcAV/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==">
+       Today’s image
+      </a>
+      ,  taken over 202 hours, shows how far we have come in our ability to observe our neighbor.
+      <a href="ap250804.html">
+       The diffuse red and blue clouds
+      </a>
+      are mostly foreground ionized hydrogen and oxygen well within our
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html">
+       Milky Way
+      </a>
+      .  Pink-red clouds of hydrogen
+      <a href="https://www.astronomy.com/science/i-read-that-ultraviolet-light-is-the-cause-of-hii-regions-but-this-light-is-invisible-so-why-are-these-objects-the-color-red/">
+       ionized
+      </a>
+      by the energetic light of young stars trace the galaxy’s
+      <a href="ap231007.html">
+       dusty spiral arms
+      </a>
+      .
+      <a href="ap991103.html">
+       M32
+      </a>
+      and
+      <a href="ap080909.html">
+       M110
+      </a>
+      are
+      <a href="https://astrobites.org/2013/01/26/the-curious-case-of-andromedas-satellites/">
+       satellite galaxies
+      </a>
+      pictured orbiting the larger Andromeda. Despite its long history of observation through ancient unaided eyes to modern telescopes, Andromeda still holds countless secrets that  astronomers will continue to search for, including how galaxies
+      <a href="https://science.nasa.gov/universe/galaxies/evolution/">
+       merge and evolve
+      </a>
+      ,  as well as the nature of the
+      <a href="https://science.nasa.gov/dark-matter/">
+       dark matter
+      </a>
+      that galaxies reside in.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/02
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260602.html">
+      https://apod.nasa.gov/apod/ap260602.html
      </a>
     </td>
    </tr>
