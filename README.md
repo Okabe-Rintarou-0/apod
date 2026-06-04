@@ -5,6 +5,93 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/buckyballs.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What is happening inside this unusual nebula?
+      <a href="https://esahubble.org/wordbank/planetary-nebula/">
+       Planetary nebula
+      </a>
+      <a href="https://en.wikipedia.org/wiki/IC_1266">
+       Tc 1
+      </a>
+      , captured here in exquisite detail by the
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      , is the celestial site where buckyballs
+      <a href="https://www.youtube.com/watch?v=7q47nuOI0vU">
+       were first identified
+      </a>
+      in 2010.
+      <a href="https://en.wikipedia.org/wiki/Buckminsterfullerene">
+       Buckminsterfullerene
+      </a>
+      — as buckyballs are
+      <a href="https://www.nobelprize.org/prizes/chemistry/1996/summary/">
+       officially called
+      </a>
+      — is a molecule with
+      <a href="ap030119.html">
+       60 carbon atoms
+      </a>
+      (C
+      <sub>
+       60
+      </sub>
+      ) arranged in the shape of a
+      <a href="https://images.unsplash.com/photo-1669891340245-5b787bb7fa70">
+       soccer ball
+      </a>
+      .     The molecule is named for architect
+      <a href="https://en.wikipedia.org/wiki/Buckminster_Fuller">
+       Buckminster Fuller
+      </a>
+      because of its resemblance to the
+      <a href="https://en.wikipedia.org/wiki/Geodesic_dome">
+       geodesic dome
+      </a>
+      he helped popularize.
+      <a href="https://news.westernu.ca/2026/04/jwst-buckyballs/">
+       Webb’s new data
+      </a>
+      reveal where the C
+      <sub>
+       60
+      </sub>
+      molecules live in this nebula, and the geometry is striking: they populate a thin spherical shell around the central star, visible here as the bright edge of the nebula’s glowing orange central region.      Look closely near the nebula’s heart and a more perplexing feature emerges: a delicate structure shaped uncannily like an
+      <a href="https://en.wikipedia.org/wiki/Upside-down_question_and_exclamation_marks">
+       upside-down question mark
+      </a>
+      , fitting punctuation for the many questions this nebula still poses.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/03
   </summary>
   <table>
@@ -18,8 +105,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260603.html">
+      https://apod.nasa.gov/apod/ap260603.html
      </a>
     </td>
    </tr>
