@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Within our own Milky Way galaxy, two bright, spiky stars stand
+      <a href="ap230216.html">
+       like sentinels
+      </a>
+      in the foreground of
+      <a href="https://www.instagram.com/rafael.astrofotografia/p/DW_neTAjSW5/">
+       this cosmic snapshot
+      </a>
+      .  Far beyond them are the galaxies of
+      <a href="http://www.atlasoftheuniverse.com/superc/hya.html">
+       the Hydra Cluster
+      </a>
+      .  In fact, while the spiky foreground stars are hundreds of light-years distant, the Hydra Cluster galaxies are well over 100 million light-years away.  Three large galaxies near the cluster center, two yellow
+      <a href="ap060520.html">
+       ellipticals
+      </a>
+      (NGC 3311, NGC 3309) and one prominent blue spiral (NGC 3312), are the dominant galaxies, each about 150,000 light-years in diameter.  An intriguing overlapping galaxy pair cataloged as
+      <a href="ap110715.html">
+       NGC 3314 lies
+      </a>
+      above and left of NGC 3312.  Also known as Abell 1060, the Hydra galaxy cluster is one of three large galaxy clusters within 200 million light-years of the Milky Way.  In the
+      <a href="ap110614.html">
+       nearby universe
+      </a>
+      , galaxies are gravitationally bound into clusters which themselves are loosely bound
+      <a href="https://imagine.gsfc.nasa.gov/features/cosmic/nearest_superclusters_info.html">
+       into superclusters
+      </a>
+      .  Superclusters in turn are seen to align over even larger
+      <a href="ap260423.html">
+       scales
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/04
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260604.html">
+      https://apod.nasa.gov/apod/ap260604.html
      </a>
     </td>
    </tr>
