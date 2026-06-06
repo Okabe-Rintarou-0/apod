@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/Charon-Neutral-Bright-Release.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A darkened and mysterious north polar region
+      <a href="https://en.wikipedia.org/wiki/Neverland_Regio">
+       known to some as
+      </a>
+      Mordor Macula caps this premier view
+      <a href="https://science.nasa.gov/dwarf-planets/pluto/moons/charon/">
+       of Charon, Pluto's largest moon
+      </a>
+      .  The high-resolution image was captured by the
+      <a href="https://pluto.jhuapl.edu/">
+       interplanetary
+      </a>
+      space probe
+      <a href="https://science.nasa.gov/mission/new-horizons/">
+       New Horizons
+      </a>
+      near its closest approach to distant Pluto on July 14, 2015.
+      <a href="http://pluto.jhuapl.edu/Galleries/Featured-Images/image.php?page=1&amp;gallery_id=2&amp;image_id=323">
+       The combined blue, red, and infrared
+      </a>
+      image data was processed to enhance colors and follow variations in Charon's surface properties with a resolution of about 2.9 kilometers (1.8 miles).  A stunning image of Charon's Pluto-facing hemisphere, it also features a clear view of an apparently moon-girdling belt of fractures and canyons that seems to separate smooth southern plains from varied northern terrain.  Charon is 1,214 kilometers (754 miles) across.  That's about 1/10th the size of planet Earth but a whopping 1/2 the diameter of
+      <a href="https://www.nasa.gov/directorates/how-big-is-pluto-new-horizons-settles-decades-long-debate/">
+       Pluto itself
+      </a>
+      , and makes it the largest satellite relative to its parent body in the Solar System.  Still, the moon appears as a small bump at about the 1 o'clock position on Pluto's disk in the grainy, negative, telescopic picture inset at upper left.  That image was used by James Christy and Robert Harrington at the U.S. Naval Observatory in Flagstaff to
+      <a href="https://www.nasa.gov/missions/charon-at-40-four-decades-of-discovery-on-plutos-largest-moon/">
+       discover Charon in June of 1978
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/05
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260605.html">
+      https://apod.nasa.gov/apod/ap260605.html
      </a>
     </td>
    </tr>
