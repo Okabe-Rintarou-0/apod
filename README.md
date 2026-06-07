@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It was visible around the world.  The sunset conjunction of Jupiter (left) and Venus (right) in 2012 was visible almost
+      <a href="ap120307.html">
+       no matter where you lived
+      </a>
+      on Earth.    Anyone on
+      <a href=" https://science.nasa.gov/earth/facts/">
+       our planet
+      </a>
+      with a clear western horizon at sunset could see them.  That year, a creative photographer traveled  away from the town lights of
+      <a href="https://en.wikipedia.org/wiki/Szubin">
+       Szubin
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Poland">
+       Poland
+      </a>
+      to photograph   a near closest approach of the
+      <a href="http://www.youtube.com/watch?v=x8br4JiFEik">
+       two planets
+      </a>
+      .  The
+      <a href="ap120316.html">
+       bright planets
+      </a>
+      were then separated by only
+      <a href="http://www.universetoday.com/94113/venus-jupiter-conjunction-march-15th-2012/">
+       three degrees
+      </a>
+      and his daughter struck a
+      <a href="https://i.pinimg.com/originals/03/f3/e5/03f3e504f99ee70a9b29dd472be70483.jpg">
+       humorous pose
+      </a>
+      .  A faint
+      <a href="ap250615.html">
+       red sunset
+      </a>
+      still glowed in the background.
+      <a href="https://science.nasa.gov/jupiter/">
+       Jupiter
+      </a>
+      and
+      <a href="https://science.nasa.gov/venus/">
+       Venus
+      </a>
+      are
+      <a href="https://www.skyatnightmagazine.com/news/venus-jupiter-25-31-may-2026">
+       together again
+      </a>
+      this week after sunset,
+      <a href="ap230304.html">
+       passing within a degree
+      </a>
+      of each other about
+      <a href="https://earthsky.org/tonight/venus-jupiter-conjunction-june-2026-charts-how-to-see/">
+       two days from today
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/06
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260606.html">
+      https://apod.nasa.gov/apod/ap260606.html
      </a>
     </td>
    </tr>
