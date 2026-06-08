@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_1973.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What happens to a comet as it leaves our inner Solar System?   Now, the arrival of a comet into the inner
+      <a href="https://science.nasa.gov/solar-system/solar-system-facts/">
+       Solar System
+      </a>
+      is typically heralded with great fanfare and
+      <a href="https://i.pinimg.com/236x/bf/f5/d0/bff5d074d399bdfec6071e9168398406.jpg">
+       high hopes
+      </a>
+      that the comet will become
+      <a href="ap220408.html">
+       bright
+      </a>
+      and
+      <a href="ap241006.html">
+       photogenic
+      </a>
+      .  But on the way out, the
+      <a href="ap251019.html">
+       comet's nucleus
+      </a>
+      is less warmed by
+      <a href="https://science.nasa.gov/sun/">
+       the Sun
+      </a>
+      ,  less gas and dust are
+      <a href="ap151118.html">
+       expelled
+      </a>
+      , the bright
+      <a href="http://www2.ess.ucla.edu/~jewitt/coma.html">
+       coma
+      </a>
+      around the  nucleus shrinks and fades, and the
+      <a href="ap241018.html">
+       tail length
+      </a>
+      drops off.  Many comets will then return to the
+      <a href="https://en.wikipedia.org/wiki/Oort_cloud">
+       outer Solar System
+      </a>
+      and only return in hundreds or thousands of years.  In contrast, some comets -- like Comet
+      <a href="https://en.wikipedia.org/wiki/C/2025_R3_(PanSTARRS)">
+       C/2025 R3 (PanSTARRS)
+      </a>
+      -- receive a
+      <a href="https://en.wikipedia.org/wiki/Gravity_assist">
+       gravitational kick
+      </a>
+      from the planets and so will never return.  Pictured,
+      <a href="https://theskylive.com/c2025r3-info">
+       Comet R3 PanSTARRs
+      </a>
+      was imaged deeply many nights in early to mid-May
+      <a href="https://youtu.be/shbwtlPIDI4">
+       near Cerro Paranal
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .  Later images appear closer to the top and clearly show the shrinking
+      <a href="https://spaceplace.nasa.gov/comets/en/anatomy-of-a-comet.en.jpg">
+       ion tail
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/07
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260607.html">
+      https://apod.nasa.gov/apod/ap260607.html
      </a>
     </td>
    </tr>
