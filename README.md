@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/eagle.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/eagle_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What looks as if it is going to swallow the great
+      <a href="ap260531.html">
+       Pillars of Creation
+      </a>
+      ?
+      <a href="ap221004.html">
+       The Eagle Nebula
+      </a>
+      (
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-16/">
+       M16
+      </a>
+      )  is not a bird, a plane, or
+      <a href="https://media.tenor.com/13cw7VRUdNkAAAAe/kitten-superman.png">
+       Superman
+      </a>
+      .  M16 is actually a combination of several celestial objects.
+      <a href="ap020103.html">
+       NGC 6611
+      </a>
+      is the young star cluster that appears to peak out beneath the Eagle’s “wings”. The
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet
+      </a>
+      light from these stars
+      <a href="https://www.astronomy.com/science/i-read-that-ultraviolet-light-is-the-cause-of-hii-regions-but-this-light-is-invisible-so-why-are-these-objects-the-color-red/">
+       ionizes
+      </a>
+      the surrounding gas, creating the
+      <a href="https://astronomy.swin.edu.au/cosmos/E/emission+nebula">
+       emission nebula
+      </a>
+      IC 4703. The
+      <a href="https://esahubble.org/images/heic0506b/">
+       Stellar Spire
+      </a>
+      is seen reaching towards the Pillars of Creation from the left. Both are structures of cold gas and
+      <a href="ap030706.html">
+       dust
+      </a>
+      that are optimal for
+      <a href="ap220314.html">
+       star formation
+      </a>
+      .  Some astronomers previously thought the Pillars of Creation had been
+      <a href="https://www.space.com/3154-pillars-creation-toppled-stellar-blast.html">
+       evaporated away by a supernova.
+      </a>
+      Because M16 is 6,000
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light years
+      </a>
+      away, we would not be able to see the Pillars’ destruction for thousands more years. However, there is no conclusive  evidence of the theorized supernova, so the Pillars of Creation will likely continue to create stars for
+      <a href="https://www.space.com/16396-eagle-nebula-m16-hubble-images-pillars-of-creation.html">
+       millions of years
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/08
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260609.html">
+      https://apod.nasa.gov/apod/ap260609.html
      </a>
     </td>
    </tr>
