@@ -5,6 +5,97 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/11
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/Mermaid.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Could the
+      <a href="https://en.wikipedia.org/wiki/The_Little_Mermaid">
+       Little Mermaid
+      </a>
+      turn into stardust instead of seafoam?      It would seem so in this beautiful
+      <a href="https://science.nasa.gov/universe/stories/quick-reads/decoding-nebulae/">
+       nebula
+      </a>
+      .      The
+      <a href="http://app.astrobin.com/i/ve35wq">
+       featured image
+      </a>
+      shows the
+      <a href="https://apod.nasa.gov/apod/ap240918.html">
+       Mermaid Nebula
+      </a>
+      , also known as the Betta Fish Nebula, which is part of the G296.5+10.0
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/supernova_remnants.html">
+       Supernova Remnant
+      </a>
+      .      The blue color visible here originates from
+      <a href="https://en.wikipedia.org/wiki/Doubly_ionized_oxygen">
+       doubly ionized oxygen (OIII)
+      </a>
+      , while the deep red is emitted by
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       hydrogen gas
+      </a>
+      .
+      <a href="https://academic.oup.com/mnras/article/528/2/2095/7511133">
+       Estimated
+      </a>
+      to be located a few thousand light-years away and about 10,000 years old, this nebula was formed when a massive star
+      <a href="https://svs.gsfc.nasa.gov/20413/">
+       exploded as a supernova
+      </a>
+      . 												  It left behind a
+      <a href="https://images.unsplash.com/photo-1743046678527-b9d3f7db5eae">
+       peculiar
+      </a>
+      <a href="https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-pulsars/">
+       pulsar
+      </a>
+      , a young radio-quiet neutron star that spins around about
+      <a href="https://iopscience.iop.org/article/10.1086/340640/pdf">
+       twice every second
+      </a>
+      .      The bright stars shown in the image are unassociated with the nebula.												      The pulsar can be detected in the
+      <a href="https://chandra.harvard.edu/field_guide.html">
+       X-rays
+      </a>
+      but it
+      <a href="https://www.aanda.org/articles/aa/pdf/2011/01/aa14982-10.pdf">
+       does not
+      </a>
+      have a confirmed detection in the optical (
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      ) so far.      As a result, the pulsar itself is not visible in this image.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/10
   </summary>
   <table>
@@ -18,8 +109,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260610.html">
+      https://apod.nasa.gov/apod/ap260610.html
      </a>
     </td>
    </tr>
