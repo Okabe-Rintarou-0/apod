@@ -5,6 +5,89 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/tonight/venus-jupiter-conjunction-june-2026-charts-how-to-see/">
+       Venus and Jupiter
+      </a>
+      may have caught your attention lately.    The
+      <a href="ap260612.html">
+       recent close conjunction
+      </a>
+      of the two brightest planets in recent evening skies has been
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F56kpgyhj47dg1.png">
+       hard to miss
+      </a>
+      .  With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was  chronicled daily, left to right, in the
+      <a href="https://www.instagram.com/p/DZVJqllozdB/">
+       featured panels
+      </a>
+      from
+      <a href="https://youtu.be/oHVFNF11y9Q">
+       Maharashtra
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/India">
+       India
+      </a>
+      .  Near the western horizon, the
+      <a href="ap130314.html">
+       evening sky colors
+      </a>
+      and exposures used for each panel depend on the local conditions near sunset.  At their closest on June 9, the
+      <a href="ap260607.html">
+       celestial pair
+      </a>
+      appeared to be only about three times the width of a full moon apart.  Of course, on that date, the
+      <a href="https://www.facebook.com/media/set/?set=a.996452506416660&amp;type=3">
+       two planets
+      </a>
+      were physically separated by over 600 million kilometers in their
+      <a href="https://science.nasa.gov/solar-system/">
+       orbits around the Sun
+      </a>
+      .  In the coming days,
+      <a href="ap250216.html">
+       Jupiter
+      </a>
+      will slowly settle into the sunset glare, but
+      <a href="https://science.nasa.gov/venus/">
+       Venus
+      </a>
+      will continue to move farther from the Sun in the western sky to excel in its current role as the
+      <a href="https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/">
+       brilliant evening star
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/13
   </summary>
   <table>
@@ -18,8 +101,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260613.html">
+      https://apod.nasa.gov/apod/ap260613.html
      </a>
     </td>
    </tr>
