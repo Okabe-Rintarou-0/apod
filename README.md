@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/hamster.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How did a hamster wheel get into space? The Hamster Wheel Nebula (Longmore 8) was
+      <a href="https://articles.adsabs.harvard.edu/pdf/1977MNRAS.178..251L">
+       discovered by Andrew Longmore
+      </a>
+      in 1976 as a part of a larger survey of the southern sky. This survey employed several improvements in
+      <a href="https://www.atnf.csiro.au/resources/education/senior-astrophysics/photometry/photographicastro/">
+       photographic technology
+      </a>
+      ,  including the use of
+      <a href="http://spiff.rit.edu/classes/phys373/lectures/catch_plates/kodak_chart.pdf">
+       highly sensitive film
+      </a>
+      ,  to capture deeper and fainter objects on
+      <a href="ap190817.html">
+       plates
+      </a>
+      that were examined
+      <a href="https://en.meming.world/wiki/File:Scared_Hamster.jpg/">
+       by eye
+      </a>
+      and catalogued.
+      <a href="https://www.hansonastronomy.com/longmore-8">
+       The featured image
+      </a>
+      ,  taken at
+      <a href="https://help.telescope.live/hc/en-us/articles/360002577798-El-Sauce-Observatory-Chile-CHI">
+       Observatorio El Sauce
+      </a>
+      in Chile, depicts an intricate wheel structure of glowing hydrogen that was thrown out into space by a
+      <a href="https://science.nasa.gov/universe/stars/">
+       dying star
+      </a>
+      and
+      <a href="https://astronomy.swin.edu.au/cosmos/i/Ionised+Hydrogen">
+       ionized
+      </a>
+      by the leftover
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/dwarfs1.html">
+       white dwarf
+      </a>
+      .  This structure was barely visible on the original plate, emphasizing the power of modern  telescopes and cameras. Two opposing clumps of red hydrogen gas encased in
+      <a href="https://members.pcug.org.au/~stevec/ESO382-63_STXL6303_RC14.htm">
+       the blue veil of ionized oxygen
+      </a>
+      hint at the presence of a
+      <a href="https://astrobites.org/2022/02/15/planetary-nebulae-the-desolation-of-binaries/">
+       companion
+      </a>
+      to the bright white dwarf at the wheel’s center!
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/16
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260616.html">
+      https://apod.nasa.gov/apod/ap260616.html
      </a>
     </td>
    </tr>
