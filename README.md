@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/sgrc_lg.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/sgrc.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Do you see that blue blob to the lower right of the image center?      Astronomers think that it shows where a massive star
+      <a href="https://en.wikipedia.org/wiki/Type_II_supernova">
+       exploded
+      </a>
+      as a supernova whose light reached Earth
+      <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae547c">
+       1,700 years ago
+      </a>
+      .      The
+      <a href="https://chandra.si.edu/photo/2026/sgrc/">
+       image
+      </a>
+      combines optical data from the
+      <a href="https://www2.ifa.hawaii.edu/research/Pan-STARRS.shtml">
+       PanSTARRS
+      </a>
+      telescopes in Hawaii (background stars in red, green, and blue), radio from the
+      <a href="https://www.sarao.ac.za/science/meerkat/">
+       MeerKAT
+      </a>
+      telescope in South Africa (large red cloud) and X-rays from
+      <a href="https://www.nasa.gov/">
+       NASA
+      </a>
+      's
+      <a href="https://science.nasa.gov/mission/chandra/">
+       Chandra X-ray Observatory
+      </a>
+      and
+      <a href="https://www.esa.int/">
+       ESA
+      </a>
+      ’s
+      <a href="https://www.cosmos.esa.int/web/xmm-newton">
+       XMM-Newton
+      </a>
+      (shown in blue).      The large cloud is a
+      <a href="https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/">
+       star forming region
+      </a>
+      called
+      <a href="https://en.wikipedia.org/wiki/Sagittarius_C">
+       Sagittarius C
+      </a>
+      , which is approximately 50
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-years
+      </a>
+      in extent and about 26,000 light-years from
+      <a href="ap220206.html">
+       Earth
+      </a>
+      .      It is located only about 260 light-years from the
+      <a href="ap220513.html">
+       supermassive black hole
+      </a>
+      in the center of the Galaxy (off to the
+      <a href="ap190708.html">
+       left
+      </a>
+      of the image).      If the
+      <a href="https://images.unsplash.com/photo-1508311603478-ce574376c3cf">
+       blue blob
+      </a>
+      is confirmed to be a
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/supernova_remnants.html">
+       supernova remnant
+      </a>
+      , it would be one of the closest ever discovered to the
+      <a href="https://science.nasa.gov/asset/webb/galactic-center-chandra-hubble-spitzer/">
+       Galactic Center
+      </a>
+      .      In this
+      <a href="https://science.nasa.gov/asset/webb/sagittarius-c-nircam-image/">
+       dense region
+      </a>
+      , the deaths of massive stars are connected to the birth of new stars through gas and magnetic fields in a complex way.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/17
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260617.html">
+      https://apod.nasa.gov/apod/ap260617.html
      </a>
     </td>
    </tr>
