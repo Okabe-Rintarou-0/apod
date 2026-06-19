@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_4080.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Does this scene look familiar?  It is a modern recreation of the famous painting
+      <a href="ap191023.html">
+       Starry Night
+      </a>
+      by
+      <a href="https://en.wikipedia.org/wiki/Vincent_van_Gogh">
+       Vincent van Gogh
+      </a>
+      .   Both
+      <a href="https://www.instagram.com/p/DX2Hp-OmsW8/">
+       the image
+      </a>
+      and the painting depict a tall tree on the left,  a
+      <a href="https://science.nasa.gov/moon/moon-phases/">
+       crescent moon
+      </a>
+      on the upper right,  the
+      <a href="https://science.nasa.gov/venus/">
+       planet Venus
+      </a>
+      just to the right of the tree,  a foreground horizon rising from left to right,  and
+      <a href="ap250817.html">
+       clouds
+      </a>
+      above the horizon.  Differences include that the photograph was taken in mid-April earlier this year in
+      <a href="https://youtu.be/7t8oTjc7Y-M">
+       Cascavel
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Brazil">
+       Brazil
+      </a>
+      ,  while the painting was composed in
+      <a href="https://youtu.be/JlcMFjwFHVA">
+       Saint-Rémy-de-Provence
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/France">
+       France
+      </a>
+      , in 1889.   The
+      <a href="https://www.moma.org/collection/works/79802">
+       original Starry Night
+      </a>
+      is considered by many to be one of the three
+      <a href="https://www.nguyenartgallery.com/top-100-most-world-famous-paintings/">
+       most famous paintings
+      </a>
+      in the world today  and a statement about the
+      <a href="https://www.reddit.com/r/aww/comments/2jqsdk/the_omg_cat/#lightbox">
+       wonders
+      </a>
+      of the night sky.  Today is (roughly) the
+      <a href="https://samsoriginalart.com/blogs/art/starry-night-facts-about-van-goghs-masterpiece">
+       anniversary
+      </a>
+      of the morning that  van Gogh saw the sky that he later painted in
+      <a href="https://www.vangoghgallery.com/painting/starry-night.html">
+       his version of Starry Night
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/18
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260618.html">
+      https://apod.nasa.gov/apod/ap260618.html
      </a>
     </td>
    </tr>
