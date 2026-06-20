@@ -5,6 +5,54 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Venus is now appearing on
+      <a href="https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/">
+       the celestial stage
+      </a>
+      as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies.
+      <a href="https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/">
+       For evening sky gazers
+      </a>
+      on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon.
+      <a href="https://in-the-sky.org/news.php?id=20260617_16_100">
+       But from some locations
+      </a>
+      the Moon could be seen to occult or pass in front of Venus.  And from a backyard observatory in southern British Columbia, Canada, the lunar occultation was played out in daylight.  This stunning telescopic snapshot captured
+      <a href="https://app.astrobin.com/u/debraceravolo?i=geo4yx">
+       a scene in dramatically cloudy skies
+      </a>
+      , following Venus' hour long disappearance, as the evening star emerged beyond the bright lunar limb.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/19
   </summary>
   <table>
@@ -18,8 +66,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260619.html">
+      https://apod.nasa.gov/apod/ap260619.html
      </a>
     </td>
    </tr>
