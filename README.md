@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/crepuscular2.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      has just set... in the opposite side of the sky.      Pictured
+      <a href="https://www.instagram.com/p/DZxl4R-gi73/?img_index=1">
+       here
+      </a>
+      are
+      <a href="https://en.wikipedia.org/wiki/Anticrepuscular_rays">
+       anticrepuscular rays
+      </a>
+      apparently converging in the east in this image of the
+      <a href="https://en.wikipedia.org/wiki/Geology_of_Sicily">
+       limestone plateau
+      </a>
+      in the heart of the
+      <a href="https://www.italia.it/en/sicily/hyblaean-mountains">
+       Hyblaean Mountains
+      </a>
+      of southeastern
+      <a href="https://en.wikipedia.org/wiki/Sicily">
+       Sicily
+      </a>
+      , in Italy.      How were these anticrepuscular rays formed, if the Sun
+      <a href="https://images.unsplash.com/photo-1598398386929-4d5370672e9f">
+       wasn't there
+      </a>
+      ?      After the Sun set (in the west, as usual) its light still illuminated a
+      <a href="https://www.instagram.com/p/DZxl4R-gi73/?img_index=2">
+       cloud
+      </a>
+      higher up in the sky.      Partially blocked by the cloud, the sunlight produced
+      <a href="ap200318.html">
+       patterns
+      </a>
+      of light and shadow, crossing the sky in parallel lines.      Perspective makes it look like they converge in the east, in the same way that
+      <a href="https://images.unsplash.com/photo-1588127727253-e5f2faf4f541">
+       train tracks
+      </a>
+      appear to meet in the distance.      This effect can also happen at
+      <a href="ap240921.html">
+       sunrise
+      </a>
+      , only the directions are exchanged.      In
+      <a href="https://cloudappreciationsociety.org/cloud-library/anti-crepuscular-rays/">
+       rare
+      </a>
+      cases, both
+      <a href="ap100811.html">
+       crepuscular
+      </a>
+      and anticrepuscular rays can be seen
+      <a href="https://earthsky.org/earth/how-to-see-anticrepuscular-rays/">
+       at the same time
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/22
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260624.html">
+      https://apod.nasa.gov/apod/ap260624.html
      </a>
     </td>
    </tr>
