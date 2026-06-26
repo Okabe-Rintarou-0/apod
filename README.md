@@ -5,6 +5,61 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="ap130411.html">
+       In a cosmic vista
+      </a>
+      you can never see, the
+      <a href="https://www.nasa.gov/universe/galaxies/milky-way/">
+       Milky Way
+      </a>
+      arcs through the night above Seoul, South Korea.  Remarkably, this
+      <a href="https://www.instagram.com/leeshingoo/reel/DZhBG_nv03_/">
+       urban night skyscape
+      </a>
+      reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the
+      <a href="https://upload.wikimedia.org/wikipedia/commons/8/81/Seoul_%28175734251%29.jpeg">
+       brilliant city lights
+      </a>
+      .  To overcome the extreme
+      <a href="https://www.earthdata.nasa.gov/dashboard/data-catalog/nighttime-lights-SE">
+       light pollution
+      </a>
+      of the metropolitan area and record faint cosmic details, an infrared filter was used to capture the night scene in a single exposure.  While the filter transmits predominately infrared light, it still passes some
+      <a href="ap110716.html">
+       visible light
+      </a>
+      to give the scene a natural appearance.  The view is from Seoul's Ttukseom Hangang Park, with the Han River and a well lit railway bridge across the foreground.  The 123 story Lotte World Tower looms in the distance, the tallest building in South Korea.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/25
   </summary>
   <table>
@@ -18,8 +73,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260625.html">
+      https://apod.nasa.gov/apod/ap260625.html
      </a>
     </td>
    </tr>
