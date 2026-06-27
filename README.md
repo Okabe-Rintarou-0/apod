@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/PIA26726.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/">
+       In this recent HiRISE
+      </a>
+      view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the
+      <a href="https://science.nasa.gov/mission/mars-2020-perseverance/">
+       Perseverance
+      </a>
+      Mars rover.  Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance of 26.218 miles (
+      <a href="https://en.wikipedia.org/wiki/Marathon#IAAF_and_world_records">
+       42.195 kilometers
+      </a>
+      ) since it began exploring the surface of Mars.  That equivalent marathon distance was achieved by Perseverance on its mission sol (Martian day) 1,890, after about 5 Earth years and 4 Earth months of driving.  Perseverance is continuing
+      <a href="ap250928.html">
+       to hunt
+      </a>
+      for biosignatures.  In the HiRISE image, the Mars rover's tracks can be seen leading to
+      <a href="https://science.nasa.gov/mission/mars-2020-perseverance/location-map/">
+       its location
+      </a>
+      in an area west of its
+      <a href="ap210227.htm">
+       landing site
+      </a>
+      in Jezero crater near an
+      <a href="https://science.nasa.gov/resource/perseverance-explores-the-jezero-crater-delta/">
+       ancient river delta
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/26
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260626.html">
+      https://apod.nasa.gov/apod/ap260626.html
      </a>
     </td>
    </tr>
