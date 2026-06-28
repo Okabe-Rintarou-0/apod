@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Right now, one of the largest sunspot groups in recent history is crossing the Sun.
+      <a href="https://www.spaceweatherlive.com/en/solar-activity/region/14478.html">
+       Active Region 4478
+      </a>
+      is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the
+      <a href="https://science.nasa.gov/solar-system/">
+       Solar System
+      </a>
+      .   Some of these
+      <a href="https://en.wikipedia.org/wiki/Coronal_mass_ejection">
+       CME
+      </a>
+      s might impact the Earth.   At the extreme, these
+      <a href="https://www.spaceweather.gov/news/large-sunspot-group-rotate-earth-view-24-june">
+       solar storm
+      </a>
+      s could cause some
+      <a href="https://svs.gsfc.nasa.gov/5214/">
+       Earth-orbiting satellites to malfunction
+      </a>
+      ,  the
+      <a href="https://spaceplace.nasa.gov/atmosphere/en/">
+       Earth's atmosphere
+      </a>
+      to slightly distort, and
+      <a href="https://www.swpc.noaa.gov/sites/default/files/images/u33/finalBoulderPresentation042611%20%281%29.pdf">
+       electrical power grids to surge
+      </a>
+      .   When impacting
+      <a href="https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/">
+       Earth's upper atmosphere
+      </a>
+      ,  these particles can produce
+      <a href="ap230122.html">
+       beautiful auroras
+      </a>
+      .  Pictured here,
+      <a href="https://spaceweathergallery2.com/indiv_upload.php?upload_id=234253">
+       AR 4478
+      </a>
+      and its dark
+      <a href="https://en.wikipedia.org/wiki/Sunspot">
+       sunspot
+      </a>
+      s  were captured in visible light a few days ago from
+      <a href="https://youtu.be/FGRvP8eoPdw">
+       Barcelona
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Spain">
+       Spain
+      </a>
+      .    Almost as large as
+      <a href="ap240513.html">
+       AR 3664
+      </a>
+      was in 2024, the
+      <a href="https://www.instagram.com/p/DaDSAjilnC5/">
+       AR 4478 sunspot group
+      </a>
+      is so big that it is
+      <a href="https://people.com/thmb/kiAUaJce7MqVr5XwZFuOA3S10MU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/dog-eclipse-2000-ef0176770ff64e6b913f2af6e8273a24.jpg">
+       visible just with glasses
+      </a>
+      specially designed to view
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/">
+       solar eclipse
+      </a>
+      s.   This week,
+      <a href="ap040808.html">
+       skygazing enthusiasts
+      </a>
+      all over the globe will not only be tracking AR 4478 during the day -- but keenly watching night skies for its
+      <a href="https://www.spaceweather.gov/communities/aurora-dashboard-experimental">
+       corresponding bright auroras
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/27
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260627.html">
+      https://apod.nasa.gov/apod/ap260627.html
      </a>
     </td>
    </tr>
