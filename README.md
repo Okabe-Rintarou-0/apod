@@ -5,6 +5,138 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_5000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why is the Cigar Galaxy billowing red smoke?
+      <a href="https://en.wikipedia.org/wiki/Messier_82">
+       M82
+      </a>
+      , as this
+      <a href="https://en.wikipedia.org/wiki/Starburst_galaxy">
+       starburst galaxy
+      </a>
+      is also known, was stirred up by a
+      <a href="ap250507.html">
+       recent pass
+      </a>
+      near large
+      <a href="spiral_galaxies.html">
+       spiral
+      </a>
+      galaxy
+      <a href="ap250327.html">
+       M81
+      </a>
+      .    This doesn't fully
+      <a href="ap240415.html">
+       explain
+      </a>
+      the source of the red-glowing outwardly
+      <a href="https://youtu.be/WOLUDpYhzp0?t=34">
+       expanding gas
+      </a>
+      and dust, however.
+      <a href="https://ui.adsabs.harvard.edu/abs/1999ApJ...523..575L/abstract">
+       Evidence
+      </a>
+      indicates that this gas and dust is being driven out by the combined emerging
+      <a href="https://science.nasa.gov/science-news/news-articles/effects-of-the-solar-wind">
+       particle winds
+      </a>
+      of many stars, together creating a galactic
+      <a href="http://ned.ipac.caltech.edu/level5/March01/Heckman/frames.html">
+       superwind
+      </a>
+      .    The dust particles are
+      <a href="https://ui.adsabs.harvard.edu/abs/2019PASJ...71...87Y/abstract">
+       thought to originate
+      </a>
+      in M82's interstellar medium and are actually
+      <a href="https://www.jstor.org/stable/26058972">
+       similar in size
+      </a>
+      to particles in cigar smoke.   The
+      <a href="https://science.nasa.gov/asset/webb/m82-cigar-galaxy-webb-hubble/">
+       featured photographic mosaic
+      </a>
+      combines images taken in
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      from the
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble Space Telescope
+      </a>
+      and images taken in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared light
+      </a>
+      from
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      .   It shows the light-colored central galaxy nearly
+      <a href="ap250904.html">
+       edge on
+      </a>
+      across the  image center with tremendous orange and red colored  filaments of gas and dust
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fg0gsyf954m261.jpg">
+       extending
+      </a>
+      both up and down.   The filaments extend for over 10,000
+      <a href="https://spaceplace.nasa.gov/light-year/">
+       light year
+      </a>
+      s.  The 12-million light-year distant
+      <a href="ap040601.html">
+       Cigar Galaxy
+      </a>
+      is the brightest galaxy in the sky in
+      <a href="https://coolcosmos.ipac.caltech.edu/page/what_is_infrared">
+       infrared
+      </a>
+      light and can be seen in visible light with a small
+      <a href="https://science.howstuffworks.com/telescope.htm">
+       telescope
+      </a>
+      towards the
+      <a href="https://spaceplace.nasa.gov/constellations/">
+       constellation
+      </a>
+      of the Great Bear (
+      <a href="https://en.wikipedia.org/wiki/Ursa_Major">
+       Ursa Major
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/28
   </summary>
   <table>
@@ -18,8 +150,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260628.html">
+      https://apod.nasa.gov/apod/ap260628.html
      </a>
     </td>
    </tr>
