@@ -5,6 +5,105 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/06/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why are parts of this asteroid's surface so smooth?   The answer seems likely to do with the dynamics of an
+      <a href="https://science.nasa.gov/solar-system/asteroids/">
+       asteroid
+      </a>
+      that is a loose
+      <a href="https://daviddarling.info/encyclopedia/R/rubble-pile_asteroid.html">
+       pile of rubble
+      </a>
+      rather than a solid rock.   The
+      <a href="ap051116.html">
+       unusual asteroid
+      </a>
+      <a href="https://science.nasa.gov/solar-system/asteroids/25143-itokawa/">
+       Itokawa
+      </a>
+      was visited by the
+      <a href="https://user.iiasa.ac.at/~marek/fbook/01/geos/ja.html">
+       Japan
+      </a>
+      ese spacecraft
+      <a href="https://science.nasa.gov/mission/hayabusa/">
+       Hayabusa
+      </a>
+      in 2005 which imaged and  documented its unusual structure and mysterious
+      <a href="ap051121.html">
+       lack of craters
+      </a>
+      .
+      <a href="https://www.science.org/doi/10.1126/science.1134390">
+       Analyses of the border regions
+      </a>
+      between smooth and rugged sections indicate that jostling of the asteroid might be creating segregation between large and small rocks near the surface, like the
+      <a href="https://en.wikipedia.org/wiki/Granular_convection">
+       Brazil nut effect
+      </a>
+      .   The robotic Hayabusa actually
+      <a href="ap190312.html">
+       touched down
+      </a>
+      on one of the smooth patches, dubbed the
+      <a href="https://global.jaxa.jp/article/special/hayabusa_sp3/p2_e.html">
+       MUSES Sea
+      </a>
+      , and collected
+      <a href="https://www.planetary.org/articles/3191">
+       soil samples
+      </a>
+      .  These samples were
+      <a href="https://global.jaxa.jp/article/special/hayabusa/index_e.html">
+       returned to Earth
+      </a>
+      and are not only  giving clues to the ancient history of
+      <a href="ap100619.html">
+       this unusual asteroid
+      </a>
+      ,  but also about the early years of our entire
+      <a href="https://eyes.nasa.gov/apps/solar-system/#/home">
+       Solar System
+      </a>
+      .  Computer simulations show that 500-meter
+      <a href="https://www.esa.int/ESA_Multimedia/Videos/2017/04/Visualisation_of_asteroid_Itokawa/(lang)">
+       asteroid Itokawa
+      </a>
+      may
+      <a href="https://i.ytimg.com/vi/1Kl4rNUTWCA/hqdefault.jpg">
+       impact the Earth
+      </a>
+      within the next few million years.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/06/29
   </summary>
   <table>
@@ -18,8 +117,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260629.html">
+      https://apod.nasa.gov/apod/ap260629.html
      </a>
     </td>
    </tr>
