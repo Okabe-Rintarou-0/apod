@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/sibling_supernovae.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What happens when one of the stars in a
+      <a href="https://science.nasa.gov/universe/stars/multiple-star-systems/">
+       binary
+      </a>
+      goes supernova?      This
+      <a href="https://science.nasa.gov/missions/fermi/nasas-fermi-sibling-supernova-remnants/">
+       image
+      </a>
+      combines visible (yellow), ultraviolet (purple) and infrared light (cyan, red and orange) to show two
+      <a href="ap260206.html">
+       supernova remnants
+      </a>
+      and their surrounding environment, about 6,000 light-years away.      The younger one is the well-known
+      <a href="ap231226.html">
+       Jellyfish Nebula
+      </a>
+      in the center (mostly in yellow).      If we could see it by eye, it would appear
+      <a href="https://en.wikipedia.org/wiki/IC_443">
+       larger than the full moon
+      </a>
+      in the sky.      The filament shown in purple is part of an older, overlapping supernova remnant,
+      <a href="https://arxiv.org/pdf/2007.03226">
+       G189.6+3.3
+      </a>
+      .      A
+      <a href="https://ui.adsabs.harvard.edu/abs/2026AAS...24743307M/abstract">
+       new study
+      </a>
+      used data from
+      <a href="https://www.nasa.gov/">
+       NASA
+      </a>
+      's
+      <a href="https://science.nasa.gov/mission/fermi/">
+       Fermi Gamma-ray Space Telescope
+      </a>
+      to piece together their
+      <a href="https://humsci.stanford.edu/feature/researchers-uncover-evidence-sibling-supernovas">
+       story
+      </a>
+      .      Astronomers believe that there were two stars in a binary system, then the first one exploded as a supernova,
+      <a href="https://images.unsplash.com/vector-1741055269495-7abf86aab37a">
+       kicking
+      </a>
+      away its companion, which also exploded as a supernova tens of thousands of years later, creating the superimposed supernova remnants we see today.      The bright star on the right is actually a triple star system named
+      <a href="https://en.wikipedia.org/wiki/Eta_Geminorum">
+       Propus
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/01
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260701.html">
+      https://apod.nasa.gov/apod/ap260701.html
      </a>
     </td>
    </tr>
