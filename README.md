@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way,
+      <a href="https://throughlightandtime.com/ngc-6769-lrgb-hi-crop-rev-1-az-1500-20-may-2026/">
+       these three galaxies
+      </a>
+      are drawn together by gravity in a
+      <a href="https://ui.adsabs.harvard.edu/abs/2015arXiv150605218M/abstract">
+       mesmerizing cosmic dance
+      </a>
+      .  Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, with luminous galactic disks scarred by obscuring interstellar dust lanes.  Their young blue star clusters along drawn out spiral arms are spawned in star forming regions that result from collisions of
+      <a href="https://science.nasa.gov/missions/webb/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/">
+       massive molecular clouds
+      </a>
+      .  Below, spiral NGC6771 presents a more edge-on perspective, its
+      <a href="ap251127.html">
+       boxy
+      </a>
+      central bulge due to tidal
+      <a href="ap240927.html">
+       star streams
+      </a>
+      .  Of course, in the
+      <a href="ap220606.html">
+       distant future
+      </a>
+      a merger of the three galaxies is inevitable.  At the estimated distance of this galaxy trio, known to some as the
+      <a href="https://www.eso.org/public/news/eso0413/">
+       Devil's Mask
+      </a>
+      , the sharp telescopic frame spans over 300 thousand light-years within the boundaries of the far southern
+      <a href="https://noirlab.edu/public/es/education/constellations/pavo/">
+       constellation Pavo
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/02
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260702.html">
+      https://apod.nasa.gov/apod/ap260702.html
      </a>
     </td>
    </tr>
