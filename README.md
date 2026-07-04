@@ -5,6 +5,77 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/PIA00621.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.loc.gov/item/today-in-history/july-04/">
+       On July 4th
+      </a>
+      , 1997, using its own array of
+      <a href="ap230706.html">
+       fireworks
+      </a>
+      , a parachute, and a cocoon of airbags, the
+      <a href="https://science.nasa.gov/mission/mars-pathfinder/">
+       Mars Pathfinder
+      </a>
+      spacecraft bounced like a
+      <a href="https://science.nasa.gov/wp-content/uploads/2024/08/5277460495-c6d046d5a9-o.jpg">
+       giant beach ball
+      </a>
+      at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time.
+      <a href="https://en.wikipedia.org/wiki/Mars_Pathfinder#Entry,_descent_and_landing">
+       After its then novel
+      </a>
+      airbag-assisted landing sequence
+      <a href="https://science.nasa.gov/solar-system/mars-pathfinder-lands-on-mars/">
+       was completed
+      </a>
+      , Pathfinder transmitted
+      <a href="https://www.jpl.nasa.gov/images/pia00621-color-mosaic-of-rover-terrain/">
+       this color mosaic
+      </a>
+      to mission operators on Earth.  In the scene from another world, the Mars Sojourner robot rover is visible in the foreground, crouched on top of the unfolded Pathfinder.
+      <a href="https://spaceplace.nasa.gov/mars-sojourner/en/">
+       About the size
+      </a>
+      of a large house cat, the six-wheeled, solar-powered Sojourner became the first successful Martian rover.  Surrounding Pathfinder are deflated airbags and the rock-strewn terrain of the
+      <a href="https://en.wikipedia.org/wiki/Ares_Vallis">
+       Ares Vallis
+      </a>
+      floodplain.  In the distance Martian hills appear against a dusty brownish sky.  The Pathfinder lander was subsequently renamed the
+      <a href="https://www.jpl.nasa.gov/news/nasa-renames-mars-lander-in-honor-of-late-carl-sagan/">
+       Carl Sagan Memorial Station
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/03
   </summary>
   <table>
@@ -18,8 +89,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260703.html">
+      https://apod.nasa.gov/apod/ap260703.html
      </a>
     </td>
    </tr>
