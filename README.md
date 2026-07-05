@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_4100.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What has happened to Saturn's moon Iapetus?   Vast sections of
+      <a href="https://science.nasa.gov/saturn/moons/iapetus/">
+       this strange world
+      </a>
+      are dark as
+      <a href="https://en.wikipedia.org/wiki/Coal">
+       coal
+      </a>
+      ,  while others are as
+      <a href="https://www.earthdata.nasa.gov/topics/cryosphere/albedo">
+       bright as snow
+      </a>
+      .   To help better understand this unusually tinted moon,  in 2007
+      <a href="https://www.nasa.gov/about/">
+       NASA
+      </a>
+      directed the
+      <a href="https://science.nasa.gov/mission/cassini/spacecraft/cassini-orbiter/">
+       robotic Cassini spacecraft
+      </a>
+      then orbiting
+      <a href="ap200419.html">
+       Saturn
+      </a>
+      to swoop within 2,000 kilometers.
+      <a href="https://science.nasa.gov/photojournal/the-other-side-of-iapetus/">
+       Pictured here
+      </a>
+      , from about 75,000 kilometers out,  is the hemisphere of Iapetus that is
+      <a href="https://en.wikipedia.org/wiki/Tidal_locking">
+       always trailing
+      </a>
+      .   A
+      <a href="https://en.wikipedia.org/wiki/Engelier">
+       large impact crater
+      </a>
+      seen in the south spans 500 kilometers and appears superposed on an
+      <a href="https://en.wikipedia.org/wiki/Gerin_(crater)">
+       older crater
+      </a>
+      of similar size.   The
+      <a href="ap070914.html">
+       dark material
+      </a>
+      is seen increasingly coating the easternmost part of
+      <a href="https://en.wikipedia.org/wiki/Iapetus_(moon)">
+       Iapetus
+      </a>
+      , darkening craters and highlands alike.   A
+      <a href="https://ui.adsabs.harvard.edu/abs/2005DPS....37.3908S/abstract">
+       leading hypothesis
+      </a>
+      is that the dark material is mostly a form of carbon-rich soil leftover from when relatively warm but dirty ice
+      <a href="https://en.wikipedia.org/wiki/Sublimation_(phase_transition)">
+       sublimates
+      </a>
+      .   An initial coating of this
+      <a href="https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Dark-stained_Iapetus">
+       dark material
+      </a>
+      may have been
+      <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzYXbehmVESHlOweeRMxQ9RZECGsss1-hWx2p70VHlg&amp;s=10">
+       effectively painted on
+      </a>
+      by the accretion of meteor-liberated debris from
+      <a href="ap180514.html">
+       other moon
+      </a>
+      s.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/04
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260704.html">
+      https://apod.nasa.gov/apod/ap260704.html
      </a>
     </td>
    </tr>
