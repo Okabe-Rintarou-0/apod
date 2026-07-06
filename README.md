@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_6125.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What are these two bands in the sky?   The more commonly seen band is on the left and is the central band of our
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html">
+       Milky Way galaxy
+      </a>
+      .   Our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      orbits in the disk of
+      <a href="ap240804.html">
+       this spiral galaxy
+      </a>
+      so that from inside, it
+      <a href="ap170328.html">
+       appears as a band
+      </a>
+      of comparable brightness all the way
+      <a href="ap180313.html">
+       around the sky
+      </a>
+      .   The less commonly seen band, on the right, is
+      <a href="https://en.wikipedia.org/wiki/Zodiacal_light">
+       zodiacal light
+      </a>
+      -- sunlight reflected from dust  orbiting the Sun in our
+      <a href="https://science.nasa.gov/solar-system/">
+       Solar System
+      </a>
+      .
+      <a href="ap120116.html">
+       Zodiacal light
+      </a>
+      is  brightest near the Sun and so is best  seen just before sunrise or just after sunset.   On some evenings, this ribbon of zodiacal light can
+      <a href="https://thumbs.dreamstime.com/b/funny-excited-guinea-pig-isolated-yellow-background-shocked-face-tiny-paws-raised-364478590.jpg">
+       appear quite prominent
+      </a>
+      .   It was
+      <a href="https://ui.adsabs.harvard.edu/abs/2010ApJ...713..816N/abstract">
+       discovered only in this century
+      </a>
+      that zodiacal dust was mostly expelled by comets that have passed
+      <a href="ap250216.html">
+       near Jupiter
+      </a>
+      .   The
+      <a href="https://www.flickr.com/photos/julienlooten/55200394659/">
+       featured image
+      </a>
+      was captured about a year ago from the
+      <a href="https://youtu.be/o5JfmFSBDgE">
+       Atacama Desert
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/05
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260705.html">
+      https://apod.nasa.gov/apod/ap260705.html
      </a>
     </td>
    </tr>
