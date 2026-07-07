@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_7200.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Where can you find dragons fighting in the night sky?   In the southern
+      <a href="https://spaceplace.nasa.gov/constellations/en/">
+       constellation
+      </a>
+      of the Altar:
+      <a href="https://en.wikipedia.org/wiki/Ara_(constellation)">
+       Ara
+      </a>
+      .  The dragons are, of course, actually made of
+      <a href="https://en.wikipedia.org/wiki/Pareidolia">
+       suggestively shaped
+      </a>
+      gas and dust.   The celestial home of the
+      <a href="https://windhorsetour.com/blog/the-meaning-of-chinese-dragons">
+       mythological battling beasts
+      </a>
+      is cataloged as
+      <a href="https://en.wikipedia.org/wiki/NGC_6188">
+       NGC 6188
+      </a>
+      and located about 4,000
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light year
+      </a>
+      s away near the edge of a
+      <a href="https://en.wikipedia.org/wiki/RCW_108">
+       large molecular cloud
+      </a>
+      .   Massive, young stars of the embedded Ara
+      <a href="https://en.wikipedia.org/wiki/Stellar_association#Stellar_associations">
+       OB1 association
+      </a>
+      were formed there only a few million years ago,
+      <a href="ap080313.html">
+       sculpting
+      </a>
+      the dark shapes  and powering the nebular glow with
+      <a href="ap250811.html">
+       stellar winds
+      </a>
+      and intense
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet
+      </a>
+      radiation.   Joining
+      <a href="https://youtu.be/Gn9mZpAcbF8">
+       NGC 6188
+      </a>
+      on this cosmic canvas,  visible toward the lower right, is unusual emission nebula
+      <a href="ap250424.html">
+       NGC 6164
+      </a>
+      ,  also created by one of the region's
+      <a href="https://en.wikipedia.org/wiki/OB_star">
+       massive stars
+      </a>
+      .   This
+      <a href="https://cdn.petcarerx.com/blog/wp-content-uploads-2015-07-surprise-dog.jpg">
+       impressively
+      </a>
+      wide field
+      <a href="https://www.instagram.com/p/DaCrBNQGYF4/">
+       picture
+      </a>
+      ,  captured from
+      <a href="https://youtu.be/j0WIbARYaGA">
+       Queensland
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Australia">
+       Australia
+      </a>
+      ,  spans over 2 degrees (four
+      <a href="ap240915.html">
+       full Moon
+      </a>
+      s).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/06
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260706.html">
+      https://apod.nasa.gov/apod/ap260706.html
      </a>
     </td>
    </tr>
