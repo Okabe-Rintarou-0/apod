@@ -5,6 +5,81 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/cosmic_bat_1024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.instagram.com/p/DaNe2cgDRT5/">
+       This Cosmic Bat
+      </a>
+      wishes you a happy
+      <a href="https://en.wikipedia.org/wiki/Summerween">
+       Summerween
+      </a>
+      !  This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura,
+      <a href="ap251030.html">
+       the Cosmic Bat Nebula
+      </a>
+      (
+      <a href="https://articles.adsabs.harvard.edu/pdf/1962ApJS....7....1L">
+       LDN
+      </a>
+      43),  not to be confused with
+      <a href="ap251028.html">
+       the Bat Nebula
+      </a>
+      (NGC 6995), is a vibrant
+      <a href="https://science.nasa.gov/universe/stars/">
+       birthplace for stars
+      </a>
+      .  A bit of young starlight peeks through the
+      <a href="ap230129.html">
+       dense clouds
+      </a>
+      of gas and dust that make up the Cosmic Bat’s 12 lightyear wingspan. The
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet
+      </a>
+      light from the young stars energizes the nebula’s hydrogen gas, causing it to
+      <a href="https://www.astronomy.com/science/i-read-that-ultraviolet-light-is-the-cause-of-hii-regions-but-this-light-is-invisible-so-why-are-these-objects-the-color-red/">
+       glow an ominous red
+      </a>
+      .  The
+      <a href="ap250528.html">
+       jet
+      </a>
+      of glowing hydrogen gas emerging from the bat’s head
+      <a href="https://astronomy.swin.edu.au/cosmos/*/Stellar+Jets">
+       hints at the star formation
+      </a>
+      hidden within.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/07
   </summary>
   <table>
@@ -18,8 +93,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260708.html">
+      https://apod.nasa.gov/apod/ap260708.html
      </a>
     </td>
    </tr>
