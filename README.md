@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="http://lroc.sese.asu.edu/posts/189">
+       The Mare Orientale
+      </a>
+      , Latin for Eastern Sea, is one of the most striking large scale lunar features.  The youngest of the large lunar impact basins it's  very difficult to see from an
+      <a href="https://skyandtelescope.org/astronomy-news/set-your-sights-on-this-lunar-bulls-eye/">
+       earthbound perspective
+      </a>
+      .  Still, captured on July 7 during a period of favorable tilt, or
+      <a href="https://svs.gsfc.nasa.gov/5195">
+       libration
+      </a>
+      of the lunar nearside, the Eastern Sea can be found at the upper right in this sharp telescopic view.  In the image, the large lunar mare is extremely foreshortened and stretches along the Moon's western edge.  Formed by the impact of an asteroid over 3 billion years ago and nearly 1000 kilometers across, the
+      <a href="https://www.lpi.usra.edu/lunar/missions/orbiter/lunar_orbiter/impact_basin/">
+       impact basin's
+      </a>
+      concentric circular features are ripples in the lunar crust.  But they are a little easier to spot in more direct images of the region taken from
+      <a href="ap960112.html">
+       lunar orbit
+      </a>
+      .  So why is the Eastern Sea at the Moon's western edge?  The
+      <a href="https://en.wikipedia.org/wiki/Mare_Orientale">
+       Mare Orientale
+      </a>
+      lunar feature was named before 1961.  That's when the convention labeling
+      <a href="https://adsabs.harvard.edu/full/2007JBAA..117..129B">
+       east and west on lunar maps
+      </a>
+      was reversed.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/09
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260709.html">
+      https://apod.nasa.gov/apod/ap260709.html
      </a>
     </td>
    </tr>
