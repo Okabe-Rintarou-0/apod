@@ -5,6 +5,86 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_1500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening to galaxy
+      <a href="https://en.wikipedia.org/wiki/NGC_474">
+       NGC 474
+      </a>
+      ?   The multiple layers of emission appear strangely complex given the relatively featureless appearance of the
+      <a href="https://en.wikipedia.org/wiki/Elliptical_galaxy">
+       elliptical galaxy
+      </a>
+      in less deep images.   The cause of the
+      <a href="ap021111.html">
+       shells
+      </a>
+      is a topic of research, but they are possibly
+      <a href="ap100926.html">
+       tidal tail
+      </a>
+      s related to debris left over from absorbing numerous small galaxies in the past billion years.   Alternatively, the shells may be like ripples in a pond, where the ongoing collision with the spiral galaxy just to the right of
+      <a href="https://ui.adsabs.harvard.edu/abs/1999IAUS..186..191T/abstract">
+       NGC 474
+      </a>
+      is causing
+      <a href="https://youtu.be/c5Us-jonCLA">
+       density waves
+      </a>
+      to ripple through the galactic giant.   Regardless of the actual cause, the
+      <a href="https://www.cfht.hawaii.edu/HawaiianStarlight/AIOM/English/2013/Images/Jul-Image2012-CFHT-Coelum.jpg">
+       featured image
+      </a>
+      dramatically highlights the increasing evidence that the halos of some elliptical
+      <a href="https://science.nasa.gov/universe/galaxies/">
+       galaxies
+      </a>
+      are surprisingly complicated.   Similarly, the halo of our own
+      <a href="https://science.nasa.gov/mission/webb/science-overview/science-explainers/is-the-milky-way-unique/">
+       Milky Way Galaxy
+      </a>
+      is one example of such
+      <a href="https://thumbs.dreamstime.com/b/dog-climbed-toilet-paper-completely-unwound-roll-all-over-bathroom-376936392.jpg">
+       unexpected intricacies
+      </a>
+      .   NGC 474 spans about 250,000
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light years
+      </a>
+      and lies about  100 million light years distant toward the constellation of the Fish  (
+      <a href="https://en.wikipedia.org/wiki/Pisces_%28constellation%29">
+       Pisces
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/11
   </summary>
   <table>
@@ -18,8 +98,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260711.html">
+      https://apod.nasa.gov/apod/ap260711.html
      </a>
     </td>
    </tr>
