@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_1400.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Why is this asteroid a double?   Earlier this month the
+      <a href="https://en.wikipedia.org/wiki/Japan">
+       Japan
+      </a>
+      ese  robotic spacecraft
+      <a href="https://www.isas.jaxa.jp/en/missions/spacecraft/current/hayabusa2.html">
+       Hayabusa2
+      </a>
+      shot past asteroid
+      <a href="https://en.wikipedia.org/wiki/98943_Torifune">
+       98943 Torifune
+      </a>
+      and captured
+      <a href="https://www.jaxa.jp/press/2026/07/20260706-3_j.html">
+       pictures
+      </a>
+      .  Although previous observations from
+      <a href="ap260613.html">
+       distant Earth
+      </a>
+      indicated that Torifune was oblong,
+      <a href="https://science.nasa.gov/mission/hayabusa-2/">
+       Hayabusa2
+      </a>
+      found that
+      <a href="https://www.nytimes.com/2026/07/07/science/torifune-asteroid-contact-binary.html">
+       Torifune
+      </a>
+      actually has two joined lobes.   With a length of about four
+      <a href="https://turftank.com/us/academy/how-big-is-a-soccer-field/">
+       soccer field
+      </a>
+      s, this
+      <a href="https://eyes.nasa.gov/apps/asteroids/#/home">
+       space rock
+      </a>
+      frequently  comes near the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      as it orbits the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      ,  although it is not a threat.   Besides the two lobes,
+      <a href="https://www.planetary.org/articles/hayabusa2s-flyby-of-asteroid-torifune">
+       Torifune
+      </a>
+      shows
+      <a href="ap190524.html">
+       many large boulders
+      </a>
+      ,  but, surprisingly,
+      <a href="ap140209.html">
+       no obvious craters
+      </a>
+      ,  likely because its surface is a
+      <a href="https://en.wikipedia.org/wiki/Rubble_pile">
+       pile of rubble
+      </a>
+      .   Like asteroid
+      <a href="ap190129.html">
+       Arrokoth
+      </a>
+      ,  it appears that each lobe formed separately before colliding and becoming
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fxafpjwqoz9jz.jpg">
+       stuck together
+      </a>
+      .
+      <a href="https://en.wikipedia.org/wiki/Hayabusa2">
+       Hayabusa2
+      </a>
+      famously encountered
+      <a href="ap180822.html">
+       asteroid Ryugu
+      </a>
+      in 2018,  and now heads for an encounter in 2031 with
+      <a href="https://en.wikipedia.org/wiki/1998_KY26">
+       1998 KY26
+      </a>
+      , a smaller asteroid that  rotates unusually fast and might have reservoirs of ice.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/12
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260713.html">
+      https://apod.nasa.gov/apod/ap260713.html
      </a>
     </td>
    </tr>
