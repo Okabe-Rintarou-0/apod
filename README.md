@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/red_sprite.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is there an angry
+      <a href="https://starwars.fandom.com/wiki/Sith">
+       Sith
+      </a>
+      using
+      <a href="https://starwars.fandom.com/wiki/Force_lightning">
+       force lightning
+      </a>
+      in the
+      <a href="https://www.youtube.com/watch?v=8xRBEN2IzPo">
+       Tatacoa Desert
+      </a>
+      ?  This is not science fiction, but a
+      <a href="https://www.instagram.com/p/DajC0nThpZp/">
+       red sprite
+      </a>
+      with multiple
+      <a href="https://link.springer.com/article/10.1007/s10712-013-9224-4">
+       streamers
+      </a>
+      !  Ordinary
+      <a href="https://www.nssl.noaa.gov/education/svrwx101/lightning/faq/">
+       lightning
+      </a>
+      occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charge repels negative charge deeper into the Earth, leaving Earth’s surface positively charged. The
+      <a href="https://www.youtube.com/watch?v=MsINeZMeTMQ">
+       opposite charges attract
+      </a>
+      ,  reaching towards each other and superheating the air into a white strike of
+      <a href="https://www.youtube.com/watch?v=E3T2ldsdtMg">
+       plasma
+      </a>
+      .
+      <a href="ap231002.html">
+       Red sprites
+      </a>
+      are
+      <a href="ap210104.html">
+       millisecond events
+      </a>
+      triggered by
+      <a href="https://www.noaa.gov/jetstream/lightning/positive-and-negative-side-of-lightning">
+       positive cloud-to-ground
+      </a>
+      lightning. They extend up into
+      <a href="https://spaceplace.nasa.gov/whats-in-the-atmosphere/">
+       the mesosphere
+      </a>
+      where the air is too thin for
+      <a href="https://www.nesdis.noaa.gov/about/k-12-education/severe-weather/what-causes-lightning-and-thunder">
+       thunder
+      </a>
+      .  Their red glow comes from heated
+      <a href="https://www.noaa.gov/jetstream/atmosphere">
+       molecular nitrogen
+      </a>
+      .  There are
+      <a href="https://earthweb.ess.washington.edu/space/AtmosElec/spriteinfo.html">
+       several potential causes
+      </a>
+      for red sprites, including that the preceding
+      <a href="https://www.theweathernetwork.com/en/news/science/explainers/astronaut-spots-red-sprite-from-the-international-space-station">
+       positive lightning exposes the negatively charged cloud core
+      </a>
+      to the positively charged upper atmosphere, allowing those charges to connect.
+      <a href="https://science.nasa.gov/mission/juno/">
+       NASA’s Juno
+      </a>
+      has observed
+      <a href="https://www.astronomy.com/science/sprites-and-elves-found-frolicking-in-jupiters-skies/">
+       sprites on Jupiter
+      </a>
+      ,  indicating that sprites occur on other planets!
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/14
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260714.html">
+      https://apod.nasa.gov/apod/ap260714.html
      </a>
     </td>
    </tr>
