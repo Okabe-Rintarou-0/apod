@@ -5,6 +5,100 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/ngc300.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.cielaustral.com/galerie/photo197.htm">
+       This
+      </a>
+      sparkling, colorful gemstone is a spiral galaxy,
+      <a href="https://en.wikipedia.org/wiki/NGC_300">
+       NGC 300
+      </a>
+      .      It is one of the closest
+      <a href="https://science.nasa.gov/universe/galaxies/types/#spiral-galaxies">
+       spiral galaxies
+      </a>
+      to Earth, only about 6 million light-years away.          But does it really
+      <a href="https://images.unsplash.com/photo-1606509779095-de8fd5187049">
+       look like this
+      </a>
+      ?
+      <a href="ap241202.html">
+       Here
+      </a>
+      is a more standard portrait of it.      This unusual image combines the light from the
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      and
+      <a href="https://en.wikipedia.org/wiki/Cosmic_dust">
+       dust
+      </a>
+      within the galaxy with the light from ionized clouds of
+      <a href="https://cesar.esa.int/upload/201801/ism_booklet.pdf">
+       interstellar gas
+      </a>
+      shown in red (Sulphur), green (Hydrogen) and blue (Oxygen).      Combining red and green light in
+      <a href="https://isle.hanover.edu/Ch06Color/Ch06ColorMixer.html">
+       different proportions
+      </a>
+      makes yellow or orange light, most visible in the image.      Light from other ionized gases is also
+      <a href="https://en.wikipedia.org/wiki/Gas-discharge_lamp">
+       at work
+      </a>
+      in neon signs, fluorescent tubes and street lights.      These
+      <a href="https://astronomy.swin.edu.au/cosmos/*/HII+Region">
+       massive clouds
+      </a>
+      of ionized gas are typically created by young, massive stars that produce high-energy
+      <a href="https://science.nasa.gov/ems/10_ultravioletwaves/">
+       ultraviolet
+      </a>
+      radiation capable of ionizing the gas.      Massive stars are
+      <a href="https://www.starinabox.net/">
+       short-lived
+      </a>
+      , compared with lighter stars like our sun, and explode as
+      <a href="https://spaceplace.nasa.gov/supernova/en/">
+       supernovas
+      </a>
+      at the end of their lives.      Some of the colorful clouds in the image could be
+      <a href="https://www.aanda.org/articles/aa/abs/2004/38/aa1058/aa1058.html">
+       hiding
+      </a>
+      <a href="https://chandra.harvard.edu/xray_sources/supernovas.html">
+       supernova remnants
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/15
   </summary>
   <table>
@@ -18,8 +112,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260715.html">
+      https://apod.nasa.gov/apod/ap260715.html
      </a>
     </td>
    </tr>
