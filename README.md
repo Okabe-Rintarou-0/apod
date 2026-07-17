@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://theskylive.com/10p-info">
+       Comet 10P/Tempel 2
+      </a>
+      orbits the Sun once every 5.4 years.  Currently visible in binoculars or small telescopes toward the constellation Capricornus, the
+      <a href="https://en.wikipedia.org/wiki/List_of_periodic_comets">
+       periodic
+      </a>
+      comet is captured in this sharp telescopic
+      <a href="https://app.astrobin.com/i/1ewym6?r=0">
+       image from July 11
+      </a>
+      sporting a bright nuclear region and pretty greenish coma.  Remarkably, a thin dust
+      <i>
+       trail
+      </i>
+      , not a typical dust tail, is also seen extending both east and west of the Tempel 2 nucleus.  Unlike a
+      <a href="https://science.nasa.gov/solar-system/comets/facts/">
+       comet dust tail
+      </a>
+      , which tends to temporarily fan out in a direction away from the Sun, this dust trail
+      <a href="https://ui.adsabs.harvard.edu/abs/2024RSPTA.38230200K/abstract">
+       is due to the residual dust
+      </a>
+      shed during
+      <a href="https://ui.adsabs.harvard.edu/abs/2012AJ....144..153K/abstract">
+       many past
+      </a>
+      orbits along this ancient periodic comet's orbital plane.  In fact, Tempel 2's dust trail may get a little narrower and brighter from our perspective as Earth crosses through the comet's orbital plane on July 20.
+      <a href="https://en.wikipedia.org/wiki/10P/Tempel">
+       Comet 10P/Tempel 2
+      </a>
+      will reach a perihelion on August 2, and make its closest approach to Earth on August 3.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/16
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260716.html">
+      https://apod.nasa.gov/apod/ap260716.html
      </a>
     </td>
    </tr>
