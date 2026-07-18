@@ -5,6 +5,58 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot.  The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.   Still, near sunset it's no accident that the majestic mountain shadow seems to point to the center of the graceful
+      <a href="ap230313.html">
+       rainbow arc
+      </a>
+      .  Due to perspective and the long line of sight the
+      <a href="ap200314.html">
+       mountain shadow
+      </a>
+      naturally forms a
+      <a href="ap161021.html">
+       tapering triangular
+      </a>
+      shape, its apex positioned at the point opposite the Sun on the horizon.  Following thunderstorms across the region, the
+      <a href="https://www.nesdis.noaa.gov/about/k-12-education/optical-phenomena/what-causes-rainbow">
+       rainbow arcs across
+      </a>
+      the early evening sky, with its colorful and characteristic 42 degree arc formed as sunlight is refracted and reflected by the atmospheric water droplets.  The geometric center of a rainbow arc lies at the antisolar point.  And in this scene from the golden hour on
+      <a href="ap191011.html">
+       planet Earth
+      </a>
+      , that's also oposite the setting Sun along the distant horizon.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/17
   </summary>
   <table>
@@ -18,8 +70,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260717.html">
+      https://apod.nasa.gov/apod/ap260717.html
      </a>
     </td>
    </tr>
