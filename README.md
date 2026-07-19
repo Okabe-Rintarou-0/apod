@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A flying saucer from outer space crash-landed in the  Utah desert after being tracked by radar and chased by helicopters.    The year was 2004, and no
+      <a href="https://www.daviddarling.info/encyclopedia/S/SFafter1940.html">
+       space aliens
+      </a>
+      were involved.    The saucer, pictured here, was the
+      <a href="https://www.youtube.com/watch?v=K5q60jDs2Jg">
+       Genesis
+      </a>
+      sample return capsule, part of a human-made robot
+      <a href="https://science.nasa.gov/mission/genesis/">
+       Genesis
+      </a>
+      spaceship
+      <a href="https://www.youtube.com/watch?v=3kf9S27Yh1A">
+       launched
+      </a>
+      in 2001 by NASA itself to study the Sun.    The unexpectedly
+      <a href="https://www.youtube.com/watch?v=V1avDhBcwzI">
+       hard landing
+      </a>
+      at over 300 kilometers per hour occurred because the parachutes
+      <a href="https://petcube.com/blog/content/images/2021/08/cat-scared.jpg">
+       did not open
+      </a>
+      as planned.    The
+      <a href="https://en.wikipedia.org/wiki/Genesis_(spacecraft)">
+       Genesis mission
+      </a>
+      had been orbiting the
+      <a href="https://science.nasa.gov/sun/facts/">
+       Sun
+      </a>
+      collecting
+      <a href="ap970217.html">
+       solar wind
+      </a>
+      particles that are usually deflected away by
+      <a href="https://science.nasa.gov/earth/earth-observatory/measuring-earths-magnetism-84266/">
+       Earth's magnetic field
+      </a>
+      .  Despite the crash landing,  many return samples remained in good enough condition to analyze.
+      <a href="https://science.nasa.gov/mission/genesis/">
+       Genesis
+      </a>
+      -related discoveries included new details about the
+      <a href="http://genesismission.jpl.nasa.gov/gm2/news/features/closer.htm">
+       composition
+      </a>
+      of the
+      <a href="ap251207.html">
+       Sun
+      </a>
+      and how the abundance of some types of
+      <a href="ap230108.html">
+       elements
+      </a>
+      differ
+      <a href="https://www.jpl.nasa.gov/news/nasa-mission-suggests-sun-and-planets-constructed-differently/">
+       across the Solar System
+      </a>
+      .  These
+      <a href="https://ui.adsabs.harvard.edu/abs/2015NatGe...8..515F/abstract">
+       results have provided intriguing clues
+      </a>
+      into details of how the
+      <a href="https://spaceplace.nasa.gov/solar-system-formation/en/">
+       Sun and planets formed
+      </a>
+      billions of years ago.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/18
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260718.html">
+      https://apod.nasa.gov/apod/ap260718.html
      </a>
     </td>
    </tr>
