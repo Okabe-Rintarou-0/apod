@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_1830.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening in the
+      <a href="ap120509.html">
+       Statue of Liberty
+      </a>
+      nebula?   Bright
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      and
+      <a href="https://www.acs.org/content/acs/en/molecule-of-the-week/">
+       interesting molecules
+      </a>
+      are forming and being
+      <a href="https://en.wikipedia.org/wiki/Liberty">
+       liberated
+      </a>
+      .  The
+      <a href="http://www.atlasoftheuniverse.com/nebulae/ngc3576.html">
+       complex nebula
+      </a>
+      resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a
+      <a href="https://images.stockcake.com/public/4/2/3/42333695-636a-454e-86cf-a5ae835de944_large/hero-dog-flying-stockcake.jpg">
+       flying superhero
+      </a>
+      or a
+      <a href="https://en.wikipedia.org/wiki/Weeping_Angel">
+       weeping angel
+      </a>
+      .
+      <a href="https://app.astrobin.com/u/DrKrud?i=e3ygyn">
+       This re-assigned color image
+      </a>
+      showcases dense knots of
+      <a href="ap050110.html">
+       dark interstellar dust
+      </a>
+      , fields of
+      <a href="emission_nebulae.html">
+       glowing hydrogen gas
+      </a>
+      ionized by these stars, and
+      <a href="ap990503.html">
+       great loop
+      </a>
+      s of gas expelled by dying stars.  A
+      <a href="https://ui.adsabs.harvard.edu/abs/2006A%26A...450..253M/abstract">
+       detailed study of NGC 3576
+      </a>
+      , also known as
+      <a href="https://en.wikipedia.org/wiki/NGC_3576">
+       NGC 3582
+      </a>
+      and
+      <a href="http://server7.wikisky.org/starview?object_type=3&amp;object_id=218&amp;object_name=NGC+3584&amp;locale=EN">
+       NGC 3584
+      </a>
+      ,  uncovered at least 33 massive stars in the end stages of formation,  and the clear presence of the complex carbon molecules known as
+      <a href="https://en.wikipedia.org/wiki/Polycyclic_aromatic_hydrocarbons">
+       polycyclic aromatic hydrocarbons
+      </a>
+      (PAHs).  PAHs are thought to be created in the cooling gas of
+      <a href="ap250326.html">
+       star forming region
+      </a>
+      s,  and their development in the
+      <a href="https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System">
+       Sun's formation nebula
+      </a>
+      five billion years  ago may have been an important step in the
+      <a href="https://cneos.jpl.nasa.gov/about/life_on_earth.html">
+       development of life
+      </a>
+      on Earth.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/19
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260719.html">
+      https://apod.nasa.gov/apod/ap260719.html
      </a>
     </td>
    </tr>
