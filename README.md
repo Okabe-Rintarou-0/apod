@@ -5,6 +5,113 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/21
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Is this a fossilized turtle on Mars?   No.   Although
+      <a href="https://x.com/SETIInstitute/status/2067261424447942819">
+       resembling
+      </a>
+      a large
+      <a href="https://en.wikipedia.org/wiki/Tortoise#/media/File:A._gigantea_Aldabra_Giant_Tortoise.jpg">
+       Earth tortoise
+      </a>
+      ,  this is a layered rock outcrop on
+      <a href="https://science.nasa.gov/mars/">
+       Mars
+      </a>
+      that is  estimated to span about 15 meters, making it much larger than
+      <a href="https://www.doi.gov/blog/13-turtle-ly-awesome-photos-world-turtle-day">
+       turtles on Earth
+      </a>
+      .  NASA’s robotic
+      <a href="https://science.nasa.gov/mission/msl-curiosity/">
+       Curiosity rover
+      </a>
+      came across
+      <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/">
+       this unusual mound
+      </a>
+      , dubbed Miraflores,  last month during its 4922nd Martian day exploring Mars.   The
+      <a href="ap161005.html">
+       small butte
+      </a>
+      may survive  because it was somehow more resistant to
+      <a href="https://education.nationalgeographic.org/resource/erosion/">
+       erosion
+      </a>
+      than surrounding rock.   More recent wind has now covered its top with
+      <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-new-study-on-why-mars-is-red-supports-potentially-habitable-past/">
+       orange
+      </a>
+      <a href="ap210106.html">
+       Martian sand
+      </a>
+      .   Below the top shell, many layers of
+      <a href="https://en.wikipedia.org/wiki/Stratigraphy">
+       stratified rock
+      </a>
+      are
+      <a href="https://www.flickr.com/photos/195227719@N04/55331982898/in/pool-apods/">
+       visible
+      </a>
+      , possibly indicating a long history of  intermittent
+      <a href="ap090420.html">
+       wind-blown sand
+      </a>
+      being deposited and then hardened by ground water.   Similar wind-eroded layered landforms, such as
+      <a href="https://en.wikipedia.org/wiki/Yardang#/media/File:Yardangs_in_the_Tsaidam_Desert.jpg">
+       yardangs in the Qaidam Desert
+      </a>
+      of
+      <a href="https://en.wikipedia.org/wiki/China">
+       China
+      </a>
+      , exist here on Earth.  Curiosity and its companion
+      <a href="https://science.nasa.gov/mission/mars-2020-perseverance/">
+       rover Perseverance
+      </a>
+      continue to investigate the
+      <a href="https://svs.gsfc.nasa.gov/11372">
+       ancient history of Mars
+      </a>
+      as well as
+      <a href="https://www.shutterstock.com/image-photo/cat-seeking-food-dumpster-260nw-376709143.jpg">
+       searching
+      </a>
+      for signs of
+      <a href="https://science.nasa.gov/blog/was-there-life-on-mars/">
+       primeval life
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/20
   </summary>
   <table>
@@ -18,8 +125,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260720.html">
+      https://apod.nasa.gov/apod/ap260720.html
      </a>
     </td>
    </tr>
