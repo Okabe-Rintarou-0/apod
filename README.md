@@ -5,6 +5,81 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/corona_australis.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels.
+      <a href="ap181129.html">
+       The Corona Australis Cloud
+      </a>
+      is a collage of
+      <a href="https://science.nasa.gov/universe/stories/quick-reads/decoding-nebulae/">
+       reflection and emission nebulae
+      </a>
+      on the left of
+      <a href="https://noirlab.edu/public/news/noirlab2617/?lang">
+       today’s image
+      </a>
+      .  At 430 light years away, this cloud is one of the closest
+      <a href="https://science.nasa.gov/mission/webb/science-overview/science-explainers/webbs-star-formation-discoveries/">
+       star-forming regions
+      </a>
+      to Earth. It contains gas cool enough (-260 Celsius or -440 Fahrenheit) to collapse into
+      <a href="https://lco.global/spacebook/stars/protostar/">
+       protostars
+      </a>
+      .  Recently formed stars paint blue hues across the cloud as their light reflects off surrounding material. The waltz of the R Coronae Australis
+      <a href="ap970219.html">
+       binary system
+      </a>
+      stirs up the nebula
+      <a href="https://app.astrobin.com/i/2hti5p">
+       NGC 6729
+      </a>
+      .  The younger of the pair
+      <a href="https://astronomy.swin.edu.au/cosmos/*/Ionisation">
+       ionizes
+      </a>
+      nearby gas with its ultraviolet light, causing it to glow.
+      <a href="https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/">
+       The Chandelier Cluster
+      </a>
+      (NGC 6723) dangles from the top right, but is actually tens of thousands of light years farther away than its apparent star-forming neighbor. While NGC 6723 experienced multiple periods of star formation creating
+      <a href="https://esahubble.org/images/potm2606a/">
+       <i>
+        slightly
+       </i>
+       younger
+      </a>
+      stars, the chandelier twinkles with stars almost as old as the universe.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/21
   </summary>
   <table>
@@ -18,8 +93,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260721.html">
+      https://apod.nasa.gov/apod/ap260721.html
      </a>
     </td>
    </tr>
