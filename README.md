@@ -5,6 +5,74 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/RCW86Final2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      In 185 AD,
+      <a href="http://en.wikipedia.org/wiki/Chinese_astronomy">
+       Chinese astronomers
+      </a>
+      recorded the appearance of a new star in the Nanmen asterism.  That part of the sky is identified with part of the southern constellation
+      <a href="https://en.wikipedia.org/wiki/Centaurus_in_Chinese_astronomy">
+       Centaurus
+      </a>
+      on modern star charts.  In fact, the new star was reported to be visible to the naked-eye for months before it faded from view, and is now thought to be the earliest
+      <a href="http://arxiv.org/abs/astro-ph/0301603">
+       recorded supernova
+      </a>
+      .  In this 21st century telescopic image, the wispy outlines of a faint emission nebula recognized as the remnant of that historical stellar explosion can be traced against a starry background.  The ragged but roughly circular extent of the nebula, cataloged as RCW 86, represents interstellar gas ionized by the supernova's still expanding shock wave.
+      <a href="https://chandra.harvard.edu/photo/2011/rcw86/">
+       Space-based images
+      </a>
+      indicate an abundance of the element iron in RCW 86 and the absence of a neutron star or pulsar
+      <a href="https://arxiv.org/abs/1108.1207">
+       within the remnant
+      </a>
+      , suggesting that the original supernova was Type Ia.
+      <a href="ap060728.html">
+       Unlike the core collapse
+      </a>
+      supernova explosion of a massive star, a
+      <a href="https://science.nasa.gov/mission/roman-space-telescope/type-ia-supernovae/">
+       Type Ia supernova
+      </a>
+      is a thermonuclear
+      <a href="ap110430.html">
+       detonation on a white dwarf
+      </a>
+      star that has accreted material from its companion in a binary star system.  Near the plane of our
+      <a href="ap110520.html">
+       Milky Way
+      </a>
+      galaxy and larger than the full moon on the sky this supernova remnant is too faint to be seen by eye though.  RCW 86 is some 8,000 light-years distant and around 100 light-years across.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/23
   </summary>
   <table>
@@ -18,8 +86,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260723.html">
+      https://apod.nasa.gov/apod/ap260723.html
      </a>
     </td>
    </tr>
