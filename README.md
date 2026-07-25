@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/TranquilitySerenity2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The Seas of
+      <a href="ap190719.html">
+       Tranquility
+      </a>
+      and
+      <a href="ap240117.html">
+       Serenity
+      </a>
+      are calm today.  They're calm most every day though, since they are actually
+      <a href="https://en.wikipedia.org/wiki/Lunar_mare">
+       lunar maria
+      </a>
+      , ancient lava flows filling in large impact
+      <a href="https://science.nasa.gov/moon/lunar-craters/#hds-sidebar-nav-6">
+       basins on the Moon
+      </a>
+      .  Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dark lunar "seas" are in stark contrast to the bright cratered lunar highlands surrounding them in this telescopic view.  Of course their names are based on the historical,
+      <a href="https://ui.adsabs.harvard.edu/abs/1969Moon....1...59K/abstract">
+       pre-telescopic
+      </a>
+      designations of lunar maria.  Easily visible to the unaided eye, the broad features on the Moon's near side were imagined to be like the expansive oceans of planet Earth.  On July 20, 1969, the Apollo 11 lunar module Eagle touched down on the Mare Tranquillitatis (at lower right), establishing
+      <a href="https://lroc.im-ldi.com/images/563">
+       Tranquility base
+      </a>
+      and the first human presence
+      <a href="https://svs.gsfc.nasa.gov/4731/">
+       on the Moon
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/24
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260724.html">
+      https://apod.nasa.gov/apod/ap260724.html
      </a>
     </td>
    </tr>
