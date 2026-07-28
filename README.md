@@ -5,6 +5,84 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_5815.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's connecting these two volcanoes?  In ancient folklore, the two volcanoes,
+      <a href="https://youtu.be/Jwpue5dq_wA?t=171">
+       Parinacota (left) and Pomerape (right)
+      </a>
+      ,  are connected by representing a
+      <a href="https://qhapaqnan.qiri.cl/ancient-legends/">
+       mythical
+      </a>
+      prince and princess who engaged in a forbidden romance.   Beneath the ground, the
+      <a href="https://science.nasa.gov/earth/earth-observatory/parinacota-volcano-south-america-76144/">
+       two peaks
+      </a>
+      are not known to be  connected by a common pool of
+      <a href="ap051002.html">
+       hot magma
+      </a>
+      ,  and neither volcano has erupted in the past 1000 years.   Above the ground, there is usually nothing in the sky that connects them -- except if you use careful timing and look from a specific location.   The
+      <a href="https://www.instagram.com/p/DXpszcJCY6n/">
+       featured well-planned image
+      </a>
+      was captured from
+      <a href="https://en.wikipedia.org/wiki/Bolivia">
+       Bolivia
+      </a>
+      in mid-April with a series of camera exposures  taken on the same day and from the same location.   Then,
+      <a href="ap090224.html">
+       Barnard's Loop
+      </a>
+      <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F56kpgyhj47dg1.png">
+       appeared
+      </a>
+      to connect the volcanic peaks.  Also visible in the image is the
+      <a href="ap260218.html">
+       Orion Nebula
+      </a>
+      in the center, the star
+      <a href="https://science.nasa.gov/universe/what-is-betelgeuse-inside-the-strange-volatile-star/">
+       Betelgeuse
+      </a>
+      on the right, and the
+      <a href="ap200329.html">
+       Rosette
+      </a>
+      <a href="ap250214.html">
+       Nebula
+      </a>
+      on the upper right.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/27
   </summary>
   <table>
@@ -18,8 +96,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260727.html">
+      https://apod.nasa.gov/apod/ap260727.html
      </a>
     </td>
    </tr>
