@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/30
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/red_sun.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This could be the view from an
+      <a href="https://science.nasa.gov/exoplanets/">
+       exoplanet
+      </a>
+      orbiting around a
+      <a href="https://www.britannica.com/science/red-dwarf-star">
+       red dwarf star
+      </a>
+      , but it is our own
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      .
+      <a href="https://www.instagram.com/p/DbH_V37lKyN/">
+       This image
+      </a>
+      was taken on July 22, 2026, in the
+      <a href="https://en.wikipedia.org/wiki/Okanagan">
+       Okanagan region
+      </a>
+      in the Canadian province of
+      <a href="https://www.supernaturalbc.com/">
+       British Columbia
+      </a>
+      .
+      <a href="https://fire.airnow.gov/">
+       Wildfire smoke
+      </a>
+      from the
+      <a href="https://en.wikipedia.org/wiki/Pacific_Northwest">
+       Pacific Northwest
+      </a>
+      acted as a
+      <a href="https://www.usa.canon.com/learning/training-articles/training-articles-list/being-safe-using-solar-filters">
+       solar filter
+      </a>
+      , allowing the photographer to take this photo of the Sun directly.      Several
+      <a href="https://science.nasa.gov/sun/sunspots/">
+       sunspots
+      </a>
+      are also visible in this eerie image; just below and right of the center is
+      <a href="https://www.friendsofnasa.org/2026/07/fast-evolving-sunspot-ar-4493-larger.html">
+       AR 4493
+      </a>
+      , a fast evolving, giant
+      <a href="https://scied.ucar.edu/image/solar-active-regions-sunspots-uv-image">
+       active solar region
+      </a>
+      and sunspot group.          The smoke is made of tiny particles that help block and
+      <a href="https://en.wikipedia.org/wiki/Mie_scattering">
+       scatter
+      </a>
+      light with bluer
+      <a href="https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/wavelengths/">
+       colors
+      </a>
+      , so the light we see coming from the Sun is
+      <a href="ap130829.html">
+       dimmer and redder
+      </a>
+      than usual (but it is never safe to
+      <a href="https://images.unsplash.com/photo-1505628346881-b72b27e84530">
+       stare directly
+      </a>
+      at the Sun).      Sunsets and sunrises are also
+      <a href="https://weather.com/science/weather-explainers/news/2025-08-05-wildfire-smoke-red-sunset-sunrise-scattering-explained">
+       more colorful
+      </a>
+      because of the smoke.            Some
+      <a href="https://science.nasa.gov/exoplanets/resources/life-and-death/chapter-6/">
+       6 billion years
+      </a>
+      from now, the Sun will actually start to turn redder as it approaches its
+      <a href="https://science.nasa.gov/universe/stars/types/#red-giants">
+       red giant
+      </a>
+      phase.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/28
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260729.html">
+      https://apod.nasa.gov/apod/ap260729.html
      </a>
     </td>
    </tr>
