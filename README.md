@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/07/31
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_2048.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The Dark Doodad Nebula drifts
+      <a href="ap210101.html">
+       through southern skies
+      </a>
+      , a tantalizing target for binoculars toward the small constellation
+      <a href="http://en.wikipedia.org/wiki/Musca">
+       Musca
+      </a>
+      , The Fly.  A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross.  Stretching for about 3 degrees across this telescopic field of view,
+      <a href="https://en.wikipedia.org/wiki/Dark_Doodad_Nebula">
+       the Dark Doodad
+      </a>
+      is punctuated near its southern tip (upper right) by yellowish globular star cluster
+      <a href="http://spider.seds.org/spider/MWGC/n4372.html">
+       NGC 4372
+      </a>
+      .  Of course NGC 4372 roams the halo of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way
+      </a>
+      galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad.  About 700 light-years distant and over 30 light-years long, the Dark Doodad's well defined silhouette belongs to the
+      <a href="https://arxiv.org/abs/1507.03742">
+       potentially
+      </a>
+      star-forming
+      <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...687L...9E/abstract">
+       Musca molecular cloud
+      </a>
+      .  The dusty Dark Doodad's delightfully alliterative moniker was first coined by
+      <a href="https://www.minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&amp;object_id=dicicco">
+       astro-imager and writer
+      </a>
+      Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/30
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260730.html">
+      https://apod.nasa.gov/apod/ap260730.html
      </a>
     </td>
    </tr>
