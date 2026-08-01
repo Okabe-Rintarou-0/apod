@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/moon-phases/july-full-moon/">
+       The Buck Moon
+      </a>
+      is a traditional name for the full moon of July.  In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains.  Since a full moon rises as the Sun sets,
+      <a href="https://nightsky.jpl.nasa.gov/media/documents/resources/EarthShadow3.pdf">
+       Earth's shadow
+      </a>
+      also rises in the twilight scene, a diffuse gray band extending above the mountainous southeastern horizon.  Above Earth's shadow band is the pinkish
+      <a href="https://science.nasa.gov/image-article/apod-2006-june-15-gordel-van-venus/">
+       antitwilight arch
+      </a>
+      .  That subtly tinted band of backscattered sunlight is more widely known as the
+      <a href="https://en.wikipedia.org/wiki/Belt_of_Venus">
+       Belt of Venus
+      </a>
+      .  But as it shares the eastern horizon with the atmospheric shadow of Earth and Belt of Venus, this full Buck Moon seems to set the stage for the New Moon to come.  The New Moon of August 12 will cast its shadow on planet Earth in a much anticipated
+      <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/">
+       total solar eclipse
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/07/31
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260731.html">
+      https://apod.nasa.gov/apod/ap260731.html
      </a>
     </td>
    </tr>
