@@ -5,6 +5,105 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_4000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening to this cloud?  Ice crystals in a distant cirrus cloud are acting like little floating
+      <a href="http://micro.magnet.fsu.edu/primer/java/scienceopticsu/newton/">
+       prisms
+      </a>
+      .    Known informally as a fire rainbow for its flame-like appearance, a
+      <a href="https://en.wikipedia.org/wiki/Circumhorizon_arc">
+       circumhorizon arc
+      </a>
+      appears parallel to the horizon.  For a
+      <a href="https://www.atoptics.co.uk/halo/cha2.htm">
+       circumhorizontal arc
+      </a>
+      to be visible,
+      <a href="https://science.nasa.gov/sun/">
+       the Sun
+      </a>
+      must be at least 58 degrees high in a sky where
+      <a href="https://en.wikipedia.org/wiki/Cirrus_cloud">
+       cirrus clouds
+      </a>
+      present below --   in this case
+      <a href="https://www.colweather.org.uk/gal-clouds-cirrus.php#Cirrus%20fibratus">
+       cirrus fibratus
+      </a>
+      .    The numerous, flat,
+      <a href="http://www.atoptics.co.uk/halo/orplate.htm">
+       hexagonal ice-crystals
+      </a>
+      that compose the
+      <a href="https://en.wikipedia.org/wiki/Cirrus_cloud">
+       cirrus cloud
+      </a>
+      must be
+      <a href="https://www.atoptics.co.uk/halo/platcol.htm">
+       aligned horizontally
+      </a>
+      to properly
+      <a href="http://youtube.com/watch?v=U98KPM2b9IA">
+       refract sunlight
+      </a>
+      in a collectively similar manner.   Therefore,
+      <a href="ap190519.html">
+       circumhorizontal
+      </a>
+      <a href="ap151215.html">
+       arcs
+      </a>
+      are
+      <a href="https://i.pinimg.com/550x/81/21/c0/8121c0291fa14d1fe52b9eb007741cac.jpg">
+       somewhat unusual
+      </a>
+      to see.   The
+      <a href="https://www.facebook.com/photo?fbid=4794142133932422">
+       featured fire rainbow
+      </a>
+      was photographed in 2021 near
+      <a href="https://youtu.be/kROh8JwKnOk">
+       North Fork Mountain
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/West_Virginia">
+       West Virginia
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/01
   </summary>
   <table>
@@ -18,8 +117,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260801.html">
+      https://apod.nasa.gov/apod/ap260801.html
      </a>
     </td>
    </tr>
