@@ -5,6 +5,120 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_4944.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What's happening to this meteor?  This
+      <a href="ap240809.html">
+       bright meteor streak
+      </a>
+      appeared and disappeared quickly during a long exposure of the
+      <a href="ap250910.html">
+       Great Lacerta Nebula
+      </a>
+      ,  seen faintly in red toward the center of the image.  The
+      <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/meteoroids.html">
+       meteoroid
+      </a>
+      , likely a small pebble,
+      <a href="https://www.astroleague.org/what-are-meteors-and-why-do-they-glow/">
+       creates its glow
+      </a>
+      partly by heating and exciting surrounding air in
+      <a href="https://science.nasa.gov/earth/earth-atmosphere/earths-atmosphere-a-multi-layered-cake/">
+       Earth's atmosphere
+      </a>
+      ,  but itself vaporizes and leaves wind-blown gas and dust with
+      <a href="ap230724.html">
+       colors
+      </a>
+      that give clues to its composition.   The featured image was captured last month from
+      <a href="https://deathvalleyobservatories.com/find-our-location/">
+       Death Valley Observatories
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Nevada">
+       Nevada
+      </a>
+      ,
+      <a href="https://user.iiasa.ac.at/~marek/fbook/04/print/us.html">
+       USA
+      </a>
+      .   This month, though, is particularly good for
+      <a href="ap250821.html">
+       seeing meteors
+      </a>
+      .  Presently there are
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/delta-aquariids/">
+       three
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Alpha_Capricornids">
+       meteor
+      </a>
+      <a href="ap250812.html">
+       showers
+      </a>
+      ongoing,  although they are currently
+      <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREbUigD3ZOb-3oCWkhrRoLJ7de6EcqbfEk2JmNOISeKw&amp;s=10">
+       competing for visibility
+      </a>
+      with the glow of a bright
+      <a href="ap231112.html">
+       gibbous Moon
+      </a>
+      .   The most active of these showers, the
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/">
+       Perseids
+      </a>
+      , will be busiest in about 10 days --  after
+      <a href="https://svs.gsfc.nasa.gov/5587/">
+       the Moon
+      </a>
+      has dimmed considerably.   This year, the
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/">
+       Perseids peak
+      </a>
+      nearly coincides with not only a
+      <a href="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/m/moon_phases.png">
+       new Moon
+      </a>
+      , but, from some locations, one that
+      <a href="ap240310.html">
+       totally eclipses
+      </a>
+      the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/02
   </summary>
   <table>
@@ -18,8 +132,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260802.html">
+      https://apod.nasa.gov/apod/ap260802.html
      </a>
     </td>
    </tr>
