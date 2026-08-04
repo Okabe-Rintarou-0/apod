@@ -5,6 +5,118 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What causes unusual knots of gas and dust in
+      <a href="https://en.wikipedia.org/wiki/Planetary_nebula">
+       planetary nebulas
+      </a>
+      ?   Seen also in the
+      <a href="ap230814.html">
+       Ring Nebula
+      </a>
+      , the
+      <a href="ap260622.html">
+       Dumbbell Nebula
+      </a>
+      and
+      <a href="ap060709.html">
+       NGC 2392
+      </a>
+      ,  the knots' existence was not initially predicted, and their origins are still
+      <a href="https://dogwithblog.in/wp-content/uploads/2014/08/head-tilt-flappy-ears.jpg">
+       not well understood
+      </a>
+      .   Pictured
+      <a href="https://science.nasa.gov/asset/webb/helix-nebula-nircam/">
+       here
+      </a>
+      is a fascinating image of
+      <a href="https://science.nasa.gov/asset/webb/helix-nebula-context-vista-and-webb/">
+       part
+      </a>
+      of the
+      <a href="ap250729.html">
+       Helix Nebula
+      </a>
+      by the
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      showing tremendous detail in
+      <a href="https://science.nasa.gov/ems/07_infraredwaves/">
+       infrared light
+      </a>
+      .  The cometary knots have masses similar to the
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      but have sizes typically several times the orbit of Pluto.
+      <a href="https://ui.adsabs.harvard.edu/abs/1996AJ....111.1630O/abstract">
+       One hypothesis
+      </a>
+      for the fragmentation and  evolution of the knots includes existing gas being
+      <a href="https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Taylor_instability">
+       driven out
+      </a>
+      by a less dense but highly energetic
+      <a href="https://en.wikipedia.org/wiki/Stellar_wind">
+       stellar wind
+      </a>
+      of the central evolving star.   The
+      <a href="https://en.wikipedia.org/wiki/Helix_Nebula">
+       Helix Nebula
+      </a>
+      is one of the closest examples of a
+      <a href="https://esahubble.org/wordbank/planetary-nebula/">
+       planetary nebula
+      </a>
+      created at the end of the
+      <a href="https://science.nasa.gov/resource/the-life-cycle-of-a-sun-like-star-annotated/">
+       life of a Sun-like star
+      </a>
+      .   Given a technical designation of NGC 7293, the
+      <a href="https://science.nasa.gov/asset/webb/helix-nebula-mini-poster/">
+       Helix Nebula
+      </a>
+      lies about 650
+      <a href="https://spaceplace.nasa.gov/light-year/en/">
+       light-year
+      </a>
+      s away towards the constellation of Water Carrier  (
+      <a href=" https://en.wikipedia.org/wiki/Aquarius_(constellation)">
+       Aquarius
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/03
   </summary>
   <table>
@@ -18,8 +130,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260803.html">
+      https://apod.nasa.gov/apod/ap260803.html
      </a>
     </td>
    </tr>
