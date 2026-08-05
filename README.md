@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long,  so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and disappears as
+      <a href="https://science.nasa.gov/resource/saturns-rings-2/">
+       Saturn’s B ring
+      </a>
+      rotates. Decades of observation with
+      <a href="https://science.nasa.gov/resource/ring-spokes-4/">
+       Voyager 2
+      </a>
+      ,
+      <a href="https://science.nasa.gov/image-article/apod-2009-june-2-spokes-reappear-on-saturns-rings/">
+       Cassini
+      </a>
+      , and
+      <a href="https://science.nasa.gov/video-detail/hubble-saturn-oct2023-stsci-01hgxkq49bmac02hcazdvkea3f/">
+       Hubble
+      </a>
+      show the appearance of Saturn’s spokes varies with
+      <a href="https://www.planetary.org/space-images/saturns-seasons">
+       the planet’s seasons
+      </a>
+      .  Like Earth, Saturn’s
+      <a href="https://www.youtube.com/watch?v=46G1foTIivo">
+       spin axis
+      </a>
+      is tilted compared to the plane of its orbit around the Sun. During Saturn’s
+      <a href="https://education.nationalgeographic.org/resource/equinox/">
+       equinox
+      </a>
+      ,  the rings are
+      <a href="https://science.nasa.gov/image-article/apod-2025-november-16-crossing-saturns-ring-plane/">
+       less tilted
+      </a>
+      away from the Sun and the planet receives more evenly distributed sunlight and
+      <a href="https://science.nasa.gov/sun/what-is-the-solar-wind/">
+       solar wind
+      </a>
+      .  Although their origin is still uncertain, Saturn’s spokes may be shadows of and reflections off of  dust and ice levitating above the rings caused by
+      <a href="https://science.nasa.gov/universe/overview/forces/#electromagnetic-force">
+       electromagnetic
+      </a>
+      interactions between the solar wind and the planet’s magnetic field.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/04
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260804.html">
+      https://apod.nasa.gov/apod/ap260804.html
      </a>
     </td>
    </tr>
