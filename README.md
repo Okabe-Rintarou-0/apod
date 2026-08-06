@@ -5,6 +5,101 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_1901.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What does the new sharpest image of our Sun show?  Instability.  To be clear, a certain kind of interactive process called the
+      <a href="https://en.wikipedia.org/wiki/Kelvin%E2%80%93Helmholtz_instability">
+       Kelvin-Helmholtz instability
+      </a>
+      (KHI).  This instability can create
+      <a href="https://www.bbc.com/news/world-us-canada-63912257">
+       waves and swirls
+      </a>
+      when two streams flow past each other --  in this case variable streams of
+      <a href="https://science.nasa.gov/learn/heat/big-ideas/big-idea-3-1/">
+       solar magnetic plasma
+      </a>
+      .  Long hypothesized to occur on the
+      <a href="https://apod.nasa.gov/apod/ap240615.html">
+       Sun's surface
+      </a>
+      ,  KHI streaks and swirls were confirmed in  just-released dramatic high-resolution  images taken recently by the
+      <a href="https://nso.edu/telescopes/inouye-solar-telescope/">
+       Inouye Solar
+      </a>
+      <a href="https://youtu.be/vN8cnN7Nlh4">
+       Telescope
+      </a>
+      in
+      <a href="https://youtu.be/YPVLrSjKlh8">
+       Hawaii
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      .   The
+      <a href="https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/">
+       featured false-yellow image
+      </a>
+      , actually taken in deep blue,  is the highest resolution image yet of
+      <a href="https://apod.nasa.gov/apod/ap251207.html">
+       the Sun
+      </a>
+      in
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       visible light
+      </a>
+      .  It spans about the radius of
+      <a href="https://apod.nasa.gov/apod/ap260322.html">
+       the Earth
+      </a>
+      , but its finest details are city sized.   Visible are several smooth tops of
+      <a href="https://apod.nasa.gov/apod/ap200203.html">
+       changing solar granules
+      </a>
+      , while the edges of the flower-like  structures have been found to harbor multiple
+      <a href="https://scied.ucar.edu/image/kelvin-helmholtz-clouds">
+       KHI swirls
+      </a>
+      .
+      <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdooSerHyBwFsDYNPLDPzuJNwiZ7D_x8TKWp3KvPAQA&amp;s=10">
+       Future research
+      </a>
+      may investigate how the KHI helps move energy,  magnetic fields, and may even heat the surrounding
+      <a href="https://apod.nasa.gov/apod/ap230516.html">
+       solar corona
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/05
   </summary>
   <table>
@@ -18,8 +113,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260805.html">
+      https://apod.nasa.gov/apod/ap260805.html
      </a>
     </td>
    </tr>
