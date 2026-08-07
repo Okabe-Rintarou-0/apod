@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/noirlab2618b.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      There are more than
+      <a href="https://noirlab.edu/public/news/noirlab2618/">
+       half a million galaxies
+      </a>
+      in the central panel of this
+      <a href="https://noirlab.edu/public/images/noirlab2618b/">
+       image
+      </a>
+      from the
+      <a href="https://rubinobservatory.org/">
+       NSF-DOE Vera C. Rubin Observatory
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Chile">
+       Chile
+      </a>
+      .      This is the
+      <a href="https://en.wikipedia.org/wiki/COSMOS_field">
+       COSMOS field
+      </a>
+      , a patch of sky several times larger than the
+      <a href="https://apod.nasa.gov/apod/ap251110.html">
+       full moon
+      </a>
+      , first observed by
+      <a href="https://science.nasa.gov/mission/hubble/">
+       Hubble
+      </a>
+      .      It has also been observed by
+      <a href="https://science.nasa.gov/mission/webb/">
+       Webb
+      </a>
+      and other telescopes because it contains comparatively few bright
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      from our own galaxy, offering a relatively unimpeded view of other galaxies outside the
+      <a href="https://lco.global/spacebook/galaxies/the-milky-way-galaxy/">
+       Milky Way
+      </a>
+      .      The outer panels, numbered 1-10, show
+      <a href="https://noirlab.edu/public/images/noirlab2618b/zoomable/">
+       zoomed-in views
+      </a>
+      of the corresponding small regions highlighted in the central panel.      The variety of galaxy shapes and sizes is
+      <a href="https://images.unsplash.com/photo-1656340968218-f70f79d042a1">
+       astonishing
+      </a>
+      .      Some of them are so far away that their light has traveled for
+      <a href="https://esahubble.org/science/age_size/">
+       billions of years
+      </a>
+      before reaching Earth.      Rubin will come back
+      <a href="https://survey-strategy.lsst.io/baseline/ddf.html">
+       every couple of days
+      </a>
+      to the COSMOS field as part of its ten-year
+      <a href="https://rubinobservatory.org/news/action-rubin-lsst-begins">
+       Legacy Survey of Space and Time
+      </a>
+      .      It will allow a dynamic view of the COSMOS field and how the sky changes over time.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/06
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260806.html">
+      https://apod.nasa.gov/apod/ap260806.html
      </a>
     </td>
    </tr>
