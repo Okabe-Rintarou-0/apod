@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/08
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Which of these is
+      <a href="ap241005.html">
+       not a comet
+      </a>
+      ?  You guessed it - the one on the right is a globular star cluster.  The diffuse greenish coma of periodic comet
+      <a href="https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=10P">
+       10P/Tempel 2
+      </a>
+      is at left in the frame.  In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer
+      <a href="https://science.nasa.gov/people/explore-the-night-sky-hubbleatms-messier-catalog-bio/">
+       Charles Messier's
+      </a>
+      catalog of things which are not comets.  The well-known 18th century astronomer kept a list of objects he observed, now his famous Messier
+      <a href="https://en.wikipedia.org/wiki/Messier_object">
+       Catalogue of Nebulae and Star Clusters
+      </a>
+      , which did not move from night to night against the background stars and so were not the comets he was hunting for.  So the famous comet hunter would get the correct answer too, even though his telescope would show both 10P/Tempel 2 and distant star cluster as similar looking faint and fuzzy objects in his field of view.  Recorded on July 29, this modern telescopic image
+      <a href="https://app.astrobin.com/i/bp809n?r=0">
+       captures periodic comet Tempel 2
+      </a>
+      as it briefly swept close on the sky to M30.  While the periodic comet's faint, narrow,
+      <a href="ap260717.html">
+       orbital dust trail
+      </a>
+      seems to pierce the globular star cluster, Tempel 2 was a mere 3.5 light-minutes away.
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-30/">
+       Messier 30
+      </a>
+      is some 28,000 light-years distant.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/07
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260807.html">
+      https://apod.nasa.gov/apod/ap260807.html
      </a>
     </td>
    </tr>
