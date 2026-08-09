@@ -5,6 +5,110 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/09
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_1024.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Have you contemplated your home star recently?   Featured here, a
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      partially eclipsed on the top left by the Moon  is also seen eclipsed by
+      <a href="https://apod.nasa.gov/apod/ap190818.html">
+       earthlings
+      </a>
+      contemplating the eclipse below.   This
+      <a href="https://asterisk.apod.com/viewtopic.php?f=29&amp;t=28633&amp;start=25#p176102">
+       spectacular menagerie
+      </a>
+      of silhouettes was taken in 2012 from the
+      <a href="https://www.nps.gov/glca/index.htm">
+       Glen Canyon National Recreation Area
+      </a>
+      near
+      <a href="https://youtu.be/0NX1zt70ats">
+       Page
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Arizona">
+       Arizona
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_States">
+       USA
+      </a>
+      ,  where park rangers and astronomers
+      <a href="https://dogsbestlife.com/wp-content/uploads/2017/09/training-multiple-dogs.jpg">
+       expounded
+      </a>
+      on the
+      <a href="https://apod.nasa.gov/apod/ap240303.html">
+       unusual event
+      </a>
+      to interested gatherers.   Also, faintly visible on the Sun's disk,  just to the lower right of the dark Moon's disk, is a
+      <a href="https://apod.nasa.gov/apod/ap260628.html">
+       group of sunspots
+      </a>
+      .   A
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/">
+       new solar eclipse
+      </a>
+      will occur this week and give many people in
+      <a href="https://svs.gsfc.nasa.gov/5647">
+       northern North America, Europe, and northwestern Africa
+      </a>
+      a new chance to contemplate a
+      <a href="https://apod.nasa.gov/apod/ap230910.html">
+       partially eclipsed Sun
+      </a>
+      .  A thin swath of
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth
+      </a>
+      from
+      <a href="https://svs.gsfc.nasa.gov/5647">
+       Greenland to Portugal
+      </a>
+      will further experience a
+      <a href="https://apod.nasa.gov/apod/ap170820.html">
+       total solar eclipse
+      </a>
+      .  An open question is whether any
+      <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/08/05/summer-star-shower-watch-the-perseids-with-nasa/">
+       meteors
+      </a>
+      from the peaking
+      <a href="https://apod.nasa.gov/apod/ap200810.html">
+       Perseids
+      </a>
+      will be visible during totality.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/08
   </summary>
   <table>
@@ -18,8 +122,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260808.html">
+      https://apod.nasa.gov/apod/ap260808.html
      </a>
     </td>
    </tr>
