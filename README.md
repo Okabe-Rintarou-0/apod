@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_2784.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Each of these pairs of galaxies is different.   The two
+      <a href="https://science.nasa.gov/universe/galaxies/">
+       galaxies
+      </a>
+      at the top are likely
+      <a href="https://c8.alamy.com/comp/2BC0K5D/two-cats-sitting-in-safe-social-distance-separated-by-an-open-drainage-channel-in-the-street-with-natural-stone-paving-in-a-greek-village-cyclades-2BC0K5D.jpg">
+       not interacting
+      </a>
+      , at least presently.   However, the top galaxy with the blue stripe,
+      <a href="https://apod.nasa.gov/apod/ap990510.html">
+       NGC 4650A
+      </a>
+      , is a
+      <a href="https://en.wikipedia.org/wiki/Polar-ring_galaxy">
+       polar ring galaxy
+      </a>
+      and may be the result of a past
+      <a href="https://apod.nasa.gov/apod/ap130514.html">
+       galaxy collision
+      </a>
+      .  The two galaxies in the middle of the
+      <a href="https://www.instagram.com/p/DZIts5qua6c/">
+       featured image
+      </a>
+      appear like they could be
+      <a href="https://en.wikipedia.org/wiki/Tidal_force">
+       interacting gravitationally
+      </a>
+      -- but their
+      <a href="https://ui.adsabs.harvard.edu/abs/1993A%26AS..100...47G/abstract">
+       relative speeds
+      </a>
+      make this unlikely.   Of these two, the larger galaxy,
+      <a href="https://de.wikipedia.org/wiki/NGC_4650">
+       NGC 4650
+      </a>
+      , is a
+      <a href="https://science.nasa.gov/universe/galaxies/types/">
+       spiral galaxy
+      </a>
+      with a
+      <a href="https://apod.nasa.gov/apod/ap260517.html">
+       bright bar of stars
+      </a>
+      across its center.   The two galaxies at the bottom are
+      <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1gT_9ubUKcbFl8gNYAM1qF3muKpNh0HFlE9rl1cLFC-dJH1jh-WTH-aE&amp;s=10">
+       actively interacting
+      </a>
+      .   Possibly in a billion years or so, NGC 4622A and NGC 4622B will
+      <a href="https://apod.nasa.gov/apod/ap220606.html">
+       merge
+      </a>
+      and become one single galaxy.  All of these galaxies are likely members of the larger
+      <a href="https://en.wikipedia.org/wiki/Centaurus_Cluster">
+       Centaurus Galaxy Cluster
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/09
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260809.html">
+      https://apod.nasa.gov/apod/ap260809.html
      </a>
     </td>
    </tr>
