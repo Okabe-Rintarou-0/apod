@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/12
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      It looks like a view from the
+      <a href="https://en.wikipedia.org/wiki/The_Little_Prince">
+       Little Prince
+      </a>
+      's planet.      The
+      <a href="https://www.instagram.com/p/DFQUjv5sEVU/">
+       featured image
+      </a>
+      is a throwback to the
+      <a href="https://apod.nasa.gov/apod/ap250812.html">
+       2024 Perseid meteor shower
+      </a>
+      , surrounded in this
+      <a href="https://paulbourke.net/panorama/littleplanet/">
+       projection
+      </a>
+      by the
+      <a href="https://www.youtube.com/watch?v=marHFTga9r8">
+       Bieszczady Mountains
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Poland">
+       Poland
+      </a>
+      .      Visible in the sky is the arch of the
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html">
+       Milky Way
+      </a>
+      , along with several
+      <a href="https://science.nasa.gov/universe/stories/quick-reads/decoding-nebulae/">
+       nebulas
+      </a>
+      in red and over a hundred meteors pointing to the
+      <a href="https://en.wikipedia.org/wiki/Radiant_(meteor_shower)">
+       radiant
+      </a>
+      .          The Perseids are
+      <a href="https://www.planetary.org/articles/your-guide-meteor-shower">
+       easily visible
+      </a>
+      and quite popular in the Northern Hemisphere summer. (Watching meteor showers in the winter is less convenient for a
+      <a href="https://images.unsplash.com/photo-1433162653888-a571db5ccccf">
+       good reason
+      </a>
+      ).          This year they are expected to offer an even more dazzling spectacle than usual, because the
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/">
+       peak
+      </a>
+      coincides with a
+      <a href="https://apod.nasa.gov/apod/ap221001.html">
+       new moon
+      </a>
+      .      The 2026 Perseid meteor shower will peak tonight with as many as
+      <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/08/05/summer-star-shower-watch-the-perseids-with-nasa/">
+       50-100 meteors per hour
+      </a>
+      , when the Earth's path crosses through debris left behind by
+      <a href="https://science.nasa.gov/solar-system/comets/109p-swift-tuttle/">
+       Comet Swift-Tuttle
+      </a>
+      .      Typically, the
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/">
+       best times
+      </a>
+      for seeing the meteors are between midnight and pre-dawn.      You won't need binoculars to
+      <a href="https://mcdonaldobservatory.org/meteor-showers/">
+       see the meteors
+      </a>
+      , but a lawn chair and a dark sky location help.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/11
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260811.html">
+      https://apod.nasa.gov/apod/ap260811.html
      </a>
     </td>
    </tr>
