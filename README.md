@@ -5,6 +5,65 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven.jpeg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/">
+       On August 12
+      </a>
+      , the Moon's shadow reached out to touch our fair planet.  Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and
+      <a href="ap260813.html">
+       northern Spain
+      </a>
+      .  And for a moment,
+      <a href="https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884">
+       denizens of Earth
+      </a>
+      who found themselves with clear skies under the shadow of the Moon could witness a total solar eclipse.  After dodging the weather by sea and making a landing along Rype Fjord on the Greenland east coast (at 71.07055N, 27.71252W), this hard-won snapshot was captured at 17:33:26 UTC.  That's near the initial reach of clearing skies along
+      <a href="https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/">
+       the path of totality
+      </a>
+      , so the image is likely one of the first unobstructed views of the
+      <a href="https://science.nasa.gov/eclipses/geometry/">
+       totally eclipsed Sun
+      </a>
+      .  Through a break in the clouds, the stunning photo also records one of this eclipse's
+      <a href="ap240420.html">
+       transient diamond rings
+      </a>
+      and the
+      <a href="ap250612.html">
+       magnificent solar corona
+      </a>
+      emerging near the moment totality began.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/12
   </summary>
   <table>
@@ -18,8 +77,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260813.html">
+      https://apod.nasa.gov/apod/ap260813.html
      </a>
     </td>
    </tr>
