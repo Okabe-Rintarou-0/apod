@@ -5,6 +5,98 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_1800.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The Milky Way was not created by an evaporating lake.   The colorful pool of water, about 10 meters across, is known as
+      <a href="https://www.nps.gov/features/yell/tours/fountainpaint/silexspring.htm">
+       Silex Spring
+      </a>
+      and is located in
+      <a href="http://www.yellowstone.co/pdfs/ytsummer2011.pdf">
+       Yellowstone National Park
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Wyoming">
+       Wyoming
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States">
+       USA
+      </a>
+      .   Illuminated artificially, the colors are caused by layers of
+      <a href="https://oceanservice.noaa.gov/facts/extremophile.html">
+       bacteria
+      </a>
+      that grow in the
+      <a href="https://goo.gl/maps/ZcydY">
+       hot spring
+      </a>
+      .   Steam rises off
+      <a href="https://youtu.be/9jQNg_q-KzY">
+       the spring
+      </a>
+      , heated by underground
+      <a href="https://astrobiology.nasa.gov/news/the-magma-ocean-and-us/">
+       magma
+      </a>
+      associated with the
+      <a href="https://en.wikipedia.org/wiki/Yellowstone_hotspot">
+       Yellowstone Hotspot
+      </a>
+      .   Unrelated and far in the distance, the
+      <a href="https://apod.nasa.gov/apod/ap110710.html">
+       central band
+      </a>
+      of our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Milky Way Galaxy
+      </a>
+      arches high overhead, a band lit by billions of stars.   The picture features a 16-image panorama taken in 2014.   If the
+      <a href="https://www.usgs.gov/observatories/yvo/news/just-how-long-has-yellowstone-hotspot-been-around">
+       Yellowstone Hotspot
+      </a>
+      causes
+      <a href="https://imgur.com/EzwC34o">
+       another supervolcanic eruption
+      </a>
+      as it did about
+      <a href="https://en.wikipedia.org/wiki/Lava_Creek_Tuff">
+       640,000 years ago
+      </a>
+      , a
+      <a href="https://www.usgs.gov/faqs/what-would-happen-if-a-supervolcano-eruption-occurred-again-yellowstone">
+       large part of North America
+      </a>
+      would be affected.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/15
   </summary>
   <table>
@@ -18,8 +110,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260815.html">
+      https://apod.nasa.gov/apod/ap260815.html
      </a>
     </td>
    </tr>
