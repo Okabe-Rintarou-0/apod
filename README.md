@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_1751.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This total solar eclipse appeared not only poetically beautiful but scientifically interesting.   Usually the
+      <a href="https://apod.nasa.gov/apod/ap230516.html">
+       solar corona
+      </a>
+      appears white, and to  some observers the corona of last week's total solar eclipse did appear
+      <a href="https://apod.nasa.gov/apod/ap260814.html">
+       this pearly color
+      </a>
+      .   But this time, totality observers in Spain saw a corona that appeared unusually golden.   For one reason, from
+      <a href="https://en.wikipedia.org/wiki/Spain">
+       Spain
+      </a>
+      ,  the totality occurred when the setting Sun was near the horizon.   That low, sunlight travels through a large amount of
+      <a href="https://www.optics4kids.org/what-is-optics/scattering/why-is-the-sky-blue-why-are-sunsets-red">
+       air which scatters
+      </a>
+      out blue light.  An unusual amount of
+      <a href="https://media.istockphoto.com/id/1215895183/photo/portrait-of-a-ginger-cat-the-cat-in-the-medical-face-mask-outdoors-medical-concept.jpg">
+       smoke in the air
+      </a>
+      from nearby
+      <a href="https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-5.9,35.0,3.1z">
+       forest fires
+      </a>
+      acted as a second filter,
+      <a href="https://apod.nasa.gov/apod/ap260730.html">
+       further scattering
+      </a>
+      the  remaining blue tones and deepening the already gold-dominated
+      <a href="https://science.nasa.gov/ems/09_visiblelight/">
+       light
+      </a>
+      .  The
+      <a href="https://en.wikipedia.org/wiki/High_dynamic_range">
+       HDR
+      </a>
+      -processed, multiple-exposure
+      <a href="https://www.instagram.com/p/Db_yz70jS86/">
+       featured image
+      </a>
+      was captured from
+      <a href="https://youtu.be/GqtSSkrpk6E">
+       Benavente
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/Spain">
+       Spain
+      </a>
+      last week.   One thing that did not appear golden was a
+      <a href="https://en.wikipedia.org/wiki/Hydrogen-alpha">
+       hydrogen
+      </a>
+      -glowing
+      <a href="https://apod.nasa.gov/apod/ap230801.html">
+       prominence
+      </a>
+      that hovered over the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      's left edge --  its original
+      <a href="https://apod.nasa.gov/apod/ap170912.html">
+       bright pink
+      </a>
+      color survived.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/16
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260816.html">
+      https://apod.nasa.gov/apod/ap260816.html
      </a>
     </td>
    </tr>
