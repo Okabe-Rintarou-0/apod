@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/Perseids_karuk_3000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This was a good year for the
+      <a href="https://science.nasa.gov/solar-system/meteors-meteorites/perseids/">
+       Perseids meteor shower
+      </a>
+      .   A key reason was
+      <a href="https://apod.nasa.gov/apod/ap220612.html">
+       the Moon
+      </a>
+      was absent from lighting up
+      <a href="https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/">
+       Earth's night sky
+      </a>
+      so that
+      <a href="https://apod.nasa.gov/apod/ap240812.html">
+       more meteors
+      </a>
+      were visible than usual.   Where was the Moon?   It was busy
+      <a href="https://apod.nasa.gov/apod/ap170920.html">
+       visiting the Sun
+      </a>
+      .   Near the Perseids peak, the Moon moved directly in front of the Sun and created a total
+      <a href="https://spaceplace.nasa.gov/eclipse-snap/en/">
+       solar eclipse
+      </a>
+      visible from
+      <a href="https://apod.nasa.gov/apod/ap260814.html">
+       Greenland
+      </a>
+      and
+      <a href="https://apod.nasa.gov/apod/ap260813.html">
+       Spain
+      </a>
+      .  The
+      <a href="https://en.wikipedia.org/wiki/Perseids">
+       Perseids
+      </a>
+      occur when the Earth collides with a
+      <a href="https://apod.nasa.gov/apod/ap240811.html">
+       stream of Sun-orbiting debris
+      </a>
+      cast off by
+      <a href="https://apod.nasa.gov/apod/ap240808.html">
+       Comet Swift-Tuttle
+      </a>
+      .  Perseid meteors, although typically only the size of a
+      <a href="https://www.whoi.edu/ocean-learning-hub/ocean-facts/how-is-beach-sand-created/">
+       sand
+      </a>
+      grain,  tend to be fast and bright because Swift-Tuttle's debris orbits
+      <a href="https://science.nasa.gov/sun/">
+       the Sun
+      </a>
+      in a
+      <a href="https://static.vecteezy.com/system/resources/thumbnails/072/246/507/small/two-playful-puppies-having-fun-in-a-sunny-garden-showcasing-their-energy-and-joy-together-photo.jpeg">
+       direction partly opposite
+      </a>
+      Earth's orbital motion.  In the
+      <a href="https://www.instagram.com/p/DcDiPkTO_me/">
+       featured image
+      </a>
+      compilation, accumulated over several nights from
+      <a href="https://youtu.be/we1CzbCIdRQ">
+       Jizerka
+      </a>
+      in the
+      <a href="https://en.wikipedia.org/wiki/Czech_Republic">
+       Czech Republic
+      </a>
+      , the Perseids meteor streaks can be traced back to a single location on the sky -- its
+      <a href="https://en.wikipedia.org/wiki/Radiant_(meteor_shower)">
+       radiant
+      </a>
+      in
+      <a href="ap250812.html">
+       Perseus
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/17
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260817.html">
+      https://apod.nasa.gov/apod/ap260817.html
      </a>
     </td>
    </tr>
