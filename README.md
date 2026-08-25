@@ -5,6 +5,112 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/25
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_4000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What’s creating this giant hole in space?  This is not a
+      <a href="https://science.nasa.gov/universe/black-holes/">
+       black hole
+      </a>
+      — it’s a shadow.   It’s
+      <a href="https://apod.nasa.gov/apod/ap080820.html">
+       Earth’s shadow
+      </a>
+      .   Since at least the time of
+      <a href="https://iep.utm.edu/aristotle/">
+       Aristotle
+      </a>
+      ,  people have noted that
+      <a href="https://www.nasa.gov/image-article/diagram-of-umbra-penumbra/">
+       Earth's dark shadow
+      </a>
+      on the  Moon during a partial
+      <a href="https://spaceplace.nasa.gov/eclipses/en/">
+       lunar eclipse
+      </a>
+      is circular -- although never a
+      <a href="https://www.geogebra.org/m/k43yRhne">
+       whole circle
+      </a>
+      .   Using
+      <a href="https://www.ocf.berkeley.edu/%7Eviettran/images/computerold.jpg">
+       modern digital technology
+      </a>
+      , though,  the images of multiple
+      <a href="https://science.nasa.gov/image-article/apod-2026-march-1-the-moon-during-a-total-lunar-eclipse/">
+       lunar eclipse
+      </a>
+      s can be combined to show Earth's complete shadow.   The
+      <a href="https://www.facebook.com/groups/102812519755531/posts/4499680406735365/">
+       featured image compilation
+      </a>
+      by a perseistent astrophotographer is constructed from 22 years of lunar eclipses.
+      <a href="https://science.nasa.gov/moon/">
+       The Moon
+      </a>
+      is not  eclipsed every month  (
+      <a href="https://www.britishmuseum.org/blog/whats-name-months-year">
+       moon-th
+      </a>
+      ) because the
+      <a href="https://svs.gsfc.nasa.gov/5326/">
+       Moon's orbit
+      </a>
+      is
+      <a href="https://cdn.pixabay.com/photo/2026/01/23/12/21/hairless-dog-10084356_1280.jpg">
+       slightly tilted
+      </a>
+      relative to Earth's orbit.   Close inspection of some lunar eclipse images shows a
+      <a href="https://apod.nasa.gov/apod/ap250911.html">
+       faint
+      </a>
+      <a href="https://apod.nasa.gov/apod/ap250325.html">
+       blue
+      </a>
+      <a href="https://apod.nasa.gov/apod/ap211201.html">
+       band
+      </a>
+      where
+      <a href="https://www.nasa.gov/general/what-is-earths-atmosphere/">
+       Earth’s atmosphere
+      </a>
+      filters out more red sunlight than blue.   Later this week, a
+      <a href="https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/">
+       new lunar eclipse
+      </a>
+      will occur and will be
+      <a href="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/august/20260717%20Whats%20Up%20August%202026%20WHATSUp_11.jpg">
+       best visible
+      </a>
+      in parts of North and South America, Europe, and Africa.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/24
   </summary>
   <table>
@@ -18,8 +124,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260824.html">
+      https://apod.nasa.gov/apod/ap260824.html
      </a>
     </td>
    </tr>
