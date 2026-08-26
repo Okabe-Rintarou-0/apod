@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Are we looking at the future of our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      ?  The
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      captured
+      <a href="https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/">
+       today’s composite image
+      </a>
+      of the Lion’s Head Nebula  (
+      <a href="https://apod.nasa.gov/apod/ap200216.html">
+       NGC 2392
+      </a>
+      )  with its
+      <a href="https://science.nasa.gov/mission/webb/nircam/">
+       NIRCam
+      </a>
+      and
+      <a href="https://science.nasa.gov/mission/webb/mid-infrared-instrument-miri/">
+       MIRI
+      </a>
+      instruments. The Lion’s Head Nebula is the
+      <a href="https://science.nasa.gov/asset/webb/life-cycles-of-sun-like-and-massive-stars/">
+       remnant of a Sun-like star
+      </a>
+      .  This star was unable to sustain the
+      <a href="https://science.nasa.gov/universe/stars/#life">
+       nuclear fusion
+      </a>
+      in its core needed to remain stable. It began to shed layers of gas and dust into space,  forming this
+      <a href="https://esahubble.org/wordbank/planetary-nebula/">
+       planetary nebula
+      </a>
+      .  A hot stellar core, called a
+      <a href="https://imagine.gsfc.nasa.gov/science/objects/dwarfs1.html">
+       white dwarf
+      </a>
+      ,  is left behind within the lion’s nose. Do not
+      <a href="https://www.instagram.com/reels/DVRSVzOjDXp/">
+       boop
+      </a>
+      this nose! Intense radiation from the white dwarf is
+      <a href="https://astronomy.swin.edu.au/cosmos/*/Ionisation">
+       ionizing
+      </a>
+      the gas as it expands, creating the irregular bubble that makes up the lion’s face.
+      <a href="https://apod.nasa.gov/apod/ap260804.html">
+       Dust clumps
+      </a>
+      that have survived the white dwarf’s radiation and a cloud of ionized gas make up the lion’s mane. This
+      <a href="https://apod.nasa.gov/apod/ap000124.html">
+       new and more detailed view
+      </a>
+      of the nebula will help humanity learn more about how the gas and dust interact with each other and the white dwarf radiation.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/25
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260825.html">
+      https://apod.nasa.gov/apod/ap260825.html
      </a>
     </td>
    </tr>
