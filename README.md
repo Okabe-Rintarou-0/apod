@@ -5,6 +5,90 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/27
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.          This image was taken in a single
+      <a href="https://www.instagram.com/p/DcBX5OcTMqH/">
+       5 second exposure
+      </a>
+      by the photographer in April 2025.      Seeing an
+      <a href="https://science.nasa.gov/sun/auroras/">
+       aurora
+      </a>
+      is on many people's bucket lists.      But it is not easy.      It requires high
+      <a href="https://www.spaceweather.gov/products/solar-cycle-progression">
+       solar activity
+      </a>
+      , dark and clear skies, and usually a viewing location at high latitude.      That makes the northern lights more easily seen than the corresponding
+      <a href="https://apod.nasa.gov/apod/ap240913.html">
+       southern lights
+      </a>
+      , simply because there is less landmass in the Southern Hemisphere, especially
+      <a href="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/kids/nasa-kids-science/earth/which-pole-is-colder/south-pole.png">
+       around the Antarctic Circle
+      </a>
+      .      Auroras are caused by charged particles from the
+      <a href="https://science.nasa.gov/resource/the-solar-wind-across-our-solar-system/">
+       solar wind
+      </a>
+      that are captured by the Earth's
+      <a href="https://science.nasa.gov/science-research/earth-science/earths-magnetosphere-protecting-our-planet-from-harmful-space-energy/">
+       magnetosphere
+      </a>
+      and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the
+      <a href="https://www.nasa.gov/general/what-is-earths-atmosphere/">
+       atmosphere
+      </a>
+      .      Different colors indicate interactions with different gases at
+      <a href="https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/itm/what-gives-aurora-colors.png">
+       different altitudes
+      </a>
+      , like oxygen (
+      <a href="https://apod.nasa.gov/apod/ap240512.html">
+       red
+      </a>
+      and
+      <a href="https://apod.nasa.gov/apod/ap240522.html">
+       green
+      </a>
+      ) and nitrogen (
+      <a href="https://apod.nasa.gov/apod/ap241223.html">
+       blue
+      </a>
+      and
+      <a href="https://apod.nasa.gov/apod/ap120725.html">
+       pink
+      </a>
+      ).
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/26
   </summary>
   <table>
@@ -18,8 +102,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260826.html">
+      https://apod.nasa.gov/apod/ap260826.html
      </a>
     </td>
    </tr>
