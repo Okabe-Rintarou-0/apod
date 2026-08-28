@@ -5,6 +5,70 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/28
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      At the latitude of ESO's
+      <a href="https://www.eso.org/public/teles-instr/paranal-observatory/">
+       Paranal Observatory
+      </a>
+      in Chile, about 25 degrees south,
+      <a href="https://science.nasa.gov/earth/facts/">
+       Earth's
+      </a>
+      rotation moves the planet's surface eastward at over 1,500 kilometers per hour.  And while that's faster than the
+      <a href="ap070819.html">
+       speed of sound
+      </a>
+      at sea level, the motion is
+      <a href="ap070519.html">
+       imperceptible
+      </a>
+      .  Still, that motion can be revealed in the
+      <a href="https://science.nasa.gov/earth/earth-observatory/stars-in-motion-147990/">
+       apparent rotation
+      </a>
+      of the night sky by
+      <a href="https://www.facebook.com/groups/nightscaper/posts/4166288700348691/">
+       photographing
+      </a>
+      star trails.  This star trail image was composed from a digital stack of 300 consecutive 25-second exposures made with a camera fixed to a tripod to trace the star trail arcs.  The graceful arcs are concentric and centered at the south
+      <a href="https://science.nasa.gov/learn/basics-of-space-flight/chapter2-2/">
+       celestial pole
+      </a>
+      , the southern hemisphere extension of Earth's axis of rotation into space.  One of the observatory's operating 1.8 meter auxiliary telescopes,
+      <a href="ap240504.html">
+       AT 3
+      </a>
+      , appears beneath the south celestial pole, faintly illuminated in the foreground of this well-planned scene from a rotating planet.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/27
   </summary>
   <table>
@@ -18,8 +82,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260827.html">
+      https://apod.nasa.gov/apod/ap260827.html
      </a>
     </td>
    </tr>
