@@ -5,6 +5,77 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/08/29
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/astronomy-essentials/definition-what-is-an-eclipse-season/">
+       Eclipses tend to come in pairs.
+      </a>
+      Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align.  Then the new and full
+      <a href="https://science.nasa.gov/moon/moon-phases/">
+       phases of the Moon
+      </a>
+      , separated by just over 14 days, create a solar and a lunar eclipse.  But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to produce a pair with both total solar and lunar eclipses.  More often, partial eclipses are part of any eclipse season.  But, the last eclipse season of 2026 did produce this fortnight-separated pairing of a
+      <a href="https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/">
+       total solar eclipse
+      </a>
+      on August 12 (top) and an
+      <i>
+       almost
+      </i>
+      total lunar eclipse on the night of August 27/28.  At New Moon, the solar eclipse was captured at Peñafiel, Spain near the begining of totality in this HDR composite image, revealing a flash of
+      <a href="https://earthsky.org/space/this-date-in-science-bailys-beads-discovered/">
+       Bailey's beads
+      </a>
+      and a
+      <a href="ap260817.html">
+       golden
+      </a>
+      solar corona.  At the following Full Moon, the deep
+      <a href="ap240920.html">
+       partial lunar eclipse
+      </a>
+      was recorded from Sèvres, France.  Also an HDR composite, the image shows
+      <a href="https://www.facebook.com/media/set/?vanity=APOD.Sky&amp;set=a.1063776469684263">
+       this partial eclipse
+      </a>
+      at closer to half its 93 percent maximum phase, so about half the visible lunar disk appears darkened and reddened within Earth's
+      <a href="ap250911.html">
+       umbral
+      </a>
+      shadow.  The coming
+      <a href="https://www.timeanddate.com/eclipse/2027">
+       eclipse season
+      </a>
+      will see an annular solar eclipse on 2027 February 6 paired with a penumbral lunar eclipse on February 20/21.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/28
   </summary>
   <table>
@@ -18,8 +89,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260828.html">
+      https://apod.nasa.gov/apod/ap260828.html
      </a>
     </td>
    </tr>
