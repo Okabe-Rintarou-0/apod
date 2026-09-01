@@ -5,6 +5,99 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/01
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Did you need to be on the right side of this airplane to see this eclipse?  No.
+      <a href="https://science.nasa.gov/moon/eclipses/">
+       Lunar eclipses
+      </a>
+      are routinely seen from the
+      <a href="ap251221.html">
+       half of the Earth
+      </a>
+      facing the Moon  when the eclipse occurs,  making them some of the most commonly witnessed astronomical events.  You don't even need any
+      <a href="https://science.nasa.gov/asset/webb/components-of-webbs-scientific-instruments/">
+       special equipment
+      </a>
+      to see one -- just your
+      <a href="https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work">
+       unaided eyes
+      </a>
+      .   Lunar eclipses are also some of the
+      <a href="ap260825.html">
+       most
+      </a>
+      <a href="ap260305.html">
+       photographed
+      </a>
+      <a href="ap251103.html">
+       astronomical
+      </a>
+      <a href="ap250324.html">
+       events
+      </a>
+      because,  unlike with a solar eclipse,
+      <a href="https://plus.unsplash.com/premium_photo-1753481184578-75816508791a">
+       your eyes
+      </a>
+      and camera do not have to look toward the bright
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      .  However, considering the
+      <a href="https://www.facebook.com/photo/?fbid=1064077302987513&amp;set=a.1063776469684263">
+       featured image
+      </a>
+      taken
+      <a href="https://svs.gsfc.nasa.gov/5672/">
+       last week
+      </a>
+      from
+      <a href="https://user.iiasa.ac.at/~marek/fbook/04/geos/po.html">
+       Portugal
+      </a>
+      , if you were on the left side of
+      <a href="ap130513.html">
+       that airplane
+      </a>
+      during takeoff,  you might have trouble seeing it -- at first.  But even then,
+      <a href="ap240211.html">
+       after takeoff
+      </a>
+      , since
+      <a href="https://spaceplace.nasa.gov/eclipses/en/">
+       lunar eclipses
+      </a>
+      typically last for hours,  you might soon be able to safely cross the aisle(s) to see it.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/08/30
   </summary>
   <table>
@@ -18,8 +111,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260831.html">
+      https://apod.nasa.gov/apod/ap260831.html
      </a>
     </td>
    </tr>
