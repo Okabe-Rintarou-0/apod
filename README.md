@@ -5,6 +5,66 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/02
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/colors_of_eclipse.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable  your whole life. One day, you witness the sky transform as it does in
+      <a href="https://www.instagram.com/p/DcBum3zI7YL/">
+       today’s spliced image
+      </a>
+      spanning two hours of
+      <a href="https://apod.nasa.gov/apod/ap260813.html">
+       the August 12, 2026 solar eclipse
+      </a>
+      .  The Sun disappears, leaving behind a bright, empty ring. What would you think had happened?  Humans have interpreted eclipses in countless ways throughout
+      <a href="https://science.nasa.gov/eclipses/history/">
+       history
+      </a>
+      ,  embedding
+      <a href="https://www.exploratorium.edu/eclipse/eclipse-stories-from-around-the-world">
+       beliefs
+      </a>
+      about connection, rebirth, or danger into culture. “Eclipse” comes from the Greek word  “
+      <a href="https://www.etymonline.com/word/eclipse">
+       ékleipsis
+      </a>
+      ”  meaning “abandonment”. In ancient Greece, the solar eclipse marked the anger of the gods and  the Sun abandoning humanity. To
+      <a href="https://www.exploratorium.edu/eclipse/navajo-understanding-eclipses">
+       the Diné people
+      </a>
+      ,  this celestial alignment is a time of renewal. Out of respect and to avoid the danger of sunlight,  the Diné stay inside until the Sun and Moon separate.
+      <a href="https://www.metmuseum.org/perspectives/sikien-koutammakou">
+       The Batammariba people of Benin and Togo
+      </a>
+      believe that the Sun and Moon fight during an eclipse, so the community encourages peace among themselves. Eclipses are an example of the longstanding connection between astronomy and society.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/01
   </summary>
   <table>
@@ -18,8 +78,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260901.html">
+      https://apod.nasa.gov/apod/ap260901.html
      </a>
     </td>
    </tr>
