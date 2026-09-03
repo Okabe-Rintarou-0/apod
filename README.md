@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/03
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/eclipse_stork.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      How do animals react to a
+      <a href="https://apod.nasa.gov/apod/ap250612.html">
+       total solar eclipse
+      </a>
+      ?      The
+      <a href="https://www.instagram.com/p/Db9F-0nsklu/">
+       featured image
+      </a>
+      shows a stork roosting on her nest in Poland at a partial phase of the
+      <a href="https://apod.nasa.gov/apod/ap260813.html">
+       recent total solar eclipse
+      </a>
+      .      If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytime
+      <a href="https://www.fws.gov/story/wildlife-behavior-and-solar-eclipse">
+       animal behaviors
+      </a>
+      .          During totality, you may hear
+      <a href="https://www.youtube.com/watch?v=sJCoF58ailo">
+       nighttime sounds
+      </a>
+      like crickets and frogs and see
+      <a href="https://apod.nasa.gov/apod/ap250802.html">
+       fireflies
+      </a>
+      .      In the dark, most birds are
+      <a href="https://www.scientificamerican.com/article/birds-went-silent-during-the-great-north-american-eclipse-heres-what/">
+       quiet
+      </a>
+      .      Thinking that it is time to go to bed, ducks and other waterfowl prepare to sleep on one leg, with their heads turned around and their beaks tucked into their back feathers (they don't really sleep with their heads
+      <a href="https://www.birds.cornell.edu/k12/do-birds-sleep/">
+       tucked under one wing
+      </a>
+      ).      When
+      <a href="https://apod.nasa.gov/apod/ap240331.html">
+       sunlight returns
+      </a>
+      at the end of totality, songbirds greet the new "morning" with their dawn
+      <a href="https://merlin.allaboutbirds.org/the-story/">
+       songs
+      </a>
+      .      The crickets and frogs go
+      <a href="https://images.unsplash.com/photo-1566938611484-080d628f3c28">
+       quiet
+      </a>
+      again.      Animals and people resume their lifes, only briefly disturbed by the
+      <a href="https://science.nasa.gov/eclipses/">
+       chance alignment
+      </a>
+      of our
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      and
+      <a href="https://science.nasa.gov/moon/">
+       Moon
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/02
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260902.html">
+      https://apod.nasa.gov/apod/ap260902.html
      </a>
     </td>
    </tr>
