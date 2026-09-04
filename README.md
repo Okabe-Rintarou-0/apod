@@ -5,6 +5,69 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/04
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/noirlab2621a.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://noirlab.edu/public/images/noirlab2621a/">
+       Nā ʻUhane Māhoe Huki Pū i ke Ola
+      </a>
+      , is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace.  Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in the image from the 8.1 meter
+      <a href="https://noirlab.edu/public/programs/gemini-observatory/gemini-north/">
+       Gemini North
+      </a>
+      telescope on Maunakea, Hawai‘i.  The galaxy pair,
+      <a href="https://noirlab.edu/public/news/noirlab2621/">
+       known as NGC 7253 and Arp 278
+      </a>
+      , was chosen as a target, researched, and given a Hawaiian name by high school students in the joint Gemini Observatory and University of Hawaiʻi
+      <a href="https://cds.coe.hawaii.edu/hokulani/">
+       Project Hōkūlani
+      </a>
+      internship program.   The name translates to "The Twin Spirits Pulling Together Creating Life".  That's both culturally and astronomically appropriate for
+      <a href="https://science.nasa.gov/missions/hubble/cosmic-collisions-galore/">
+       galaxy collisions
+      </a>
+      that trigger a cosmic
+      <a href="https://science.nasa.gov/image-article/apod-2020-february-22-central-centaurus-a/">
+       maelstrom of star formation
+      </a>
+      from galactic reservoirs of elemental building blocks of life.
+      <a href="https://www.friendsofnasa.org/2026/09/journey-to-ngc-7253interacting-galaxies.html">
+       These merging galaxies
+      </a>
+      are found within a region of Pegasus identified as the Hawaiian navigational constellation
+      <a href="https://kealakai.byuh.edu/a-celestial-guide-to-seafaring">
+       Ka Lupe o Kawelo
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/03
   </summary>
   <table>
@@ -18,8 +81,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260903.html">
+      https://apod.nasa.gov/apod/ap260903.html
      </a>
     </td>
    </tr>
