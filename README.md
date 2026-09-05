@@ -5,6 +5,57 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/05
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science/">
+       Chasing the shadow
+      </a>
+      of a New Moon, NASA’s
+      <a href="https://airbornescience.nasa.gov/aircraft/WB-57_-_JSC">
+       WB-57F
+      </a>
+      high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a
+      <a href="https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/">
+       total solar eclipse
+      </a>
+      .  At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time in the Moon’s shadow.  A suite of high-resolution cameras on board was able to
+      <a href="https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/">
+       record eclipse data
+      </a>
+      from above the clouds, dust, and atmospheric water vapor that interfere with observations made closer to the ground.  This view from the cockpit, taken from an inflight video, captures the
+      <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/">
+       solar corona emerging
+      </a>
+      at the beginning of totality.  The sky appears dark in the shadow of the Moon.  Venus is shining left of center in the video frame, while Jupiter and Mercury are just visible to the right of the eclipsed Sun.  But the sky is bright along the distant horizon below, beyond the reach of the Moon's shadow.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/04
   </summary>
   <table>
@@ -18,8 +69,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260904.html">
+      https://apod.nasa.gov/apod/ap260904.html
      </a>
     </td>
    </tr>
