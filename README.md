@@ -5,6 +5,92 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/06
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_5000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://science.nasa.gov/dwarf-planets/pluto/">
+       Pluto
+      </a>
+      is more colorful than we can see.  Color data and high-resolution images of our Solar System's most famous
+      <a href="https://science.nasa.gov/dwarf-planets/">
+       dwarf planet
+      </a>
+      ,  taken by the robotic
+      <a href="https://science.nasa.gov/mission/new-horizons/">
+       New Horizons spacecraft
+      </a>
+      during its
+      <a href="ap150714.html">
+       flyby in 2015 July
+      </a>
+      ,  have been digitally combined to give an
+      <a href="https://www.nasa.gov/image-article/rich-color-variations-of-pluto/">
+       enhanced-color view
+      </a>
+      of this  ancient world sporting an
+      <a href="https://www.reddit.com/r/cats/comments/lnfbzm/dear_smile_please_like_me/#lightbox">
+       unexpectedly young
+      </a>
+      surface.  The
+      <a href="https://science.nasa.gov/photojournal/the-rich-color-variations-of-pluto/">
+       featured enhanced color image
+      </a>
+      is not only
+      <a href="ap130401.html">
+       esthetically pretty
+      </a>
+      but scientifically useful,  making surface regions of differing chemical composition visually distinct.  For example, the light-colored heart-shaped
+      <a href="https://www.jpl.nasa.gov/images/pia19842-a-mountain-range-within-plutos-heart/">
+       Tombaugh Regio
+      </a>
+      on the lower right is clearly shown here  to be divisible into two regions that are
+      <a href="https://www.youtube.com/channel/UC7yXXCSR3_UB12gNWETiygA">
+       geologically different
+      </a>
+      , with the leftmost lobe,
+      <a href="https://pubmed.ncbi.nlm.nih.gov/27905411/">
+       Sputnik Planitia
+      </a>
+      , also appearing unusually smooth.  After Pluto, New Horizons continued on, shooting
+      <a href="ap191118.html">
+       past asteroid Arrokoth
+      </a>
+      in 2019 with enough speed to escape our
+      <a href="https://science.nasa.gov/solar-system/solar-system-facts/">
+       Solar
+      </a>
+      <a href="https://spaceplace.nasa.gov/menu/solar-system/">
+       System
+      </a>
+      completely.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/05
   </summary>
   <table>
@@ -18,8 +104,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260905.html">
+      https://apod.nasa.gov/apod/ap260905.html
      </a>
     </td>
    </tr>
