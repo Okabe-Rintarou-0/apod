@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/07
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/Pelican_Killion_4800.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The Pelican Nebula is slowly being transformed.    IC 5070 (an official designation) is divided from the larger
+      <a href="ap000501.html">
+       North America Nebula
+      </a>
+      by a
+      <a href="ap230129.html">
+       molecular cloud
+      </a>
+      filled with dark
+      <a href="https://curator.jsc.nasa.gov/stardust/interstellardust.cfm">
+       dust
+      </a>
+      .    The deep
+      <a href="https://app.astrobin.com/u/Mark49?i=6shkl0">
+       featured picture
+      </a>
+      from
+      <a href="https://youtu.be/8gbIf3sOifs">
+       Utah
+      </a>
+      ,
+      <a href="https://user.iiasa.ac.at/~marek/fbook/04/print/us.html">
+       USA
+      </a>
+      incorporates 25 hours  of exposure and brings out great details of this
+      <a href="ap171114.html">
+       filamentary dust
+      </a>
+      .  The
+      <a href="https://unsplash.com/photos/white-pelican-on-brown-sand-near-body-of-water-during-daytime-hLauNzLijs8">
+       Pelican
+      </a>
+      Nebula  receives much study because it is a particularly active mix of
+      <a href="https://science.nasa.gov/universe/stars/">
+       star
+      </a>
+      formation  and evolving gas clouds.    The light from young energetic stars is slowly transforming  the cold gas to hot gas,  with the
+      <a href="ap180205.html">
+       advancing boundary
+      </a>
+      between the two, known as an
+      <a href="ap031013.html">
+       ionization front
+      </a>
+      ,  visible in bright orange on the upper right.  Particularly dense
+      <a href="https://unsplash.com/photos/an-orange-and-white-octopus-on-a-black-background-nG2Hr2QwtP4">
+       tentacles
+      </a>
+      of cold gas remain.    Millions of years from now, the
+      <a href="https://youtu.be/_YEyzvtMx3s">
+       Pelican
+      </a>
+      Nebula,  bounded by dark nebula
+      <a href="https://www.astrobin.com/co5g86/B/?nc=group&amp;nce=144">
+       LDN 935
+      </a>
+      , might no longer be known as the Pelican,  as the
+      <a href="https://ui.adsabs.harvard.edu/abs/1980ApJ...239..121B/abstract">
+       balance and placement of stars and gas
+      </a>
+      will surely leave something that appears
+      <a href="https://unsplash.com/photos/a-cat-wearing-glasses-and-a-jacket-on-a-rug-nzfEUQrZZGc">
+       completely different
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/06
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260906.html">
+      https://apod.nasa.gov/apod/ap260906.html
      </a>
     </td>
    </tr>
