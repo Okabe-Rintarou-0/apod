@@ -5,6 +5,117 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/10
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://asterisk.apod.com/discuss_apod.php?date=260910">
+       What does this image look like to you?
+      </a>
+      Many see a
+      <a href="https://images.unsplash.com/photo-1589306661079-8b34ef390d3e">
+       giraffe
+      </a>
+      facing right, with neck stretched high and long legs mid-stride (but some may see a
+      <a href="https://images.unsplash.com/photo-1687704809145-c37b3c3362e2">
+       squirrel
+      </a>
+      instead).      The
+      <a href="https://www.instagram.com/p/DXy4r1OjWD8/">
+       featured image
+      </a>
+      shows
+      <a href="https://in-the-sky.org/data/object.php?id=LDN_1295">
+       LDN 1295
+      </a>
+      , also called the Giraffe Nebula, in the
+      <a href="https://iauarchive.eso.org/public/themes/constellations/">
+       constellation
+      </a>
+      of the mythical queen of
+      <a href="https://en.wikipedia.org/wiki/Aethiopia">
+       Aethiopia
+      </a>
+      (
+      <a href="https://noirlab.edu/public/education/constellations/cassiopeia/">
+       Cassiopeia
+      </a>
+      ).      It is an object in the
+      <a href="https://in-the-sky.org/data/catalogue.php?cat=LDN">
+       Lynds Catalogue
+      </a>
+      of
+      <a href="https://astronomy.swin.edu.au/cosmos/*/Dark+Nebula">
+       Dark Nebulas
+      </a>
+      , compiled in
+      <a href="https://articles.adsabs.harvard.edu/pdf/1962ApJS....7....1L">
+       1962
+      </a>
+      by American astronomer
+      <a href="https://skyandtelescope.org/astronomy-news/beverly-turner-lynds-1929-2024">
+       Beverly Lynds
+      </a>
+      , a pioneer for women in astronomy and astrophysics.
+      <a href="https://apod.nasa.gov/apod/ap251210.html">
+       Dark nebulas
+      </a>
+      are interstellar
+      <a href="https://apod.nasa.gov/apod/ap260731.html">
+       clouds of dust and gas
+      </a>
+      that block the visible light of the stars
+      <a href="https://apod.nasa.gov/apod/ap141120.html">
+       behind them
+      </a>
+      .      These
+      <a href="https://science.nasa.gov/universe/stories/quick-reads/decoding-nebulae/">
+       nebulas
+      </a>
+      are often faint and challenging targets for astrophotographers.      Why do we see animal shapes and faces in nebulas, clouds, and pretty much
+      <a href="https://images.unsplash.com/photo-1640382875981-72c2ea943022">
+       everywhere
+      </a>
+      ?      It is due to
+      <a href="https://hub.jhu.edu/magazine/2024/winter/pareidolia-faces-in-nature/">
+       pareidolia
+      </a>
+      , our tendency to look for
+      <a href="https://apod.nasa.gov/apod/ap210704.html">
+       familiar patterns
+      </a>
+      .      Pareidolia may provide animals with an
+      <a href="https://www.nature.com/articles/s41598-026-47242-x">
+       evolutionary advantage
+      </a>
+      , for example in identifying (and avoiding) predators.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/08
   </summary>
   <table>
@@ -18,8 +129,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260909.html">
+      https://apod.nasa.gov/apod/ap260909.html
      </a>
     </td>
    </tr>
