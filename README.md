@@ -5,6 +5,114 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/14
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The hydrogen in your body and present in every molecule of water came from the
+      <a href="https://science.nasa.gov/universe/the-big-bang/">
+       Big Bang
+      </a>
+      .   There are no other
+      <a href="http://www.sciencealert.com/lhc-produces-primordial-soup-of-the-universe-using-less-particles-than-thought-possible">
+       appreciable
+      </a>
+      sources of
+      <a href="https://periodic.lanl.gov/1.shtml">
+       hydrogen
+      </a>
+      in the universe.   The
+      <a href="https://en.wikipedia.org/wiki/Carbon#Formation_in_stars">
+       carbon
+      </a>
+      in your body was made by
+      <a href="https://nightsky.jpl.nasa.gov/documents/845/SNNuclearFusion.pdf">
+       nuclear fusion
+      </a>
+      in the interior of stars, as was the
+      <a href="https://en.wikipedia.org/wiki/Oxygen#Isotopes_and_stellar_origin">
+       oxygen
+      </a>
+      .   Much of the iron in your body was made during
+      <a href="https://youtu.be/wymMn-SmALY">
+       supernova
+      </a>
+      s of stars that occurred  long ago and far away.   The
+      <a href="ap171015.html">
+       gold
+      </a>
+      in your jewelry was likely made from  neutron stars during collisions that may have been visible as short-duration
+      <a href="https://svs.gsfc.nasa.gov/14738/">
+       gamma-ray bursts
+      </a>
+      or
+      <a href="ap171016.html">
+       gravitational wave events
+      </a>
+      .  Elements like phosphorus and copper are
+      <a href="https://www.planetary.org/articles/were-made-of-starstuff-what-does-that-mean">
+       present in our bodies
+      </a>
+      in only small amounts  but are essential to the functioning of all known
+      <a href="https://news.climate.columbia.edu/2013/04/01/phosphorus-essential-to-life-are-we-running-out/">
+       life
+      </a>
+      .   The
+      <a href="https://svs.gsfc.nasa.gov/13873/">
+       featured periodic table
+      </a>
+      is
+      <a href="https://unsplash.com/photos/fluffy-calico-cat-with-yellow-eyes--vcg9-w_yMk">
+       color coded
+      </a>
+      to indicate
+      <a href="ap190818.html">
+       humanity
+      </a>
+      's best guess as to the
+      <a href="https://en.wikipedia.org/wiki/Nucleosynthesis">
+       nuclear origin
+      </a>
+      of all known elements.   The sites of
+      <a href="https://www.youtube.com/watch?v=7EpcUohHees">
+       nuclear creation
+      </a>
+      of some
+      <a href="https://pubchem.ncbi.nlm.nih.gov/periodic-table/">
+       elements
+      </a>
+      ,  such as
+      <a href="https://ui.adsabs.harvard.edu/abs/2016A%26A...585A.102Y/abstract">
+       copper
+      </a>
+      ,  are not really well known and are continuing topics of observational and computational research.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/12
   </summary>
   <table>
@@ -18,8 +126,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260913.html">
+      https://apod.nasa.gov/apod/ap260913.html
      </a>
     </td>
    </tr>
