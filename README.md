@@ -5,6 +5,102 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/15
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_1410.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      There was something behind the clouds.   Upon close inspection, it was the
+      <a href="ap240915.html">
+       Moon
+      </a>
+      ,  which was hard to see yesterday around noon above the small village of
+      <a href="https://en.wikipedia.org/wiki/Cessy">
+       Cessy
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/France">
+       France
+      </a>
+      .   But soon, it was not only
+      <a href="https://science.nasa.gov/moon/">
+       the Moon
+      </a>
+      .  As expected, a bright dot suddenly appeared from behind the Moon --  the planet
+      <a href="https://science.nasa.gov/venus/">
+       Venus
+      </a>
+      far in the distance.    Captured in the single
+      <a href="https://www.instagram.com/p/DdRTG7osLTK/">
+       featured exposure
+      </a>
+      , both appeared to show a
+      <a href="https://unsplash.com/photos/orange-tabby-cat-leaning-on-multicolored-striped-mat-XpiPvnx0H5M">
+       crescent
+      </a>
+      phase.   The Moon's
+      <a href="ap230527.html">
+       crescent
+      </a>
+      was quite slight --  with only about 10 percent of its face illuminated by
+      <a href="https://science.nasa.gov/sun/">
+       the Sun
+      </a>
+      .  In contrast,
+      <a href="ap240108.html">
+       Venus's crescent
+      </a>
+      was more full --  showing about 25 percent illumination.  Venus appeared brighter because it is nearer the Sun and because its
+      <a href="https://en.wikipedia.org/wiki/Atmosphere_of_Venus#Clouds">
+       clouds
+      </a>
+      are more reflective than the
+      <a href="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/internal_resources/615/albedo-scale.png">
+       dark lunar surface
+      </a>
+      .  An
+      <a href="https://en.wiktionary.org/wiki/occultation">
+       occultation
+      </a>
+      of
+      <a href="ap231116.html">
+       Venus by the Moon
+      </a>
+      is visible  to only about 10 percent of
+      <a href="https://science.nasa.gov/earth/earth-observatory/">
+       the Earth
+      </a>
+      ,  but in yesterday's event even most of that was experiencing
+      <a href="https://science.nasa.gov/image-article/apod-2001-july-28-a-daytime-fireball-in-1944/">
+       daytime
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/14
   </summary>
   <table>
@@ -18,8 +114,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260914.html">
+      https://apod.nasa.gov/apod/ap260914.html
      </a>
     </td>
    </tr>
