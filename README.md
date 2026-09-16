@@ -5,6 +5,77 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/16
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/M64_Webb.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      Sometimes where
+      <a href="ap010806.html">
+       Hubble
+      </a>
+      finds darkness,
+      <a href="https://science.nasa.gov/mission/webb/">
+       Webb
+      </a>
+      sees light. An example is today’s composite images of
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-64/">
+       Messier 64
+      </a>
+      (M64),  a nearby
+      <a href="https://science.nasa.gov/universe/galaxies/types/">
+       spiral galaxy
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Black_Eye_Galaxy">
+       of many names
+      </a>
+      .  The dark band of
+      <a href="https://www.cfa.harvard.edu/news/dust-galaxy">
+       dust
+      </a>
+      partially blocking its bright core earned it the moniker  “
+      <a href="ap230720.html">
+       the Black Eye Galaxy
+      </a>
+      .”  Webb’s
+      <a href="https://jwst-docs.stsci.edu/jwst-mid-infrared-instrument">
+       Mid-InfraRed Instrument
+      </a>
+      (MIRI)  sees that dust, shown in red, as it absorbs and re-emits light from surrounding newborn stars.  These young stars are embedded in pink star-forming regions in the secondary Hubble-only image.  M64’s inner and outer gas regions
+      <a href="https://ui.adsabs.harvard.edu/abs/1992Natur.360..442B/abstract">
+       counter-rotate
+      </a>
+      ,  creating regions of increased star formation where the two gas “currents” meet and compress.  A merger between M64 and a smaller galaxy was likely the cause of the opposing motion of the  outer gas. Spiral galaxies were once thought to have peaceful histories.  M64 was key evidence that spiral galaxies, including the
+      <a href="https://astrobites.org/2019/03/12/hunting-for-stellar-streams/">
+       Milky Way
+      </a>
+      ,  can and do experience mergers. Webb’s view of M64 will tell astronomers about the structure,  motion, and composition of the galaxy’s dust and add context to the galaxy’s merger history and  evolution.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/15
   </summary>
   <table>
@@ -18,8 +89,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260915.html">
+      https://apod.nasa.gov/apod/ap260915.html
      </a>
     </td>
    </tr>
