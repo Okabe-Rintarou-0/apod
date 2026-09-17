@@ -5,6 +5,94 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/17
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This treasure chest is
+      <a href="https://imgur.com/gallery/god-its-full-of-stars-Q56dN2l">
+       full of stars
+      </a>
+      .      The
+      <a href="https://www.nasa.gov/image-article/webb-opens-treasure-chest/">
+       featured image
+      </a>
+      was obtained with
+      <a href="https://www.nasa.gov/">
+       NASA
+      </a>
+      's
+      <a href="https://science.nasa.gov/mission/webb/">
+       James Webb Space Telescope
+      </a>
+      and shows a
+      <a href="https://apod.nasa.gov/apod/ap260503.html">
+       dust pillar
+      </a>
+      in the
+      <a href="https://apod.nasa.gov/apod/ap170702.html">
+       Carina Nebula
+      </a>
+      inside our
+      <a href="https://science.nasa.gov/resource/the-milky-way-galaxy/">
+       Galaxy
+      </a>
+      , roughly 7500 light-years away.      It is formed by
+      <a href="https://astronomy.swin.edu.au/cosmos/I/interstellar+gas+cloud">
+       interstellar gas
+      </a>
+      and
+      <a href="https://science.nasa.gov/universe/glossary/#cosmic-dust">
+       dust
+      </a>
+      , and shaped by powerful
+      <a href="https://apod.nasa.gov/apod/ap250203.html">
+       stellar winds and radiation
+      </a>
+      form neighboring stars like the nearby
+      <a href="https://apod.nasa.gov/apod/ap230709.html">
+       Eta Carinae
+      </a>
+      stellar system which is more luminous than 5 million suns.      The star formation inside the pillar is excavating its head, creating the open lid of the chest.          Astronomers estimate that there are about 70 stars in a
+      <a href="https://iopscience.iop.org/article/10.1086/427249/pdf">
+       compact cluster
+      </a>
+      inside the pillar.      This cluster is now thought to be only around
+      <a href="https://esawebb.org/images/potm2607a/">
+       1.3 million years old
+      </a>
+      .      Its bounty of young stars includes a massive star approximately 19 times as massive as the Sun.      More massive
+      <a href="https://science.nasa.gov/universe/stars/">
+       stars
+      </a>
+      are rarer, shine brighter and evolve faster than less massive stars.      They are the shiniest jewels in the treasure chest.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/16
   </summary>
   <table>
@@ -18,8 +106,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260916.html">
+      https://apod.nasa.gov/apod/ap260916.html
      </a>
     </td>
    </tr>
