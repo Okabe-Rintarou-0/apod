@@ -5,6 +5,78 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/18
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The small, northern constellation
+      <a href="http://www.hawastsoc.org/deepsky/tri/index.html">
+       Triangulum
+      </a>
+      harbors this magnificent face-on spiral galaxy, Messier 33.  Its popular names include the Pinwheel Galaxy or just the
+      <a href="https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-33/">
+       Triangulum Galaxy
+      </a>
+      .  M33 is over 50,000 light-years in diameter, third largest in the
+      <a href="https://en.wikipedia.org/wiki/Local_Group">
+       Local Group
+      </a>
+      of galaxies after the Andromeda Galaxy (M31), and our own Milky Way.
+      <a href="ap211106.html">
+       About
+      </a>
+      3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and
+      <a href="https://arxiv.org/abs/astro-ph?papernum=0506609">
+       astronomers
+      </a>
+      in these two galaxies would likely have spectacular views of each other's grand spiral star systems.  As for the view from the Milky Way, this
+      <a href="https://www.facebook.com/photo?fbid=29170483172553330&amp;set=a.627529503942078">
+       sharp telescopic image
+      </a>
+      shows off M33's blue star clusters and pinkish
+      <a href="ap091017.html">
+       star forming
+      </a>
+      regions along the galaxy's loosely wound spiral arms.  In fact, the
+      <a href="https://science.nasa.gov/image-detail/9697_full_jpg/">
+       cavernous NGC 604
+      </a>
+      is the brightest star forming region, seen here at about the 5 o'clock position from the galaxy center.  Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for
+      <a href="https://adsabs.harvard.edu/cgi-bin/bib_query?1926ApJ....63..236H">
+       establishing
+      </a>
+      the distance
+      <a href="https://antwrp.gsfc.nasa.gov/diamond_jubilee/debate96.html">
+       scale of the Universe
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/17
   </summary>
   <table>
@@ -18,8 +90,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260917.html">
+      https://apod.nasa.gov/apod/ap260917.html
      </a>
     </td>
    </tr>
