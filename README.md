@@ -5,6 +5,60 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/19
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      <a href="https://earthsky.org/astronomy-essentials/everything-you-need-to-know-zodiacal-light-or-false-dusk">
+       Also known as the false dawn
+      </a>
+      , a luminous band of zodiacal light is captured in this dark night skyscape.  The serene view was recorded just before the beginning of astronomical
+      <a href="https://en.wikipedia.org/wiki/Twilight">
+       twilight
+      </a>
+      during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth.  At about 4,500  meters altitude, the dark sky reserve
+      <a href="https://www.bbc.com/travel/article/20250829-the-himalayan-village-where-you-can-see-the-cosmos">
+       presents a haven
+      </a>
+      for hardy stargazing and astrophotography enthusiasts.  While meteors streak through the night, bright planet Jupiter appears immersed in the faint zodiacal glow near the eastern horizon.
+      <a href="image/2609/2026-09-09ZodiacalLightHSPannotated1024.jpg">
+       Follow the zodiacal band
+      </a>
+      toward the zenith to find open star cluster M44 and a yellowish tinged planet Mars near the center of the frame.  In fact,
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006509">
+       serendipitous
+      </a>
+      detections of interplanetary dust by NASA's Juno spacecraft suggest Mars itself is the source of dust that back scatters sunlight and creates
+      <a href="https://www.nasa.gov/feature/goddard/2021/serendipitous-juno-spacecraft-detections-shatter-ideas-about-origin-of-zodiacal-light">
+       zodiacal light in planet Earth's night.
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/18
   </summary>
   <table>
@@ -18,8 +72,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260918.html">
+      https://apod.nasa.gov/apod/ap260918.html
      </a>
     </td>
    </tr>
