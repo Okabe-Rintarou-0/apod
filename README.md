@@ -5,6 +5,125 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/20
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_1280.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      If you went outside at the same time every day and  took a picture that included
+      <a href="https://science.nasa.gov/sun/">
+       the Sun
+      </a>
+      , how would the Sun's position change?   A visual answer to that question is an
+      <a href="https://en.wikipedia.org/wiki/Analemma">
+       analemma
+      </a>
+      ,  a composite image taken from the same spot at the  same time over the course of a year.   The
+      <a href="https://gmrphotographer.net/wordpress/2019/01/29/2017-solar-analemma-over-callanish/">
+       featured analemma
+      </a>
+      was composed from images  taken every few days at noon near the village of
+      <a href="https://en.wikipedia.org/wiki/Callanish">
+       Callanish
+      </a>
+      in the
+      <a href="https://en.wikipedia.org/wiki/Outer_Hebrides">
+       Outer Hebrides
+      </a>
+      in
+      <a href="https://en.wikipedia.org/wiki/Scotland">
+       Scotland
+      </a>
+      ,
+      <a href="https://en.wikipedia.org/wiki/United_Kingdom">
+       UK
+      </a>
+      .   In the foreground are the
+      <a href="https://en.wikipedia.org/wiki/Callanish_Stones">
+       Callanish
+      </a>
+      <a href="https://youtu.be/5mcPHxuVhWk">
+       Stones
+      </a>
+      ,  a stone circle built around 2700 BC during humanity's
+      <a href="https://www.history.com/articles/bronze-age">
+       Bronze Age
+      </a>
+      .   It is not known if the placement of the
+      <a href="https://www.youtube.com/watch?v=mkbEhp8hJN8">
+       Callanish Stones
+      </a>
+      has or had astronomical significance.   The ultimate causes for the
+      <a href="ap160822.html">
+       figure-8
+      </a>
+      shape of this and all analemmas are the
+      <a href="https://spaceplace.nasa.gov/seasons/en/">
+       tilt of the Earth axis
+      </a>
+      and the
+      <a href="https://mathworld.wolfram.com/Ellipse.html">
+       ellipticity
+      </a>
+      of the
+      <a href="https://science.nasa.gov/wp-content/uploads/2022/09/Equinox_Solstice-Info-Graphic_WTS.jpg">
+       Earth's orbit
+      </a>
+      around the
+      <a href="ap250615.html">
+       Sun
+      </a>
+      .   At the
+      <a href="https://science.nasa.gov/earth/earth-observatory/winter-and-summer-solstice-6125/">
+       solstice
+      </a>
+      s,  the Sun will appear at the top or bottom of an analemma.  The featured image was taken near the December solstice and so the Sun appears near the bottom.
+      <a href="ap210922.html">
+       Equinox
+      </a>
+      es, however,  correspond to analemma middle points -- not the
+      <a href="https://unsplash.com/photos/orange-and-brown-tabby-cat-on-pavement-near-body-of-water-0iNLhORjMGM">
+       intersection point
+      </a>
+      .  In two days there will be an
+      <a href="https://en.wikipedia.org/wiki/Equinox">
+       equinox
+      </a>
+      ("equal night"),  when day and night are equal over all of planet Earth.  Many
+      <a href="http://mentalfloss.com/article/59049/autumnal-equinox-traditions">
+       cultures celebrate
+      </a>
+      a change of season at an
+      <a href="ap240319.html">
+       equinox
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/19
   </summary>
   <table>
@@ -18,8 +137,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260919.html">
+      https://apod.nasa.gov/apod/ap260919.html
      </a>
     </td>
    </tr>
