@@ -5,6 +5,106 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/22
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_1500.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      This shot captured an unexpected silhouette. Which is it?   It isn't the
+      <a href="https://science.nasa.gov/sun/sunspots/">
+       sunspots
+      </a>
+      ,  the small dark regions caused by concentrated
+      <a href="https://youtu.be/1Nr-KtlMIKI">
+       magnetic field
+      </a>
+      s  visible around the Sun's bright disk.
+      <a href="ap260211.html">
+       Sunspots
+      </a>
+      typically last  for weeks and were expected, since these spots were seen previously.   It isn’t the
+      <a href="https://www.nasa.gov/international-space-station/">
+       International Space Station
+      </a>
+      (ISS), the
+      <a href="ap220411.html">
+       small
+      </a>
+      dark
+      <a href="ap161105.html">
+       structure
+      </a>
+      on the middle left.   This is because the
+      <a href="https://www.petrhoralek.com/?p=26197">
+       featured picture
+      </a>
+      was planned with  sub-second timing to record the
+      <a href="ap250618.html">
+       iconic structure
+      </a>
+      passing before the
+      <a href="https://science.nasa.gov/sun/">
+       Sun
+      </a>
+      .   It is the
+      <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/airplane.html">
+       airplane
+      </a>
+      .   Just as
+      <a href="https://www.facebook.com/photo?fbid=999397279455516&amp;set=a.149603584434894">
+       this exposure
+      </a>
+      was taking place in June, from
+      <a href="https://en.wikipedia.org/wiki/Prasek">
+       Prasek
+      </a>
+      in the
+      <a href="https://en.wikipedia.org/wiki/Czech_Republic">
+       Czech Republic
+      </a>
+      , an airplane began its own miniature
+      <a href="ap260903.html">
+       partial eclipse
+      </a>
+      .   The result is this
+      <a href="https://unsplash.com/photos/a-group-of-cats-sitting-on-top-of-a-wooden-bench-oUmA5r-vv0g">
+       triply aligned
+      </a>
+      image of our Sun.   The photographer estimates that the chance of any
+      <a href="https://science.nasa.gov/apod/random-apod/">
+       random
+      </a>
+      Sun image containing
+      <a href="https://science.nasa.gov/image-article/apod-2021-october-10-full-moon-silhouettes/">
+       silhouettes
+      </a>
+      of both a space station and an airplane,  from that location, is about 30 million to one.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/21
   </summary>
   <table>
@@ -18,8 +118,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260921.html">
+      https://apod.nasa.gov/apod/ap260921.html
      </a>
     </td>
    </tr>
