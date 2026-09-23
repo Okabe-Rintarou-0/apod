@@ -5,6 +5,82 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/23
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      A once-in-a-lifetime crater has appeared on the Moon!  A comet or asteroid roughly the size of a
+      <a href="https://www.fisheries.noaa.gov/species/humpback-whale">
+       humpback whale
+      </a>
+      (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime  between April and May of 2024. The
+      <a href="https://science.nasa.gov/mission/lro/">
+       Lunar Reconnaissance Orbiter
+      </a>
+      (LRO), with its
+      <a href="ap240602.html">
+       monthly monitoring of the Moon
+      </a>
+      ,  captured
+      <a href="https://lroc.im-ldi.com/images/1501">
+       today’s images
+      </a>
+      of the lunar surface before and after the event. The resulting crater,  named after Apollo-era lunar scientist
+      <a href="https://rock.geosociety.org/net/documents/gsa/memorials/v16/McGetchin-TR.pdf">
+       McGetchin
+      </a>
+      ,  is two soccer fields across. Craters of this size are only expected once
+      <a href="https://ui.adsabs.harvard.edu/abs/2001SSRv...96...55N/abstract">
+       every 132 years
+      </a>
+      !
+      <a href="https://www.science.org/doi/10.1126/sciadv.aeh9568">
+       Follow up thermal imaging
+      </a>
+      revealed a
+      <a href="https://assets.science.nasa.gov/content/dam/science/missions/lro/McGetchinLROblinkImage.gif">
+       large cold spot
+      </a>
+      that surrounds the warm crater. Surface impacts will puff up the loose lunar sediment, or
+      <a href="https://science.nasa.gov/biological-physical/what-is-lunar-regolith/">
+       regolith
+      </a>
+      ,  making it less dense and harder to retain heat. This event affected an area
+      <a href="https://www.science.org/doi/10.1126/sciadv.aeh7812">
+       much larger than the visible crater
+      </a>
+      ,  which will inform humanity’s understanding of surface impacts and the evolution of the Moon’s surface.  It also reminds us all to be
+      <a href="ap250803.html">
+       thankful for Earth's atmosphere
+      </a>
+      .
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/22
   </summary>
   <table>
@@ -18,8 +94,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260922.html">
+      https://apod.nasa.gov/apod/ap260922.html
      </a>
     </td>
    </tr>
