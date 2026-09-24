@@ -5,6 +5,129 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/24
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_2000.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      The ghosts of five supernovas haunt this extraordinary
+      <a href="https://app.astrobin.com/i/jvnafq?r=D">
+       image
+      </a>
+      .      It was acquired at
+      <a href="https://www.planetary.org/space-images/morocco-oukameden-sky-survey">
+       Oukaïmeden Observatory
+      </a>
+      in
+      <a href="https://science.nasa.gov/earth/earth-observatory/wet-and-dry-morocco-144677/">
+       Morocco
+      </a>
+      with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the
+      <a href="https://lco.global/spacebook/sky/using-angles-describe-positions-and-apparent-sizes-objects/">
+       area
+      </a>
+      of one thousand full moons tiled together, in the constellation of
+      <a href="https://noirlab.edu/public/education/constellations/auriga/">
+       Auriga
+      </a>
+      (the
+      <a href="https://images.unsplash.com/photo-1706793987472-2e3b3ec44fcc">
+       Charioteer
+      </a>
+      ).      From left to right, the five supernova remnants visible across the field are
+      <a href="https://www.aanda.org/articles/aa/full_html/2017/01/aa29848-16">
+       G181.1+9.5
+      </a>
+      ,
+      <a href="https://articles.adsabs.harvard.edu/pdf/1998A%26A...331..661K">
+       G182.4+4.3
+      </a>
+      ,
+      <a href="https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.478.1987H/PUB_HTML">
+       G179.0+2.6
+      </a>
+      ,
+      <a href="https://academic.oup.com/mnras/article/448/4/3196/955844">
+       G180.0−1.7
+      </a>
+      (Sh2-240, the
+      <a href="https://apod.nasa.gov/apod/ap240227.html">
+       Spaghetti Nebula
+      </a>
+      ), and
+      <a href="https://www.aanda.org/articles/aa/full_html/2011/08/aa17179-11/aa17179-11.html">
+       G178.2−4.2
+      </a>
+      .      They are highlighted in the
+      <a href="image/2609/5SNR_Auriga_annotated_1000.jpg">
+       annotated image
+      </a>
+      , together with
+      <a href="https://apod.nasa.gov/apod/ap250227.html">
+       open cluster
+      </a>
+      <a href="https://apod.nasa.gov/apod/ap100305.html">
+       M37
+      </a>
+      and the
+      <a href="https://apod.nasa.gov/apod/ap260317.html">
+       Tadpole Nebula
+      </a>
+      .      As each explosion
+      <a href="https://apod.nasa.gov/apod/ap250108.html">
+       expanded into space
+      </a>
+      , it created a growing shell of shocked gas and delicate filamentary structures shown in red (
+      <a href="https://apod.nasa.gov/apod/ap050930.html">
+       hydrogen
+      </a>
+      ) and blue (
+      <a href="https://en.wikipedia.org/wiki/Doubly_ionized_oxygen">
+       oxygen
+      </a>
+      ), respectively.       These ancient stellar explosions happened independently; they are at various distances up to about several thousands of
+      <a href="https://science.nasa.gov/exoplanets/what-is-a-light-year/">
+       light-years
+      </a>
+      away from Earth and have estimated ages up to
+      <a href="https://apod.nasa.gov/apod/ap260107.html">
+       tens of thousands of years old
+      </a>
+      .
+      <a href="">
+       Early humans
+      </a>
+      may have
+      <a href="https://www.ed.ac.uk/research-innovation/latest-research-news/cave-paintings-reveal-use-of-complex-astronomy">
+       witnessed
+      </a>
+      them as bright new stars, fading over weeks or months.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/23
   </summary>
   <table>
@@ -18,8 +141,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260923.html">
+      https://apod.nasa.gov/apod/ap260923.html
      </a>
     </td>
    </tr>
