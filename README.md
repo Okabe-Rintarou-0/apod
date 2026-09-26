@@ -5,6 +5,62 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
 <div>
  <details>
   <summary>
+   2026/09/26
+  </summary>
+  <table>
+   <tr>
+    <td>
+     <a href="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai.jpg">
+      <img alt="" src="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg"/>
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Original url:
+     <a href="https://apod.nasa.gov/apod/">
+      https://apod.nasa.gov/apod/
+     </a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p>
+      <b>
+       Explanation:
+      </b>
+      On August 15, this
+      <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/">
+       perseid meteor
+      </a>
+      streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain.  The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above the horizon.  In the foreground of this tantalizing celestial scene is the 23 meter diameter mirror of the prototype
+      <a href="https://lst.iac.es/info/about">
+       Large-Sized Telescope
+      </a>
+      (
+      <a href="https://www.ctao.org/news-resources/outreach-and-education/ctao-for-educators/lst-paper-model/">
+       LST-1
+      </a>
+      ).  LST-1 is the first telescope constructed at the northern hemisphere site of the innovative
+      <a href="https://www.ctao.org/">
+       Cherenkov Telescope Array Observatory
+      </a>
+      .  With 198 hexagonal mirror segments and a large,  high-efficiency, pixelized camera, LST-1  is designed to detect extremely brief,
+      <a href="https://science.nasa.gov/image-article/apod-2016-august-20-gamma-rays-and-comet-dust/">
+       atmospheric visible light flashes
+      </a>
+      .  Lasting about a billionth of a second, the visible light flashes are triggered by energetic gamma-rays from cosmic sources such as
+      <a href="https://lst.iac.es/news/lst-magic-detect-OP313-paper">
+       distant active galaxies
+      </a>
+      and gamma-ray bursts.  Of course, on that night some individual mirror segments of LST-1 also reflected the atmospheric flash of the bright perseid meteor.
+     </p>
+    </td>
+   </tr>
+  </table>
+ </details>
+ <details>
+  <summary>
    2026/09/25
   </summary>
   <table>
@@ -18,8 +74,8 @@ This repo will crawl apod(Astronomy Picture of the Day) from https://apod.nasa.g
    <tr>
     <td>
      Original url:
-     <a href="https://apod.nasa.gov/apod/">
-      https://apod.nasa.gov/apod/
+     <a href="https://apod.nasa.gov/apod/ap260925.html">
+      https://apod.nasa.gov/apod/ap260925.html
      </a>
     </td>
    </tr>
